@@ -1,0 +1,14 @@
+{
+  "schemaVersion": "1.0.0",
+  "updatedAt": "2026-11-09T17:47:46.759435Z",
+  "latest": "2026-11-09",
+  "days": [
+    {
+      "date": "2026-11-09",
+      "path": "data/2026-11-09.json",
+      "itemCount": 29,
+      "headline": "ChatGPT Desktop forwards your SSH agent to remote machines",
+      "summaryMode": "extractive"
+    }
+  ]
+}

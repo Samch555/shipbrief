@@ -24,3 +24,12 @@ Risks: MODE 2 hasn't been exercised against the live API in this session (no key
 Done: section composer (diversity, one section per item), prompt and workflow (MODE 2 Sonnet with validation, otherwise templates), atomic publishing (dated file, latest, index, Atom feed, 90-day pruning), health.json plus per-day health history, CLI (`run`, `dry-run`, `validate`, `explain`, `build-site`), `.github/workflows/daily.yml` (cron 11:07 UTC + manual, tests → run → commit → keepalive → Pages deploy, red on failure), `ci.yml`, Dependabot, 70 tests passing.
 Left: web page, measurement tooling, docs.
 Risks: the cron may run late. The 60-day keepalive via the enable API isn't officially documented (it's a backup to the daily commits).
+
+## Phase 5 — Web page ✅
+Done: `site/` (index.html, style.css, app.js, no frameworks or trackers, strict CSP). It has today's cards by section, role and interest filters saved in localStorage, an archive list with `?date=` links, a copy button on the prompt, dark mode (follows the OS, with a manual override), a stale-data banner after 48h, and links to the RSS feed and JSON. Accessibility notes are in `docs/ACCESSIBILITY.md`, screenshots in `docs/screenshots/`.
+Risks: no automated axe or Lighthouse run yet (do one after the first deploy).
+
+## Phase 6 — Measurement ✅
+Done: `scripts/quality_report.py` produces `REVIEW_REPORT.md` (success rate, items per day, flaky and silent sources, schedule delay, LLM cost, fact-check rejections, per-day table; the window starts at the first recorded run). `REVIEW_LOG.md` is the daily hand-filled template. Health records the trigger (schedule or manual). **First real run on 2026-11-09: 74/74 sources OK, 3,815 entries fetched → 29 items published, MODE 1, 11–14 s, $0.** Release highlights are now extracted from GitHub release HTML. 71 tests passing.
+Left: docs (Phase 7). The user needs to create the GitHub repo and enable Pages.
+Risks: the Hugging Face blog feed has no descriptions, so its cards use the template text in MODE 1.

@@ -1,0 +1,697 @@
+{
+  "schemaVersion": "1.0.0",
+  "date": "2026-11-09",
+  "generatedAt": "2026-11-09T17:47:35.721484Z",
+  "product": {
+    "name": "ShipBrief",
+    "siteUrl": "https://samch555.github.io/shipbrief/",
+    "feedUrl": "https://samch555.github.io/shipbrief/feed.xml"
+  },
+  "summaryMode": "extractive",
+  "headline": "ChatGPT Desktop forwards your SSH agent to remote machines",
+  "stats": {
+    "itemsFetched": 3815,
+    "itemsAfterDedupe": 212,
+    "itemsPublished": 29,
+    "sourcesOk": 73,
+    "sourcesFailed": 0
+  },
+  "sections": {
+    "topStories": [
+      {
+        "id": "3b0d1dcb5cae97f7",
+        "title": "ChatGPT Desktop forwards your SSH agent to remote machines",
+        "url": "https://news.ycombinator.com/item?id=50422628",
+        "source": "Hacker News",
+        "sourceId": "hn",
+        "publishedAt": "2026-11-09T08:17:49Z",
+        "kind": "discussion",
+        "tags": [
+          "agents",
+          "open-source"
+        ],
+        "roles": [
+          "developer"
+        ],
+        "summary": "The agent running on a remote machine can authenticate using your local SSH credentials. That means it can push to your private repos on GitHub, for example.",
+        "generatedBy": "extractive",
+        "score": 8.397,
+        "hnScore": 168
+      },
+      {
+        "id": "dab987be36e106a4",
+        "title": "I'm not convinced the AI bubble exists",
+        "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
+        "source": "Hacker News",
+        "sourceId": "hn",
+        "publishedAt": "2026-11-08T23:44:36Z",
+        "kind": "news",
+        "tags": [],
+        "roles": [
+          "developer"
+        ],
+        "summary": "Trending on Hacker News with 505 points and 858 comments. Open the link for the original source and the thread for discussion.",
+        "generatedBy": "template",
+        "score": 7.962,
+        "hnScore": 505,
+        "discussionUrl": "https://news.ycombinator.com/item?id=50418975"
+      },
+      {
+        "id": "2b44002238d69bc9",
+        "title": "Show HN: Flide: Make Jev-like decision models up to 9.5x faster",
+        "url": "https://github.com/OmniJev/Flide",
+        "source": "Hacker News",
+        "sourceId": "hn",
+        "publishedAt": "2026-11-09T04:43:12Z",
+        "kind": "tool",
+        "tags": [
+          "models"
+        ],
+        "roles": [
+          "developer",
+          "everyone"
+        ],
+        "summary": "Decision models need their own inference engine. So we developed Flide, a high-performance and exact inference engine for Jev-like decision models.",
+        "generatedBy": "extractive",
+        "score": 7.926,
+        "hnScore": 104,
+        "discussionUrl": "https://news.ycombinator.com/item?id=50421155",
+        "whatItDoes": "Decision models need their own inference engine.",
+        "whoItsFor": "Anyone running or comparing AI models."
+      },
+      {
+        "id": "ac8f18750241a65f",
+        "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+        "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+        "source": "Hugging Face Blog",
+        "sourceId": "huggingface-blog",
+        "publishedAt": "2026-11-09T15:05:57Z",
+        "kind": "news",
+        "tags": [
+          "open-source",
+          "models",
+          "research"
+        ],
+        "roles": [
+          "developer",
+          "researcher",
+          "everyone"
+        ],
+        "summary": "New from Hugging Face Blog. Open the link to read the original post.",
+        "generatedBy": "template",
+        "score": 7.901
+      },
+      {
+        "id": "0d339d251dee8955",
+        "title": "What Is Eval-Driven Development? How to Improve AI Agents",
+        "url": "https://www.langchain.com/blog/what-is-eval-driven-development",
+        "source": "LangChain Blog",
+        "sourceId": "langchain-blog",
+        "publishedAt": "2026-11-09T16:23:28Z",
+        "kind": "news",
+        "tags": [
+          "agents",
+          "evals"
+        ],
+        "roles": [
+          "developer",
+          "researcher"
+        ],
+        "summary": "Eval-driven development helps you build AI agents against a consistent set of metrics. Define good behavior, write the eval first, then compare experiments.",
+        "generatedBy": "extractive",
+        "score": 7.108
+      },
+      {
+        "id": "5f721228af3682c2",
+        "title": "Measuring how AI agents handle everyday wet-lab science",
+        "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+        "source": "OpenAI News",
+        "sourceId": "openai-news",
+        "publishedAt": "2026-11-06T00:00:00Z",
+        "kind": "news",
+        "tags": [
+          "models",
+          "agents",
+          "evals"
+        ],
+        "roles": [
+          "everyone",
+          "developer",
+          "researcher"
+        ],
+        "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+        "generatedBy": "extractive",
+        "score": 6.699
+      },
+      {
+        "id": "86c270bf47b54ff7",
+        "title": "NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum",
+        "url": "https://blogs.nvidia.com/blog/korean-startup-investments-msit/",
+        "source": "NVIDIA Blog",
+        "sourceId": "nvidia-blog",
+        "publishedAt": "2026-11-09T08:00:53Z",
+        "kind": "news",
+        "tags": [
+          "hardware",
+          "models"
+        ],
+        "roles": [
+          "everyone"
+        ],
+        "summary": "Korea’s Ministry of Science and ICT and NVIDIA hosted the MSIT-NVIDIA AI Startup Partnership Forum at COEX. Ryu Je-myung, vice minister of science and ICT, joined NVIDIA leaders to meet with over 20 Korean startups across foundation models, physical AI, AI infrastructure and AI semiconductors.",
+        "generatedBy": "extractive",
+        "score": 6.683
+      },
+      {
+        "id": "55d059b88c6c576a",
+        "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+        "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+        "source": "Hugging Face Blog",
+        "sourceId": "huggingface-blog",
+        "publishedAt": "2026-11-09T12:34:29Z",
+        "kind": "news",
+        "tags": [
+          "open-source",
+          "models"
+        ],
+        "roles": [
+          "developer",
+          "researcher",
+          "everyone"
+        ],
+        "summary": "New from Hugging Face Blog. Open the link to read the original post.",
+        "generatedBy": "template",
+        "score": 7.64
+      }
+    ],
+    "modelsAndAgents": [
+      {
+        "id": "79a426483352990d",
+        "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
+        "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+        "source": "Hacker News",
+        "sourceId": "hn",
+        "publishedAt": "2026-11-08T18:16:07Z",
+        "kind": "news",
+        "tags": [
+          "models",
+          "coding"
+        ],
+        "roles": [
+          "developer",
+          "everyone"
+        ],
+        "summary": "Trending on Hacker News with 862 points and 466 comments. Open the link for the original source and the thread for discussion.",
+        "generatedBy": "template",
+        "score": 7.808,
+        "hnScore": 862,
+        "discussionUrl": "https://news.ycombinator.com/item?id=50415628"
+      },
+      {
+        "id": "77625322d4684167",
+        "title": "Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA",
+        "url": "https://blogs.nvidia.com/blog/korea-secure-agentic-ai/",
+        "source": "NVIDIA Blog",
+        "sourceId": "nvidia-blog",
+        "publishedAt": "2026-11-09T05:00:39Z",
+        "kind": "news",
+        "tags": [
+          "hardware",
+          "models",
+          "agents",
+          "safety"
+        ],
+        "roles": [
+          "everyone",
+          "developer"
+        ],
+        "summary": "As AI agents take on more work, they need capable open models and security that advances alongside them.",
+        "generatedBy": "extractive",
+        "score": 6.332
+      },
+      {
+        "id": "6fbb9cbc09ce7eb4",
+        "title": "A single AI model simulates the behavior of many substances, from sliding sand to folding proteins",
+        "url": "https://news.mit.edu/2026/single-ai-model-simulates-many-substances-behavior-1109",
+        "source": "MIT News (AI)",
+        "sourceId": "mit-news-ai",
+        "publishedAt": "2026-11-09T05:00:00Z",
+        "kind": "news",
+        "tags": [
+          "research",
+          "models",
+          "robotics"
+        ],
+        "roles": [
+          "everyone",
+          "researcher"
+        ],
+        "summary": "By learning how matter moves, the WorldParticle system could assist with developing soft robots, medicines, and more.",
+        "generatedBy": "extractive",
+        "score": 5.498
+      },
+      {
+        "id": "17e756367fad9506",
+        "title": "Govern AI agent access with Okta Cross App Access and Amazon Bedrock AgentCore – Part 1",
+        "url": "https://aws.amazon.com/blogs/machine-learning/govern-ai-agent-access-with-okta-cross-app-access-and-amazon-bedrock-agentcore-part-1/",
+        "source": "AWS Machine Learning Blog",
+        "sourceId": "aws-ml",
+        "publishedAt": "2026-11-06T17:09:18Z",
+        "kind": "news",
+        "tags": [
+          "tools",
+          "agents",
+          "policy"
+        ],
+        "roles": [
+          "developer",
+          "founder"
+        ],
+        "summary": "An AI agent that acts for a user raises an identity question that per-app OAuth and service accounts leave open: which agent may act for which user, and how you stop it.",
+        "generatedBy": "extractive",
+        "score": 4.658,
+        "related": [
+          {
+            "source": "AWS Machine Learning Blog",
+            "url": "https://aws.amazon.com/blogs/machine-learning/govern-ai-agent-access-with-okta-cross-app-access-and-amazon-bedrock-agentcore-part-2/",
+            "title": "Govern AI agent access with Okta Cross App Access and Amazon Bedrock AgentCore – Part 2"
+          }
+        ]
+      },
+      {
+        "id": "92b8001eea640de4",
+        "title": "Beyond code generation: A developer’s guide to agentic engineering",
+        "url": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/",
+        "source": "GitHub Blog (AI & ML)",
+        "sourceId": "github-blog-ai",
+        "publishedAt": "2026-11-06T22:15:59Z",
+        "kind": "news",
+        "tags": [
+          "tools",
+          "coding",
+          "agents"
+        ],
+        "roles": [
+          "developer"
+        ],
+        "summary": "Writing code got faster. The work around it didn't.",
+        "generatedBy": "extractive",
+        "score": 4.369
+      },
+      {
+        "id": "2b4301ced274c084",
+        "title": "Context Engineering (Agent Memory) for AI Agents Starts with Retrieval",
+        "url": "https://www.langchain.com/blog/context-engineering-starts-with-retrieval",
+        "source": "LangChain Blog",
+        "sourceId": "langchain-blog",
+        "publishedAt": "2026-11-06T13:12:53Z",
+        "kind": "news",
+        "tags": [
+          "agents",
+          "rag"
+        ],
+        "roles": [
+          "developer"
+        ],
+        "summary": "Agents waste time and context on clumsy searches, oversized results and stale data. Learn the retrieval techniques LangChain's Deep Agents harness uses to get the right context in.",
+        "generatedBy": "extractive",
+        "score": 3.705
+      }
+    ],
+    "tools": [
+      {
+        "id": "eda8b1beab01b9a0",
+        "title": "agent-framework dotnet-1.28.0",
+        "url": "https://github.com/microsoft/agent-framework/releases/tag/dotnet-1.28.0",
+        "source": "Microsoft Agent Framework",
+        "sourceId": "gh-ms-agent-framework",
+        "publishedAt": "2026-11-09T11:56:26Z",
+        "kind": "release",
+        "tags": [
+          "agents",
+          "coding",
+          "tools"
+        ],
+        "roles": [
+          "everyone",
+          "developer"
+        ],
+        "summary": "agent-framework published dotnet-1.28.0. Highlights: Foundry: Add the GA computer tool through FoundryAITool.CreateComputerTool and carry computer calls and…; Foundry hosting: Add FoundryToolboxOptions.TokenScope for cloud-specific toolbox authentication audiences….",
+        "generatedBy": "extractive",
+        "score": 6.745,
+        "version": "dotnet-1.28.0",
+        "whatItDoes": "[1.28.0] - 2026-11-06 Added Foundry: Add the GA computer tool through FoundryAITool.CreateComputerTool() and carry computer calls and results through Foundry hosting, including batched actions.",
+        "whoItsFor": "Developers building agents or automating multi-step tasks."
+      },
+      {
+        "id": "f12d0f3649124cc7",
+        "title": "langfuse v4.77.0",
+        "url": "https://github.com/langfuse/langfuse/releases/tag/v4.77.0",
+        "source": "Langfuse",
+        "sourceId": "gh-langfuse",
+        "publishedAt": "2026-11-09T15:36:18Z",
+        "kind": "release",
+        "tags": [
+          "tools",
+          "evals",
+          "coding"
+        ],
+        "roles": [
+          "everyone",
+          "developer",
+          "researcher"
+        ],
+        "summary": "langfuse v4.77.0 is out. Highlights: ⚠️⚠️⚠️ This release removes automatic tokenization, as we believe no one should be relying on it. Read our…; feat(topics): proper cost tracking for executions.",
+        "generatedBy": "extractive",
+        "score": 5.955,
+        "version": "v4.77.0",
+        "whatItDoes": "⚠️⚠️⚠️ This release removes automatic tokenization, as we believe no one should be relying on it.",
+        "whoItsFor": "Teams that need to test prompts and models before shipping."
+      }
+    ],
+    "openSource": [
+      {
+        "id": "38f83fa65ac0a375",
+        "title": "ragflow v1.0.0",
+        "url": "https://github.com/infiniflow/ragflow/releases/tag/v1.0.0",
+        "source": "RAGFlow",
+        "sourceId": "gh-ragflow",
+        "publishedAt": "2026-11-09T05:18:10Z",
+        "kind": "release",
+        "tags": [
+          "tools",
+          "rag",
+          "agents"
+        ],
+        "roles": [
+          "everyone",
+          "developer"
+        ],
+        "summary": "ragflow v1.0.0 is out. Highlights: After three release candidates, we are pleased to announce the official release of RAGFlow 1.0, now ready…; Rewritten in Go for lighter deployment: Docker images are approximately 10× smaller, and startup is….",
+        "generatedBy": "extractive",
+        "score": 5.822,
+        "version": "v1.0.0"
+      },
+      {
+        "id": "39ffeccec83e6a89",
+        "title": "open-webui v0.13.3",
+        "url": "https://github.com/open-webui/open-webui/releases/tag/v0.13.3",
+        "source": "Open WebUI",
+        "sourceId": "gh-open-webui",
+        "publishedAt": "2026-11-08T23:48:24Z",
+        "kind": "release",
+        "tags": [
+          "tools",
+          "models",
+          "agents",
+          "coding"
+        ],
+        "roles": [
+          "everyone",
+          "developer"
+        ],
+        "summary": "open-webui v0.13.3 is out. Highlights: 🦾 Agents in automations. The automation editor now lets you choose a terminal and working folder, then…; 📂 Change terminal and folder during a chat. You can now choose a different terminal or working folder after….",
+        "generatedBy": "extractive",
+        "score": 4.813,
+        "version": "v0.13.3"
+      },
+      {
+        "id": "86f9c103a896d630",
+        "title": "crewAI 1.15.39",
+        "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.39",
+        "source": "CrewAI",
+        "sourceId": "gh-crewai",
+        "publishedAt": "2026-11-09T01:07:14Z",
+        "kind": "release",
+        "tags": [
+          "agents"
+        ],
+        "roles": [
+          "everyone",
+          "developer"
+        ],
+        "summary": "crewAI 1.15.39 is out. Highlights: Document the apps_not_connected error on /kickoff and /status.",
+        "generatedBy": "extractive",
+        "score": 4.671,
+        "version": "1.15.39"
+      },
+      {
+        "id": "f44bff552cae869e",
+        "title": "@ai-sdk/vue@3.0.326",
+        "url": "https://github.com/vercel/ai/releases/tag/%40ai-sdk%2Fvue%403.0.326",
+        "source": "Vercel AI SDK",
+        "sourceId": "gh-vercel-ai",
+        "publishedAt": "2026-11-09T03:03:22Z",
+        "kind": "release",
+        "tags": [
+          "tools",
+          "coding"
+        ],
+        "roles": [
+          "everyone",
+          "developer"
+        ],
+        "summary": "ai published @ai-sdk/vue@3.0.326. See the release notes for details.",
+        "generatedBy": "template",
+        "score": 4.513,
+        "version": "@ai-sdk/vue@3.0.326"
+      },
+      {
+        "id": "7cf21137c37e547b",
+        "title": "claude-code v2.1.319",
+        "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.319",
+        "source": "Claude Code",
+        "sourceId": "gh-claude-code",
+        "publishedAt": "2026-11-06T17:04:01Z",
+        "kind": "release",
+        "tags": [
+          "agents",
+          "coding",
+          "models",
+          "tools"
+        ],
+        "roles": [
+          "everyone",
+          "developer"
+        ],
+        "summary": "claude-code v2.1.319 is out. Highlights: Changed auto mode with telemetry or feature flags off, including behind LLM gateways: calls the server can't…; Changed auto mode behind an LLM gateway: CLAUDE_CODE_AUTO_MODE_SERVER=1 turns on the server-side check even….",
+        "generatedBy": "extractive",
+        "score": 4.223,
+        "version": "v2.1.319"
+      },
+      {
+        "id": "02be4a11c1b8f44b",
+        "title": "adk-python v2.14.0",
+        "url": "https://github.com/google/adk-python/releases/tag/v2.14.0",
+        "source": "Google Agent Development Kit",
+        "sourceId": "gh-google-adk",
+        "publishedAt": "2026-11-07T00:58:18Z",
+        "kind": "release",
+        "tags": [
+          "agents",
+          "evals",
+          "tools"
+        ],
+        "roles": [
+          "everyone",
+          "developer",
+          "researcher"
+        ],
+        "summary": "adk-python v2.14.0 is out. Highlights: This release graduates execution environments, A2A, evaluation, and core runtime modules from experimental…; Execution environments and sandboxes: BaseEnvironment, LocalEnvironment, EnvironmentToolset….",
+        "generatedBy": "extractive",
+        "score": 4.049,
+        "version": "v2.14.0"
+      },
+      {
+        "id": "53eff4b4e1cfd452",
+        "title": "ollama v0.40.15",
+        "url": "https://github.com/ollama/ollama/releases/tag/v0.40.15",
+        "source": "Ollama",
+        "sourceId": "gh-ollama",
+        "publishedAt": "2026-11-06T01:47:18Z",
+        "kind": "release",
+        "tags": [
+          "models",
+          "open-source",
+          "agents",
+          "coding",
+          "hardware"
+        ],
+        "roles": [
+          "everyone",
+          "developer"
+        ],
+        "summary": "ollama v0.40.15 is out. Highlights: Xiaomi MiMo's mimo-v2.6, a 9B model built for code and agent workflows, is now supported in Ollama; AutoTrust decision models read text and return choices, yes or no probabilities, and ratings for the….",
+        "generatedBy": "extractive",
+        "score": 3.982,
+        "version": "v0.40.15"
+      },
+      {
+        "id": "878fd3793321c4bb",
+        "title": "transformers: Patch release v5.22.2",
+        "url": "https://github.com/huggingface/transformers/releases/tag/v5.22.2",
+        "source": "Transformers",
+        "sourceId": "gh-transformers",
+        "publishedAt": "2026-11-06T15:43:27Z",
+        "kind": "release",
+        "tags": [
+          "models",
+          "open-source",
+          "safety"
+        ],
+        "roles": [
+          "everyone",
+          "developer"
+        ],
+        "summary": "transformers v5.22.2 is out. Highlights: Some in between patch for security and distributed fixes. See the included commits 🤗; [Distributed] Set device_id only for NCCL and.",
+        "generatedBy": "extractive",
+        "score": 3.771,
+        "version": "v5.22.2"
+      },
+      {
+        "id": "3772b98a252811ee",
+        "title": "OpenHands v1.37.0",
+        "url": "https://github.com/OpenHands/OpenHands/releases/tag/v1.37.0",
+        "source": "OpenHands",
+        "sourceId": "gh-openhands",
+        "publishedAt": "2026-11-06T13:06:00Z",
+        "kind": "release",
+        "tags": [
+          "agents",
+          "coding"
+        ],
+        "roles": [
+          "everyone",
+          "developer"
+        ],
+        "summary": "OpenHands v1.37.0 is out. Highlights: feat(automations): explain each automation with a Mermaid diagram; fix(chat): place resumed sessions after UTC conversation history.",
+        "generatedBy": "extractive",
+        "score": 3.537,
+        "version": "v1.37.0"
+      },
+      {
+        "id": "89ed29d1c41fccaa",
+        "title": "anthropic-sdk-python v2.6.0",
+        "url": "https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.6.0",
+        "source": "Anthropic Python SDK",
+        "sourceId": "gh-anthropic-sdk",
+        "publishedAt": "2026-11-05T18:58:47Z",
+        "kind": "release",
+        "tags": [
+          "tools",
+          "coding"
+        ],
+        "roles": [
+          "everyone",
+          "developer"
+        ],
+        "summary": "anthropic-sdk-python v2.6.0 is out. Highlights: api: add error code for ramp limit errors; api: add error codes for External Key validation failures.",
+        "generatedBy": "extractive",
+        "score": 3.392,
+        "version": "v2.6.0"
+      }
+    ],
+    "research": [
+      {
+        "id": "02549b848fe2d54b",
+        "title": "I Think, Therefore I Attack: Evaluating Thought Injection Attacks on Reasoning Agents",
+        "url": "https://arxiv.org/abs/2611.08811",
+        "source": "arXiv cs.AI",
+        "sourceId": "arxiv-cs-ai",
+        "publishedAt": "2026-11-09T05:00:00Z",
+        "kind": "paper",
+        "tags": [
+          "research",
+          "models",
+          "agents",
+          "open-source"
+        ],
+        "roles": [
+          "researcher",
+          "everyone",
+          "developer"
+        ],
+        "summary": "Large Reasoning Models (LRMs) are one of the key components of current agentic systems. LRMs augment their output with an explicit chain-of-thought reasoning stage, introducing a new attack surface for thought injection, in which untrusted text resembling the model's own deliberation is fed back to the model.",
+        "generatedBy": "extractive",
+        "score": 4.364
+      },
+      {
+        "id": "14c24f075f10ad2f",
+        "title": "Benchmarking Machine Learning for Chaotic Three-Body Dynamics in Astrophysics",
+        "url": "https://arxiv.org/abs/2611.08634",
+        "source": "arXiv cs.LG",
+        "sourceId": "arxiv-cs-lg",
+        "publishedAt": "2026-11-09T05:00:00Z",
+        "kind": "paper",
+        "tags": [
+          "research",
+          "models",
+          "evals"
+        ],
+        "roles": [
+          "researcher",
+          "everyone"
+        ],
+        "summary": "Machine learning (ML) and generative AI have recently made impressive progress in understanding physics.",
+        "generatedBy": "extractive",
+        "score": 4.364
+      },
+      {
+        "id": "32eebcfeeacd9a6b",
+        "title": "On the Effectiveness and Limitations of Open-Weight LLMs for Low-Resource Offensive Language Detection in Danish",
+        "url": "https://arxiv.org/abs/2611.09506",
+        "source": "arXiv cs.CL",
+        "sourceId": "arxiv-cs-cl",
+        "publishedAt": "2026-11-09T05:00:00Z",
+        "kind": "paper",
+        "tags": [
+          "research",
+          "models",
+          "open-source",
+          "training"
+        ],
+        "roles": [
+          "researcher",
+          "everyone",
+          "developer"
+        ],
+        "summary": "We study the effectiveness and robustness of open-weight large language models (LLMs) for Danish offensive language detection, an underexplored low-resource task.",
+        "generatedBy": "extractive",
+        "score": 4.364
+      }
+    ]
+  },
+  "promptOfTheDay": {
+    "title": "Stress-test an agent plan",
+    "prompt": "Here is the plan my AI agent will follow: <PASTE PLAN>. Act as a careful reviewer. List the five most likely ways it fails in real use, how I would notice each failure, and one guardrail for each. Keep it concrete and short.",
+    "useCase": "Inspired by today's item: ChatGPT Desktop forwards your SSH agent to remote machines",
+    "roles": [
+      "developer"
+    ],
+    "basedOn": {
+      "itemId": "3b0d1dcb5cae97f7",
+      "title": "ChatGPT Desktop forwards your SSH agent to remote machines",
+      "url": "https://news.ycombinator.com/item?id=50422628"
+    },
+    "generatedBy": "template"
+  },
+  "tryThisToday": {
+    "title": "Prototype a small agent in an hour",
+    "steps": [
+      "Pick one repetitive task you did this week.",
+      "Write the steps down as if training a new teammate.",
+      "Give an agent framework only the tools those steps need.",
+      "Run it on three real examples and log every tool call.",
+      "Add a human approval step before any irreversible action."
+    ],
+    "roles": [
+      "developer"
+    ],
+    "basedOn": {
+      "itemId": "eda8b1beab01b9a0",
+      "title": "agent-framework dotnet-1.28.0",
+      "url": "https://github.com/microsoft/agent-framework/releases/tag/dotnet-1.28.0"
+    },
+    "generatedBy": "template"
+  }
+}

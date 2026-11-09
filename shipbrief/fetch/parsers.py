@@ -137,6 +137,21 @@ def parse_arxiv(data: bytes) -> list[dict[str, Any]]:
 
 
 _TAG_RE = re.compile(r"/releases/tag/([^/?#]+)")
+_BLOCK_RE = re.compile(r"<(li|p)\b[^>]*>(.*?)</\1>", re.S | re.I)
+
+
+def release_highlights(html_text: str, limit: int = 3) -> list[str]:
+    """First few list items / paragraphs of release notes, as plain text (order preserved)."""
+    from ..text import clean_text  # local import to keep parsers dependency-light
+
+    out = []
+    for _, inner in _BLOCK_RE.findall(html_text or ""):
+        t = clean_text(re.sub(r"<pre\b.*?</pre>", " ", inner, flags=re.S | re.I))
+        if len(t) >= 12:
+            out.append(t)
+        if len(out) >= limit:
+            break
+    return out
 _NOISE_VERSION = re.compile(r"^(b\d+|nightly|.*-(dev|nightly)\d*)$", re.I)
 
 
@@ -147,6 +162,7 @@ def parse_github_releases(data: bytes, repo: str) -> list[dict[str, Any]]:
         version = m.group(1) if m else ""
         e["extra"]["version"] = version
         e["extra"]["repo"] = repo
+        e["extra"]["highlights"] = release_highlights(e["summaryHtml"])
         project = repo.split("/", 1)[1]
         title = e["title"].strip()
         # Normalize title to "<project> <version>" when the release name is just the tag.

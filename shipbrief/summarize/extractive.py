@@ -36,10 +36,11 @@ def _clean_sentences(text: str, title: str) -> list[str]:
 def _release_summary(it: Item) -> tuple[str, str]:
     project = (it.extra.get("repo") or "").split("/")[-1] or it.source
     version = it.extra.get("version", "")
-    notes = _GH_NOISE.sub("", it.raw_summary)
+    structured = [_GH_NOISE.sub("", h).strip(" -*•:") for h in it.extra.get("highlights") or []]
+    notes = "\n".join(structured) if structured else _GH_NOISE.sub("", it.raw_summary)
     # Release notes are usually bullet lists; take the first two meaningful lines as highlights.
-    bullets = [b.strip(" -*•:") for b in re.split(r"(?:\s[-*•]\s|\n|(?<=[a-z0-9)])\s{2,})", notes)]
-    bullets = [b for b in bullets if 12 <= len(b) <= 140 and not BOILERPLATE.search(b)
+    bullets = [re.sub(r"\s+", " ", re.sub(r"\(\s*[,;]?\s*\)", "", b)).strip(" -*•:,") for b in re.split(r"(?:\s[-*•]\s|\n|(?<=[a-z0-9)])\s{2,})", notes)]
+    bullets = [b for b in bullets if len(b) >= 12 and len(b.split()) >= 3 and not BOILERPLATE.search(b)
                and not re.match(r"^((major|minor|patch) changes|features?|bug ?fixes|changes|improvements|fixes|new|added|highlights)\b\W*$", b, re.I)
                and not re.fullmatch(r"[\w.@/=\- ]*\d+\.\d+[\w.]*", b)]
     bullets = drop_injection_sentences(bullets)

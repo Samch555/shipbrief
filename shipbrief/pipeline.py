@@ -9,6 +9,7 @@ Exit codes (used by the GitHub workflow to fail visibly):
 from __future__ import annotations
 
 import logging
+import os
 import time
 import uuid
 from dataclasses import dataclass, field
@@ -53,6 +54,7 @@ def run(*, transport: Transport, now: datetime | None = None, data_dir: Path = c
     health: dict[str, Any] = {
         "schemaVersion": config.HEALTH_SCHEMA_VERSION, "runId": run_id, "date": day.isoformat(),
         "startedAt": now.isoformat().replace("+00:00", "Z"), "durationSeconds": 0.0, "status": "error",
+        "trigger": os.environ.get("GITHUB_EVENT_NAME", "local"),
         "failureReason": None, "summaryMode": mode, "sources": [], "counts": {}, "llm": None, "factCheck": None,
     }
     digest = None
