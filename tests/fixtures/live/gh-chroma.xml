@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <ns0:id>tag:github.com,2008:https://github.com/chroma-core/chroma/releases</ns0:id>
+  <ns0:link type="text/html" rel="alternate" href="https://github.com/chroma-core/chroma/releases" />
+  <ns0:link type="application/atom+xml" rel="self" href="https://github.com/chroma-core/chroma/releases.atom" />
+  <ns0:title>Release notes from chroma</ns0:title>
+  <ns0:updated>2026-10-22T00:35:30Z</ns0:updated>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/546206616/latest</ns0:id>
+    <ns0:updated>2026-10-22T01:30:32Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/chroma-core/chroma/releases/tag/latest" />
+    <ns0:title>Latest</ns0:title>
+    <ns0:content type="html">&lt;p&gt;Version: &lt;code&gt;1.5.10.dev326&lt;/code&gt;&lt;br&gt;
+Git ref: &lt;code&gt;refs/heads/main&lt;/code&gt;&lt;br&gt;
+Build Date: &lt;code&gt;2026-10-22T01:30&lt;/code&gt;&lt;br&gt;
+PIP Package: &lt;code&gt;chroma-1.5.10.dev326.tar.gz&lt;/code&gt;&lt;br&gt;
+Github Container Registry Image: &lt;code&gt;:1.5.10.dev326&lt;/code&gt;&lt;br&gt;
+DockerHub Image: &lt;code&gt;:1.5.10.dev326&lt;/code&gt;&lt;/p&gt;</ns0:content>
+    <ns0:author>
+      <ns0:name>github-actions[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/546206616/1.5.9</ns0:id>
+    <ns0:updated>2026-05-05T05:55:40Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/chroma-core/chroma/releases/tag/1.5.9" />
+    <ns0:title>1.5.9</ns0:title>
+    <ns0:content type="html">&lt;p&gt;Version: &lt;code&gt;1.5.9&lt;/code&gt;&lt;br&gt;
+Git ref: &lt;code&gt;refs/tags/1.5.9&lt;/code&gt;&lt;br&gt;
+Build Date: &lt;code&gt;2026-05-05T05:55&lt;/code&gt;&lt;br&gt;
+PIP Package: &lt;code&gt;chroma-1.5.9.tar.gz&lt;/code&gt;&lt;br&gt;
+Github Container Registry Image: &lt;code&gt;:1.5.9&lt;/code&gt;&lt;br&gt;
+DockerHub Image: &lt;code&gt;:1.5.9&lt;/code&gt;&lt;/p&gt;
+&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="/chroma-core/chroma/blob/1.5.9/frontend"&gt;ENH&lt;/a&gt;: block functions on topology dbs by &lt;a</ns0:content>
+    <ns0:author>
+      <ns0:name>github-actions[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/546206616/cli-1.4.4</ns0:id>
+    <ns0:updated>2026-05-05T04:47:54Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/chroma-core/chroma/releases/tag/cli-1.4.4" />
+    <ns0:title>cli-1.4.4</ns0:title>
+    <ns0:content type="html">&lt;p&gt;CLI release.&lt;/p&gt;</ns0:content>
+    <ns0:author>
+      <ns0:name>github-actions[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/546206616/foundation-cli-v0.1.0-alpha.3</ns0:id>
+    <ns0:updated>2026-05-01T00:44:18Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/chroma-core/chroma/releases/tag/foundation-cli-v0.1.0-alpha.3" />
+    <ns0:title>foundation-cli-v0.1.0-alpha.3</ns0:title>
+    <ns0:content type="html">&lt;h1&gt;v0.1.0-alpha.3 (2026-05-01)&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;fix release workflow: use rust/foundation/target for standalone workspace binary path&lt;/li&gt;
+&lt;/ul&gt;</ns0:content>
+    <ns0:author>
+      <ns0:name>github-actions[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/546206616/foundation-cli-v0.1.0-alpha.2</ns0:id>
+    <ns0:updated>2026-05-01T00:25:40Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/chroma-core/chroma/releases/tag/foundation-cli-v0.1.0-alpha.2" />
+    <ns0:title>foundation-cli-v0.1.0-alpha.2: [ENH] Scaffold foundation CLI project</ns0:title>
+    <ns0:content type="html">&lt;p&gt;Adds the foundation CLI — a standalone Rust binary for interacting with&lt;br&gt;
+Chroma Foundation. This is the project skeleton for issue &lt;a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4779371749" data-permission-text="Title is private" data-url="https://github.com/chroma-core/chroma/issues/7367" data-hovercard-type="pull_request" data-hovercard-url="/chroma-cor</ns0:content>
+    <ns0:author>
+      <ns0:name>davedash</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/59497?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/546206616/foundation-cli-v0.1.0-alpha.1</ns0:id>
+    <ns0:updated>2026-05-01T00:25:40Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/chroma-core/chroma/releases/tag/foundation-cli-v0.1.0-alpha.1" />
+    <ns0:title>foundation-cli-v0.1.0-alpha.1: [ENH] Scaffold foundation CLI project</ns0:title>
+    <ns0:content type="html">&lt;p&gt;Adds the foundation CLI — a standalone Rust binary for interacting with&lt;br&gt;
+Chroma Foundation. This is the project skeleton for issue &lt;a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4779371749" data-permission-text="Title is private" data-url="https://github.com/chroma-core/chroma/issues/7367" data-hovercard-type="pull_request" data-hovercard-url="/chroma-cor</ns0:content>
+    <ns0:author>
+      <ns0:name>davedash</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/59497?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/546206616/1.5.8</ns0:id>
+    <ns0:updated>2026-04-16T23:35:52Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/chroma-core/chroma/releases/tag/1.5.8" />
+    <ns0:title>1.5.8</ns0:title>
+    <ns0:content type="html">&lt;p&gt;Version: &lt;code&gt;1.5.8&lt;/code&gt;&lt;br&gt;
+Git ref: &lt;code&gt;refs/tags/1.5.8&lt;/code&gt;&lt;br&gt;
+Build Date: &lt;code&gt;2026-04-16T23:35&lt;/code&gt;&lt;br&gt;
+PIP Package: &lt;code&gt;chroma-1.5.8.tar.gz&lt;/code&gt;&lt;br&gt;
+Github Container Registry Image: &lt;code&gt;:1.5.8&lt;/code&gt;&lt;br&gt;
+DockerHub Image: &lt;code&gt;:1.5.8&lt;/code&gt;&lt;/p&gt;
+&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;[ENH]: Make materialize_logs aware of sharding by &lt;a class="user-mention notranslate" data-hover</ns0:content>
+    <ns0:author>
+      <ns0:name>github-actions[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/546206616/1.5.7</ns0:id>
+    <ns0:updated>2026-04-08T07:49:29Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/chroma-core/chroma/releases/tag/1.5.7" />
+    <ns0:title>1.5.7</ns0:title>
+    <ns0:content type="html">&lt;p&gt;Version: &lt;code&gt;1.5.7&lt;/code&gt;&lt;br&gt;
+Git ref: &lt;code&gt;refs/tags/1.5.7&lt;/code&gt;&lt;br&gt;
+Build Date: &lt;code&gt;2026-04-08T07:49&lt;/code&gt;&lt;br&gt;
+PIP Package: &lt;code&gt;chroma-1.5.7.tar.gz&lt;/code&gt;&lt;br&gt;
+Github Container Registry Image: &lt;code&gt;:1.5.7&lt;/code&gt;&lt;br&gt;
+DockerHub Image: &lt;code&gt;:1.5.7&lt;/code&gt;&lt;/p&gt;
+&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;[CHORE] Update Rust setup for CLI workflows by &lt;a class="user-mention notranslate" data-hovercar</ns0:content>
+    <ns0:author>
+      <ns0:name>github-actions[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/546206616/cli-1.4.3</ns0:id>
+    <ns0:updated>2026-04-08T04:26:09Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/chroma-core/chroma/releases/tag/cli-1.4.3" />
+    <ns0:title>cli-1.4.3</ns0:title>
+    <ns0:content type="html">&lt;p&gt;CLI release.&lt;/p&gt;</ns0:content>
+    <ns0:author>
+      <ns0:name>github-actions[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/546206616/1.5.6</ns0:id>
+    <ns0:updated>2026-04-07T03:01:03Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/chroma-core/chroma/releases/tag/1.5.6" />
+    <ns0:title>1.5.6</ns0:title>
+    <ns0:content type="html">&lt;p&gt;Version: &lt;code&gt;1.5.6&lt;/code&gt;&lt;br&gt;
+Git ref: &lt;code&gt;refs/tags/1.5.6&lt;/code&gt;&lt;br&gt;
+Build Date: &lt;code&gt;2026-04-07T03:01&lt;/code&gt;&lt;br&gt;
+PIP Package: &lt;code&gt;chroma-1.5.6.tar.gz&lt;/code&gt;&lt;br&gt;
+Github Container Registry Image: &lt;code&gt;:1.5.6&lt;/code&gt;&lt;br&gt;
+DockerHub Image: &lt;code&gt;:1.5.6&lt;/code&gt;&lt;/p&gt;
+&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;[DOC] add concrete example for query/get response by &lt;a class="user-mention notranslate" data-ho</ns0:content>
+    <ns0:author>
+      <ns0:name>github-actions[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4" />
+  </ns0:entry>
+</ns0:feed>

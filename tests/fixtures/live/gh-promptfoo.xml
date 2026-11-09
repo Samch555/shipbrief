@@ -1,0 +1,154 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <ns0:id>tag:github.com,2008:https://github.com/promptfoo/promptfoo/releases</ns0:id>
+  <ns0:link type="text/html" rel="alternate" href="https://github.com/promptfoo/promptfoo/releases" />
+  <ns0:link type="application/atom+xml" rel="self" href="https://github.com/promptfoo/promptfoo/releases.atom" />
+  <ns0:title>Release notes from promptfoo</ns0:title>
+  <ns0:updated>2026-10-25T01:52:56Z</ns0:updated>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/633927609/0.125.1</ns0:id>
+    <ns0:updated>2026-10-25T01:53:11Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/promptfoo/promptfoo/releases/tag/0.125.1" />
+    <ns0:title>0.125.1</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;&lt;a href="https://github.com/promptfoo/promptfoo/compare/0.125.0...0.125.1"&gt;0.125.1&lt;/a&gt; (2026-10-25)&lt;/h2&gt;
+&lt;h3&gt;Bug Fixes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;restore the authentic Discord invite (&lt;a href="https://github.com/promptfoo/promptfoo/issues/11967" data-hovercard-type="pull_request" data-hovercard-url="/promptfoo/promptfoo/pull/11967/hovercard"&gt;#11967&lt;/a&gt;) (&lt;a href="https://github.com/promptfoo/promptfoo/comm</ns0:content>
+    <ns0:author>
+      <ns0:name>promptfoobot[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/2349990?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/633927609/0.125.0</ns0:id>
+    <ns0:updated>2026-10-23T15:32:01Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/promptfoo/promptfoo/releases/tag/0.125.0" />
+    <ns0:title>0.125.0</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;&lt;a href="https://github.com/promptfoo/promptfoo/compare/0.124.1...0.125.0"&gt;0.125.0&lt;/a&gt; (2026-10-23)&lt;/h2&gt;
+&lt;h3&gt;⚠ BREAKING CHANGES&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;deps:&lt;/strong&gt; make jks-js an optional peer dependency (&lt;a href="https://github.com/promptfoo/promptfoo/issues/11739" data-hovercard-type="pull_request" data-hovercard-url="/promptfoo/promptfoo/pull/11739/hovercard"&gt;#11739&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;p</ns0:content>
+    <ns0:author>
+      <ns0:name>promptfoobot[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/2349990?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/633927609/0.124.1</ns0:id>
+    <ns0:updated>2026-10-08T14:23:27Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/promptfoo/promptfoo/releases/tag/0.124.1" />
+    <ns0:title>0.124.1</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;&lt;a href="https://github.com/promptfoo/promptfoo/compare/0.124.0...0.124.1"&gt;0.124.1&lt;/a&gt; (2026-10-08)&lt;/h2&gt;
+&lt;h3&gt;Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;assertions:&lt;/strong&gt; record cost without a threshold (&lt;a href="https://github.com/promptfoo/promptfoo/issues/11451" data-hovercard-type="pull_request" data-hovercard-url="/promptfoo/promptfoo/pull/11451/hovercard"&gt;#11451&lt;/a&gt;) (&lt;a href="https://github.com/p</ns0:content>
+    <ns0:author>
+      <ns0:name>promptfoobot[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/2349990?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/633927609/code-scan-action-0.2.2</ns0:id>
+    <ns0:updated>2026-10-08T15:46:03Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/promptfoo/promptfoo/releases/tag/code-scan-action-0.2.2" />
+    <ns0:title>code-scan-action: 0.2.2</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;&lt;a href="https://github.com/promptfoo/promptfoo/compare/code-scan-action-0.2.1...code-scan-action-0.2.2"&gt;0.2.2&lt;/a&gt; (2026-10-08)&lt;/h2&gt;
+&lt;h3&gt;Bug Fixes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;code-scan:&lt;/strong&gt; mint OIDC after CLI installation (&lt;a href="https://github.com/promptfoo/promptfoo/issues/11467" data-hovercard-type="pull_request" data-hovercard-url="/promptfoo/promptfoo/pull/11467/hovercard"&gt;#11467&lt;/a&gt;) (</ns0:content>
+    <ns0:author>
+      <ns0:name>promptfoobot[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/2349990?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/633927609/0.124.0</ns0:id>
+    <ns0:updated>2026-10-06T01:09:20Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/promptfoo/promptfoo/releases/tag/0.124.0" />
+    <ns0:title>0.124.0</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;&lt;a href="https://github.com/promptfoo/promptfoo/compare/0.123.1...0.124.0"&gt;0.124.0&lt;/a&gt; (2026-10-06)&lt;/h2&gt;
+&lt;h3&gt;⚠ BREAKING CHANGES&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;providers:&lt;/strong&gt; remove hosted ChatKit provider (&lt;a href="https://github.com/promptfoo/promptfoo/issues/11434" data-hovercard-type="pull_request" data-hovercard-url="/promptfoo/promptfoo/pull/11434/hovercard"&gt;#11434&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;provi</ns0:content>
+    <ns0:author>
+      <ns0:name>promptfoobot[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/2349990?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/633927609/code-scan-action-0.2.1</ns0:id>
+    <ns0:updated>2026-10-06T01:48:46Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/promptfoo/promptfoo/releases/tag/code-scan-action-0.2.1" />
+    <ns0:title>code-scan-action: 0.2.1</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;&lt;a href="https://github.com/promptfoo/promptfoo/compare/code-scan-action-0.2.0...code-scan-action-0.2.1"&gt;0.2.1&lt;/a&gt; (2026-10-06)&lt;/h2&gt;
+&lt;h3&gt;Bug Fixes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;deps:&lt;/strong&gt; update type definitions (&lt;a href="https://github.com/promptfoo/promptfoo/issues/11010" data-hovercard-type="pull_request" data-hovercard-url="/promptfoo/promptfoo/pull/11010/hovercard"&gt;#11010&lt;/a&gt;) (&lt;a href="https</ns0:content>
+    <ns0:author>
+      <ns0:name>promptfoobot[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/2349990?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/633927609/0.123.1</ns0:id>
+    <ns0:updated>2026-09-18T01:07:54Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/promptfoo/promptfoo/releases/tag/0.123.1" />
+    <ns0:title>0.123.1</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;&lt;a href="https://github.com/promptfoo/promptfoo/compare/0.123.0...0.123.1"&gt;0.123.1&lt;/a&gt; (2026-09-18)&lt;/h2&gt;
+&lt;h3&gt;Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;bedrock:&lt;/strong&gt; refresh auth across HTTP adapters (&lt;a href="https://github.com/promptfoo/promptfoo/issues/10123" data-hovercard-type="pull_request" data-hovercard-url="/promptfoo/promptfoo/pull/10123/hovercard"&gt;#10123&lt;/a&gt;) (&lt;a href="https://github.com/pr</ns0:content>
+    <ns0:author>
+      <ns0:name>promptfoobot[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/2349990?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/633927609/0.123.0</ns0:id>
+    <ns0:updated>2026-09-10T02:34:32Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/promptfoo/promptfoo/releases/tag/0.123.0" />
+    <ns0:title>0.123.0</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;&lt;a href="https://github.com/promptfoo/promptfoo/compare/0.122.2...0.123.0"&gt;0.123.0&lt;/a&gt; (2026-09-10)&lt;/h2&gt;
+&lt;h3&gt;⚠ BREAKING CHANGES&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;providers:&lt;/strong&gt; default GPT-5.6+ to Responses (&lt;a href="https://github.com/promptfoo/promptfoo/issues/10803" data-hovercard-type="pull_request" data-hovercard-url="/promptfoo/promptfoo/pull/10803/hovercard"&gt;#10803&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Features</ns0:content>
+    <ns0:author>
+      <ns0:name>promptfoobot[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/2349990?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/633927609/0.122.2</ns0:id>
+    <ns0:updated>2026-08-28T07:03:20Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/promptfoo/promptfoo/releases/tag/0.122.2" />
+    <ns0:title>0.122.2</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;&lt;a href="https://github.com/promptfoo/promptfoo/compare/0.122.1...0.122.2"&gt;0.122.2&lt;/a&gt; (2026-08-28)&lt;/h2&gt;
+&lt;h3&gt;Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;auth:&lt;/strong&gt; support configurable Cloud auth header name (&lt;a href="https://github.com/promptfoo/promptfoo/issues/10375" data-hovercard-type="pull_request" data-hovercard-url="/promptfoo/promptfoo/pull/10375/hovercard"&gt;#10375&lt;/a&gt;) (&lt;a href="https://github</ns0:content>
+    <ns0:author>
+      <ns0:name>promptfoobot[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/2349990?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/633927609/code-scan-action-0.2.0</ns0:id>
+    <ns0:updated>2026-08-28T07:34:11Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/promptfoo/promptfoo/releases/tag/code-scan-action-0.2.0" />
+    <ns0:title>code-scan-action: 0.2.0</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;&lt;a href="https://github.com/promptfoo/promptfoo/compare/code-scan-action-0.1.8...code-scan-action-0.2.0"&gt;0.2.0&lt;/a&gt; (2026-08-28)&lt;/h2&gt;
+&lt;h3&gt;⚠ BREAKING CHANGES&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;drop Node.js 20 support (&lt;a href="https://github.com/promptfoo/promptfoo/issues/10260" data-hovercard-type="pull_request" data-hovercard-url="/promptfoo/promptfoo/pull/10260/hovercard"&gt;#10260&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Bug Fixes&lt;/h3&gt;</ns0:content>
+    <ns0:author>
+      <ns0:name>promptfoobot[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/2349990?s=60&amp;v=4" />
+  </ns0:entry>
+</ns0:feed>

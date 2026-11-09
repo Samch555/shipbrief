@@ -1,0 +1,200 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://purl.org/rss/1.0/modules/syndication/" xmlns:ns3="http://purl.org/rss/1.0/modules/content/" version="2.0">
+
+<channel>
+	<title>Microsoft Research</title>
+	<ns0:link href="https://www.microsoft.com/en-us/research/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.microsoft.com/en-us/research/</link>
+	<description />
+	<lastBuildDate>Thu, 05 Nov 2026 17:09:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<ns1:updatePeriod>
+	hourly	</ns1:updatePeriod>
+	<ns1:updateFrequency>
+	1	</ns1:updateFrequency>
+	<generator>https://wordpress.org/?v=7.1.3</generator>
+	<item>
+		<title>Formally verifying agent-written full-stack web apps with PDD Kit</title>
+		<link>https://www.microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit/</link>
+		
+		<dc:creator>Alex Lavaee, Matthai Philipose</dc:creator>
+		<pubDate>Thu, 05 Nov 2026 16:00:00 +0000</pubDate>
+				<category>Research Blog</category>
+		<guid isPermaLink="false">https://www.microsoft.com/en-us/research/?p=1191852</guid>
+
+					<description>&lt;p&gt;AI agents can generate code at a scale that’s hard for humans to review line-by-line. PDD Kit helps ensure the code is doing what the developer intended by creating formal specifications and testing against them. It converts developer intent into a Verus specification, proves AI-generated code meets it for every input, and uses tests where proofs aren't practical. Developers review intent, not </description>
+										<ns3:encoded>
+&lt;figure class="wp-block-image size-full"&gt;&lt;img fetchpriority="high" decoding="async" width="1400" height="788" src="https://www.microsoft.com/en-us/research/wp-content/uploads/2026/10/PDDKitRecap-BlogHeroFeature-1400x788-1.jpg" alt="PDDKit decision flowchart on green gradient background" class="wp-image-1191862" srcset="https://www.microsoft.com/en-us/research/wp-content/uploads/2026/10/PDDKitReca</ns3:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Learn the rules: The hacker mindset</title>
+		<link>https://www.microsoft.com/en-us/research/podcast/learn-the-rules-the-hacker-mindset/</link>
+		
+		<dc:creator>Weishung Liu, Mike Walker</dc:creator>
+		<pubDate>Tue, 03 Nov 2026 17:14:38 +0000</pubDate>
+				<category>Microsoft Research Podcast</category>
+		<guid isPermaLink="false">https://www.microsoft.com/en-us/research/?p=1192298</guid>
+
+					<description>&lt;p&gt;Research Manager Mike Walker reflects on a career spanning hacker culture, cybersecurity, and AI, sharing lessons about trust, teamwork, leadership, and why solving difficult problems requires curiosity, judgment, agility—and an understanding of the rules.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.microsoft.com/en-us/research/podcast/learn-the-rules-the-hacker-mindset/"&gt;Learn the rules: The hacker m</description>
+										<ns3:encoded>
+&lt;figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"&gt;&lt;div class="wp-block-embed__wrapper"&gt;
+&lt;iframe loading="lazy" title="Learn the rules: The hacker mindset" width="500" height="281" src="https://www.youtube-nocookie.com/embed/uuXijUuj4MA?feature=oembed&amp;#038;rel=0&amp;#038;enablejsapi=1" frameborder="0" allow="accelerometer; </ns3:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>From synthetic enterprise data evaluations to real Microsoft Copilot AI confidence</title>
+		<link>https://www.microsoft.com/en-us/research/blog/from-synthetic-enterprise-data-evaluations-to-real-microsoft-copilot-ai-confidence/</link>
+		
+		<dc:creator>Somya Chatterjee, Harshita Sahijwani, Min Chen, Sushmitha Rajeswari Muppa, Dayquan Julienne, Irene Shaffer, Chandra Inguva, Jenny Chen, Minha Hwang, Sam Ade Jacobs</dc:creator>
+		<pubDate>Fri, 30 Oct 2026 13:05:28 +0000</pubDate>
+				<category>Research Blog</category>
+		<guid isPermaLink="false">https://www.microsoft.com/en-us/research/?p=1191770</guid>
+
+					<description>&lt;p&gt;Evaluating Microsoft Copilot at enterprise scale requires test data that captures the full complexity of real organizations, yet real enterprise data contains sensitive information that cannot be used for evaluation under any circumstances.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.microsoft.com/en-us/research/blog/from-synthetic-enterprise-data-evaluations-to-real-microsoft-copilot-ai-confidence/"&gt;</description>
+										<ns3:encoded>
+&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="1024" height="576" src="https://www.microsoft.com/en-us/research/wp-content/uploads/2026/10/FromSyntheticEnterprise-BlogHeroFeature-1400x788-1-1024x576.jpg" alt="Illustration on a purple and blue gradient background showing three white line icons: a hierarchical organizational chart, a checklist with checkmarks,</ns3:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Microsoft Research Focus – Edition #97</title>
+		<link>https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-97/</link>
+		
+		<dc:creator>Sowbhagya Suresh</dc:creator>
+		<pubDate>Thu, 29 Oct 2026 19:19:16 +0000</pubDate>
+				<category>Microsoft Research Podcast</category>
+		<guid isPermaLink="false">https://www.microsoft.com/en-us/research/?p=1191933</guid>
+
+					<description>&lt;p&gt;Host Sowbhagya Suresh shares some of the latest news and cutting-edge research from across Microsoft—from understanding the challenges facing coding agents to uncovering how people use AI at work and improving extended-range weather forecasting.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-97/"&gt;Microsoft Research Focus – Edition #97&lt;</description>
+										<ns3:encoded>
+&lt;style data-wp-block-html="css"&gt;
+.yt-consent-placeholder[data-video-id="k6oC-6TPAr8"] {
+ aspect-ratio: 9 / 16;
+ max-width: 480px;
+ margin: 24px auto 48px auto;
+}
+&lt;/style&gt;
+
+&lt;iframe src="https://www.youtube-nocookie.com/embed/k6oC-6TPAr8?rel=0&amp;#038;enablejsapi=1" title="Microsoft Research Focus – Edition #97
+" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyrosco</ns3:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Flint-interactive: A language for creating interactive data visualizations</title>
+		<link>https://www.microsoft.com/en-us/research/blog/flint-interactive-a-language-for-creating-interactive-data-visualizations/</link>
+		
+		<dc:creator>Chenglong Wang, Yuwei  Xiao, Alper Sarikaya, Michel Galley, Chris Quirk, Jianfeng Gao</dc:creator>
+		<pubDate>Thu, 22 Oct 2026 16:00:00 +0000</pubDate>
+				<category>Research Blog</category>
+		<guid isPermaLink="false">https://www.microsoft.com/en-us/research/?p=1190353</guid>
+
+					<description>&lt;p&gt;Flint-interactive gives AI agents a language for creating interactive visualizations. Click a chart, filter data, highlight related content, and explore beyond the view the author originally chose.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.microsoft.com/en-us/research/blog/flint-interactive-a-language-for-creating-interactive-data-visualizations/"&gt;Flint-interactive: A language for creating interacti</description>
+										<ns3:encoded>
+&lt;figure class="wp-block-image size-full"&gt;&lt;img loading="lazy" decoding="async" width="1400" height="788" src="https://www.microsoft.com/en-us/research/wp-content/uploads/2026/10/FlintInteractive-BlogHeroFeature-1400x788-1.jpg" alt="Flint Interactive flowchart | purple gradient background" class="wp-image-1190357" srcset="https://www.microsoft.com/en-us/research/wp-content/uploads/2026/10/FlintInte</ns3:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Solving a 31-year-old grand challenge in mathematics – the KLS conjecture</title>
+		<link>https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture/</link>
+		
+		<dc:creator>Xinzhi Zhang</dc:creator>
+		<pubDate>Wed, 21 Oct 2026 16:00:00 +0000</pubDate>
+				<category>Research Blog</category>
+		<guid isPermaLink="false">https://www.microsoft.com/en-us/research/?p=1190191</guid>
+
+					<description>&lt;p&gt;For decades, a fundamental question about the difficulty of computing in high-dimensional spaces has resisted proof. New research resolves this question, removing a major theoretical obstacle to understanding the efficiency of randomized algorithms used across science and computing. The Kannan–Lovász–Simonovits (KLS) conjecture was proposed in 1995. It asks whether, for a broad class of high-di</description>
+										<ns3:encoded>
+&lt;h2 id="microsoft-researcher-and-collaborator-combine-new-mathematical-ideas-with-human-directed-ai-to-resolve-a-central-problem-in-high-dimensional-geometry-and-probability" class="wp-block-heading h3"&gt;Microsoft researcher and collaborator combine new mathematical ideas with human-directed AI to resolve a central problem in high-dimensional geometry and probability&lt;/h2&gt;
+
+
+
+&lt;figure class="wp-bloc</ns3:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Called to serve: Tech, research, and positive impact</title>
+		<link>https://www.microsoft.com/en-us/research/podcast/called-to-serve-tech-research-and-positive-impact-with-chris-white/</link>
+		
+		<dc:creator>Weishung Liu, Chris White</dc:creator>
+		<pubDate>Tue, 20 Oct 2026 16:00:00 +0000</pubDate>
+				<category>Microsoft Research Podcast</category>
+		<guid isPermaLink="false">https://www.microsoft.com/en-us/research/?p=1185073</guid>
+
+					<description>&lt;p&gt;Lab Director Chris White has worked on research challenges with real-world implications—from new approaches to wartime data analysis to tools for combating human trafficking. He talks to program manager Weishung Liu about the influences that led to the work and more.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.microsoft.com/en-us/research/podcast/called-to-serve-tech-research-and-positive-impact-with-</description>
+										<ns3:encoded>
+&lt;figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"&gt;&lt;div class="wp-block-embed__wrapper"&gt;
+&lt;iframe loading="lazy" title="Called to serve: Tech, research, and positive impact with Chris White" width="500" height="281" src="https://www.youtube-nocookie.com/embed/Ap71pyHK8c8?feature=oembed&amp;#038;rel=0&amp;#038;enablejsapi=1" fram</ns3:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Proof-based general-purpose computing with Magnetar</title>
+		<link>https://www.microsoft.com/en-us/research/blog/proof-based-general-purpose-computing-with-magnetar/</link>
+		
+		<dc:creator>Srinath Setty</dc:creator>
+		<pubDate>Thu, 15 Oct 2026 16:00:00 +0000</pubDate>
+				<category>Research Blog</category>
+		<guid isPermaLink="false">https://www.microsoft.com/en-us/research/?p=1189337</guid>
+
+					<description>&lt;p&gt;Zero-knowledge proofs can verify computing results without rerunning workloads or exposing sensitive data. Magnetar helps bring them into the mainstream with support for standard programming languages, major speed gains, and quantum-resistant security.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.microsoft.com/en-us/research/blog/proof-based-general-purpose-computing-with-magnetar/"&gt;Proof-based general</description>
+										<ns3:encoded>
+&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="1024" height="576" src="https://www.microsoft.com/en-us/research/wp-content/uploads/2026/10/Magnetar-BlogHeroFeature-1400x788-1-1024x576.jpg" alt="Magnetar proves a program's execution and returns a small proof that anyone can check, with security resting only on standard hash functions." class="wp-image-1189709</ns3:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Simulating student learning for better AI tutoring</title>
+		<link>https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring/</link>
+		
+		<dc:creator>Ke Yang, Chenglong Wang, Michel Galley, Jeevana Priya Inala, ChengXiang Zhai, Jianfeng Gao</dc:creator>
+		<pubDate>Mon, 12 Oct 2026 16:00:00 +0000</pubDate>
+				<category>Research Blog</category>
+		<guid isPermaLink="false">https://www.microsoft.com/en-us/research/?p=1185936</guid>
+
+					<description>&lt;p&gt;StudentSim is a research system for evaluating and improving AI tutoring tools before they are tested with learners. It models how individuals may engage with tutors, giving feedback to improve tutor performance across subjects like chess, writing, and mathematics.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring/"&gt;Simulat</description>
+										<ns3:encoded>
+&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="1024" height="576" src="https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/StudentSim-BlogHeroFeature-1400x788-1-1024x576.jpg" alt="A conceptual diagram of the feedback loop required to improve an AI tutor. The middle part of the figure shows that a human teacher gives guidance to a real student</ns3:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses</title>
+		<link>https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses/</link>
+		
+		<dc:creator>Zhiyuan He, Yuqing Yang</dc:creator>
+		<pubDate>Wed, 07 Oct 2026 16:00:00 +0000</pubDate>
+				<category>Research Blog</category>
+		<guid isPermaLink="false">https://www.microsoft.com/en-us/research/?p=1187920</guid>
+
+					<description>&lt;p&gt;Training AI agents with reinforcement learning can be challenging because their tools, context, and decision-making are managed by complex frameworks. Agent Lightning connects existing agents to RL training, making it easier to improve them without rebuilding them.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-fram</description>
+										<ns3:encoded>
+&lt;figure class="wp-block-image size-full"&gt;&lt;img loading="lazy" decoding="async" width="1400" height="788" src="https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/AgentLightning-BlogHeroFeature-1400x788-1.jpg" alt="System architecture diagram. On the left, agents with harnesses — mini-SWE-agent, OpenHands, and OpenClaw — run on a Kubernetes cluster. They connect to three components:</ns3:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

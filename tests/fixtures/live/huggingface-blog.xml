@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
+ <channel>
+  <ns0:link href="https://huggingface.co/blog/feed.xml" rel="self" type="application/rss+xml" />
+  <title>Hugging Face - Blog</title>
+  <link>https://huggingface.co/blog</link>
+  <description>The Hugging Face blog</description>
+  <language>en-US</language>
+  <item>
+   <title>Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context </title>
+   <pubDate>Mon, 09 Nov 2026 15:05:57 GMT</pubDate>
+   <link>https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan</link>
+   <guid isPermaLink="false">https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan</guid>
+  </item>
+  <item>
+   <title>Your Experts Have Partners. There's HOPE for Keeping Them Together</title>
+   <pubDate>Mon, 09 Nov 2026 12:34:29 GMT</pubDate>
+   <link>https://huggingface.co/blog/amazon/higher-order-pruning-experts</link>
+   <guid isPermaLink="false">https://huggingface.co/blog/amazon/higher-order-pruning-experts</guid>
+  </item>
+  <item>
+   <title>ToyBlocks: A controlled world for robot learning and evaluation</title>
+   <pubDate>Fri, 06 Nov 2026 14:00:48 GMT</pubDate>
+   <link>https://huggingface.co/blog/allenai/toyblocks</link>
+   <guid isPermaLink="false">https://huggingface.co/blog/allenai/toyblocks</guid>
+  </item>
+  <item>
+   <title>Egyptian and Nigerian English join the Open ASR Leaderboard</title>
+   <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
+   <link>https://huggingface.co/blog/open-asr-leaderboard-liva</link>
+   <guid isPermaLink="true">https://huggingface.co/blog/open-asr-leaderboard-liva</guid>
+  </item>
+  <item>
+   <title>A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.</title>
+   <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
+   <link>https://huggingface.co/blog/phonon-tts</link>
+   <guid isPermaLink="true">https://huggingface.co/blog/phonon-tts</guid>
+  </item>
+  <item>
+   <title>Dharma Field Extractor: Any Document In, Structured Fields in JSON Out</title>
+   <pubDate>Wed, 04 Nov 2026 17:50:10 GMT</pubDate>
+   <link>https://huggingface.co/blog/Dharma-AI/dharma-field-extractor</link>
+   <guid isPermaLink="false">https://huggingface.co/blog/Dharma-AI/dharma-field-extractor</guid>
+  </item>
+  <item>
+   <title>Palette: teaching a small model to build decks in your design language</title>
+   <pubDate>Tue, 03 Nov 2026 16:35:36 GMT</pubDate>
+   <link>https://huggingface.co/blog/ibm-research/palette-deck-building</link>
+   <guid isPermaLink="false">https://huggingface.co/blog/ibm-research/palette-deck-building</guid>
+  </item>
+  <item>
+   <title>CWE-bench v2: More coverage, quality, and transparency</title>
+   <pubDate>Tue, 03 Nov 2026 00:00:00 GMT</pubDate>
+   <link>https://huggingface.co/blog/cwe-bench</link>
+   <guid isPermaLink="true">https://huggingface.co/blog/cwe-bench</guid>
+  </item>
+  <item>
+   <title>Transformers Model Integration Contracts</title>
+   <pubDate>Tue, 03 Nov 2026 00:00:00 GMT</pubDate>
+   <link>https://huggingface.co/blog/transformers-mic</link>
+   <guid isPermaLink="true">https://huggingface.co/blog/transformers-mic</guid>
+  </item>
+  <item>
+   <title>Granite Switch 4.1.1 — Update models like you update software</title>
+   <pubDate>Thu, 29 Oct 2026 13:37:07 GMT</pubDate>
+   <link>https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1</link>
+   <guid isPermaLink="false">https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1</guid>
+  </item>
+  <item>
+   <title>Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready</title>
+   <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
+   <link>https://huggingface.co/blog/announcing-project-protostar</link>
+   <guid isPermaLink="true">https://huggingface.co/blog/announcing-project-protostar</guid>
+  </item>
+  <item>
+   <title>Welcome Le Chonk: Mistral Large 4 on Hugging Face</title>
+   <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
+   <link>https://huggingface.co/blog/mistral-large4</link>
+   <guid isPermaLink="true">https://huggingface.co/blog/mistral-large4</guid>
+  </item>
+  <item>
+   <title>Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms</title>
+   <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
+   <link>https://huggingface.co/blog/anydecisionmodel</link>
+   <guid isPermaLink="true">https://huggingface.co/blog/anydecisionmodel</guid>
+  </item>
+  <item>
+   <title>Build specialized multimodal models with LFM3</title>
+   <pubDate>Tue, 27 Oct 2026 17:16:52 GMT</pubDate>
+   <link>https://huggingface.co/blog/LiquidAI/lfm3</link>
+   <guid isPermaLink="false">https://huggingface.co/blog/LiquidAI/lfm3</guid>
+  </item>
+  <item>
+   <title>Does Your Model Run on AWS Trainium? Look It Up</title>
+   <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
+   <link>https://huggingface.co/blog/torch-neuronx-model-support</link>
+   <guid isPermaLink="true">https://huggingface.co/blog/torch-neuronx-model-support</guid>
+  </item>
+  <item>
+   <title>Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox</title>
+   <pubDate>Thu, 22 Oct 2026 22:24:34 GMT</pubDate>
+   <link>https://huggingface.co/blog/microsoft/thinkingbox-training</link>
+   <guid isPermaLink="false">https://huggingface.co/blog/microsoft/thinkingbox-training</guid>
+  </item>
+  <item>
+   <title>How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications</title>
+   <pubDate>Wed, 21 Oct 2026 17:35:36 GMT</pubDate>
+   <link>https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization</link>
+   <guid isPermaLink="false">https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization</guid>
+  </item>
+  <item>
+   <title>Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.</title>
+   <pubDate>Wed, 21 Oct 2026 16:04:43 GMT</pubDate>
+   <link>https://huggingface.co/blog/amazon/profiling-torchneuron-part-1</link>
+   <guid isPermaLink="false">https://huggingface.co/blog/amazon/profiling-torchneuron-part-1</guid>
+  </item>
+  <item>
+   <title>Hugging Face ❤️ TorchTPU: TPUs, Natively</title>
+   <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
+   <link>https://huggingface.co/blog/hf-torchtpu</link>
+   <guid isPermaLink="true">https://huggingface.co/blog/hf-torchtpu</guid>
+  </item>
+  <item>
+   <title>AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms</title>
+   <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
+   <link>https://huggingface.co/blog/anylanguagemodel-1-0</link>
+   <guid isPermaLink="true">https://huggingface.co/blog/anylanguagemodel-1-0</guid>
+  </item>
+  </channel>
+</rss>

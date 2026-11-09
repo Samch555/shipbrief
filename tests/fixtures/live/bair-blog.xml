@@ -1,0 +1,200 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>The Berkeley Artificial Intelligence Research Blog</title>
+    <description>The BAIR Blog</description>
+    <link>http://bair.berkeley.edu/blog/</link>
+    <ns0:link href="http://bair.berkeley.edu/blog/feed.xml" rel="self" type="application/rss+xml" />
+    
+     
+      <item>
+        <title>From CUDA to MLX: How K-Search Brings Decades of Kernel Expertise to Apple Silicon</title>
+        <description>&lt;!-- twitter --&gt;
+&lt;meta name="twitter:title" content="From CUDA to MLX: How K-Search Brings Decades of Kernel Expertise to Apple Silicon" /&gt;
+
+&lt;meta name="twitter:card" content="summary_large_image" /&gt;
+
+&lt;meta name="twitter:image" content="https://bair.berkeley.edu/static/blog/cuda-to-mlx-k-search/cover.png" /&gt;
+
+&lt;meta name="keywords" content="CUDA, MLX, Apple Silicon, kernel optimization, evolutionar</description>
+        <pubDate>Wed, 29 Jul 2026 02:00:00 -0700</pubDate>
+        <link>http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search/</link>
+        <guid isPermaLink="true">http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search/</guid>
+      </item>
+     
+    
+     
+      <item>
+        <title>Teaching LLMs to Update Beliefs for Efficient Long-Horizon Interaction</title>
+        <description>&lt;!-- twitter --&gt;
+&lt;meta name="twitter:title" content="Teaching LLMs to Update Beliefs for Efficient Long-Horizon Interaction" /&gt;
+
+&lt;meta name="twitter:card" content="summary_large_image" /&gt;
+
+&lt;meta name="twitter:image" content="https://bair.berkeley.edu/static/blog/abbel/cover.png" /&gt;
+
+&lt;meta name="keywords" content="Long Horizon, LLM training, Summarization, Efficient Context Representation, Context </description>
+        <pubDate>Sun, 26 Jul 2026 02:00:00 -0700</pubDate>
+        <link>http://bair.berkeley.edu/blog/2026/07/26/abbel/</link>
+        <guid isPermaLink="true">http://bair.berkeley.edu/blog/2026/07/26/abbel/</guid>
+      </item>
+     
+    
+     
+      <item>
+        <title>Intelligence is Free, Now What? &lt;br&gt; Data Systems for, of, and by Agents</title>
+        <description>&lt;!-- twitter --&gt;
+&lt;meta name="twitter:title" content="Intelligence is Free, Now What? Data Systems for, of, and by Agents" /&gt;
+
+&lt;meta name="twitter:card" content="summary_large_image" /&gt;
+
+&lt;meta name="twitter:image" content="https://bair.berkeley.edu/static/blog/intelligence-is-free-now-what/image6.png" /&gt;
+
+&lt;meta name="keywords" content="data systems, AI agents, agentic workloads, LLM inference cost,</description>
+        <pubDate>Tue, 07 Jul 2026 02:00:00 -0700</pubDate>
+        <link>http://bair.berkeley.edu/blog/2026/07/07/intelligence-is-free-now-what/</link>
+        <guid isPermaLink="true">http://bair.berkeley.edu/blog/2026/07/07/intelligence-is-free-now-what/</guid>
+      </item>
+     
+    
+     
+      <item>
+        <title>2026 BAIR Graduate Showcase</title>
+        <description>&lt;!-- twitter --&gt;
+&lt;meta name="twitter:title" content="2026 BAIR Graduate Showcase" /&gt;
+
+&lt;meta name="twitter:card" content="summary_large_image" /&gt;
+
+&lt;meta name="keywords" content="graduates, celebration, showcase" /&gt;
+
+&lt;meta name="description" content="The BAIR Blog" /&gt;
+
+&lt;meta name="author" content="Berkeley AI Research Editors" /&gt;
+
+&lt;p&gt;Congratulations to the Berkeley Artificial Intelligence Research (</description>
+        <pubDate>Wed, 01 Jul 2026 02:00:00 -0700</pubDate>
+        <link>http://bair.berkeley.edu/blog/2026/07/01/grads-2026/</link>
+        <guid isPermaLink="true">http://bair.berkeley.edu/blog/2026/07/01/grads-2026/</guid>
+      </item>
+     
+    
+     
+      <item>
+        <title>Adaptive Parallel Reasoning: The Next Paradigm in Efficient Inference Scaling</title>
+        <description>&lt;!-- twitter --&gt;
+&lt;meta name="twitter:title" content="Adaptive Parallel Reasoning: The Next Paradigm in Efficient Inference Scaling" /&gt;
+
+&lt;meta name="twitter:card" content="summary_large_image" /&gt;
+
+&lt;meta name="twitter:image" content="https://bair.berkeley.edu/static/blog/adaptive-parallel-reasoning/cover.png" /&gt;
+
+&lt;meta name="keywords" content="adaptive parallel reasoning, LLM inference, fork-join, p</description>
+        <pubDate>Fri, 08 May 2026 02:00:00 -0700</pubDate>
+        <link>http://bair.berkeley.edu/blog/2026/05/08/adaptive-parallel-reasoning/</link>
+        <guid isPermaLink="true">http://bair.berkeley.edu/blog/2026/05/08/adaptive-parallel-reasoning/</guid>
+      </item>
+     
+    
+     
+      <item>
+        <title>Gradient-based Planning for World Models at Longer Horizons</title>
+        <description>&lt;!-- twitter --&gt;
+&lt;meta name="twitter:title" content="Gradient-based Planning for World Models at Longer Horizons" /&gt;
+
+&lt;meta name="twitter:card" content="summary_large_image" /&gt;
+
+&lt;meta name="twitter:image" content="https://bair.berkeley.edu/static/blog/grasp/pusht_zoomout.gif" /&gt;
+
+&lt;meta name="keywords" content="world models, planning, adversarial robustness, gradient-based optimization" /&gt;
+
+&lt;meta n</description>
+        <pubDate>Mon, 20 Apr 2026 02:00:00 -0700</pubDate>
+        <link>http://bair.berkeley.edu/blog/2026/04/20/grasp/</link>
+        <guid isPermaLink="true">http://bair.berkeley.edu/blog/2026/04/20/grasp/</guid>
+      </item>
+     
+    
+     
+      <item>
+        <title>Identifying Interactions at Scale for LLMs</title>
+        <description>&lt;!-- twitter --&gt;
+&lt;meta name="twitter:title" content="Identifying Interactions at Scale for LLMs" /&gt;
+
+&lt;meta name="twitter:card" content="summary_large_image" /&gt;
+
+&lt;meta name="twitter:image" content="https://bair.berkeley.edu/static/blog/spex/teaser.png" /&gt;
+
+&lt;meta name="keywords" content="" /&gt;
+
+&lt;meta name="description" content="The BAIR Blog" /&gt;
+
+&lt;meta name="author" content="Landon Butler, Justin Sin</description>
+        <pubDate>Fri, 13 Mar 2026 02:00:00 -0700</pubDate>
+        <link>http://bair.berkeley.edu/blog/2026/03/13/spex/</link>
+        <guid isPermaLink="true">http://bair.berkeley.edu/blog/2026/03/13/spex/</guid>
+      </item>
+     
+    
+     
+      <item>
+        <title>Information-Driven Design of Imaging Systems</title>
+        <description>&lt;!--
+These are comments in HTML. The above header text is needed to format the
+title, authors, etc. The "information-driven-imaging" is the representative image
+that we use for each post for tweeting (see below as well) and for the
+emails to subscribers.
+
+The `static/blog` directory is a location on the blog server which permanently
+stores the images/GIFs in BAIR Blog posts. Each post has a subdir</description>
+        <pubDate>Sat, 10 Jan 2026 01:00:00 -0800</pubDate>
+        <link>http://bair.berkeley.edu/blog/2026/01/10/information-driven-imaging/</link>
+        <guid isPermaLink="true">http://bair.berkeley.edu/blog/2026/01/10/information-driven-imaging/</guid>
+      </item>
+     
+    
+     
+      <item>
+        <title>RL without TD learning</title>
+        <description>&lt;!-- twitter --&gt;
+&lt;meta name="twitter:title" content="RL without TD learning" /&gt;
+
+&lt;meta name="twitter:card" content="summary_large_image" /&gt;
+
+&lt;meta name="twitter:image" content="https://bair.berkeley.edu/static/blog/rl-without-td-learning/teaser.png" /&gt;
+
+&lt;meta name="keywords" content="" /&gt;
+
+&lt;meta name="description" content="The BAIR Blog" /&gt;
+
+&lt;meta name="author" content="Seohong Park" /&gt;
+
+&lt;p&gt;In thi</description>
+        <pubDate>Sat, 01 Nov 2025 02:00:00 -0700</pubDate>
+        <link>http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/</link>
+        <guid isPermaLink="true">http://bair.berkeley.edu/blog/2025/11/01/rl-without-td-learning/</guid>
+      </item>
+     
+    
+     
+      <item>
+        <title>What exactly does word2vec learn?</title>
+        <description>&lt;!-- twitter --&gt;
+&lt;meta name="twitter:title" content="What exactly does word2vec learn? A complete theory" /&gt;
+
+&lt;meta name="twitter:card" content="summary_large_image" /&gt;
+
+&lt;meta name="twitter:image" content="https://bair.berkeley.edu/static/blog/qwem-word2vec-theory/fig1.c8u1a3E7_Z23iPso.webp" /&gt;
+
+&lt;meta name="keywords" content="" /&gt;
+
+&lt;meta name="description" content="The BAIR Blog" /&gt;
+
+&lt;meta name="a</description>
+        <pubDate>Mon, 01 Sep 2025 02:00:00 -0700</pubDate>
+        <link>http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/</link>
+        <guid isPermaLink="true">http://bair.berkeley.edu/blog/2025/09/01/qwem-word2vec-theory/</guid>
+      </item>
+     
+    
+  </channel>
+</rss>

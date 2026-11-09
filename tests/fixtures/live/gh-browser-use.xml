@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <ns0:id>tag:github.com,2008:https://github.com/browser-use/browser-use/releases</ns0:id>
+  <ns0:link type="text/html" rel="alternate" href="https://github.com/browser-use/browser-use/releases" />
+  <ns0:link type="application/atom+xml" rel="self" href="https://github.com/browser-use/browser-use/releases.atom" />
+  <ns0:title>Release notes from browser-use</ns0:title>
+  <ns0:updated>2026-11-09T16:45:24Z</ns0:updated>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/881458615/1.0.0rc2</ns0:id>
+    <ns0:updated>2026-11-09T16:52:16Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/browser-use/browser-use/releases/tag/1.0.0rc2" />
+    <ns0:title>1.0.0rc2: release candidate for browser-use 1.0</ns0:title>
+    <ns0:content type="html">&lt;blockquote&gt;
+&lt;p&gt;Release candidate (first one published; the 1.0.0rc1 version number was unusable on PyPI). Install it explicitly. Plain &lt;code&gt;pip install browser-use&lt;/code&gt; and &lt;code&gt;uv add browser-use&lt;/code&gt; still give you 0.13.14 until 1.0.0 ships. Please report problems at &lt;a href="https://github.com/browser-use/browser-use/issues"&gt;https://github.com/browser-use/browser-use/issues&lt;/a&gt; and say y</ns0:content>
+    <ns0:author>
+      <ns0:name>gregpr07</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/36313686?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/881458615/0.13.14</ns0:id>
+    <ns0:updated>2026-10-26T22:00:34Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/browser-use/browser-use/releases/tag/0.13.14" />
+    <ns0:title>0.13.14: Python agent and integration updates</ns0:title>
+    <ns0:content type="html">&lt;p&gt;This release keeps the Python agent and its existing models. The Pi migration remains separate.&lt;/p&gt;
+&lt;p&gt;Changes since the last PyPI release:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Add OpenAI browser tools and the shared Bash helper.&lt;/li&gt;
+&lt;li&gt;Improve bounded page observations, form state, file access, and browser recovery.&lt;/li&gt;
+&lt;li&gt;Fix temporary empty Cloud tab URLs.&lt;/li&gt;
+&lt;li&gt;Keep screenshots, crops, and clicks aligned on</ns0:content>
+    <ns0:author>
+      <ns0:name>MagMueller</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/67061560?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/881458615/0.13.13</ns0:id>
+    <ns0:updated>2026-10-15T23:50:45Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/browser-use/browser-use/releases/tag/0.13.13" />
+    <ns0:title>0.13.13: OpenAI browser tools and Cloud fixes</ns0:title>
+    <ns0:content type="html">&lt;p&gt;This release includes the OpenAI browser-tool driver and fixes two integration issues.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Handle temporary empty Cloud tab URLs during navigation.&lt;/li&gt;
+&lt;li&gt;Keep screenshots, crops, and pointer coordinates aligned on scaled displays.&lt;/li&gt;
+&lt;li&gt;Provide 18 default browser tools and six optional actions through Browser Use Actor.&lt;/li&gt;
+&lt;li&gt;Support local browsers, Browser Use Cloud, and borr</ns0:content>
+    <ns0:author>
+      <ns0:name>MagMueller</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/67061560?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/881458615/0.13.12</ns0:id>
+    <ns0:updated>2026-10-15T23:37:58Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/browser-use/browser-use/releases/tag/0.13.12" />
+    <ns0:title>0.13.12: OpenAI browser tools</ns0:title>
+    <ns0:content type="html">&lt;p&gt;Add OpenAI browser tools backed by Browser Use Actor.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Import &lt;code&gt;BrowserUse&lt;/code&gt; from &lt;code&gt;browser_use.integrations.openai&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;Install &lt;code&gt;browser-use[openai-tools]&lt;/code&gt; to enable OpenAI Python 3.31+.&lt;/li&gt;
+&lt;li&gt;Use local browsers, Browser Use Cloud, or an existing connected BrowserSession.&lt;/li&gt;
+&lt;li&gt;Support the 18 default browser tools and six optional actions.&lt;</ns0:content>
+    <ns0:author>
+      <ns0:name>MagMueller</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/67061560?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/881458615/0.13.11</ns0:id>
+    <ns0:updated>2026-10-07T04:23:18Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/browser-use/browser-use/releases/tag/0.13.11" />
+    <ns0:title>0.13.11</ns0:title>
+    <ns0:content type="html">&lt;p&gt;This release includes Browser Use toolsets for Claude, available at &lt;code&gt;browser_use.integrations.toolsets_for_claude&lt;/code&gt;. The integration requires an Anthropic SDK release containing &lt;code&gt;anthropic.tools.browser&lt;/code&gt;; the current public Anthropic SDK does not yet include it.&lt;/p&gt;
+&lt;p&gt;Documentation: &lt;a href="https://docs.browser-use.com/open-source/customize/integrations/toolsets-for-claud</ns0:content>
+    <ns0:author>
+      <ns0:name>MagMueller</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/67061560?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/881458615/0.13.10</ns0:id>
+    <ns0:updated>2026-09-04T03:28:53Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/browser-use/browser-use/releases/tag/0.13.10" />
+    <ns0:title>0.13.10</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;Browser Use 0.13.10&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Upgrade Browser Harness to 0.1.13.&lt;/li&gt;
+&lt;li&gt;Exact-pin all declared runtime, optional, development, and build dependencies.&lt;/li&gt;
+&lt;li&gt;Upgrade and migrate to MCP Python SDK 2.1.1.&lt;/li&gt;
+&lt;li&gt;Add pydantic-settings 2.15.0 as an explicit runtime dependency.&lt;/li&gt;
+&lt;li&gt;Pin Pydantic 2.13.5 and Hatchling 1.32.0.&lt;/li&gt;
+&lt;li&gt;Upgrade pypdf to 6.16.2, resolving the three current</ns0:content>
+    <ns0:author>
+      <ns0:name>MagMueller</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/67061560?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/881458615/0.13.9</ns0:id>
+    <ns0:updated>2026-09-04T01:29:32Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/browser-use/browser-use/releases/tag/0.13.9" />
+    <ns0:title>0.13.9</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;fix(llm): make bu-2-0 the ChatBrowserUse default again, keep mini opt-in by &lt;a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/sauravpanda/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/sauravpanda"&gt;@sauravpanda&lt;/a&gt; in &lt;a class="issue-link js-issue-link" data-er</ns0:content>
+    <ns0:author>
+      <ns0:name>MagMueller</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/67061560?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/881458615/0.13.8</ns0:id>
+    <ns0:updated>2026-08-16T18:48:54Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/browser-use/browser-use/releases/tag/0.13.8" />
+    <ns0:title>0.13.8</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Update Cerebras model IDs and default by &lt;a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/ryanl-cerebras/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/ryanl-cerebras"&gt;@ryanl-cerebras&lt;/a&gt; in &lt;a class="issue-link js-issue-link" data-error-text="Failed to load t</ns0:content>
+    <ns0:author>
+      <ns0:name>gregpr07</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/36313686?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/881458615/0.13.7</ns0:id>
+    <ns0:updated>2026-07-27T17:12:00Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/browser-use/browser-use/releases/tag/0.13.7" />
+    <ns0:title>0.13.7</ns0:title>
+    <ns0:content type="html">&lt;p&gt;Ships the latest version of the CLI, which includes bug fixes and better browser management.&lt;/p&gt;
+&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;fix: dont send default params in gemini genconfig by &lt;a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/markmcd/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/mar</ns0:content>
+    <ns0:author>
+      <ns0:name>laithrw</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/70768382?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/881458615/0.13.6</ns0:id>
+    <ns0:updated>2026-07-17T05:29:41Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/browser-use/browser-use/releases/tag/0.13.6" />
+    <ns0:title>0.13.6</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Release 0.13.6 with Browser Harness 0.1.6 by &lt;a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/gregpr07/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/gregpr07"&gt;@gregpr07&lt;/a&gt; in &lt;a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id=</ns0:content>
+    <ns0:author>
+      <ns0:name>gregpr07</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/36313686?s=60&amp;v=4" />
+  </ns0:entry>
+</ns0:feed>

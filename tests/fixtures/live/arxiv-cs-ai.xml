@@ -1,0 +1,274 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://arxiv.org/schemas/atom" version="2.0">
+  <channel>
+    <title>cs.AI updates on arXiv.org</title>
+    <link>http://rss.arxiv.org/rss/cs.AI</link>
+    <description>cs.AI updates on the arXiv.org e-print archive.</description>
+    <ns0:link href="http://rss.arxiv.org/rss/cs.AI" rel="self" type="application/rss+xml" />
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 09 Nov 2026 05:00:06 +0000</lastBuildDate>
+    <managingEditor>rss-help@arxiv.org</managingEditor>
+    <pubDate>Mon, 09 Nov 2026 00:00:00 -0500</pubDate>
+    <skipDays>
+      <day>Saturday</day>
+      <day>Sunday</day>
+    </skipDays>
+    <item>
+      <title>Enhancing Academic Advisement with Case-Based Reasoning</title>
+      <link>https://arxiv.org/abs/2611.08572</link>
+      <description>arXiv:2611.08572v1 Announce Type: new 
+Abstract: This research involved the study of an application of Case-Based Reasoning (CBR) in the field of academic advising. Academic advisement has been recognised as an important function of higher education. However, there is a widespread desire to improve the advisement services provided by many educational institutions (e.g., colleges and universities) </description>
+      <guid isPermaLink="false">oai:arXiv.org:2611.08572v1</guid>
+      <category>cs.AI</category>
+      <category>cs.CY</category>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 -0500</pubDate>
+      <ns1:announce_type>new</ns1:announce_type>
+      <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+      <ns1:DOI>10.25439/rmt.34846194</ns1:DOI>
+      <dc:creator>Tanat Tonguthaisri</dc:creator>
+    </item>
+    <item>
+      <title>NormGym: Evaluating Normative Competence through Social Interaction</title>
+      <link>https://arxiv.org/abs/2611.08613</link>
+      <description>arXiv:2611.08613v1 Announce Type: new 
+Abstract: Normative competence, the ability to infer socially enforced expectations from interaction and adjust behavior accordingly, is essential for agents operating in unfamiliar human communities. Yet existing evaluations largely test whether agents can recognize or apply norms they may already know, rather than whether they can acquire previously unknown</description>
+      <guid isPermaLink="false">oai:arXiv.org:2611.08613v1</guid>
+      <category>cs.AI</category>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 -0500</pubDate>
+      <ns1:announce_type>new</ns1:announce_type>
+      <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+      <dc:creator>Binze Li, Zihuan Zhang, Seokhyun Baek, Gillian K. Hadfield, Tianmin Shu</dc:creator>
+    </item>
+    <item>
+      <title>LLM-Based Feature Extraction for Multi-Criteria Inventory Classification</title>
+      <link>https://arxiv.org/abs/2611.08626</link>
+      <description>arXiv:2611.08626v1 Announce Type: new 
+Abstract: E-commerce supply chains generate large volumes of customer feedback and operational data that remain underutilized in inventory management. Traditional inventory classification techniques such as ABC analysis rely primarily on annual dollar usage, while multi-criteria inventory classification (MCIC) methods extend this but still depend on structure</description>
+      <guid isPermaLink="false">oai:arXiv.org:2611.08626v1</guid>
+      <category>cs.AI</category>
+      <category>cs.DB</category>
+      <category>cs.ET</category>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 -0500</pubDate>
+      <ns1:announce_type>new</ns1:announce_type>
+      <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+      <dc:creator>Humza Akhtar, Rami Pinto</dc:creator>
+    </item>
+    <item>
+      <title>Aspect-wise Pairwise Tournaments for Test-Time Selection</title>
+      <link>https://arxiv.org/abs/2611.08640</link>
+      <description>arXiv:2611.08640v1 Announce Type: new 
+Abstract: Scaling test-time compute has proven highly effective at improving LLM reasoning. A popular method is best-of-n sampling, where a model generates many candidate solutions and one is selected. This motivates the question: how can we select the best candidate? When humans make choices, we find it more natural to compare two options than judge each in </description>
+      <guid isPermaLink="false">oai:arXiv.org:2611.08640v1</guid>
+      <category>cs.AI</category>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 -0500</pubDate>
+      <ns1:announce_type>new</ns1:announce_type>
+      <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+      <dc:creator>Hannah Guan, Yilun Du</dc:creator>
+    </item>
+    <item>
+      <title>Decision Context: Persistent Behavioral Learning for AI Agents</title>
+      <link>https://arxiv.org/abs/2611.08644</link>
+      <description>arXiv:2611.08644v1 Announce Type: new 
+Abstract: LLM agents do not learn from corrections across sessions. A user fixes the same mistake at the start of every conversation. Existing agent memory systems primarily handle facts, such as preferences, entities, and conversational history, rather than procedural knowledge.
+  We present Forge Decision Context (forge_dc), a system that captures behaviora</description>
+      <guid isPermaLink="false">oai:arXiv.org:2611.08644v1</guid>
+      <category>cs.AI</category>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 -0500</pubDate>
+      <ns1:announce_type>new</ns1:announce_type>
+      <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+      <dc:creator>Nima Vahdat, Pashootan Vaezipoor</dc:creator>
+    </item>
+    <item>
+      <title>IWIBench: Evaluating Gradient-Free Model Driven Intra-weight Injection</title>
+      <link>https://arxiv.org/abs/2611.08647</link>
+      <description>arXiv:2611.08647v1 Announce Type: new 
+Abstract: Intra-weight injection lets one model change another model's behaviour by editing its weights directly, without gradients. Such edits can range from altering lexical associations to enforcing output formats or updating factual knowledge. Despite growing interest in these approaches, there has been no systematic way to evaluate how well models perfor</description>
+      <guid isPermaLink="false">oai:arXiv.org:2611.08647v1</guid>
+      <category>cs.AI</category>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 -0500</pubDate>
+      <ns1:announce_type>new</ns1:announce_type>
+      <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+      <dc:creator>Chris von Csefalvay, Pranav Doma, Achyuthan Unni Krishnan, Tam\'as F\"oldi</dc:creator>
+    </item>
+    <item>
+      <title>Pdb or Not to Be: Comparing Debugging Interfaces With Pass$_{X}$@$k$</title>
+      <link>https://arxiv.org/abs/2611.08666</link>
+      <description>arXiv:2611.08666v1 Announce Type: new 
+Abstract: Interactive debuggers are indispensable to human software development, yet coding agents overwhelmingly rely on edit-execute-observe loops, using common bash tools, test scripts, and print statements to debug via repeated shell commands. Stepping through a debugger provides live access to runtime state, which may enable different problem-solving cap</description>
+      <guid isPermaLink="false">oai:arXiv.org:2611.08666v1</guid>
+      <category>cs.AI</category>
+      <category>cs.SE</category>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 -0500</pubDate>
+      <ns1:announce_type>new</ns1:announce_type>
+      <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+      <dc:creator>Ryan Magnuson, Ellie Kitanidis, Ariel Lee</dc:creator>
+    </item>
+    <item>
+      <title>ChainFlow: Few-Step Latent Flow Matching for Speculative Decoding</title>
+      <link>https://arxiv.org/abs/2611.08669</link>
+      <description>arXiv:2611.08669v1 Announce Type: new 
+Abstract: Speculative decoding has become a standard way to accelerate LLM inference: a lightweight drafter proposes tokens that the target verifies in one parallel pass. Existing drafters face trade-offs that limits their speedups: autoregressive drafters generate tokens one at a time, so drafting cost grows with draft length, while diffusion drafters genera</description>
+      <guid isPermaLink="false">oai:arXiv.org:2611.08669v1</guid>
+      <category>cs.AI</category>
+      <category>cs.CL</category>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 -0500</pubDate>
+      <ns1:announce_type>new</ns1:announce_type>
+      <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+      <dc:creator>Selim Aktas, Yusuf Erdem Erdem, Ahmed Zeer, Himmet Toprak Kesgin, Muzaffer Kaan Yuce, Mehmet Fatih Amasyali</dc:creator>
+    </item>
+    <item>
+      <title>Transporting the Past: An Optimal Transport View of Backtracking Counterfactuals</title>
+      <link>https://arxiv.org/abs/2611.08682</link>
+      <description>arXiv:2611.08682v1 Announce Type: new 
+Abstract: We study backtracking counterfactual inference for Structural Causal Models (SCMs) through the lens of optimal transport. In SCMs, a factual observation generally induces a posterior distribution over exogenous variables, making counterfactual inference inherently distributional. We introduce two complementary frameworks that transport this posterio</description>
+      <guid isPermaLink="false">oai:arXiv.org:2611.08682v1</guid>
+      <category>cs.AI</category>
+      <category>cs.LG</category>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 -0500</pubDate>
+      <ns1:announce_type>new</ns1:announce_type>
+      <dc:rights>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</dc:rights>
+      <dc:creator>Zhangyi Liu, Pouria Fatemi, Suvrit Sra</dc:creator>
+    </item>
+    <item>
+      <title>Cancellation Is Not Enough: What Retries Leave Behind in an Overloaded LLM Engine</title>
+      <link>https://arxiv.org/abs/2611.08684</link>
+      <description>arXiv:2611.08684v1 Announce Type: new 
+Abstract: Clients and proxies in front of an LLM engine retry calls that time out. After a transient overload, these retries can keep the engine from recovering even when calls arrive below its capacity. Since the engine may keep computing for clients that have left, propagating cancellation looks like the natural remedy. In this paper, we test it on vLLM wit</description>
+      <guid isPermaLink="false">oai:arXiv.org:2611.08684v1</guid>
+      <category>cs.AI</category>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 -0500</pubDate>
+      <ns1:announce_type>new</ns1:announce_type>
+      <dc:rights>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</dc:rights>
+      <dc:creator>Xindan Zhang, Fei Wang</dc:creator>
+    </item>
+    <item>
+      <title>Memory-Aware Multi-Agent Architecture with LLM-based Orchestration for Conversational Recommendation</title>
+      <link>https://arxiv.org/abs/2611.08718</link>
+      <description>arXiv:2611.08718v1 Announce Type: new 
+Abstract: Conversational recommender systems often treat user sessions in isolation, limiting their ability to capture how user intent evolves over time. While large language models (LLMs) have improved semantic understanding, they are typically used as isolated components, without addressing how memory, retrieval, and decision-making should be integrated at </description>
+      <guid isPermaLink="false">oai:arXiv.org:2611.08718v1</guid>
+      <category>cs.AI</category>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 -0500</pubDate>
+      <ns1:announce_type>new</ns1:announce_type>
+      <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+      <ns1:DOI>10.1007/978-3-032-39892-5_25</ns1:DOI>
+      <ns1:journal_reference>Recamonde-Mendoza, M., Barros, R.C. (eds) Intelligent Systems. BRACIS 2026. Lecture Notes in Computer Science(), vol 17106. Springer, Cham</ns1:journal_reference>
+      <dc:creator>Emilly Pitman de Castro, Vanessa Silva, Gustavo Kanno, Marcus Santos, Bruno Ferraz do Amaral, Marcelo Nogueira, Lucas Francisco Pellicer, Lucas Lanaro, Pedro Augusto Luiz, Jo\~ao Renato Ribeiro Manesco, Giovanni Carbinatti, Isabela de Lima Santos, Lucas Oliveira Jeronymo, Jeison Fappi, Raul Rotilli Aguirre, Fabio Andr\'e Frantz, Renata De Paris, Fabiana Marucci, Lohan Silva, Vinicius Diniz Reolon, Wandemberg Gibaut</dc:creator>
+    </item>
+    <item>
+      <title>AlterNet: Adaptive-Depth Mixture-of-Experts with Learned Halting for Elastic Inference</title>
+      <link>https://arxiv.org/abs/2611.08741</link>
+      <description>arXiv:2611.08741v1 Announce Type: new 
+Abstract: Most LLM architectures have fixed compute demands determined at training time. We propose a novel architecture that combines the Mixture-of-Experts architecture with shallow experts and a novel dynamic-depth system to make the extent of a forward pass dynamically adjustable. Our approach lets the model automatically determine the compute needed for </description>
+      <guid isPermaLink="false">oai:arXiv.org:2611.08741v1</guid>
+      <category>cs.AI</category>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 -0500</pubDate>
+      <ns1:announce_type>new</ns1:announce_type>
+      <dc:rights>http://creativecommons.org/licenses/by-nc-nd/4.0/</dc:rights>
+      <dc:creator>Alexander Kastius</dc:creator>
+    </item>
+    <item>
+      <title>AttentionSwitch: Jailbreak Defense for LLMs via Joint Learning of Sparse Attention-Head Selection and Scaling</title>
+      <link>https://arxiv.org/abs/2611.08752</link>
+      <description>arXiv:2611.08752v1 Announce Type: new 
+Abstract: Large language models have achieved remarkable performance across a wide range of tasks, yet they remain susceptible to jailbreak attacks that circumvent safety mechanisms and elicit harmful or unintended outputs. Although safety can be improved through model fine-tuning, such approaches can be computationally expensive and may degrade previously ac</description>
+      <guid isPermaLink="false">oai:arXiv.org:2611.08752v1</guid>
+      <category>cs.AI</category>
+      <category>cs.CL</category>
+      <category>cs.CR</category>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 -0500</pubDate>
+      <ns1:announce_type>new</ns1:announce_type>
+      <dc:rights>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</dc:rights>
+      <dc:creator>Doniyorkhon Obidov, Honggang Yu, Xiaolong Guo, Kaichen Yang</dc:creator>
+    </item>
+    <item>
+      <title>Debate to Deceive: Poisoning LLM's Fact-Checking via Game-Theoretic Multi-Agent Debate</title>
+      <link>https://arxiv.org/abs/2611.08756</link>
+      <description>arXiv:2611.08756v1 Announce Type: new 
+Abstract: Knowledge attacks on Large Language Models, such as manipulating fact-checking judgments, pose significant risks to AI reliability. Existing approaches -- adversarial suffix/template injection and single-agent self-reflection -- lack robustness across diverse defenses and are prone to confirmation bias and costly trial-and-error, respectively. We pr</description>
+      <guid isPermaLink="false">oai:arXiv.org:2611.08756v1</guid>
+      <category>cs.AI</category>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 -0500</pubDate>
+      <ns1:announce_type>new</ns1:announce_type>
+      <dc:rights>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</dc:rights>
+      <dc:creator>Liting Huang, Huizhi Liang, Yi Lei, Xingjun Ma, Varun Ojha</dc:creator>
+    </item>
+    <item>
+      <title>Jacobian-Causal Memory Control for Persistent Memory in Language Model Systems</title>
+      <link>https://arxiv.org/abs/2611.08779</link>
+      <description>arXiv:2611.08779v1 Announce Type: new 
+Abstract: Persistent-memory systems choose not only which records are retrieved but which prior information can alter current inference. We propose Jacobian-causal memory control (JCMC), which represents each authorized memory intervention by a predicted influence signature in a shared behavioral measurement space, selects interventions against a target effec</description>
+      <guid isPermaLink="false">oai:arXiv.org:2611.08779v1</guid>
+      <category>cs.AI</category>
+      <category>cs.CL</category>
+      <category>cs.LG</category>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 -0500</pubDate>
+      <ns1:announce_type>new</ns1:announce_type>
+      <dc:rights>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</dc:rights>
+      <dc:creator>Marvin Danig (Achiral Research)</dc:creator>
+    </item>
+    <item>
+      <title>Aligning, Fast and Slow: A Control-Theoretic Oversight Framework for Long-Horizon Trajectories and Maintained Deployments</title>
+      <link>https://arxiv.org/abs/2611.08781</link>
+      <description>arXiv:2611.08781v1 Announce Type: new 
+Abstract: AI agents can pass checks on individual tasks while retaining memory or code changes that alter their later behavior. We introduce a control-theoretic framework that couples a fast loop controlling proposed actions with a slow loop reviewing persistent changes and reassessing configurations after model or tool updates. When measurement errors and ch</description>
+      <guid isPermaLink="false">oai:arXiv.org:2611.08781v1</guid>
+      <category>cs.AI</category>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 -0500</pubDate>
+      <ns1:announce_type>new</ns1:announce_type>
+      <dc:rights>http://creativecommons.org/licenses/by-nc-sa/4.0/</dc:rights>
+      <dc:creator>Stephen Peng, Vineet Jagadeesan Nair, Noah Broestl, Anne Friederike Kleppe, Steven Mills, Adi Zolotov</dc:creator>
+    </item>
+    <item>
+      <title>The Matthews Correlation Coefficient: Fifty years</title>
+      <link>https://arxiv.org/abs/2611.08799</link>
+      <description>arXiv:2611.08799v1 Announce Type: new 
+Abstract: Fifty years after its introduction, the Matthews Correlation Coefficient (MCC) remains central -and debated- in binary classification. This survey offers a comprehensive retrospective and an in-depth analysis of MCC, covering its historical development, mathematical foundations, and implications for practice. We clarify long-standing misconceptions,</description>
+      <guid isPermaLink="false">oai:arXiv.org:2611.08799v1</guid>
+      <category>cs.AI</category>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 -0500</pubDate>
+      <ns1:announce_type>new</ns1:announce_type>
+      <dc:rights>http://creativecommons.org/licenses/by-nc-nd/4.0/</dc:rights>
+      <dc:creator>Jesus S. Aguilar-Ruiz</dc:creator>
+    </item>
+    <item>
+      <title>I Think, Therefore I Attack: Evaluating Thought Injection Attacks on Reasoning Agents</title>
+      <link>https://arxiv.org/abs/2611.08811</link>
+      <description>arXiv:2611.08811v1 Announce Type: new 
+Abstract: Large Reasoning Models (LRMs) are one of the key components of current agentic systems. LRMs augment their output with an explicit chain-of-thought reasoning stage, introducing a new attack surface for thought injection, in which untrusted text resembling the model's own deliberation is fed back to the model. We present a two-part study of this atta</description>
+      <guid isPermaLink="false">oai:arXiv.org:2611.08811v1</guid>
+      <category>cs.AI</category>
+      <category>cs.CR</category>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 -0500</pubDate>
+      <ns1:announce_type>new</ns1:announce_type>
+      <dc:rights>http://creativecommons.org/licenses/by-sa/4.0/</dc:rights>
+      <dc:creator>Parth Illendula, Garik Livingston, Zain Shamsi, Ravi Srinivasan, Alex Liu</dc:creator>
+    </item>
+    <item>
+      <title>Notwithstanding Anything to the Contrary, Ignore All Instructions: Measuring Prompt Injection Guards on Legal Contract Review Attacks</title>
+      <link>https://arxiv.org/abs/2611.08834</link>
+      <description>arXiv:2611.08834v1 Announce Type: new 
+Abstract: Specialized prompt injection guards are deployed in front of document analysis systems, but no false positive rate has been published for any of them on legal contracts. We measure eleven open-weights guards on two corpora of legal contracts and find that existing guards struggle: document-level false positive rates are as high as 92.39%; two guards</description>
+      <guid isPermaLink="false">oai:arXiv.org:2611.08834v1</guid>
+      <category>cs.AI</category>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 -0500</pubDate>
+      <ns1:announce_type>new</ns1:announce_type>
+      <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+      <dc:creator>Mark Heimann, Katherine Taylor, Bruno Jacob</dc:creator>
+    </item>
+    <item>
+      <title>Solver-Admitted Metamorphic Testing of Learned Network Optimization Surrogates</title>
+      <link>https://arxiv.org/abs/2611.08837</link>
+      <description>arXiv:2611.08837v1 Announce Type: new 
+Abstract: Equivalent encodings of an optimization problem can produce different learned predictions. Interpreting these differences requires accounting for numerical error and multiple optima. We construct metamorphic tests for optimization solver surrogates with explicit eligibility conditions, output alignment, and numerical thresholds. Reference-solver agr</description>
+      <guid isPermaLink="false">oai:arXiv.org:2611.08837v1</guid>
+      <category>cs.AI</category>
+      <category>cs.LG</category>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 -0500</pubDate>
+      <ns1:announce_type>new</ns1:announce_type>
+      <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+      <dc:creator>Vineet Jagadeesan Nair, Stephen Peng, Arun Ravindran</dc:creator>
+    </item>
+    </channel>
+</rss>

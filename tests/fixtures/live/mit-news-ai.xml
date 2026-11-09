@@ -1,0 +1,564 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns2="http://purl.org/rss/1.0/modules/content/" xmlns:ns3="http://search.yahoo.com/mrss/" version="2.0" xml:base="https://news.mit.edu">
+  <channel>
+    <title>MIT News - Artificial intelligence</title>
+    <link>https://news.mit.edu/rss/topic/artificial-intelligence2</link>
+    <ns0:link href="https://news.mit.edu/rss/topic/artificial-intelligence2" rel="self" type="application/rss+xml" />
+    <description>MIT news feed about: Artificial intelligence</description>
+    <language>en</language>
+    
+    <lastBuildDate>Mon, 09 Nov 2026 00:00:00 -0500</lastBuildDate>
+    <item>
+  <title>A single AI model simulates the behavior of many substances, from sliding sand to folding proteins</title>
+  <link>https://news.mit.edu/2026/single-ai-model-simulates-many-substances-behavior-1109</link>
+  <description>By learning how matter moves, the WorldParticle system could assist with developing soft robots, medicines, and more.</description>
+  <pubDate>Mon, 09 Nov 2026 00:00:00 -0500</pubDate>
+    <guid isPermaLink="true">https://news.mit.edu/2026/single-ai-model-simulates-many-substances-behavior-1109</guid>
+        <dc:creator>Adam Zewe | MIT News</dc:creator>
+  <ns2:encoded>&lt;p&gt;Today, a scientist who wants to simulate a physical process must pick the right tool for that one job, such as a solver built for flowing water or another designed to model the way a protein folds. Each one is hand-coded around the specific equations that dictate how that process behaves.&lt;/p&gt;&lt;p&gt;Researchers at MIT, the University of British Columbia (UBC), and elsewhere have now replaced that pa</ns2:encoded>
+      <ns3:content url="https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202611/MIT-WorldParticle-01-Press.jpg?itok=kwMpBg6F" medium="image" type="image/jpeg" width="390" height="260">
+              “It is a similar architecture to ChatGPT. But instead of predicting one word at a time to write a piece of text, we are predicting how these particles will move, one step at a time,” says Peter Yichen Chen. 
+              Credit: Courtesy of the researchers
+      </ns3:content>
+        <category domain="https://news.mit.edu/topic/research">Research</category>
+      <category domain="https://news.mit.edu/topic/computer-modeling">Computer modeling</category>
+      <category domain="https://news.mit.edu/topic/artificial-intelligence2">Artificial intelligence</category>
+      <category domain="https://news.mit.edu/topic/machine-learning">Machine learning</category>
+      <category domain="https://news.mit.edu/topic/simulation">Simulation</category>
+      <category domain="https://news.mit.edu/topic/computer-graphics">Computer graphics</category>
+      <category domain="https://news.mit.edu/topic/human-computer-interaction">Human-computer interaction</category>
+      <category domain="https://news.mit.edu/topic/design">Design</category>
+      <category domain="https://news.mit.edu/topic/electrical-engineering-computer-science-eecs">Electrical engineering and computer science (EECS)</category>
+      <category domain="https://news.mit.edu/topic/computer-science-and-artificial-intelligence-laboratory-csail">Computer Science and Artificial Intelligence Laboratory (CSAIL)</category>
+      <category domain="https://news.mit.edu/topic/school-engineering">School of Engineering</category>
+      <category domain="https://news.mit.edu/topic/mit-schwarzman-college-computing">MIT Schwarzman College of Computing</category>
+    </item>
+<item>
+  <title>AI-assisted learning platform helps robots reason beyond literal commands</title>
+  <link>https://news.mit.edu/2026/ai-assisted-learning-platform-helps-robots-reason-beyond-literal-commands-1109</link>
+  <description>The new approach, known as FLEX, could lead to more intuitive, interactive household and assistive robots.</description>
+  <pubDate>Mon, 09 Nov 2026 00:00:00 -0500</pubDate>
+    <guid isPermaLink="true">https://news.mit.edu/2026/ai-assisted-learning-platform-helps-robots-reason-beyond-literal-commands-1109</guid>
+        <dc:creator>Jennifer Chu | MIT News</dc:creator>
+  <ns2:encoded>&lt;p&gt;Humans are intuitive by nature. We can sense meaning beyond the literal words that we encounter. Now, a new artificial intelligence-assisted learning platform developed by MIT engineers is enabling robots to read larger meaning into a human’s natural language commands.&amp;nbsp;&lt;/p&gt;&lt;p&gt;In a study to be presented at the annual Conference on Robot Learning this month, researchers from MIT and New York</ns2:encoded>
+      <ns3:content url="https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202611/MIT-FLEX-01-press.jpg?itok=811PS9Sd" medium="image" type="image/jpeg" width="390" height="260">
+              With a new system designed by researchers from MIT and New York University, humans can interact with a robot by giving it instructions in natural, conversational language. The robot can not only follow the instructions literally, but also read into the words to draw larger generalizations that help to improve its motion-planning task.
+              Credit: Getty Images, MIT News
+   </ns3:content>
+        <category domain="https://news.mit.edu/topic/research">Research</category>
+      <category domain="https://news.mit.edu/topic/robotics">Robotics</category>
+      <category domain="https://news.mit.edu/topic/aeronautics">Aeronautical and astronautical engineering</category>
+      <category domain="https://news.mit.edu/topic/artificial-intelligence2">Artificial intelligence</category>
+      <category domain="https://news.mit.edu/topic/assistive-technology">Assistive technology</category>
+      <category domain="https://news.mit.edu/topic/automation">Automation</category>
+      <category domain="https://news.mit.edu/topic/computer-science-and-artificial-intelligence-laboratory-csail">Computer Science and Artificial Intelligence Laboratory (CSAIL)</category>
+      <category domain="https://news.mit.edu/topic/computers">Computer science and technology</category>
+      <category domain="https://news.mit.edu/topic/human-computer-interaction">Human-computer interaction</category>
+      <category domain="https://news.mit.edu/topic/machine-learning">Machine learning</category>
+      <category domain="https://news.mit.edu/topic/school-engineering">School of Engineering</category>
+      <category domain="https://news.mit.edu/topic/mit-schwarzman-college-computing">MIT Schwarzman College of Computing</category>
+    </item>
+<item>
+  <title>How to predict the behavior of molecules from scant data</title>
+  <link>https://news.mit.edu/2026/how-to-predict-molecule-behavior-with-scant-data-1106</link>
+  <description>A machine-learning approach called CheMeleon provides a practical way to develop new drugs or other molecules with much less detailed, expensive experimentation.</description>
+  <pubDate>Fri, 06 Nov 2026 14:00:00 -0500</pubDate>
+    <guid isPermaLink="true">https://news.mit.edu/2026/how-to-predict-molecule-behavior-with-scant-data-1106</guid>
+        <dc:creator>David L. Chandler | Department of Chemical Engineering</dc:creator>
+  <ns2:encoded>&lt;p&gt;Discovering new molecules for specific uses is a major driver of progress in a wide variety of industries, whether it’s pharmaceutical companies looking for new drugs, or electronics or energy companies seeking new materials with particular properties. But it’s also largely a trial-and-error process, because there is not yet any way to perfectly predict how a given chemical compound will behave</ns2:encoded>
+      <ns3:content url="https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202610/mit-cheme-chemeleon.jpg?itok=sxUBAH56" medium="image" type="image/jpeg" width="390" height="260">
+              Like a chameleon changing colors, CheMeleon adapts a single pre-trained model to predict many different molecular properties, such as potency (pEC50), toxicity (LD50), and solubility (logS). The MIT-developed model first learns chemistry by predicting easy-to-compute molecular descriptors for about a million molecules, then fine-tunes to each new task.
+              Image courtesy o</ns3:content>
+        <category domain="https://news.mit.edu/topic/research">Research</category>
+      <category domain="https://news.mit.edu/topic/drug-discovery">Drug discovery</category>
+      <category domain="https://news.mit.edu/topic/chemical-engineering">Chemical engineering</category>
+      <category domain="https://news.mit.edu/topic/artificial-intelligence2">Artificial intelligence</category>
+      <category domain="https://news.mit.edu/topic/machine-learning">Machine learning</category>
+      <category domain="https://news.mit.edu/topic/chemistry-0">Chemistry</category>
+      <category domain="https://news.mit.edu/topic/school-engineering">School of Engineering</category>
+      <category domain="https://news.mit.edu/topic/doe">Department of Energy (DoE)</category>
+      <category domain="https://news.mit.edu/topic/nih">National Institutes of Health (NIH)</category>
+    </item>
+<item>
+  <title>Clearing up a robot’s fuzzy memory</title>
+  <link>https://news.mit.edu/2026/clearing-up-robot-fuzzy-memory-1105</link>
+  <description>A new system identifies and corrects unreliable object descriptions stored in a robot’s memory, improving the robot’s ability to interact with its environment.</description>
+  <pubDate>Thu, 05 Nov 2026 00:00:00 -0500</pubDate>
+    <guid isPermaLink="true">https://news.mit.edu/2026/clearing-up-robot-fuzzy-memory-1105</guid>
+        <dc:creator>Adam Zewe | MIT News</dc:creator>
+  <ns2:encoded>&lt;p&gt;In an emergency, a human might someday ask a robotic assistant to fetch a wall-mounted defibrillator located down the hall. But if the robot has incorrectly labeled the defibrillator as a fire extinguisher in its stored memory, it may not know where to find the life-saving device.&lt;/p&gt;&lt;p&gt;This robotic assistant could benefit from a new memory system created by MIT researchers. The system identifi</ns2:encoded>
+      <ns3:content url="https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202611/MIT-Confident-Mem-01-press.jpg?itok=N_4ApjRl" medium="image" type="image/jpeg" width="390" height="260">
+               “Allowing a robot to know what it doesn’t know is going to be essential for this technology to be deployed safely and have a positive impact on society,” says Luca Carlone.
+              Credit: MIT News; Getty Images
+      </ns3:content>
+        <category domain="https://news.mit.edu/topic/research">Research</category>
+      <category domain="https://news.mit.edu/topic/computers">Computer science and technology</category>
+      <category domain="https://news.mit.edu/topic/algorithms">Algorithms</category>
+      <category domain="https://news.mit.edu/topic/artificial-intelligence2">Artificial intelligence</category>
+      <category domain="https://news.mit.edu/topic/machine-learning">Machine learning</category>
+      <category domain="https://news.mit.edu/topic/robotics">Robotics</category>
+      <category domain="https://news.mit.edu/topic/computer-vision">Computer vision</category>
+      <category domain="https://news.mit.edu/topic/aeronautics">Aeronautical and astronautical engineering</category>
+      <category domain="https://news.mit.edu/topic/lids">Laboratory for Information and Decision Systems (LIDS)</category>
+      <category domain="https://news.mit.edu/topic/electrical-engineering-computer-science-eecs">Electrical engineering and computer science (EECS)</category>
+      <category domain="https://news.mit.edu/topic/school-engineering">School of Engineering</category>
+      <category domain="https://news.mit.edu/topic/mit-schwarzman-college-computing">MIT Schwarzman College of Computing</category>
+      <category domain="https://news.mit.edu/topic/us-armed-forces">U.S. Armed Forces</category>
+    </item>
+<item>
+  <title>Building connections across the research infrastructure</title>
+  <link>https://news.mit.edu/2026/building-connections-across-research-infrastructure-1103</link>
+  <description>MIT.nano and the Northeast Microelectronics Coalition gathered facility leaders and technology professionals from across the nation to explore ways to make shared-access facilities more connected.</description>
+  <pubDate>Tue, 03 Nov 2026 14:30:00 -0500</pubDate>
+    <guid isPermaLink="true">https://news.mit.edu/2026/building-connections-across-research-infrastructure-1103</guid>
+        <dc:creator>MIT.nano</dc:creator>
+  <ns2:encoded>&lt;p&gt;Running a modern research laboratory requires more than maintaining sophisticated instruments. Researchers need to complete training, obtain access, schedule and operate equipment, navigate billing, and more. For large, shared facilities, coordinating these activities across hundreds of instruments and thousands of users can be a significant undertaking. As research becomes increasingly interdi</ns2:encoded>
+      <ns3:content url="https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202611/NEMO-meeting-2026_0.jpeg?itok=K5PP4PlO" medium="image" type="image/jpeg" width="390" height="260">
+              The 2026 NEMO user meeting, hosted by MIT.nano and sponsored by the Northeast Microelectronics Coalition (NEMC) hub, brought together representatives from 25 laboratories and organizations across the nation to explore ways to make shared-access facilities more connected.
+              Photo: Dave Terry/MIT.nano
+      </ns3:content>
+        <category domain="https://news.mit.edu/topic/special-events">Special events and guest speakers</category>
+      <category domain="https://news.mit.edu/topic/nanotech">Nanoscience and nanotechnology</category>
+      <category domain="https://news.mit.edu/topic/collaboration">Collaboration</category>
+      <category domain="https://news.mit.edu/topic/facilities">Facilities</category>
+      <category domain="https://news.mit.edu/topic/electronics">Electronics</category>
+      <category domain="https://news.mit.edu/topic/microscopy">Microscopy</category>
+      <category domain="https://news.mit.edu/topic/artificial-intelligence2">Artificial intelligence</category>
+      <category domain="https://news.mit.edu/topic/open-source">Open source</category>
+      <category domain="https://news.mit.edu/topic/mitnano">MIT.nano</category>
+    </item>
+<item>
+  <title>Powering up for a pivotal moment</title>
+  <link>https://news.mit.edu/2026/powering-up-for-pivotal-moment-1102</link>
+  <description>From a nuclear revival to qubits, the MIT Energy Initiative’s annual research conference tracked deployment of today’s technologies to discovery of tomorrow’s breakthroughs.</description>
+  <pubDate>Mon, 02 Nov 2026 14:55:00 -0500</pubDate>
+    <guid isPermaLink="true">https://news.mit.edu/2026/powering-up-for-pivotal-moment-1102</guid>
+        <dc:creator>Leda Zimmerman | MIT Energy Initiative</dc:creator>
+  <ns2:encoded>&lt;p&gt;Utilizing waste carbon at scale, assessing public trust in artificial intelligence and data centers, and building a quantum toolkit for critical applications were among the topics energy experts explored at the MIT Energy Initiative (MITEI)’s annual research conference on Sept. 22-23.&lt;/p&gt;&lt;p&gt;The complexity of the energy transition demands “a truly interdisciplinary and international approach,” s</ns2:encoded>
+      <ns3:content url="https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202610/MITEI-Conference-Energy-Initiative.jpg?itok=D__3CViF" medium="image" type="image/jpeg" width="390" height="260">
+              At the 2026 Energizing@MIT: MITEI’s Annual Research Conference, MITEI principal research scientist Deepjyoti Deka (left) presented his Seed Innovation Fund project on accelerating energy planning in the era of data centers through generative AI. 
+              Photo: Jake Belcher
+      </ns3:content>
+        <category domain="https://news.mit.edu/topic/special-events">Special events and guest speakers</category>
+      <category domain="https://news.mit.edu/topic/research">Research</category>
+      <category domain="https://news.mit.edu/topic/energy">Energy</category>
+      <category domain="https://news.mit.edu/topic/quantum-computing">Quantum computing</category>
+      <category domain="https://news.mit.edu/topic/artificial-intelligence2">Artificial intelligence</category>
+      <category domain="https://news.mit.edu/topic/energy-storage">Energy storage</category>
+      <category domain="https://news.mit.edu/topic/architecture">Architecture</category>
+      <category domain="https://news.mit.edu/topic/civil-engineering">Civil and environmental engineering</category>
+      <category domain="https://news.mit.edu/topic/nuclear-power-and-reactors">Nuclear power and reactors</category>
+      <category domain="https://news.mit.edu/topic/energy-efficiency">Energy efficiency</category>
+      <category domain="https://news.mit.edu/topic/alternative-energy">Alternative energy</category>
+      <category domain="https://news.mit.edu/topic/mechanical-engineering">Mechanical engineering</category>
+      <category domain="https://news.mit.edu/topic/urban-studies">Urban studies and planning</category>
+      <category domain="https://news.mit.edu/topic/nuclear-engineering">Nuclear science and engineering</category>
+      <category domain="https://news.mit.edu/topic/dmse">DMSE</category>
+      <category domain="https://news.mit.edu/topic/mit-energy-initiative">MIT Energy Initiative</category>
+      <category domain="https://news.mit.edu/topic/school-engineering">School of Engineering</category>
+      <category domain="https://news.mit.edu/topic/school-architecture-and-planning">School of Architecture and Planning</category>
+    </item>
+<item>
+  <title>Regina Barzilay and Jim Collins win Pritzker Prize for AI and Science Research Excellence for work in AI-enabled antibiotic discovery</title>
+  <link>https://news.mit.edu/2026/regina-barzilay-jim-collins-win-pritzker-prize-ai-and-science-research-excellence-1102</link>
+  <description>The MIT professors collaborated to identify the first AI-discovered antibiotic, a scientific breakthrough that is widely recognized as a milestone in AI-driven drug discovery.</description>
+  <pubDate>Mon, 02 Nov 2026 00:35:00 -0500</pubDate>
+    <guid isPermaLink="true">https://news.mit.edu/2026/regina-barzilay-jim-collins-win-pritzker-prize-ai-and-science-research-excellence-1102</guid>
+        <dc:creator>Alex Ouyang | Abdul Latif Jameel Clinic for Machine Learning in Health</dc:creator>
+  <ns2:encoded>&lt;p dir="ltr"&gt;Regina Barzilay, MIT’s School of Engineering Distinguished Professor of AI and Health, and James Collins, MIT’s Termeer Professor of Medical Engineering and Science, are the recipients of the &lt;a href="https://datascience.uchicago.edu/news/the-university-of-chicago-announces-2026-recipients-of-the-pritzker-prize-for-ai-in-science-research-excellence/"&gt;2026 Pritzker Prize for AI in Scie</ns2:encoded>
+      <ns3:content url="https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202611/barzilay-collins-00.jpg?itok=28TzeMa_" medium="image" type="image/jpeg" width="390" height="260">
+              Regina Barzilay (left) and James Collins are the recipients of this year’s 2026 Pritzker Prize for AI in Science Research Excellence, which is jointly awarded by the University of Chicago and Caltech. 
+              Photos: Max Rousseau (Barzilay) and M. Scott Brauer (Collins)
+      </ns3:content>
+        <category domain="https://news.mit.edu/topic/awards">Awards, honors and fellowships</category>
+      <category domain="https://news.mit.edu/topic/faculty">Faculty</category>
+      <category domain="https://news.mit.edu/topic/collaboration">Collaboration</category>
+      <category domain="https://news.mit.edu/topic/bacteria">Bacteria</category>
+      <category domain="https://news.mit.edu/topic/microbes">Microbes</category>
+      <category domain="https://news.mit.edu/topic/antibiotics">Antibiotics</category>
+      <category domain="https://news.mit.edu/topic/disease">Disease</category>
+      <category domain="https://news.mit.edu/topic/drug-discovery">Drug discovery</category>
+      <category domain="https://news.mit.edu/topic/artificial-intelligence2">Artificial intelligence</category>
+      <category domain="https://news.mit.edu/topic/health">Health sciences and technology</category>
+      <category domain="https://news.mit.edu/topic/medicine">Medicine</category>
+      <category domain="https://news.mit.edu/topic/biological-engineering">Biological engineering</category>
+      <category domain="https://news.mit.edu/topic/computers">Computer science and technology</category>
+      <category domain="https://news.mit.edu/topic/electrical-engineering-computer-science-eecs">Electrical engineering and computer science (EECS)</category>
+      <category domain="https://news.mit.edu/topic/koch-institute-0">Koch Institute</category>
+      <category domain="https://news.mit.edu/topic/jameel-clinic">Jameel Clinic</category>
+      <category domain="https://news.mit.edu/topic/harvard-mit-health-sciences-and-technology">Harvard-MIT Health Sciences and Technology</category>
+      <category domain="https://news.mit.edu/topic/institute-medical-engineering-and-science-imes-0">Institute for Medical Engineering and Science (IMES)</category>
+      <category domain="https://news.mit.edu/topic/computer-science-and-artificial-intelligence-laboratory-csail">Computer Science and Artificial Intelligence Laboratory (CSAIL)</category>
+      <category domain="https://news.mit.edu/topic/school-engineering">School of Engineering</category>
+      <category domain="https://news.mit.edu/topic/mit-schwarzman-college-computing">MIT Schwarzman College of Computing</category>
+    </item>
+<item>
+  <title>MIT affiliates named 2026 Schmidt Sciences AI2050 Fellows</title>
+  <link>https://news.mit.edu/2026/mit-affiliates-named-schmidt-sciences-ai2050-fellows-1030</link>
+  <description>Five MIT faculty members and two additional alumni are honored with fellowships to advance research on beneficial AI.</description>
+  <pubDate>Fri, 30 Oct 2026 16:15:00 -0400</pubDate>
+    <guid isPermaLink="true">https://news.mit.edu/2026/mit-affiliates-named-schmidt-sciences-ai2050-fellows-1030</guid>
+        <dc:creator>Amanda Moore | Jane Halpern | MIT Laboratory for Information and Decision Systems | Department of Electrical Engineering and Computer Science</dc:creator>
+  <ns2:encoded>&lt;p dir="ltr"&gt;Five MIT faculty members and two additional alumni were recently named to the&amp;nbsp;&lt;a href="https://www.schmidtsciences.org/ai2050-fellows-2026-announcement/" target="_blank"&gt;2026 cohort of AI2050 Fellows&lt;/a&gt;. The honor is announced annually by Schmidt Sciences, Eric and Wendy Schmidt’s philanthropic initiative that aims to accelerate scientific innovation.&amp;nbsp;&lt;/p&gt;&lt;p dir="ltr"&gt;Conce</ns2:encoded>
+      <ns3:content url="https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202610/mit-eecs-Schmidt-AI-2050.jpg?itok=tKYYjIR3" medium="image" type="image/jpeg" width="390" height="260">
+              Top row, left to right: Sendhil Mullainathan, Alex Damian, and Bailey Flanigan. Bottom row: Yunha Hwang (left) and Manish Raghavan.
+              Photos courtesy of the subjects.
+      </ns3:content>
+        <category domain="https://news.mit.edu/topic/awards">Awards, honors and fellowships</category>
+      <category domain="https://news.mit.edu/topic/faculty">Faculty</category>
+      <category domain="https://news.mit.edu/topic/alumni">Alumni/ae</category>
+      <category domain="https://news.mit.edu/topic/artificial-intelligence2">Artificial intelligence</category>
+      <category domain="https://news.mit.edu/topic/computers">Computer science and technology</category>
+      <category domain="https://news.mit.edu/topic/mathematics">Mathematics</category>
+      <category domain="https://news.mit.edu/topic/political-science">Political science</category>
+      <category domain="https://news.mit.edu/topic/biology">Biology</category>
+      <category domain="https://news.mit.edu/topic/economics">Economics</category>
+      <category domain="https://news.mit.edu/topic/electrical-engineering-computer-science-eecs">Electrical engineering and computer science (EECS)</category>
+      <category domain="https://news.mit.edu/topic/j-pal">Abdul Latif Jameel Poverty Action Lab (J-PAL)</category>
+      <category domain="https://news.mit.edu/topic/lids">Laboratory for Information and Decision Systems (LIDS)</category>
+      <category domain="https://news.mit.edu/topic/school-science">School of Science</category>
+      <category domain="https://news.mit.edu/topic/school-engineering">School of Engineering</category>
+      <category domain="https://news.mit.edu/topic/school-humanities-arts-and-social-sciences">School of Humanities Arts and Social Sciences</category>
+      <category domain="https://news.mit.edu/topic/mit-sloan-school-management">MIT Sloan School of Management</category>
+      <category domain="https://news.mit.edu/topic/mit-schwarzman-college-computing">MIT Schwarzman College of Computing</category>
+    </item>
+<item>
+  <title>Q&amp;A: Hey AI, who should I vote for this year? </title>
+  <link>https://news.mit.edu/2026/qa-hey-ai-who-should-i-vote-for-this-year-1030</link>
+  <description>MIT professors Adam Berinsky and Chara Podimata discuss a new project to track how AI chatbots are responding to questions about the 2026 U.S. midterm elections. </description>
+  <pubDate>Fri, 30 Oct 2026 15:00:00 -0400</pubDate>
+    <guid isPermaLink="true">https://news.mit.edu/2026/qa-hey-ai-who-should-i-vote-for-this-year-1030</guid>
+        <dc:creator>Abby Abazorius | MIT News</dc:creator>
+  <ns2:encoded>&lt;p&gt;&lt;em&gt;People are peppering artificial intelligence chatbots everyday with questions, but when it comes to politics and the looming 2026 U.S. midterm elections, what role are AI platforms playing? Could an AI chatbot sway a voter to switch parties or re-examine their political beliefs?&amp;nbsp;&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;MIT researchers have built a new dashboard, called the&amp;nbsp;&lt;/em&gt;&lt;a href="https://www.llmele</ns2:encoded>
+      <ns3:content url="https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202610/MIT-ElectionLLM-01-press.jpg?itok=F-_mE_pt" medium="image" type="image/jpeg" width="390" height="260">
+              The LLM Election Observatory is a dashboard built by MIT researchers that examines, in real-time, how popular AI chatbots are responding to questions about the 2026 midterm elections. 
+              Credit: MIT News
+      </ns3:content>
+        <category domain="https://news.mit.edu/topic/interview">Interview</category>
+      <category domain="https://news.mit.edu/topic/research">Research</category>
+      <category domain="https://news.mit.edu/topic/artificial-intelligence2">Artificial intelligence</category>
+      <category domain="https://news.mit.edu/topic/data">Data</category>
+      <category domain="https://news.mit.edu/topic/voting">Voting and elections</category>
+      <category domain="https://news.mit.edu/topic/technology-society">Technology and society</category>
+      <category domain="https://news.mit.edu/topic/political-science">Political science</category>
+      <category domain="https://news.mit.edu/topic/computers">Computer science and technology</category>
+      <category domain="https://news.mit.edu/topic/lids">Laboratory for Information and Decision Systems (LIDS)</category>
+      <category domain="https://news.mit.edu/topic/school-humanities-arts-and-social-sciences">School of Humanities Arts and Social Sciences</category>
+      <category domain="https://news.mit.edu/topic/mit-sloan-school-management">MIT Sloan School of Management</category>
+      <category domain="https://news.mit.edu/topic/mit-schwarzman-college-computing">MIT Schwarzman College of Computing</category>
+    </item>
+<item>
+  <title>3 Questions: Why infrastructure is entering a defining era </title>
+  <link>https://news.mit.edu/2026/3-questions-why-infrastructure-is-entering-defining-era-1028</link>
+  <description>Professor Ali Jadbabaie describes how AI, digital transformation, climate change, and complex geopolitics are forcing engineers and policymakers to rethink how infrastructure is designed, built, and managed.</description>
+  <pubDate>Wed, 28 Oct 2026 12:00:00 -0400</pubDate>
+    <guid isPermaLink="true">https://news.mit.edu/2026/3-questions-why-infrastructure-is-entering-defining-era-1028</guid>
+        <dc:creator>Stephanie Martinovich | Department of Civil and Environmental Engineering</dc:creator>
+  <ns2:encoded>&lt;p&gt;&lt;em&gt;For centuries, infrastructure has evolved alongside technology. New materials and engineering techniques enabled taller buildings, longer bridges, and larger cities. Computing and digital technologies later transformed how infrastructure was designed, monitored, and operated.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;Now, the pace of change is accelerating, and challenges are arriving simultaneously. Climate change i</ns2:encoded>
+      <ns3:content url="https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202610/mit-cee-Infrastructure-CambridgeView.jpg?itok=VxEHmdNx" medium="image" type="image/jpeg" width="390" height="260">
+              “Designing infrastructure is a highly transdisciplinary, sociotechnical endeavor, involving social, technical, and economic considerations. Understanding how these systems are designed is increasingly important because they are becoming more complex, making decision-making particularly difficult,” says Ali Jadbabaie, JR East Professor and head of the Department of Civil and Environm</ns3:content>
+        <category domain="https://news.mit.edu/topic/interview">Interview</category>
+      <category domain="https://news.mit.edu/topic/faculty">Faculty</category>
+      <category domain="https://news.mit.edu/topic/supply-chains">Supply chains</category>
+      <category domain="https://news.mit.edu/topic/infrastructure">Infrastructure</category>
+      <category domain="https://news.mit.edu/topic/energy">Energy</category>
+      <category domain="https://news.mit.edu/topic/transportation">Transportation</category>
+      <category domain="https://news.mit.edu/topic/sustainability">Sustainability</category>
+      <category domain="https://news.mit.edu/topic/artificial-intelligence2">Artificial intelligence</category>
+      <category domain="https://news.mit.edu/topic/internet">Internet</category>
+      <category domain="https://news.mit.edu/topic/electric-grid">Electric grid</category>
+      <category domain="https://news.mit.edu/topic/cleaner-industry">Cleaner industry</category>
+      <category domain="https://news.mit.edu/topic/climate-change">Climate change</category>
+      <category domain="https://news.mit.edu/topic/technology-and-policy">Technology and policy</category>
+      <category domain="https://news.mit.edu/topic/civil-engineering">Civil and environmental engineering</category>
+      <category domain="https://news.mit.edu/topic/government">Government</category>
+      <category domain="https://news.mit.edu/topic/industry">Industry</category>
+      <category domain="https://news.mit.edu/topic/international-initiatives">International initiatives</category>
+      <category domain="https://news.mit.edu/topic/school-engineering">School of Engineering</category>
+      <category domain="https://news.mit.edu/topic/global">Global</category>
+    </item>
+<item>
+  <title>Making machines that can listen</title>
+  <link>https://news.mit.edu/2026/making-machines-that-can-listen-paris-smaragdis-1028</link>
+  <description>Professor Paris Smaragdis develops computers with superhuman hearing for applications like speech recognition, music understanding, and environmental monitoring.</description>
+  <pubDate>Wed, 28 Oct 2026 00:00:00 -0400</pubDate>
+    <guid isPermaLink="true">https://news.mit.edu/2026/making-machines-that-can-listen-paris-smaragdis-1028</guid>
+        <dc:creator>Adam Zewe | MIT News</dc:creator>
+  <ns2:encoded>&lt;p&gt;The crack of a bat accompanied by a roar from the crowd can capture a baseball fan’s attention, even if they miss seeing the home run. Humans may be visual creatures, but we also perceive the world around us by listening to it.&amp;nbsp;&lt;/p&gt;&lt;p&gt;To improve artificial perception, MIT Professor Paris Smaragdis SM ’97, PhD ’01 seeks to make machines that can hear and understand sound even better than hu</ns2:encoded>
+      <ns3:content url="https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202610/MIT-Paris-Smaragdis_01-press.jpg?itok=6wvNzBlz" medium="image" type="image/jpeg" width="390" height="260">
+              To improve artificial perception, Professor Paris Smaragdis seeks to make machines that can hear and understand sound even better than humans.
+              Image: Jake Belcher
+      </ns3:content>
+        <category domain="https://news.mit.edu/topic/profile">Profile</category>
+      <category domain="https://news.mit.edu/topic/faculty">Faculty</category>
+      <category domain="https://news.mit.edu/topic/computers">Computer science and technology</category>
+      <category domain="https://news.mit.edu/topic/artificial-intelligence2">Artificial intelligence</category>
+      <category domain="https://news.mit.edu/topic/arts">Arts</category>
+      <category domain="https://news.mit.edu/topic/machine-learning">Machine learning</category>
+      <category domain="https://news.mit.edu/topic/music2">Music</category>
+      <category domain="https://news.mit.edu/topic/music">Music technology</category>
+      <category domain="https://news.mit.edu/topic/electrical-engineering-computer-science-eecs">Electrical engineering and computer science (EECS)</category>
+      <category domain="https://news.mit.edu/topic/school-engineering">School of Engineering</category>
+      <category domain="https://news.mit.edu/topic/mit-schwarzman-college-computing">MIT Schwarzman College of Computing</category>
+      <category domain="https://news.mit.edu/topic/school-humanities-arts-and-social-sciences">School of Humanities Arts and Social Sciences</category>
+      <category domain="https://news.mit.edu/topic/research-laboratory-electronics-1">Research Laboratory of Electronics</category>
+    </item>
+<item>
+  <title>Learner collaborates with MIT peers to develop book of AI insights</title>
+  <link>https://news.mit.edu/2026/learner-prabha-jha-collaborates-with-mit-peers-to-develop-book-of-ai-insights-1027</link>
+  <description>Prabha Jha used her experience with MIT Open Learning’s program for senior executives to develop AI solutions for her employer, Verizon, and to write a book.</description>
+  <pubDate>Tue, 27 Oct 2026 16:55:00 -0400</pubDate>
+    <guid isPermaLink="true">https://news.mit.edu/2026/learner-prabha-jha-collaborates-with-mit-peers-to-develop-book-of-ai-insights-1027</guid>
+        <dc:creator>Caroline Maselli | MIT Open Learning</dc:creator>
+  <ns2:encoded>&lt;p dir="ltr"&gt;Like many leaders today, Prabha Jha has been feeling the significant impact artificial intelligence is having on business operations. While the rapid evolution of the technology can bring fear, uncertainty, and confusion, Jha chose a different response: excitement. She began asking herself, “How do I become part of this once-in-a-lifetime thing?”&amp;nbsp;&lt;/p&gt;&lt;p dir="ltr"&gt;Jha holds a bach</ns2:encoded>
+      <ns3:content url="https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202610/MIT-Open-Learning-Prabha-Jha.JPG?itok=UyNc7ADw" medium="image" type="image/jpeg" width="390" height="260">
+              Through her experiences with an AI for Senior Executives course from MIT Open Learning, Prabha Jha and 20 peer leaders released “The AI Anthology,” a collection of essays examining the influence AI has had across industries and across society. 
+              Photo courtesy of the subject.
+      </ns3:content>
+        <category domain="https://news.mit.edu/topic/classes-and-programs">Classes and programs</category>
+      <category domain="https://news.mit.edu/topic/mitx">MITx</category>
+      <category domain="https://news.mit.edu/topic/onlinelearning">Online learning</category>
+      <category domain="https://news.mit.edu/topic/leadership">Leadership</category>
+      <category domain="https://news.mit.edu/topic/community">Community</category>
+      <category domain="https://news.mit.edu/topic/business">Business and management</category>
+      <category domain="https://news.mit.edu/topic/artificial-intelligence2">Artificial intelligence</category>
+      <category domain="https://news.mit.edu/topic/books-and-authors">Books and authors</category>
+      <category domain="https://news.mit.edu/topic/office-open-learning">Office of Open Learning</category>
+    </item>
+<item>
+  <title>At New York Climate Week 2026, MIT connects with a global network</title>
+  <link>https://news.mit.edu/2026/at-new-york-climate-week-mit-connects-global-network-1026</link>
+  <description>A cross-section of the MIT community convened discussions on topics ranging from data centers and super pollutants to agriculture and education.</description>
+  <pubDate>Mon, 26 Oct 2026 15:00:00 -0400</pubDate>
+    <guid isPermaLink="true">https://news.mit.edu/2026/at-new-york-climate-week-mit-connects-global-network-1026</guid>
+        <dc:creator>Marika McCoola | Office of the Vice President for Energy and Climate</dc:creator>
+  <ns2:encoded>&lt;p dir="ltr"&gt;Each year, Climate Week NYC brings together more than 100,000 people in more than 1,000 events across the city to discuss climate challenges, explore solutions, and spur action. Participants come from industry, academia, philanthropy, nonprofits, government, and finance and venture capital. And this year, the mix included a strong, cross-campus presence from MIT.&lt;/p&gt;&lt;p dir="ltr"&gt;The M</ns2:encoded>
+      <ns3:content url="https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202610/mit-ny-climate-week.jpg?itok=c2Sg2eC6" medium="image" type="image/jpeg" width="390" height="260">
+              Aaron Krol, managing editor of the MIT Climate Change Engagement Program, led MIT’s Climate Week NYC session “Climate Communication for Impact,” which featured (left to right) Allison Crimmins of Talking Climate, Arielle Tannenbaum of Climate Central, and Mallika Talwar of Yale University.
+              Photo: Justin Coleman
+      </ns3:content>
+        <category domain="https://news.mit.edu/topic/special-events">Special events and guest speakers</category>
+      <category domain="https://news.mit.edu/topic/climate-change">Climate change</category>
+      <category domain="https://news.mit.edu/topic/energy">Energy</category>
+      <category domain="https://news.mit.edu/topic/environment">Environment</category>
+      <category domain="https://news.mit.edu/topic/policy">Policy</category>
+      <category domain="https://news.mit.edu/topic/pollution">Pollution</category>
+      <category domain="https://news.mit.edu/topic/cleaner-industry">Cleaner industry</category>
+      <category domain="https://news.mit.edu/topic/water">Water</category>
+      <category domain="https://news.mit.edu/topic/climate">Climate</category>
+      <category domain="https://news.mit.edu/topic/artificial-intelligence2">Artificial intelligence</category>
+      <category domain="https://news.mit.edu/topic/sustainability">Sustainability</category>
+      <category domain="https://news.mit.edu/topic/emissions">Emissions</category>
+      <category domain="https://news.mit.edu/topic/food">Food</category>
+      <category domain="https://news.mit.edu/topic/data">Data</category>
+      <category domain="https://news.mit.edu/topic/logistics">Logistics</category>
+      <category domain="https://news.mit.edu/topic/urban-studies">Urban studies and planning</category>
+      <category domain="https://news.mit.edu/topic/civil-engineering">Civil and environmental engineering</category>
+      <category domain="https://news.mit.edu/topic/mechanical-engineering">Mechanical engineering</category>
+      <category domain="https://news.mit.edu/topic/computers">Computer science and technology</category>
+      <category domain="https://news.mit.edu/topic/supply-chains">Supply chains</category>
+      <category domain="https://news.mit.edu/topic/dmse">DMSE</category>
+      <category domain="https://news.mit.edu/topic/innovation">Innovation and Entrepreneurship (I&amp;E)</category>
+      <category domain="https://news.mit.edu/topic/j-pal">Abdul Latif Jameel Poverty Action Lab (J-PAL)</category>
+      <category domain="https://news.mit.edu/topic/center-transportation-and-logistics-0">Center for Transportation and Logistics</category>
+      <category domain="https://news.mit.edu/topic/lincoln-laboratory-0">Lincoln Laboratory</category>
+      <category domain="https://news.mit.edu/topic/office-open-learning">Office of Open Learning</category>
+      <category domain="https://news.mit.edu/topic/abdul-latif-jameel-water-and-food-systems-lab-j-wafs">Abdul Latif Jameel Water and Food Systems Lab (J-WAFS)</category>
+      <category domain="https://news.mit.edu/topic/school-engineering">School of Engineering</category>
+      <category domain="https://news.mit.edu/topic/school-science">School of Science</category>
+      <category domain="https://news.mit.edu/topic/school-architecture-and-planning">School of Architecture and Planning</category>
+      <category domain="https://news.mit.edu/topic/mit-sloan-school-management">MIT Sloan School of Management</category>
+      <category domain="https://news.mit.edu/topic/mit-schwarzman-college-computing">MIT Schwarzman College of Computing</category>
+    </item>
+<item>
+  <title>At MIT, Martha Minow speaks on sustaining democracy, both by using and overcoming AI</title>
+  <link>https://news.mit.edu/2026/martha-minow-speaks-on-sustaining-democracy-using-overcoming-ai-1023</link>
+  <description>In Compton Lecture, the distinguished legal scholar warns of potential “loss of the Enlightenment” while suggesting ways innovations can meet our civic and cultural needs.</description>
+  <pubDate>Fri, 23 Oct 2026 17:00:00 -0400</pubDate>
+    <guid isPermaLink="true">https://news.mit.edu/2026/martha-minow-speaks-on-sustaining-democracy-using-overcoming-ai-1023</guid>
+        <dc:creator>Peter Dizikes | MIT News</dc:creator>
+  <ns2:encoded>&lt;p&gt;Legal scholar Martha Minow delivered this fall’s Compton Lecture at MIT on Thursday, examining the civic foundations of democracy — and describing how artificial intelligence is undermining it, but could be used to help reinforce traditional U.S. governance.&amp;nbsp;&lt;/p&gt;&lt;p&gt;“It’s not a good time for democracy or constitutionalism,” said Minow, who is the 300th Anniversary University Professor at Ha</ns2:encoded>
+      <ns3:content url="https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202610/MIT%20Compton-01-press.JPG?itok=WqxUfa0W" medium="image" type="image/jpeg" width="390" height="260">
+              Martha Minow, legal scholar and 300th Anniversary University Professor at Harvard University, delivering the Karl Taylor Compton Lecture at MIT.
+              Photo: Jake Belcher
+      </ns3:content>
+        <category domain="https://news.mit.edu/topic/special-events">Special events and guest speakers</category>
+      <category domain="https://news.mit.edu/topic/technology-society">Technology and society</category>
+      <category domain="https://news.mit.edu/topic/artificial-intelligence2">Artificial intelligence</category>
+      <category domain="https://news.mit.edu/topic/community">Community</category>
+      <category domain="https://news.mit.edu/topic/government">Government</category>
+      <category domain="https://news.mit.edu/topic/democracy">Democracy</category>
+      <category domain="https://news.mit.edu/topic/policy">Policy</category>
+      <category domain="https://news.mit.edu/topic/education">Education, teaching, academics</category>
+      <category domain="https://news.mit.edu/topic/law">Law</category>
+      <category domain="https://news.mit.edu/topic/stem-education">STEM education</category>
+      <category domain="https://news.mit.edu/topic/social-media">Social media</category>
+      <category domain="https://news.mit.edu/topic/political-science">Political science</category>
+      <category domain="https://news.mit.edu/topic/k-12-education">K-12 education</category>
+      <category domain="https://news.mit.edu/topic/president-sally-kornbluth">President Sally Kornbluth</category>
+    </item>
+<item>
+  <title>Reinforcing the value of human understanding at MIT</title>
+  <link>https://news.mit.edu/2026/reinforcing-value-of-human-understanding-at-mit-1023</link>
+  <description>During the School of Humanities, Arts, and Social Sciences’ 75th Anniversary Symposium, President Sally Kornbluth said “MIT has never needed your particular insight and guidance more than we do now.”</description>
+  <pubDate>Fri, 23 Oct 2026 15:35:00 -0400</pubDate>
+    <guid isPermaLink="true">https://news.mit.edu/2026/reinforcing-value-of-human-understanding-at-mit-1023</guid>
+        <dc:creator>Benjamin Daniel | School of Humanities, Arts, and Social Sciences</dc:creator>
+  <ns2:encoded>&lt;p dir="ltr"&gt;At the MIT School of Humanities, Arts, and Social Sciences (SHASS) 75th Anniversary Symposium, speakers celebrated the school’s value and contributions, while exploring how artificial intelligence is transforming many aspects of teaching, research, and society.&lt;/p&gt;&lt;p dir="ltr"&gt;The symposium was held Sept. 24-25 in the Linde Music Building’s Thomas Tull Concert Hall. Scholars, students</ns2:encoded>
+      <ns3:content url="https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202610/SHASS%2075th%20Anniversary%20Symposium%20Day%20One%20Teaching%20Panel_0.jpg?itok=bFh92Yaa" medium="image" type="image/jpeg" width="390" height="260">
+              The Teaching and Learning Innovations panel at SHASS’ 75th Anniversary Symposium featured (left to right) professors Eric Klopfer, Norvin Richards, and Stephanie Seed; Senior Lecturer Sara Ellison; Institute Professor Suzanne Berger; Senior Lecturer Takako Aikawa; and Professor Will Broadhead.
+              Photo: Jake Belcher
+      </ns3:content>
+        <category domain="https://news.mit.edu/topic/special-events">Special events and guest speakers</category>
+      <category domain="https://news.mit.edu/topic/history-mit">History of MIT</category>
+      <category domain="https://news.mit.edu/topic/classes-and-programs">Classes and programs</category>
+      <category domain="https://news.mit.edu/topic/humanities">Humanities</category>
+      <category domain="https://news.mit.edu/topic/arts">Arts</category>
+      <category domain="https://news.mit.edu/topic/social-sciences">Social sciences</category>
+      <category domain="https://news.mit.edu/topic/education">Education, teaching, academics</category>
+      <category domain="https://news.mit.edu/topic/anthropology">Anthropology</category>
+      <category domain="https://news.mit.edu/topic/comparative-media-studies">Comparative Media Studies/Writing</category>
+      <category domain="https://news.mit.edu/topic/economics">Economics</category>
+      <category domain="https://news.mit.edu/topic/history">History</category>
+      <category domain="https://news.mit.edu/topic/linguistics">Linguistics</category>
+      <category domain="https://news.mit.edu/topic/literature">Literature</category>
+      <category domain="https://news.mit.edu/topic/music-and-theater-arts">Music and theater arts</category>
+      <category domain="https://news.mit.edu/topic/philosophy">Philosophy</category>
+      <category domain="https://news.mit.edu/topic/political-science">Political science</category>
+      <category domain="https://news.mit.edu/topic/technology-society">Technology and society</category>
+      <category domain="https://news.mit.edu/topic/human-computer-interaction">Human-computer interaction</category>
+      <category domain="https://news.mit.edu/topic/artificial-intelligence2">Artificial intelligence</category>
+      <category domain="https://news.mit.edu/topic/misti">MISTI</category>
+      <category domain="https://news.mit.edu/topic/program-sts">Program in STS</category>
+      <category domain="https://news.mit.edu/topic/faculty">Faculty</category>
+      <category domain="https://news.mit.edu/topic/alumni">Alumni/ae</category>
+      <category domain="https://news.mit.edu/topic/school-humanities-arts-and-social-sciences">School of Humanities Arts and Social Sciences</category>
+    </item>
+<item>
+  <title>Q&amp;A: How AI came to model the “messy” human mind</title>
+  <link>https://news.mit.edu/2026/qa-how-ai-came-to-model-messy-human-mind-1023</link>
+  <description>Assistant Professor Benjamin Lindquist studies how engineers deliberately injected randomness into early AI, giving rise to deep-learning models that sometimes hallucinate.</description>
+  <pubDate>Fri, 23 Oct 2026 00:00:00 -0400</pubDate>
+    <guid isPermaLink="true">https://news.mit.edu/2026/qa-how-ai-came-to-model-messy-human-mind-1023</guid>
+        <dc:creator>Adam Zewe | MIT News</dc:creator>
+  <ns2:encoded>&lt;p&gt;&lt;em&gt;Generative artificial intelligence models are rooted in ideas of mid-20th century engineers who thought some amount of irrationality was essential for a machine that could think like a human, contends Benjamin Lindquist, an assistant professor in the MIT History Section, who holds an MIT Schwarzman College of Computing shared position with the Department of Electrical Engineering and Comput</ns2:encoded>
+      <ns3:content url="https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202610/MIT-indquist_Ben_IrrationalComputer-01-press.jpg?itok=syHYcG5I" medium="image" type="image/jpeg" width="390" height="260">
+              MIT Assistant Professor Benjamin Lindquist discusses his research on the incorporation of randomness and irrationality into early AI models designed to mimic human creativity.
+              Credit: Jared Charney
+      </ns3:content>
+        <category domain="https://news.mit.edu/topic/interview">Interview</category>
+      <category domain="https://news.mit.edu/topic/research">Research</category>
+      <category domain="https://news.mit.edu/topic/faculty">Faculty</category>
+      <category domain="https://news.mit.edu/topic/technology-society">Technology and society</category>
+      <category domain="https://news.mit.edu/topic/history">History</category>
+      <category domain="https://news.mit.edu/topic/computers">Computer science and technology</category>
+      <category domain="https://news.mit.edu/topic/artificial-intelligence2">Artificial intelligence</category>
+      <category domain="https://news.mit.edu/topic/machine-learning">Machine learning</category>
+      <category domain="https://news.mit.edu/topic/electrical-engineering-computer-science-eecs">Electrical engineering and computer science (EECS)</category>
+      <category domain="https://news.mit.edu/topic/history-science">History of science</category>
+      <category domain="https://news.mit.edu/topic/school-engineering">School of Engineering</category>
+      <category domain="https://news.mit.edu/topic/lids">Laboratory for Information and Decision Systems (LIDS)</category>
+      <category domain="https://news.mit.edu/topic/school-humanities-arts-and-social-sciences">School of Humanities Arts and Social Sciences</category>
+      <category domain="https://news.mit.edu/topic/mit-schwarzman-college-computing">MIT Schwarzman College of Computing</category>
+    </item>
+<item>
+  <title>This design software reimagines everyday objects as self-aware devices</title>
+  <link>https://news.mit.edu/2026/design-software-reimagines-everyday-objects-as-self-aware-devices-1022</link>
+  <description>“X-Hinges” helps design and 3D print items like lamps and gloves with an interactive twist: automatically embedded sensors that perceive and adaptively respond to human contact.</description>
+  <pubDate>Thu, 22 Oct 2026 16:45:00 -0400</pubDate>
+    <guid isPermaLink="true">https://news.mit.edu/2026/design-software-reimagines-everyday-objects-as-self-aware-devices-1022</guid>
+        <dc:creator>Alex Shipps | MIT CSAIL</dc:creator>
+  <ns2:encoded>&lt;p dir="ltr" id="docs-internal-guid-fafaf9ec-7fff-ad68-8cec-9fe4a2030781"&gt;As a child, you likely saw a few Disney movies depicting inanimate objects, such as clocks, cups, and toys, as interactive companions to humans&amp;nbsp;— an act of pure magic, seemingly.&amp;nbsp;But scientists at MIT’s Computer Science and Artificial Intelligence Laboratory (CSAIL) are now doing something similar: transforming sta</ns2:encoded>
+      <ns3:content url="https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202610/mit-csail-X-hinges-cover.gif?itok=IsidN-fT" medium="image" type="image/jpeg" width="390" height="260">
+              “It’s kind of like adding a conscious element to everyday objects,” says Jiaji Li, MIT postdoc and CSAIL researcher. “In the same way an AI agent is programmed to make certain decisions based on our instructions, these creations have built-in sensing to adaptively react to human touch.” 
+              Image courtesy of the researchers.
+      </ns3:content>
+        <category domain="https://news.mit.edu/topic/research">Research</category>
+      <category domain="https://news.mit.edu/topic/software">Software</category>
+      <category domain="https://news.mit.edu/topic/artificial-intelligence2">Artificial intelligence</category>
+      <category domain="https://news.mit.edu/topic/design">Design</category>
+      <category domain="https://news.mit.edu/topic/3-d-printing">3-D printing</category>
+      <category domain="https://news.mit.edu/topic/machine-learning">Machine learning</category>
+      <category domain="https://news.mit.edu/topic/computers">Computer science and technology</category>
+      <category domain="https://news.mit.edu/topic/product-design">Product design</category>
+      <category domain="https://news.mit.edu/topic/manufacturing">Manufacturing</category>
+      <category domain="https://news.mit.edu/topic/electrical-engineering-computer-science-eecs">Electrical engineering and computer science (EECS)</category>
+      <category domain="https://news.mit.edu/topic/computer-science-and-artificial-intelligence-laboratory-csail">Computer Science and Artificial Intelligence Laboratory (CSAIL)</category>
+      <category domain="https://news.mit.edu/topic/school-engineering">School of Engineering</category>
+      <category domain="https://news.mit.edu/topic/mit-schwarzman-college-computing">MIT Schwarzman College of Computing</category>
+    </item>
+<item>
+  <title>Why teaching AI about symmetry could make prenatal diagnosis more reliable</title>
+  <link>https://news.mit.edu/2026/teaching-ai-about-symmetry-could-make-prenatal-diagnosis-more-reliable-1019</link>
+  <description>A model developed by researchers at MIT and Boston Children's Hospital adjusts scans on the fly to track fetal movement, potentially sparing families repeat hospital visits.</description>
+  <pubDate>Mon, 19 Oct 2026 14:20:00 -0400</pubDate>
+    <guid isPermaLink="true">https://news.mit.edu/2026/teaching-ai-about-symmetry-could-make-prenatal-diagnosis-more-reliable-1019</guid>
+        <dc:creator>Alex Ouyang | Abdul Latif Jameel Clinic for Machine Learning in Health</dc:creator>
+  <ns2:encoded>&lt;p dir="ltr"&gt;Despite millions of years of evolution, the development of the human fetus remains a complex process that is vulnerable to genetic, environmental, and metabolic disruptions. These disruptions could result in developmental abnormalities, starting with one of the first organs to begin developing in the fetus that continues to develop after birth: the brain.&lt;/p&gt;&lt;p dir="ltr"&gt;In a routine </ns2:encoded>
+      <ns3:content url="https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202609/mit-jameel-clinic-fetal-brain.jpg?itok=TGq3tK5p" medium="image" type="image/jpeg" width="390" height="260">
+              An MRI scan of a fetal brain (outlined in yellow) in the sagittal position. E(3)-Pose is a model that helps track movement in an MRI of the fetus’s brain. The model could help clinicians make earlier and more accurate diagnoses of developmental anomalies.
+              Image courtesy of the MIT Jameel Clinic and the researchers.
+      </ns3:content>
+        <category domain="https://news.mit.edu/topic/research">Research</category>
+      <category domain="https://news.mit.edu/topic/imaging">Imaging</category>
+      <category domain="https://news.mit.edu/topic/health-care">Health care</category>
+      <category domain="https://news.mit.edu/topic/medical-devices">Medical devices</category>
+      <category domain="https://news.mit.edu/topic/artificial-intelligence2">Artificial intelligence</category>
+      <category domain="https://news.mit.edu/topic/computer-vision">Computer vision</category>
+      <category domain="https://news.mit.edu/topic/machine-learning">Machine learning</category>
+      <category domain="https://news.mit.edu/topic/health">Health sciences and technology</category>
+      <category domain="https://news.mit.edu/topic/electrical-engineering-computer-science-eecs">Electrical engineering and computer science (EECS)</category>
+      <category domain="https://news.mit.edu/topic/computers">Computer science and technology</category>
+      <category domain="https://news.mit.edu/topic/mit-ibm-computing-research-lab">MIT-IBM Computing Research Lab</category>
+      <category domain="https://news.mit.edu/topic/jameel-clinic">Jameel Clinic</category>
+      <category domain="https://news.mit.edu/topic/computer-science-and-artificial-intelligence-laboratory-csail">Computer Science and Artificial Intelligence Laboratory (CSAIL)</category>
+      <category domain="https://news.mit.edu/topic/school-engineering">School of Engineering</category>
+      <category domain="https://news.mit.edu/topic/mit-schwarzman-college-computing">MIT Schwarzman College of Computing</category>
+      <category domain="https://news.mit.edu/topic/nih">National Institutes of Health (NIH)</category>
+    </item>
+<item>
+  <title>Giving AI a “crystal clear” view of the materials world</title>
+  <link>https://news.mit.edu/2026/giving-ai-crystal-clear-view-of-materials-world-1018</link>
+  <description>New research can help AI models understand crystalline materials in 3D and reason about their properties.</description>
+  <pubDate>Sun, 18 Oct 2026 00:00:00 -0400</pubDate>
+    <guid isPermaLink="true">https://news.mit.edu/2026/giving-ai-crystal-clear-view-of-materials-world-1018</guid>
+        <dc:creator>Zach Winn | MIT News</dc:creator>
+  <ns2:encoded>&lt;p&gt;In principle, artificial intelligence could make finding the right material for an application as simple as ordering dinner: Scientists would tell a large language model what they want, and it would serve them the perfect material for the job.&lt;/p&gt;&lt;p&gt;Unfortunately, that approach doesn’t work well yet, and the problem comes down to data: Most materials consist of 3D arrangements of crystals, not </ns2:encoded>
+      <ns3:content url="https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202610/MIT-Synthetic-Narratives-01-press.jpg?itok=Bh8fzury" medium="image" type="image/jpeg" width="390" height="260">
+              MIT researchers created an AI model that can identify optimal crystalline materials for various applications. 
+              Image: MIT News; Getty Images
+      </ns3:content>
+        <category domain="https://news.mit.edu/topic/research">Research</category>
+      <category domain="https://news.mit.edu/topic/materialsscienceandengineering">Materials science and engineering</category>
+      <category domain="https://news.mit.edu/topic/nuclear-engineering">Nuclear science and engineering</category>
+      <category domain="https://news.mit.edu/topic/artificial-intelligence2">Artificial intelligence</category>
+      <category domain="https://news.mit.edu/topic/machine-learning">Machine learning</category>
+      <category domain="https://news.mit.edu/topic/data">Data</category>
+      <category domain="https://news.mit.edu/topic/dmse">DMSE</category>
+      <category domain="https://news.mit.edu/topic/school-engineering">School of Engineering</category>
+    </item>
+<item>
+  <title>Fostering community amid Kendall Square’s innovation</title>
+  <link>https://news.mit.edu/2026/fostering-community-amid-kendall-square-innovation-1016</link>
+  <description>The 18th annual Kendall Square Association Annual Meeting explored how new technologies could be a force for shared prosperity in society.</description>
+  <pubDate>Fri, 16 Oct 2026 12:00:00 -0400</pubDate>
+    <guid isPermaLink="true">https://news.mit.edu/2026/fostering-community-amid-kendall-square-innovation-1016</guid>
+        <dc:creator>Zach Winn | MIT News</dc:creator>
+  <ns2:encoded>&lt;p&gt;Kendall Square in Cambridge, Massachusetts, is often cited as the most innovative square mile in the world. But when the Kendall Square Association gathered local stakeholders for its 18th Annual Meeting Thursday, the conversation focused on innovation primarily in the context of community.&lt;/p&gt;&lt;p&gt;The event, which took place at the nonprofit startup incubator The Engine, attracted people from ac</ns2:encoded>
+      <ns3:content url="https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202610/MIT-KSA26-05-press_0.jpg?itok=cb_ebGQl" medium="image" type="image/jpeg" width="390" height="260">
+              The 18th annual Kendall Square Association Annual Meeting explored how new technologies could be a force for shared prosperity in society.
+              Credit: Flavio D Photography
+      </ns3:content>
+        <category domain="https://news.mit.edu/topic/special-events">Special events and guest speakers</category>
+      <category domain="https://news.mit.edu/topic/kendall-square">Kendall Square</category>
+      <category domain="https://news.mit.edu/topic/cambridge">Cambridge, Boston and region</category>
+      <category domain="https://news.mit.edu/topic/industry">Industry</category>
+      <category domain="https://news.mit.edu/topic/energy">Energy</category>
+      <category domain="https://news.mit.edu/topic/sustainability">Sustainability</category>
+      <category domain="https://news.mit.edu/topic/technology-society">Technology and society</category>
+      <category domain="https://news.mit.edu/topic/artificial-intelligence2">Artificial intelligence</category>
+      <category domain="https://news.mit.edu/topic/community">Community</category>
+      <category domain="https://news.mit.edu/topic/bio-bioeng-biotech">Bioengineering and biotechnology</category>
+    </item>
+</channel>
+</rss>

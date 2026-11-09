@@ -1,0 +1,235 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <ns0:id>tag:github.com,2008:https://github.com/sgl-project/sglang/releases</ns0:id>
+  <ns0:link type="text/html" rel="alternate" href="https://github.com/sgl-project/sglang/releases" />
+  <ns0:link type="application/atom+xml" rel="self" href="https://github.com/sgl-project/sglang/releases.atom" />
+  <ns0:title>Release notes from sglang</ns0:title>
+  <ns0:updated>2026-10-30T00:13:59Z</ns0:updated>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/740303686/v0.5.23</ns0:id>
+    <ns0:updated>2026-11-02T22:14:10Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/sgl-project/sglang/releases/tag/v0.5.23" />
+    <ns0:title>v0.5.23</ns0:title>
+    <ns0:content type="html">&lt;h1&gt;Highlights&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;1007 PRs from 257 contributors.&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;New models&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Model&lt;/th&gt;
+&lt;th&gt;Type&lt;/th&gt;
+&lt;th&gt;Cookbook&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Muse Spark Open&lt;/td&gt;
+&lt;td&gt;LLM / VLM&lt;/td&gt;
+&lt;td&gt;&lt;a href="https://docs.sglang.io/cookbook/autoregressive/Meta/MuseSparkOpen" rel="nofollow"&gt;link&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Beam-1.0&lt;/td&gt;
+&lt;td&gt;LLM / VLM&lt;/td&gt;
+&lt;td&gt;&lt;a href="ht</ns0:content>
+    <ns0:author>
+      <ns0:name>Fridge003</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/56809903?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/740303686/v0.5.22</ns0:id>
+    <ns0:updated>2026-10-19T05:55:53Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/sgl-project/sglang/releases/tag/v0.5.22" />
+    <ns0:title>v0.5.22</ns0:title>
+    <ns0:content type="html">&lt;h1&gt;Highlights&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;950 PRs from 245 contributors.&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;New models&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Model&lt;/th&gt;
+&lt;th&gt;Type&lt;/th&gt;
+&lt;th&gt;Cookbook&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Clef / Clef Flash&lt;/td&gt;
+&lt;td&gt;LLM / VLM&lt;/td&gt;
+&lt;td&gt;&lt;a href="https://docs.sglang.io/cookbook/autoregressive/Cloudflare/clef" rel="nofollow"&gt;link&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;PPLX-Decider v1 / v1.1&lt;/td&gt;
+&lt;td&gt;LLM / VLM&lt;/td&gt;
+&lt;td</ns0:content>
+    <ns0:author>
+      <ns0:name>ch-wan</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/54331508?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/740303686/v0.5.21</ns0:id>
+    <ns0:updated>2026-10-02T19:42:55Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/sgl-project/sglang/releases/tag/v0.5.21" />
+    <ns0:title>v0.5.21</ns0:title>
+    <ns0:content type="html">&lt;h1&gt;Highlights&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;779 PRs from 227 contributors.&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;New models&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Model&lt;/th&gt;
+&lt;th&gt;Type&lt;/th&gt;
+&lt;th&gt;Cookbook&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;DeepSeek-V4.1 Flash&lt;/td&gt;
+&lt;td&gt;LLM / VLM&lt;/td&gt;
+&lt;td&gt;&lt;a href="https://docs.sglang.io/cookbook/autoregressive/DeepSeek/DeepSeek-V4_1" rel="nofollow"&gt;link&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;GigaChat 3.5&lt;/td&gt;
+&lt;td&gt;LLM / VLM&lt;/td&gt;
+&lt;td&gt;</ns0:content>
+    <ns0:author>
+      <ns0:name>Fridge003</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/56809903?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/740303686/v0.5.20</ns0:id>
+    <ns0:updated>2026-09-18T22:41:33Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/sgl-project/sglang/releases/tag/v0.5.20" />
+    <ns0:title>v0.5.20</ns0:title>
+    <ns0:content type="html">&lt;h1&gt;Highlights&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;713 PRs from 237 contributors.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;New models in this release&lt;/strong&gt; (see the &lt;a href="https://docs.sglang.io/cookbook" rel="nofollow"&gt;cookbook&lt;/a&gt; for all supported models):&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Model&lt;/th&gt;
+&lt;th&gt;Type&lt;/th&gt;
+&lt;th&gt;PRs&lt;/th&gt;
+&lt;th&gt;Cookbook&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;GLM-5.3-Flash&lt;/td&gt;
+&lt;td&gt;Autoregressive&lt;/td&gt;
+&lt;td&gt;&lt;a href="https:/</ns0:content>
+    <ns0:author>
+      <ns0:name>Qiaolin-Yu</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/90088090?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/740303686/v0.5.19</ns0:id>
+    <ns0:updated>2026-09-05T02:27:42Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/sgl-project/sglang/releases/tag/v0.5.19" />
+    <ns0:title>v0.5.19</ns0:title>
+    <ns0:content type="html">&lt;h1&gt;Highlights&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;786 PRs from 214 contributors.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;New models in this release&lt;/strong&gt; (see the &lt;a href="https://docs.sglang.io/cookbook" rel="nofollow"&gt;cookbook&lt;/a&gt; for all supported models):&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Model&lt;/th&gt;
+&lt;th&gt;Type&lt;/th&gt;
+&lt;th&gt;PRs&lt;/th&gt;
+&lt;th&gt;Cookbook&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Qwen3.8 (2.4T-A95B)&lt;/td&gt;
+&lt;td&gt;Autoregressive&lt;/td&gt;
+&lt;td&gt;&lt;a href="h</ns0:content>
+    <ns0:author>
+      <ns0:name>Qiaolin-Yu</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/90088090?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/740303686/v0.5.18</ns0:id>
+    <ns0:updated>2026-08-24T23:08:04Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/sgl-project/sglang/releases/tag/v0.5.18" />
+    <ns0:title>v0.5.18</ns0:title>
+    <ns0:content type="html">&lt;h1&gt;Highlights&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;710 PRs from 212 contributors.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;New models in this release&lt;/strong&gt; (see the &lt;a href="https://docs.sglang.io/cookbook" rel="nofollow"&gt;cookbook&lt;/a&gt; for all supported models):&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Model&lt;/th&gt;
+&lt;th&gt;Type&lt;/th&gt;
+&lt;th&gt;PRs&lt;/th&gt;
+&lt;th&gt;Cookbook&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Muse Glimmer&lt;/td&gt;
+&lt;td&gt;Autoregressive (Multimodal)&lt;/td&gt;
+&lt;td&gt;&lt;a h</ns0:content>
+    <ns0:author>
+      <ns0:name>Fridge003</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/56809903?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/740303686/v0.5.17</ns0:id>
+    <ns0:updated>2026-08-11T03:17:41Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/sgl-project/sglang/releases/tag/v0.5.17" />
+    <ns0:title>v0.5.17</ns0:title>
+    <ns0:content type="html">&lt;h1&gt;Highlights&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;582 PRs from 194 contributors.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Kimi K3 day-0 support&lt;/strong&gt;: A 2.8T-parameter multimodal LatentMoE (896 experts, top-16, routed in a 3584-dim latent space) with a 1M-token context, 69 KDA linear-attention layers interleaved with 24 MLA layers, and a MoonViT3d vision tower, shipping as a native MXFP4 checkpoint. SGLang serves it from day 0 with DCP, </ns0:content>
+    <ns0:author>
+      <ns0:name>Fridge003</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/56809903?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/740303686/v0.5.16</ns0:id>
+    <ns0:updated>2026-07-25T00:13:18Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/sgl-project/sglang/releases/tag/v0.5.16" />
+    <ns0:title>v0.5.16</ns0:title>
+    <ns0:content type="html">&lt;h1&gt;Highlights&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;574 PRs from 169 contributors.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;DSpark: confidence-driven speculative decoding&lt;/strong&gt;: A new speculative algorithm. It drafts semi-autoregressively in blocks, then sizes each verify window from the draft's own confidence instead of a fixed draft length. Reaches &lt;strong&gt;383.7 tok/s at accept length ~5&lt;/strong&gt; on DeepSeek-V4-Pro, TP8 on B300 (bs=1). E</ns0:content>
+    <ns0:author>
+      <ns0:name>Qiaolin-Yu</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/90088090?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/740303686/v0.5.15.post1</ns0:id>
+    <ns0:updated>2026-07-14T08:43:33Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/sgl-project/sglang/releases/tag/v0.5.15.post1" />
+    <ns0:title>v0.5.15.post1</ns0:title>
+    <ns0:content type="html">&lt;p&gt;v0.5.15.post1 includes a few patches, mostly for GLM 5.2&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4833607664" data-permission-text="Title is private" data-url="https://github.com/sgl-project/sglang/issues/30454" data-hovercard-type="pull_request" data-hovercard-url="/sgl-project/sglang/pull/30454/hovercard" href="https://github.com/sgl-pro</ns0:content>
+    <ns0:author>
+      <ns0:name>Fridge003</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/56809903?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/740303686/v0.5.15</ns0:id>
+    <ns0:updated>2026-07-10T22:58:33Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/sgl-project/sglang/releases/tag/v0.5.15" />
+    <ns0:title>v0.5.15</ns0:title>
+    <ns0:content type="html">&lt;h1&gt;Highlights&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;GLM-5.2 NVFP4, tuned for production&lt;/strong&gt;: We took time this cycle to tune GLM-5.2 NVFP4 on Blackwell for optimized production serving. It now runs at &lt;strong&gt;500+ tok/s/user on 8x B300, 450 on 4x GB300&lt;/strong&gt; (bs=1). Run GLM-5.2 with our &lt;a href="https://docs.sglang.io/cookbook/autoregressive/GLM/GLM-5.2" rel="nofollow"&gt;cookbook&lt;/a&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Spec V</ns0:content>
+    <ns0:author>
+      <ns0:name>Fridge003</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/56809903?s=60&amp;v=4" />
+  </ns0:entry>
+</ns0:feed>

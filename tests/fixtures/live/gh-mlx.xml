@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <ns0:id>tag:github.com,2008:https://github.com/ml-explore/mlx/releases</ns0:id>
+  <ns0:link type="text/html" rel="alternate" href="https://github.com/ml-explore/mlx/releases" />
+  <ns0:link type="application/atom+xml" rel="self" href="https://github.com/ml-explore/mlx/releases.atom" />
+  <ns0:title>Release notes from mlx</ns0:title>
+  <ns0:updated>2026-10-14T20:07:04Z</ns0:updated>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/724854743/v0.32.4</ns0:id>
+    <ns0:updated>2026-10-14T23:37:14Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/ml-explore/mlx/releases/tag/v0.32.4" />
+    <ns0:title>v0.32.4</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Adding VJP for the scaled dot product attention. by &lt;a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/tpegolotti/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/tpegolotti"&gt;@tpegolotti&lt;/a&gt; in &lt;a class="issue-link js-issue-link" data-error-text="Failed to load ti</ns0:content>
+    <ns0:author>
+      <ns0:name>zcbenz</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/639601?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/724854743/v0.32.3</ns0:id>
+    <ns0:updated>2026-09-29T00:37:42Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/ml-explore/mlx/releases/tag/v0.32.3" />
+    <ns0:title>v0.32.3</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fix scan and sort for a zero-size axis by &lt;a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/eyupcanakman/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/eyupcanakman"&gt;@eyupcanakman&lt;/a&gt; in &lt;a class="issue-link js-issue-link" data-error-text="Failed to load title"</ns0:content>
+    <ns0:author>
+      <ns0:name>zcbenz</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/639601?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/724854743/v0.32.2</ns0:id>
+    <ns0:updated>2026-08-25T10:58:55Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/ml-explore/mlx/releases/tag/v0.32.2" />
+    <ns0:title>v0.32.2</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Preserve subnormal float values when casting to bool by &lt;a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/reckylurker/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/reckylurker"&gt;@reckylurker&lt;/a&gt; in &lt;a class="issue-link js-issue-link" data-error-text="Failed to </ns0:content>
+    <ns0:author>
+      <ns0:name>zcbenz</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/639601?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/724854743/v0.32.1</ns0:id>
+    <ns0:updated>2026-08-18T03:45:01Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/ml-explore/mlx/releases/tag/v0.32.1" />
+    <ns0:title>v0.32.1</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fix int64 type cast error when loading GGUF metadata arrays by &lt;a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/danlee2002/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/danlee2002"&gt;@danlee2002&lt;/a&gt; in &lt;a class="issue-link js-issue-link" data-error-text="Failed</ns0:content>
+    <ns0:author>
+      <ns0:name>zcbenz</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/639601?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/724854743/v0.32.0</ns0:id>
+    <ns0:updated>2026-07-07T22:29:13Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/ml-explore/mlx/releases/tag/v0.32.0" />
+    <ns0:title>v0.32.0</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Generate qmm implementaions with cmake by &lt;a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/zcbenz/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/zcbenz"&gt;@zcbenz&lt;/a&gt; in &lt;a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="42872771</ns0:content>
+    <ns0:author>
+      <ns0:name>angeloskath</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1242043?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/724854743/v0.31.2</ns0:id>
+    <ns0:updated>2026-04-22T01:43:20Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/ml-explore/mlx/releases/tag/v0.31.2" />
+    <ns0:title>v0.31.2</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;Highlights&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Wider support for cuda quantized matmuls (&lt;a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4184088156" data-permission-text="Title is private" data-url="https://github.com/ml-explore/mlx/issues/3352" data-hovercard-type="pull_request" data-hovercard-url="/ml-explore/mlx/pull/3352/hovercard" href="https://github.com/ml-explore/mlx/pull</ns0:content>
+    <ns0:author>
+      <ns0:name>angeloskath</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1242043?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/724854743/v0.31.1</ns0:id>
+    <ns0:updated>2026-03-12T06:58:38Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/ml-explore/mlx/releases/tag/v0.31.1" />
+    <ns0:title>v0.31.1</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Bump the patch version by &lt;a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/angeloskath/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/angeloskath"&gt;@angeloskath&lt;/a&gt; in &lt;a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="400402579</ns0:content>
+    <ns0:author>
+      <ns0:name>angeloskath</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1242043?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/724854743/v0.31.0</ns0:id>
+    <ns0:updated>2026-03-01T21:33:38Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/ml-explore/mlx/releases/tag/v0.31.0" />
+    <ns0:title>v0.31.0</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;Highlights&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Initial version of QMMs for CUDA (&lt;a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3980670047" data-permission-text="Title is private" data-url="https://github.com/ml-explore/mlx/issues/3160" data-hovercard-type="pull_request" data-hovercard-url="/ml-explore/mlx/pull/3160/hovercard" href="https://github.com/ml-explore/mlx/pull/3160"&gt;#</ns0:content>
+    <ns0:author>
+      <ns0:name>angeloskath</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1242043?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/724854743/v0.30.6</ns0:id>
+    <ns0:updated>2026-02-06T17:05:35Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/ml-explore/mlx/releases/tag/v0.30.6" />
+    <ns0:title>v0.30.6</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;Highlights&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Much faster bandwidth with JACCL on macOS &amp;gt;= 26.3 (&lt;a href="https://github.com/ml-explore/mlx/pull/3094" data-hovercard-type="pull_request" data-hovercard-url="/ml-explore/mlx/pull/3094/hovercard"&gt;some numbers&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;patch by &lt;a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/awni/hover</ns0:content>
+    <ns0:author>
+      <ns0:name>angeloskath</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1242043?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/724854743/v0.30.5</ns0:id>
+    <ns0:updated>2026-02-03T02:56:46Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/ml-explore/mlx/releases/tag/v0.30.5" />
+    <ns0:title>v0.30.5</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;patch by &lt;a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/awni/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/awni"&gt;@awni&lt;/a&gt; in &lt;a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3862781621" data-permission-text="Title is priv</ns0:content>
+    <ns0:author>
+      <ns0:name>awni</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1542805?s=60&amp;v=4" />
+  </ns0:entry>
+</ns0:feed>

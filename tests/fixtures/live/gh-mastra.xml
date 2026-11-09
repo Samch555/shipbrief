@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <ns0:id>tag:github.com,2008:https://github.com/mastra-ai/mastra/releases</ns0:id>
+  <ns0:link type="text/html" rel="alternate" href="https://github.com/mastra-ai/mastra/releases" />
+  <ns0:link type="application/atom+xml" rel="self" href="https://github.com/mastra-ai/mastra/releases.atom" />
+  <ns0:title>Release notes from mastra</ns0:title>
+  <ns0:updated>2026-11-03T23:55:15Z</ns0:updated>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/839037098/mastracode@0.49.0</ns0:id>
+    <ns0:updated>2026-11-03T23:55:15Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/mastra-ai/mastra/releases/tag/mastracode%400.49.0" />
+    <ns0:title>mastracode@0.49.0</ns0:title>
+    <ns0:content type="html">&lt;p&gt;mastracode@0.49.0&lt;/p&gt;</ns0:content>
+    <ns0:author>
+      <ns0:name>dane-ai-mastra[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/1148567?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/839037098/mastra@1.38.0</ns0:id>
+    <ns0:updated>2026-11-03T23:55:15Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/mastra-ai/mastra/releases/tag/mastra%401.38.0" />
+    <ns0:title>mastra@1.38.0</ns0:title>
+    <ns0:content type="html">&lt;p&gt;mastra@1.38.0&lt;/p&gt;</ns0:content>
+    <ns0:author>
+      <ns0:name>dane-ai-mastra[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/1148567?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/839037098/@mastra/voice-google@0.14.5</ns0:id>
+    <ns0:updated>2026-11-03T23:55:15Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/mastra-ai/mastra/releases/tag/%40mastra%2Fvoice-google%400.14.5" />
+    <ns0:title>@mastra/voice-google@0.14.5</ns0:title>
+    <ns0:content type="html">&lt;p&gt;@mastra/voice-google@0.14.5&lt;/p&gt;</ns0:content>
+    <ns0:author>
+      <ns0:name>dane-ai-mastra[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/1148567?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/839037098/@mastra/valkey-streams@0.6.1</ns0:id>
+    <ns0:updated>2026-11-03T23:55:15Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/mastra-ai/mastra/releases/tag/%40mastra%2Fvalkey-streams%400.6.1" />
+    <ns0:title>@mastra/valkey-streams@0.6.1</ns0:title>
+    <ns0:content type="html">&lt;p&gt;@mastra/valkey-streams@0.6.1&lt;/p&gt;</ns0:content>
+    <ns0:author>
+      <ns0:name>dane-ai-mastra[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/1148567?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/839037098/@mastra/turso@0.1.20</ns0:id>
+    <ns0:updated>2026-11-03T23:55:15Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/mastra-ai/mastra/releases/tag/%40mastra%2Fturso%400.1.20" />
+    <ns0:title>@mastra/turso@0.1.20</ns0:title>
+    <ns0:content type="html">&lt;p&gt;@mastra/turso@0.1.20&lt;/p&gt;</ns0:content>
+    <ns0:author>
+      <ns0:name>dane-ai-mastra[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/1148567?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/839037098/@mastra/temporal@0.5.0</ns0:id>
+    <ns0:updated>2026-11-03T23:55:15Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/mastra-ai/mastra/releases/tag/%40mastra%2Ftemporal%400.5.0" />
+    <ns0:title>@mastra/temporal@0.5.0</ns0:title>
+    <ns0:content type="html">&lt;p&gt;@mastra/temporal@0.5.0&lt;/p&gt;</ns0:content>
+    <ns0:author>
+      <ns0:name>dane-ai-mastra[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/1148567?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/839037098/@mastra/telegram@0.2.5</ns0:id>
+    <ns0:updated>2026-11-03T23:55:15Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/mastra-ai/mastra/releases/tag/%40mastra%2Ftelegram%400.2.5" />
+    <ns0:title>@mastra/telegram@0.2.5</ns0:title>
+    <ns0:content type="html">&lt;p&gt;@mastra/telegram@0.2.5&lt;/p&gt;</ns0:content>
+    <ns0:author>
+      <ns0:name>dane-ai-mastra[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/1148567?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/839037098/@mastra/teams@0.1.4</ns0:id>
+    <ns0:updated>2026-11-03T23:55:15Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/mastra-ai/mastra/releases/tag/%40mastra%2Fteams%400.1.4" />
+    <ns0:title>@mastra/teams@0.1.4</ns0:title>
+    <ns0:content type="html">&lt;p&gt;@mastra/teams@0.1.4&lt;/p&gt;</ns0:content>
+    <ns0:author>
+      <ns0:name>dane-ai-mastra[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/1148567?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/839037098/@mastra/tanstack-start@0.2.40</ns0:id>
+    <ns0:updated>2026-11-03T23:55:15Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/mastra-ai/mastra/releases/tag/%40mastra%2Ftanstack-start%400.2.40" />
+    <ns0:title>@mastra/tanstack-start@0.2.40</ns0:title>
+    <ns0:content type="html">&lt;p&gt;@mastra/tanstack-start@0.2.40&lt;/p&gt;</ns0:content>
+    <ns0:author>
+      <ns0:name>dane-ai-mastra[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/1148567?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/839037098/@mastra/spanner@1.11.1</ns0:id>
+    <ns0:updated>2026-11-03T23:55:15Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/mastra-ai/mastra/releases/tag/%40mastra%2Fspanner%401.11.1" />
+    <ns0:title>@mastra/spanner@1.11.1</ns0:title>
+    <ns0:content type="html">&lt;p&gt;@mastra/spanner@1.11.1&lt;/p&gt;</ns0:content>
+    <ns0:author>
+      <ns0:name>dane-ai-mastra[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/1148567?s=60&amp;v=4" />
+  </ns0:entry>
+</ns0:feed>

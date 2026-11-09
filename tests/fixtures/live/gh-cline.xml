@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <ns0:id>tag:github.com,2008:https://github.com/cline/cline/releases</ns0:id>
+  <ns0:link type="text/html" rel="alternate" href="https://github.com/cline/cline/releases" />
+  <ns0:link type="application/atom+xml" rel="self" href="https://github.com/cline/cline/releases.atom" />
+  <ns0:title>Release notes from cline</ns0:title>
+  <ns0:updated>2026-11-04T21:08:20Z</ns0:updated>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/824874689/desktop-nightly-20261104233655</ns0:id>
+    <ns0:updated>2026-11-04T21:08:20Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/cline/cline/releases/tag/desktop-nightly-20261104233655" />
+    <ns0:title>desktop-nightly-20261104233655: feat(core): delegate UX verification to subagents (#15523)</ns0:title>
+    <ns0:content type="html">&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;feat(core): delegate UX verification to a subagent&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;fix(agents): preserve delegated tool approval policies&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;fix(core): preserve worker identity and proxied execution mode&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;fix(core): preserve child identity across Hub event projection&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</ns0:content>
+    <ns0:author>
+      <ns0:name>abeatrix</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/68532117?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/824874689/desktop-nightly-20261030214224</ns0:id>
+    <ns0:updated>2026-10-30T21:21:13Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/cline/cline/releases/tag/desktop-nightly-20261030214224" />
+    <ns0:title>desktop-nightly-20261030214224</ns0:title>
+    <ns0:content type="html">&lt;p&gt;Render UX verification reports with existing Desktop artifact access …&lt;/p&gt;</ns0:content>
+    <ns0:author>
+      <ns0:name>abeatrix</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/68532117?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/824874689/v4.1.26</ns0:id>
+    <ns0:updated>2026-10-26T09:06:51Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/cline/cline/releases/tag/v4.1.26" />
+    <ns0:title>v4.1.26</ns0:title>
+    <ns0:content type="html">&lt;h3&gt;Added&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Cloud tasks: Settings &amp;gt; API Configuration has a Local | Cloud toggle when cloud sessions are on. Cloud picks the Cline model new cloud tasks run on, saved separately from your local models. Clicking the model label in a cloud session's composer opens it there.&lt;/li&gt;
+&lt;li&gt;Starting or resuming a cloud sandbox shows a progress card with the repo, branch and steps (start sandb</ns0:content>
+    <ns0:author>
+      <ns0:name>github-actions[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/824874689/sdk/ui/v0.2.0</ns0:id>
+    <ns0:updated>2026-10-26T03:33:55Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/cline/cline/releases/tag/sdk%2Fui%2Fv0.2.0" />
+    <ns0:title>sdk/ui/v0.2.0</ns0:title>
+    <ns0:content type="html">&lt;p&gt;@cline/ui@0.2.0&lt;/p&gt;</ns0:content>
+    <ns0:author>
+      <ns0:name>github-actions[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/824874689/sdk/shared/v0.2.0</ns0:id>
+    <ns0:updated>2026-10-26T03:33:46Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/cline/cline/releases/tag/sdk%2Fshared%2Fv0.2.0" />
+    <ns0:title>sdk/shared/v0.2.0</ns0:title>
+    <ns0:content type="html">&lt;p&gt;@cline/shared@0.2.0&lt;/p&gt;</ns0:content>
+    <ns0:author>
+      <ns0:name>github-actions[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/824874689/sdk/sdk/v0.2.0</ns0:id>
+    <ns0:updated>2026-10-26T03:34:08Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/cline/cline/releases/tag/sdk%2Fsdk%2Fv0.2.0" />
+    <ns0:title>SDK v0.2.0</ns0:title>
+    <ns0:content type="html">&lt;ul&gt;
+&lt;li&gt;Starting a session that already has a run in progress now reattaches to the live session instead of replacing its runtime. Before, the original run kept going but couldn't be reached, and its transcript writes landed on a stale snapshot. A start that includes a prompt while a run is in progress is rejected&lt;/li&gt;
+&lt;li&gt;The hub records every client that registered a capability for a session, i</ns0:content>
+    <ns0:author>
+      <ns0:name>github-actions[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/824874689/sdk/llms/v0.2.0</ns0:id>
+    <ns0:updated>2026-10-26T03:33:48Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/cline/cline/releases/tag/sdk%2Fllms%2Fv0.2.0" />
+    <ns0:title>sdk/llms/v0.2.0</ns0:title>
+    <ns0:content type="html">&lt;p&gt;@cline/llms@0.2.0&lt;/p&gt;</ns0:content>
+    <ns0:author>
+      <ns0:name>github-actions[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/824874689/sdk/core/v0.2.0</ns0:id>
+    <ns0:updated>2026-10-26T03:33:52Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/cline/cline/releases/tag/sdk%2Fcore%2Fv0.2.0" />
+    <ns0:title>sdk/core/v0.2.0</ns0:title>
+    <ns0:content type="html">&lt;p&gt;@cline/core@0.2.0&lt;/p&gt;</ns0:content>
+    <ns0:author>
+      <ns0:name>github-actions[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/824874689/sdk/agents/v0.2.0</ns0:id>
+    <ns0:updated>2026-10-26T03:33:50Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/cline/cline/releases/tag/sdk%2Fagents%2Fv0.2.0" />
+    <ns0:title>sdk/agents/v0.2.0</ns0:title>
+    <ns0:content type="html">&lt;p&gt;@cline/agents@0.2.0&lt;/p&gt;</ns0:content>
+    <ns0:author>
+      <ns0:name>github-actions[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/824874689/desktop-v0.0.49</ns0:id>
+    <ns0:updated>2026-10-26T04:49:44Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/cline/cline/releases/tag/desktop-v0.0.49" />
+    <ns0:title>Desktop v0.0.49</ns0:title>
+    <ns0:content type="html">&lt;ul&gt;
+&lt;li&gt;A new &lt;strong&gt;Changes&lt;/strong&gt; button in the session header shows the session's line counts and opens a pane listing the files changed in the last turn or across the whole session, with a diff of each. When a turn finishes, a summary under it lists the files it changed; click it to open the pane on that turn&lt;/li&gt;
+&lt;li&gt;A &lt;strong&gt;project files panel&lt;/strong&gt; (folder button in the session hea</ns0:content>
+    <ns0:author>
+      <ns0:name>github-actions[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4" />
+  </ns0:entry>
+</ns0:feed>

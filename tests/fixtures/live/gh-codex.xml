@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <ns0:id>tag:github.com,2008:https://github.com/openai/codex/releases</ns0:id>
+  <ns0:link type="text/html" rel="alternate" href="https://github.com/openai/codex/releases" />
+  <ns0:link type="application/atom+xml" rel="self" href="https://github.com/openai/codex/releases.atom" />
+  <ns0:title>Release notes from codex</ns0:title>
+  <ns0:updated>2026-11-09T07:29:29Z</ns0:updated>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/965415649/rust-v0.169.0-alpha.5</ns0:id>
+    <ns0:updated>2026-11-09T07:29:29Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/openai/codex/releases/tag/rust-v0.169.0-alpha.5" />
+    <ns0:title>rust-v0.169.0-alpha.5</ns0:title>
+    <ns0:content type="html">&lt;p&gt;Release 0.169.0-alpha.5&lt;/p&gt;</ns0:content>
+    <ns0:author>
+      <ns0:name>dylan-hurd-oai</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/220976066?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/965415649/rust-v0.169.0-alpha.4</ns0:id>
+    <ns0:updated>2026-11-09T05:37:54Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/openai/codex/releases/tag/rust-v0.169.0-alpha.4" />
+    <ns0:title>rust-v0.169.0-alpha.4</ns0:title>
+    <ns0:content type="html">&lt;p&gt;Release 0.169.0-alpha.4&lt;/p&gt;</ns0:content>
+    <ns0:author>
+      <ns0:name>bc-openai</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/185964850?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/965415649/rust-v0.169.0-alpha.3</ns0:id>
+    <ns0:updated>2026-11-07T19:36:41Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/openai/codex/releases/tag/rust-v0.169.0-alpha.3" />
+    <ns0:title>0.169.0-alpha.3</ns0:title>
+    <ns0:content type="html">&lt;p&gt;Release 0.169.0-alpha.3&lt;/p&gt;</ns0:content>
+    <ns0:author>
+      <ns0:name>github-actions[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/965415649/rust-v0.169.0-alpha.2</ns0:id>
+    <ns0:updated>2026-11-06T22:17:19Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/openai/codex/releases/tag/rust-v0.169.0-alpha.2" />
+    <ns0:title>0.169.0-alpha.2</ns0:title>
+    <ns0:content type="html">&lt;p&gt;Release 0.169.0-alpha.2&lt;/p&gt;</ns0:content>
+    <ns0:author>
+      <ns0:name>github-actions[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/965415649/rust-v0.169.0-alpha.1</ns0:id>
+    <ns0:updated>2026-11-06T03:02:33Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/openai/codex/releases/tag/rust-v0.169.0-alpha.1" />
+    <ns0:title>rust-v0.169.0-alpha.1</ns0:title>
+    <ns0:content type="html">&lt;p&gt;Release 0.169.0-alpha.1&lt;/p&gt;</ns0:content>
+    <ns0:author>
+      <ns0:name>bc-openai</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/185964850?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/965415649/rust-v0.168.0-alpha.7</ns0:id>
+    <ns0:updated>2026-11-05T23:00:15Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/openai/codex/releases/tag/rust-v0.168.0-alpha.7" />
+    <ns0:title>0.168.0-alpha.7</ns0:title>
+    <ns0:content type="html">&lt;p&gt;Release 0.168.0-alpha.7&lt;/p&gt;</ns0:content>
+    <ns0:author>
+      <ns0:name>github-actions[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/965415649/rust-v0.168.0-alpha.6</ns0:id>
+    <ns0:updated>2026-11-05T19:57:50Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/openai/codex/releases/tag/rust-v0.168.0-alpha.6" />
+    <ns0:title>0.168.0-alpha.6</ns0:title>
+    <ns0:content type="html">&lt;p&gt;Release 0.168.0-alpha.6&lt;/p&gt;</ns0:content>
+    <ns0:author>
+      <ns0:name>github-actions[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/965415649/rust-v0.168.0-alpha.5</ns0:id>
+    <ns0:updated>2026-11-05T17:06:54Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/openai/codex/releases/tag/rust-v0.168.0-alpha.5" />
+    <ns0:title>rust-v0.168.0-alpha.5</ns0:title>
+    <ns0:content type="html">&lt;p&gt;Release 0.168.0-alpha.5&lt;/p&gt;</ns0:content>
+    <ns0:author>
+      <ns0:name>bc-openai</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/185964850?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/965415649/rust-v0.168.0-alpha.4</ns0:id>
+    <ns0:updated>2026-11-05T11:20:13Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/openai/codex/releases/tag/rust-v0.168.0-alpha.4" />
+    <ns0:title>rust-v0.168.0-alpha.4</ns0:title>
+    <ns0:content type="html">&lt;p&gt;Release 0.168.0-alpha.4&lt;/p&gt;</ns0:content>
+    <ns0:author>
+      <ns0:name>jif-oai</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/230027070?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/965415649/rust-v0.168.0-alpha.3</ns0:id>
+    <ns0:updated>2026-11-05T02:38:43Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/openai/codex/releases/tag/rust-v0.168.0-alpha.3" />
+    <ns0:title>0.168.0-alpha.3</ns0:title>
+    <ns0:content type="html">&lt;p&gt;Release 0.168.0-alpha.3&lt;/p&gt;</ns0:content>
+    <ns0:author>
+      <ns0:name>github-actions[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4" />
+  </ns0:entry>
+</ns0:feed>

@@ -1,0 +1,157 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <ns0:id>tag:github.com,2008:https://github.com/mudler/LocalAI/releases</ns0:id>
+  <ns0:link type="text/html" rel="alternate" href="https://github.com/mudler/LocalAI/releases" />
+  <ns0:link type="application/atom+xml" rel="self" href="https://github.com/mudler/LocalAI/releases.atom" />
+  <ns0:title>Release notes from LocalAI</ns0:title>
+  <ns0:updated>2026-10-23T10:03:52Z</ns0:updated>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/615869301/v4.12.1</ns0:id>
+    <ns0:updated>2026-10-23T15:10:15Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/mudler/LocalAI/releases/tag/v4.12.1" />
+    <ns0:title>v4.12.1</ns0:title>
+    <ns0:content type="html">&lt;p&gt;Patch release v4.12.1. Security fix only.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Security&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Hardened the external URL policy for user-supplied URLs (chat vision image/audio/video URLs, image and audio endpoints). Redirect targets are now validated on every hop, 100.64.0.0/10 and 0.0.0.0/8 are treated as non-public, and the connection goes to the address that was validated. See &lt;a class="issue-link </ns0:content>
+    <ns0:author>
+      <ns0:name>mudler-agent</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/307077781?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/615869301/v4.12.0</ns0:id>
+    <ns0:updated>2026-10-22T14:09:06Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/mudler/LocalAI/releases/tag/v4.12.0" />
+    <ns0:title>v4.12.0</ns0:title>
+    <ns0:content type="html">&lt;h1&gt;🎉 LocalAI 4.12.0 Release! 🚀&lt;/h1&gt;
+&lt;h1 align="center"&gt;
+  &lt;br&gt;
+  &lt;a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/mudler/LocalAI/refs/heads/master/core/http/static/logo.png"&gt;&lt;img height="300" src="https://raw.githubusercontent.com/mudler/LocalAI/refs/heads/master/core/http/static/logo.png" style="max-width: 100%; height: auto; max-height: 300px;"&gt;&lt;/a&gt;
+</ns0:content>
+    <ns0:author>
+      <ns0:name>mudler</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/2420543?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/615869301/v4.11.0</ns0:id>
+    <ns0:updated>2026-10-02T22:30:14Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/mudler/LocalAI/releases/tag/v4.11.0" />
+    <ns0:title>v4.11.0</ns0:title>
+    <ns0:content type="html">&lt;h1&gt;🎉 LocalAI 4.11.0 Release! 🚀&lt;/h1&gt;
+&lt;h1 align="center"&gt;
+  &lt;br&gt;
+  &lt;a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/mudler/LocalAI/refs/heads/master/core/http/static/logo.png"&gt;&lt;img height="300" src="https://raw.githubusercontent.com/mudler/LocalAI/refs/heads/master/core/http/static/logo.png" style="max-width: 100%; height: auto; max-height: 300px;"&gt;&lt;/a&gt;
+</ns0:content>
+    <ns0:author>
+      <ns0:name>mudler</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/2420543?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/615869301/v4.10.0</ns0:id>
+    <ns0:updated>2026-09-17T20:24:52Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/mudler/LocalAI/releases/tag/v4.10.0" />
+    <ns0:title>v4.10.0</ns0:title>
+    <ns0:content type="html">&lt;h1&gt;🎉 LocalAI 4.10.0 Release! 🚀&lt;/h1&gt;
+&lt;h1 align="center"&gt;
+  &lt;br&gt;
+  &lt;a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/mudler/LocalAI/refs/heads/master/core/http/static/logo.png"&gt;&lt;img height="300" src="https://raw.githubusercontent.com/mudler/LocalAI/refs/heads/master/core/http/static/logo.png" style="max-width: 100%; height: auto; max-height: 300px;"&gt;&lt;/a&gt;
+</ns0:content>
+    <ns0:author>
+      <ns0:name>mudler</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/2420543?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/615869301/v4.9.0</ns0:id>
+    <ns0:updated>2026-08-20T16:04:53Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/mudler/LocalAI/releases/tag/v4.9.0" />
+    <ns0:title>v4.9.0</ns0:title>
+    <ns0:content type="html">&lt;h1&gt;🎉 LocalAI 4.9.0 Release! 🚀&lt;/h1&gt;
+&lt;h1 align="center"&gt;
+  &lt;br&gt;
+  &lt;a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/mudler/LocalAI/refs/heads/master/core/http/static/logo.png"&gt;&lt;img height="300" src="https://raw.githubusercontent.com/mudler/LocalAI/refs/heads/master/core/http/static/logo.png" style="max-width: 100%; height: auto; max-height: 300px;"&gt;&lt;/a&gt;
+ </ns0:content>
+    <ns0:author>
+      <ns0:name>mudler</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/2420543?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/615869301/v4.8.2</ns0:id>
+    <ns0:updated>2026-08-07T16:01:57Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/mudler/LocalAI/releases/tag/v4.8.2" />
+    <ns0:title>v4.8.2</ns0:title>
+    <ns0:content type="html">
+&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;h3&gt;👒 Dependencies&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;chore(deps): bump actions/stale from 10.4.0 to 11.0.0 by &lt;a class="user-mention notranslate" data-hovercard-type="organization" data-hovercard-url="/orgs/dependabot/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/dependabot"&gt;@dependabot&lt;/a&gt;[bot] in &lt;a class="issue-link js-issu</ns0:content>
+    <ns0:author>
+      <ns0:name>mudler</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/2420543?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/615869301/v4.8.1</ns0:id>
+    <ns0:updated>2026-08-06T16:01:36Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/mudler/LocalAI/releases/tag/v4.8.1" />
+    <ns0:title>v4.8.1</ns0:title>
+    <ns0:content type="html">
+&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;h3&gt;Other Changes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;docs(blog): cover the terminal agent in the 4.8 post by &lt;a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/localai-bot/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/localai-bot"&gt;@localai-bot&lt;/a&gt; in &lt;a class="issue-link js-issue-link" dat</ns0:content>
+    <ns0:author>
+      <ns0:name>mudler</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/2420543?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/615869301/v4.8.0</ns0:id>
+    <ns0:updated>2026-08-05T10:32:06Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/mudler/LocalAI/releases/tag/v4.8.0" />
+    <ns0:title>v4.8.0</ns0:title>
+    <ns0:content type="html">&lt;h1&gt;🎉 LocalAI 4.8.0 Release! 🚀&lt;/h1&gt;
+&lt;h1 align="center"&gt;
+  &lt;br&gt;
+  &lt;a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/mudler/LocalAI/refs/heads/master/core/http/static/logo.png"&gt;&lt;img height="300" src="https://raw.githubusercontent.com/mudler/LocalAI/refs/heads/master/core/http/static/logo.png" style="max-width: 100%; height: auto; max-height: 300px;"&gt;&lt;/a&gt;
+ </ns0:content>
+    <ns0:author>
+      <ns0:name>mudler</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/2420543?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/615869301/v4.7.1</ns0:id>
+    <ns0:updated>2026-07-14T16:17:51Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/mudler/LocalAI/releases/tag/v4.7.1" />
+    <ns0:title>v4.7.1</ns0:title>
+    <ns0:content type="html">
+&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;h3&gt;Other Changes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;fix(config): only inject llama.cpp serving options on the llama.cpp path by &lt;a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/localai-bot/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/localai-bot"&gt;@localai-bot&lt;/a&gt; in &lt;a class="issue-lin</ns0:content>
+    <ns0:author>
+      <ns0:name>mudler</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/2420543?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/615869301/v4.7.0</ns0:id>
+    <ns0:updated>2026-07-14T13:32:50Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/mudler/LocalAI/releases/tag/v4.7.0" />
+    <ns0:title>v4.7.0</ns0:title>
+    <ns0:content type="html">&lt;h1&gt;🎉 LocalAI 4.7.0 Release! 🚀&lt;/h1&gt;
+&lt;h1 align="center"&gt;
+  &lt;br&gt;
+  &lt;a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/mudler/LocalAI/refs/heads/master/core/http/static/logo.png"&gt;&lt;img height="300" src="https://raw.githubusercontent.com/mudler/LocalAI/refs/heads/master/core/http/static/logo.png" style="max-width: 100%; height: auto; max-height: 300px;"&gt;&lt;/a&gt;
+ </ns0:content>
+    <ns0:author>
+      <ns0:name>mudler</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/2420543?s=60&amp;v=4" />
+  </ns0:entry>
+</ns0:feed>

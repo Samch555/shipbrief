@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <ns0:id>tag:github.com,2008:https://github.com/langfuse/langfuse/releases</ns0:id>
+  <ns0:link type="text/html" rel="alternate" href="https://github.com/langfuse/langfuse/releases" />
+  <ns0:link type="application/atom+xml" rel="self" href="https://github.com/langfuse/langfuse/releases.atom" />
+  <ns0:title>Release notes from langfuse</ns0:title>
+  <ns0:updated>2026-11-09T12:18:47Z</ns0:updated>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/642497346/v4.77.0</ns0:id>
+    <ns0:updated>2026-11-09T15:36:18Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/langfuse/langfuse/releases/tag/v4.77.0" />
+    <ns0:title>v4.77.0</ns0:title>
+    <ns0:content type="html">&lt;p&gt;&lt;g-emoji class="g-emoji" alias="warning"&gt;⚠️&lt;/g-emoji&gt;&lt;g-emoji class="g-emoji" alias="warning"&gt;⚠️&lt;/g-emoji&gt;&lt;g-emoji class="g-emoji" alias="warning"&gt;⚠️&lt;/g-emoji&gt; This release removes automatic tokenization, as we believe no one should be relying on it. Read our &lt;a href="https://langfuse.com/changelog/2026-11-06-retiring-tokenization" rel="nofollow"&gt;change log&lt;/a&gt; to learn more. &lt;g-emoji class="g-</ns0:content>
+    <ns0:author>
+      <ns0:name>wochinge</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/7667273?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/642497346/v4.76.0</ns0:id>
+    <ns0:updated>2026-11-05T18:08:03Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/langfuse/langfuse/releases/tag/v4.76.0" />
+    <ns0:title>v4.76.0</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;h3&gt;Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;feat(sessions): Add chronological session list view by &lt;a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/bezbac/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/bezbac"&gt;@bezbac&lt;/a&gt; in &lt;a class="issue-link js-issue-link" data-error-text="Failed t</ns0:content>
+    <ns0:author>
+      <ns0:name>Steffen911</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/14163614?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/642497346/v4.75.0</ns0:id>
+    <ns0:updated>2026-11-04T09:26:19Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/langfuse/langfuse/releases/tag/v4.75.0" />
+    <ns0:title>v4.75.0</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;h3&gt;Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;feat(ai-gateway): raise Pro/Team/Enterprise gateway limits to 10k req/min and 5 GiB/min by &lt;a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/hassiebp/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/hassiebp"&gt;@hassiebp&lt;/a&gt; in &lt;a class="issue-lin</ns0:content>
+    <ns0:author>
+      <ns0:name>wochinge</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/7667273?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/642497346/v4.74.0</ns0:id>
+    <ns0:updated>2026-11-03T13:49:10Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/langfuse/langfuse/releases/tag/v4.74.0" />
+    <ns0:title>v4.74.0</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;h3&gt;Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;feat(ai-gateway): per-organization request and byte rate limits at /resolve by &lt;a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/hassiebp/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/hassiebp"&gt;@hassiebp&lt;/a&gt; in &lt;a class="issue-link js-issue-l</ns0:content>
+    <ns0:author>
+      <ns0:name>LysanderKie</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/44638111?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/642497346/v4.73.0</ns0:id>
+    <ns0:updated>2026-11-03T11:35:53Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/langfuse/langfuse/releases/tag/v4.73.0" />
+    <ns0:title>v4.73.0</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;h3&gt;Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;feat(ai-gateway): filter gateway analytics by user and API key by &lt;a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/wochinge/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/wochinge"&gt;@wochinge&lt;/a&gt; in &lt;a class="issue-link js-issue-link" data-err</ns0:content>
+    <ns0:author>
+      <ns0:name>tobi12345</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/17600797?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/642497346/v3.227.0</ns0:id>
+    <ns0:updated>2026-11-03T16:18:08Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/langfuse/langfuse/releases/tag/v3.227.0" />
+    <ns0:title>v3.227.0</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;feat(blob-export): add opt-in trace field groups for the legacy traces export (v3 backport of &lt;a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="5983892761" data-permission-text="Title is private" data-url="https://github.com/langfuse/langfuse/issues/19244" data-hovercard-type="pull_request" data-hovercard-url="/langfuse/langfuse/pu</ns0:content>
+    <ns0:author>
+      <ns0:name>niklassemmler</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1880943?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/642497346/v3.226.0</ns0:id>
+    <ns0:updated>2026-11-03T13:07:56Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/langfuse/langfuse/releases/tag/v3.226.0" />
+    <ns0:title>v3.226.0</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;feat(admin-api): transfer projects between organizations (v3 backport of &lt;a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="6168882204" data-permission-text="Title is private" data-url="https://github.com/langfuse/langfuse/issues/19587" data-hovercard-type="pull_request" data-hovercard-url="/langfuse/langfuse/pull/19587/hovercard" h</ns0:content>
+    <ns0:author>
+      <ns0:name>Steffen911</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/14163614?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/642497346/v4.72.0</ns0:id>
+    <ns0:updated>2026-10-29T16:14:48Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/langfuse/langfuse/releases/tag/v4.72.0" />
+    <ns0:title>v4.72.0</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;h3&gt;Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;feat(ingestion): attribute AI gateway spans to their gateway API key and service by &lt;a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/wochinge/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/wochinge"&gt;@wochinge&lt;/a&gt; in &lt;a class="issue-link js-is</ns0:content>
+    <ns0:author>
+      <ns0:name>nimarb</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/246059?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/642497346/v4.71.0</ns0:id>
+    <ns0:updated>2026-10-27T15:03:06Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/langfuse/langfuse/releases/tag/v4.71.0" />
+    <ns0:title>v4.71.0</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;h3&gt;Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;feat(ai-gateway): record model, key owner, byte and upstream error facts on generations by &lt;a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/hassiebp/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/hassiebp"&gt;@hassiebp&lt;/a&gt; in &lt;a class="issue-lin</ns0:content>
+    <ns0:author>
+      <ns0:name>Steffen911</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/14163614?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/642497346/v3.225.15</ns0:id>
+    <ns0:updated>2026-10-27T14:40:56Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/langfuse/langfuse/releases/tag/v3.225.15" />
+    <ns0:title>v3.225.15</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;fix(web): check that an invite's project belongs to the organization (v3 backport of &lt;a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="6048058980" data-permission-text="Title is private" data-url="https://github.com/langfuse/langfuse/issues/19404" data-hovercard-type="pull_request" data-hovercard-url="/langfuse/langfuse/pull/19404/</ns0:content>
+    <ns0:author>
+      <ns0:name>Steffen911</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/14163614?s=60&amp;v=4" />
+  </ns0:entry>
+</ns0:feed>

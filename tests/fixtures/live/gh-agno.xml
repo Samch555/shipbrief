@@ -1,0 +1,150 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <ns0:id>tag:github.com,2008:https://github.com/agno-agi/agno/releases</ns0:id>
+  <ns0:link type="text/html" rel="alternate" href="https://github.com/agno-agi/agno/releases" />
+  <ns0:link type="application/atom+xml" rel="self" href="https://github.com/agno-agi/agno/releases.atom" />
+  <ns0:title>Release notes from agno</ns0:title>
+  <ns0:updated>2026-10-29T14:00:28Z</ns0:updated>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/488641606/v3.1.12</ns0:id>
+    <ns0:updated>2026-10-29T14:00:55Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/agno-agi/agno/releases/tag/v3.1.12" />
+    <ns0:title>v3.1.12</ns0:title>
+    <ns0:content type="html">&lt;h1&gt;Changelog&lt;/h1&gt;
+&lt;h2&gt;New Features:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Native Approvals for Harness Agents&lt;/strong&gt;: Claude's and Codex's own permission requests now reach the AgentOS approval UI. When the agent has a database, including one AgentOS supplies, a native request persists a PAUSED run that shows up in the existing chat and Approvals views, and Resolve plus Continue Run delivers the decision back </ns0:content>
+    <ns0:author>
+      <ns0:name>kausmeows</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/82315953?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/488641606/v3.1.11</ns0:id>
+    <ns0:updated>2026-10-27T19:33:41Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/agno-agi/agno/releases/tag/v3.1.11" />
+    <ns0:title>v3.1.11</ns0:title>
+    <ns0:content type="html">&lt;h1&gt;Changelog&lt;/h1&gt;
+&lt;h2&gt;New Features:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Harness Agents in Teams and Workflows&lt;/strong&gt;: &lt;code&gt;ClaudeAgent&lt;/code&gt; and &lt;code&gt;CodexAgent&lt;/code&gt; can now be members of an Agno &lt;code&gt;Team&lt;/code&gt; and steps of a &lt;code&gt;Workflow&lt;/code&gt;, including inside &lt;code&gt;Parallel&lt;/code&gt;, &lt;code&gt;Loop&lt;/code&gt;, &lt;code&gt;Condition&lt;/code&gt; and &lt;code&gt;Router&lt;/code&gt;. The team leader delegates to them with &lt;code&gt;de</ns0:content>
+    <ns0:author>
+      <ns0:name>ysolanky</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/101447028?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/488641606/v3.1.10</ns0:id>
+    <ns0:updated>2026-10-23T13:10:30Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/agno-agi/agno/releases/tag/v3.1.10" />
+    <ns0:title>v3.1.10</ns0:title>
+    <ns0:content type="html">&lt;h1&gt;Changelog&lt;/h1&gt;
+&lt;h2&gt;Bug Fixes:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;CodexAgent&lt;/strong&gt;: Now signs in automatically with &lt;code&gt;OPENAI_API_KEY&lt;/code&gt;, and keeps an existing ChatGPT or other login.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;OS Manager&lt;/strong&gt;: OS Manager now lists and runs external agents such as &lt;code&gt;ClaudeAgent&lt;/code&gt; and &lt;code&gt;CodexAgent&lt;/code&gt; registered in &lt;code&gt;AgentOS(agents=[...])&lt;/code&gt;, by name or ID.&lt;/li&gt;
+&lt;</ns0:content>
+    <ns0:author>
+      <ns0:name>harshsinha03</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/74086017?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/488641606/v3.1.9</ns0:id>
+    <ns0:updated>2026-10-22T16:50:03Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/agno-agi/agno/releases/tag/v3.1.9" />
+    <ns0:title>v3.1.9</ns0:title>
+    <ns0:content type="html">&lt;h1&gt;Changelog&lt;/h1&gt;
+&lt;h2&gt;New Features:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;MCP Tool Runner&lt;/strong&gt;: &lt;code&gt;POST /mcp/server/tools/{tool_name}/run&lt;/code&gt; runs any tool listed on the AgentOS Server Card over HTTP and returns its result, so a tool can be tested without an MCP client. Turn it off with &lt;code&gt;MCPConfig(tool_run_endpoint=False)&lt;/code&gt;. See &lt;a href="https://github.com/agno-agi/agno/blob/main/cookbook/05_</ns0:content>
+    <ns0:author>
+      <ns0:name>harshsinha03</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/74086017?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/488641606/v3.1.8</ns0:id>
+    <ns0:updated>2026-10-21T12:15:24Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/agno-agi/agno/releases/tag/v3.1.8" />
+    <ns0:title>v3.1.8</ns0:title>
+    <ns0:content type="html">&lt;h1&gt;Changelog&lt;/h1&gt;
+&lt;h2&gt;New Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Postgres Sandbox Checkpoint Store: Added &lt;code&gt;PostgresCheckpointStore&lt;/code&gt; for storing sandbox checkpoints directly in PostgreSQL, allowing multi-replica deployments to restore sessions without S3 or shared filesystems. Checkpoints are chunked, written transactionally, deduplicated by SHA-256 and verified on read. It is opt-in; existing checkpoi</ns0:content>
+    <ns0:author>
+      <ns0:name>kausmeows</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/82315953?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/488641606/v3.1.7</ns0:id>
+    <ns0:updated>2026-10-20T16:31:37Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/agno-agi/agno/releases/tag/v3.1.7" />
+    <ns0:title>v3.1.7</ns0:title>
+    <ns0:content type="html">&lt;h1&gt;Changelog&lt;/h1&gt;
+&lt;h2&gt;Improvements:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;OS Manager Tool Limits&lt;/strong&gt;: &lt;code&gt;OSManager&lt;/code&gt; takes &lt;code&gt;tool_call_limit&lt;/code&gt; (default &lt;code&gt;8&lt;/code&gt;, per coordinator run, including delegations) and &lt;code&gt;member_tool_call_limit&lt;/code&gt; (default &lt;code&gt;24&lt;/code&gt;, per specialist invocation). Explanations stay scoped to the question and grounded in the Agno docs. Set either limi</ns0:content>
+    <ns0:author>
+      <ns0:name>kausmeows</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/82315953?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/488641606/v3.1.6</ns0:id>
+    <ns0:updated>2026-10-19T13:47:52Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/agno-agi/agno/releases/tag/v3.1.6" />
+    <ns0:title>v3.1.6</ns0:title>
+    <ns0:content type="html">&lt;h1&gt;Changelog&lt;/h1&gt;
+&lt;h2&gt;New Features:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Eval Case Run Arguments&lt;/strong&gt;: &lt;code&gt;Case&lt;/code&gt; takes &lt;code&gt;session_id&lt;/code&gt;, &lt;code&gt;user_id&lt;/code&gt;, &lt;code&gt;session_state&lt;/code&gt;, &lt;code&gt;dependencies&lt;/code&gt;, &lt;code&gt;metadata&lt;/code&gt; and &lt;code&gt;knowledge_filters&lt;/code&gt;, forwarded to the agent or team run, and &lt;code&gt;input&lt;/code&gt; accepts a &lt;code&gt;Message&lt;/code&gt;, so a case can attach an image or</ns0:content>
+    <ns0:author>
+      <ns0:name>kausmeows</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/82315953?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/488641606/v3.1.5</ns0:id>
+    <ns0:updated>2026-10-19T11:53:23Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/agno-agi/agno/releases/tag/v3.1.5" />
+    <ns0:title>v3.1.5</ns0:title>
+    <ns0:content type="html">&lt;h1&gt;Changelog&lt;/h1&gt;
+&lt;h2&gt;New Features:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Repositories for Sandboxed Agents&lt;/strong&gt;: A sandboxed &lt;code&gt;ClaudeAgent&lt;/code&gt; or &lt;code&gt;CodexAgent&lt;/code&gt; takes &lt;code&gt;repository=Repository(url, branch="main")&lt;/code&gt; and starts every session in that repository at &lt;code&gt;/workspace/repository&lt;/code&gt;. The first turn pins the exact commit, later turns keep the pin and the engineer's edits a</ns0:content>
+    <ns0:author>
+      <ns0:name>kausmeows</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/82315953?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/488641606/v3.1.4</ns0:id>
+    <ns0:updated>2026-10-16T13:35:06Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/agno-agi/agno/releases/tag/v3.1.4" />
+    <ns0:title>v3.1.4</ns0:title>
+    <ns0:content type="html">&lt;h1&gt;Changelog&lt;/h1&gt;
+&lt;h2&gt;New Features:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Sandboxed Harness Agents&lt;/strong&gt;: &lt;code&gt;ClaudeAgent&lt;/code&gt; and &lt;code&gt;CodexAgent&lt;/code&gt; take a &lt;code&gt;sandbox=&lt;/code&gt; parameter and run the whole harness process inside an isolated, per-session computer instead of on the host, with session state that survives losing the container, the host or the replica that ran the last turn. No new class</ns0:content>
+    <ns0:author>
+      <ns0:name>kausmeows</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/82315953?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/488641606/v3.1.3</ns0:id>
+    <ns0:updated>2026-10-12T11:22:21Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/agno-agi/agno/releases/tag/v3.1.3" />
+    <ns0:title>v3.1.3</ns0:title>
+    <ns0:content type="html">&lt;h1&gt;Changelog&lt;/h1&gt;
+&lt;h2&gt;New Features:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Durable External Agent Sessions&lt;/strong&gt;: &lt;code&gt;ClaudeAgent&lt;/code&gt; sessions now resume on any replica. The Claude SDK session id is stored on the Agno session (&lt;a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="5767681691" data-permission-text="Title is private" data-url="https://github.com/agno-agi/agno/is</ns0:content>
+    <ns0:author>
+      <ns0:name>kausmeows</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/82315953?s=60&amp;v=4" />
+  </ns0:entry>
+</ns0:feed>

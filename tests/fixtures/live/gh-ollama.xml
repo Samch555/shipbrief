@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <ns0:id>tag:github.com,2008:https://github.com/ollama/ollama/releases</ns0:id>
+  <ns0:link type="text/html" rel="alternate" href="https://github.com/ollama/ollama/releases" />
+  <ns0:link type="application/atom+xml" rel="self" href="https://github.com/ollama/ollama/releases.atom" />
+  <ns0:title>Release notes from ollama</ns0:title>
+  <ns0:updated>2026-11-08T00:36:53Z</ns0:updated>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/658928958/v0.40.16-rc0</ns0:id>
+    <ns0:updated>2026-11-08T00:36:53Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/ollama/ollama/releases/tag/v0.40.16-rc0" />
+    <ns0:title>v0.40.16-rc0: Add ripple preview support to the MLX runner (#19592)</ns0:title>
+    <ns0:content type="html">&lt;p&gt;Add the Ripple model, renderer, parser and import registration.&lt;br&gt;
+Support per-layer NoPE in DFlash drafts.&lt;br&gt;
+Fuse MLP activation, value blending and attention gating.&lt;br&gt;
+Add reference fixtures and model/runner regression tests.&lt;/p&gt;</ns0:content>
+    <ns0:author>
+      <ns0:name>pdevine</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/75239?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/658928958/v0.40.15</ns0:id>
+    <ns0:updated>2026-11-06T01:47:18Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/ollama/ollama/releases/tag/v0.40.15" />
+    <ns0:title>v0.40.15</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;MiMo V2.6&lt;/h2&gt;
+&lt;p&gt;Xiaomi MiMo's &lt;a href="https://ollama.com/library/mimo-v2.6" rel="nofollow"&gt;mimo-v2.6&lt;/a&gt;, a 9B model built for code and agent workflows, is now supported in Ollama.&lt;/p&gt;
+&lt;div class="highlight highlight-source-shell notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="ollama run mimo-v2.6"&gt;&lt;pre&gt;ollama run mimo-v2.6&lt;/pre&gt;&lt;/div&gt;
+&lt;h2&gt;AutoTrust decisio</ns0:content>
+    <ns0:author>
+      <ns0:name>github-actions[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/658928958/v0.40.15-rc2</ns0:id>
+    <ns0:updated>2026-11-05T21:41:21Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/ollama/ollama/releases/tag/v0.40.15-rc2" />
+    <ns0:title>v0.40.15-rc2</ns0:title>
+    <ns0:content type="html">&lt;p&gt;cmd/launch: add Kimi Code CLI support (&lt;a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="6194448168" data-permission-text="Title is private" data-url="https://github.com/ollama/ollama/issues/19506" data-hovercard-type="pull_request" data-hovercard-url="/ollama/ollama/pull/19506/hovercard" href="https://github.com/ollama/ollama/pull/19506"&gt;#19506&lt;/a&gt;)&lt;/p&gt;</ns0:content>
+    <ns0:author>
+      <ns0:name>jberg5</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/21697246?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/658928958/v0.40.15-rc1</ns0:id>
+    <ns0:updated>2026-11-05T01:31:38Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/ollama/ollama/releases/tag/v0.40.15-rc1" />
+    <ns0:title>v0.40.15-rc1: llama.cpp: version bump b12111 (#19530)</ns0:title>
+    <ns0:content type="html">&lt;p&gt;Drop 002-metal-unary-cast-constexpr.patch: superseded by upstream fix&lt;/p&gt;</ns0:content>
+    <ns0:author>
+      <ns0:name>dhiltgen</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/4033016?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/658928958/v0.40.15-rc0</ns0:id>
+    <ns0:updated>2026-11-03T15:09:06Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/ollama/ollama/releases/tag/v0.40.15-rc0" />
+    <ns0:title>v0.40.15-rc0</ns0:title>
+    <ns0:content type="html">&lt;p&gt;model: add MiMo V2.6 renderer for Qwen3.5 (&lt;a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="6112867838" data-permission-text="Title is private" data-url="https://github.com/ollama/ollama/issues/19400" data-hovercard-type="pull_request" data-hovercard-url="/ollama/ollama/pull/19400/hovercard" href="https://github.com/ollama/ollama/pull/19400"&gt;#19400&lt;/a&gt;)&lt;/p&gt;</ns0:content>
+    <ns0:author>
+      <ns0:name>dhiltgen</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/4033016?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/658928958/v0.40.14</ns0:id>
+    <ns0:updated>2026-11-03T06:57:31Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/ollama/ollama/releases/tag/v0.40.14" />
+    <ns0:title>v0.40.14</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;ollama launch claude&lt;/code&gt; now applies the model's output token limit for Claude Code, so cloud models no longer run into the 128k default cap&lt;/li&gt;
+&lt;li&gt;Cloud web search responses on &lt;code&gt;/api/chat&lt;/code&gt; are now decoded correctly, including compressed responses&lt;/li&gt;
+&lt;li&gt;OpenAI-compatible endpoints no longer override a model's packaged sampler defaults — cli</ns0:content>
+    <ns0:author>
+      <ns0:name>github-actions[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/658928958/v0.40.14-rc0</ns0:id>
+    <ns0:updated>2026-11-03T00:59:50Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/ollama/ollama/releases/tag/v0.40.14-rc0" />
+    <ns0:title>v0.40.14-rc0</ns0:title>
+    <ns0:content type="html">&lt;p&gt;server: decode cloud web search responses (&lt;a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="6173517878" data-permission-text="Title is private" data-url="https://github.com/ollama/ollama/issues/19476" data-hovercard-type="pull_request" data-hovercard-url="/ollama/ollama/pull/19476/hovercard" href="https://github.com/ollama/ollama/pull/19476"&gt;#19476&lt;/a&gt;)&lt;/p&gt;</ns0:content>
+    <ns0:author>
+      <ns0:name>ParthSareen</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/29360864?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/658928958/v0.40.13</ns0:id>
+    <ns0:updated>2026-10-29T02:54:11Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/ollama/ollama/releases/tag/v0.40.13" />
+    <ns0:title>v0.40.13</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;LFM3 on Linux and Windows&lt;/h2&gt;
+&lt;p&gt;Liquid AI's &lt;a href="https://ollama.com/library/lfm3" rel="nofollow"&gt;LFM3&lt;/a&gt; models, including text-to-speech in &lt;a href="https://ollama.com/library/lfm3-audio" rel="nofollow"&gt;lfm3-audio&lt;/a&gt; and &lt;a href="https://ollama.com/library/lfm3-omni" rel="nofollow"&gt;lfm3-omni&lt;/a&gt;, now run on Linux and Windows as well as Apple silicon.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Full Changelog&lt;/str</ns0:content>
+    <ns0:author>
+      <ns0:name>github-actions[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/658928958/v0.40.13-rc1</ns0:id>
+    <ns0:updated>2026-10-28T22:20:04Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/ollama/ollama/releases/tag/v0.40.13-rc1" />
+    <ns0:title>v0.40.13-rc1: llama.cpp: workaround Metal unary crash (#19372)</ns0:title>
+    <ns0:content type="html">&lt;p&gt;This temporary patch works around a regression on older versions of MacOS&lt;br&gt;
+ggml_metal_library_compile_all: failed to build 'unary' library&lt;/p&gt;</ns0:content>
+    <ns0:author>
+      <ns0:name>dhiltgen</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/4033016?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/658928958/v0.40.13-rc0</ns0:id>
+    <ns0:updated>2026-10-28T17:37:56Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/ollama/ollama/releases/tag/v0.40.13-rc0" />
+    <ns0:title>v0.40.13-rc0</ns0:title>
+    <ns0:content type="html">&lt;p&gt;llama.cpp: version bump b11963 (&lt;a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="6082223685" data-permission-text="Title is private" data-url="https://github.com/ollama/ollama/issues/19360" data-hovercard-type="pull_request" data-hovercard-url="/ollama/ollama/pull/19360/hovercard" href="https://github.com/ollama/ollama/pull/19360"&gt;#19360&lt;/a&gt;)&lt;/p&gt;</ns0:content>
+    <ns0:author>
+      <ns0:name>dhiltgen</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/4033016?s=60&amp;v=4" />
+  </ns0:entry>
+</ns0:feed>

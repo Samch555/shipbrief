@@ -1,0 +1,8 @@
+{"hits": [
+ {"objectID": "100", "title": "Example-Model 3 released with 1M context", "url": "https://example.com/blog/model-3", "points": 420, "num_comments": 200, "created_at": "2026-11-09T09:00:00Z"},
+ {"objectID": "101", "title": "Show HN: A tiny CLI for LLM evals", "url": "https://github.com/someone/tiny-evals", "points": 150, "num_comments": 40, "created_at": "2026-11-09T07:00:00Z"},
+ {"objectID": "102", "title": "Ask HN: How do you test AI agents?", "url": null, "points": 95, "num_comments": 80, "created_at": "2026-11-09T06:00:00Z"},
+ {"objectID": "103", "title": "A history of bread baking", "url": "https://bread.example/history", "points": 300, "num_comments": 50, "created_at": "2026-11-09T05:00:00Z"},
+ {"objectID": "104", "title": "Low score AI thing", "url": "https://example.com/low", "points": 5, "num_comments": 0, "created_at": "2026-11-09T05:00:00Z"},
+ {"objectID": "abc", "title": "Bad id", "url": "https://example.com/bad", "points": 500, "created_at": "2026-11-09T05:00:00Z"}
+]}

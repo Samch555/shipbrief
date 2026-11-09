@@ -27,7 +27,7 @@ HTTP_RETRIES = 2              # retries after the first attempt
 HTTP_BACKOFF_SECONDS = 1.5
 MAX_RESPONSE_BYTES = 5_000_000
 MAX_ITEMS_PER_SOURCE = 30
-MAX_ITEM_AGE_HOURS = 72       # ignore anything older than this
+MAX_ITEM_AGE_HOURS = 96       # ignore anything older (covers weekends; repeats are removed via history)
 FUTURE_SKEW_HOURS = 12        # tolerate small clock skew in feeds
 
 # Publishing gates

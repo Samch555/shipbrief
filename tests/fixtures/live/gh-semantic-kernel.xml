@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <ns0:id>tag:github.com,2008:https://github.com/microsoft/semantic-kernel/releases</ns0:id>
+  <ns0:link type="text/html" rel="alternate" href="https://github.com/microsoft/semantic-kernel/releases" />
+  <ns0:link type="application/atom+xml" rel="self" href="https://github.com/microsoft/semantic-kernel/releases.atom" />
+  <ns0:title>Release notes from semantic-kernel</ns0:title>
+  <ns0:updated>2026-11-07T00:59:53Z</ns0:updated>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/607289185/dotnet-1.82.0</ns0:id>
+    <ns0:updated>2026-11-07T01:00:07Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/microsoft/semantic-kernel/releases/tag/dotnet-1.82.0" />
+    <ns0:title>dotnet-1.82.0</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;Changes:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/microsoft/semantic-kernel/commit/df1cb33d0d32699c8d6a2e5b3ea7e5f8990d86d5/hovercard" href="https://github.com/microsoft/semantic-kernel/commit/df1cb33d0d32699c8d6a2e5b3ea7e5f8990d86d5"&gt;&lt;tt&gt;df1cb33&lt;/tt&gt;&lt;/a&gt; .Net: Bump package version to 1.82.0 (&lt;a class="issue-link js-issue-link" da</ns0:content>
+    <ns0:author>
+      <ns0:name>dmytrostruk</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/13853051?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/607289185/python-1.47.0</ns0:id>
+    <ns0:updated>2026-11-05T10:19:56Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/microsoft/semantic-kernel/releases/tag/python-1.47.0" />
+    <ns0:title>python-1.47.0</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;Python compatibility&lt;/h2&gt;
+&lt;p&gt;This release requires Python 3.11 or later. Python 3.10 support has been removed. Supported and tested Python versions are 3.11 through 3.14.&lt;/p&gt;
+&lt;p&gt;Includes consolidated Python dependency updates and the bug fixes listed below.&lt;/p&gt;
+&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;.Net: Remove migrated .NET Milvus connector by &lt;a class="user-mention notranslate" data-hovercard-typ</ns0:content>
+    <ns0:author>
+      <ns0:name>eavanvalkenburg</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/13749212?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/607289185/python-1.46.0</ns0:id>
+    <ns0:updated>2026-10-28T14:10:00Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/microsoft/semantic-kernel/releases/tag/python-1.46.0" />
+    <ns0:title>python-1.46.0</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;.Net: Bound element nesting depth in XML prompt parsing by &lt;a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/rogerbarreto/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/rogerbarreto"&gt;Roger Barreto (@rogerbarreto)&lt;/a&gt; in &lt;a class="issue-link js-issue-link" data-</ns0:content>
+    <ns0:author>
+      <ns0:name>eavanvalkenburg</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/13749212?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/607289185/python-1.45.0</ns0:id>
+    <ns0:updated>2026-10-06T12:55:19Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/microsoft/semantic-kernel/releases/tag/python-1.45.0" />
+    <ns0:title>python-1.45.0</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;remove migrated .NET MEVD providers, add redirect READMEs by &lt;a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/adamsitnik/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/adamsitnik"&gt;Adam Sitnik (@adamsitnik)&lt;/a&gt; with @Copilot in &lt;a class="issue-link js-issue-lin</ns0:content>
+    <ns0:author>
+      <ns0:name>eavanvalkenburg</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/13749212?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/607289185/dotnet-1.81.0</ns0:id>
+    <ns0:updated>2026-10-06T16:37:23Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/microsoft/semantic-kernel/releases/tag/dotnet-1.81.0" />
+    <ns0:title>dotnet-1.81.0</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;Changes:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/microsoft/semantic-kernel/commit/bd3150d9a215684e68a8598abda515d16edc89cb/hovercard" href="https://github.com/microsoft/semantic-kernel/commit/bd3150d9a215684e68a8598abda515d16edc89cb"&gt;&lt;tt&gt;bd3150d&lt;/tt&gt;&lt;/a&gt; .Net: Bump package version to 1.81.0 (&lt;a class="issue-link js-issue-link" da</ns0:content>
+    <ns0:author>
+      <ns0:name>dmytrostruk</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/13853051?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/607289185/dotnet-1.80.1</ns0:id>
+    <ns0:updated>2026-09-03T18:41:24Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/microsoft/semantic-kernel/releases/tag/dotnet-1.80.1" />
+    <ns0:title>dotnet-1.80.1</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;Changes:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/microsoft/semantic-kernel/commit/d8ec44919265b3641b7898a02038cbfe14590ee5/hovercard" href="https://github.com/microsoft/semantic-kernel/commit/d8ec44919265b3641b7898a02038cbfe14590ee5"&gt;&lt;tt&gt;d8ec449&lt;/tt&gt;&lt;/a&gt; .NET: Bump package version to 1.80.1 (&lt;a class="issue-link js-issue-link" da</ns0:content>
+    <ns0:author>
+      <ns0:name>dmytrostruk</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/13853051?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/607289185/dotnet-1.80.0</ns0:id>
+    <ns0:updated>2026-08-18T15:12:30Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/microsoft/semantic-kernel/releases/tag/dotnet-1.80.0" />
+    <ns0:title>dotnet-1.80.0</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;Changes:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/microsoft/semantic-kernel/commit/5e1f1fb87d9a38ed44683228dda2434a9b2f0ef9/hovercard" href="https://github.com/microsoft/semantic-kernel/commit/5e1f1fb87d9a38ed44683228dda2434a9b2f0ef9"&gt;&lt;tt&gt;5e1f1fb&lt;/tt&gt;&lt;/a&gt; .NET: Bump package version to 1.80.0 (&lt;a class="issue-link js-issue-link" da</ns0:content>
+    <ns0:author>
+      <ns0:name>dmytrostruk</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/13853051?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/607289185/python-1.44.1</ns0:id>
+    <ns0:updated>2026-08-06T09:55:22Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/microsoft/semantic-kernel/releases/tag/python-1.44.1" />
+    <ns0:title>python-1.44.1</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Encode OpenAPI server variable values by &lt;a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/eavanvalkenburg/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/eavanvalkenburg"&gt;Eduard van Valkenburg (@eavanvalkenburg)&lt;/a&gt; in &lt;a class="issue-link js-issue-link" data-e</ns0:content>
+    <ns0:author>
+      <ns0:name>moonbox3</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/35585003?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/607289185/dotnet-1.79.0</ns0:id>
+    <ns0:updated>2026-08-06T11:33:35Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/microsoft/semantic-kernel/releases/tag/dotnet-1.79.0" />
+    <ns0:title>dotnet-1.79.0</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;Changes:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/microsoft/semantic-kernel/commit/fb137812c741b8d673ef331b2b517d028056b4bb/hovercard" href="https://github.com/microsoft/semantic-kernel/commit/fb137812c741b8d673ef331b2b517d028056b4bb"&gt;&lt;tt&gt;fb13781&lt;/tt&gt;&lt;/a&gt; .NET: Bump package version to 1.79.0 (&lt;a class="issue-link js-issue-link" da</ns0:content>
+    <ns0:author>
+      <ns0:name>dmytrostruk</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/13853051?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/607289185/python-1.44.0</ns0:id>
+    <ns0:updated>2026-07-07T16:18:18Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/microsoft/semantic-kernel/releases/tag/python-1.44.0" />
+    <ns0:title>python-1.44.0</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Python: Bump tornado from 6.5.5 to 6.5.7 in /python by &lt;a class="user-mention notranslate" data-hovercard-type="organization" data-hovercard-url="/orgs/dependabot/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/dependabot"&gt;Dependabot (@dependabot)&lt;/a&gt;[bot] in &lt;a class="issue-link js-issue-link" data-e</ns0:content>
+    <ns0:author>
+      <ns0:name>moonbox3</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/35585003?s=60&amp;v=4" />
+  </ns0:entry>
+</ns0:feed>

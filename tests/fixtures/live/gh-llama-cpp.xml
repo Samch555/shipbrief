@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <ns0:id>tag:github.com,2008:https://github.com/ggml-org/llama.cpp/releases</ns0:id>
+  <ns0:link type="text/html" rel="alternate" href="https://github.com/ggml-org/llama.cpp/releases" />
+  <ns0:link type="application/atom+xml" rel="self" href="https://github.com/ggml-org/llama.cpp/releases.atom" />
+  <ns0:title>Release notes from llama.cpp</ns0:title>
+  <ns0:updated>2026-11-09T13:48:32Z</ns0:updated>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/612354784/b12230</ns0:id>
+    <ns0:updated>2026-11-09T17:06:40Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/ggml-org/llama.cpp/releases/tag/b12230" />
+    <ns0:title>b12230</ns0:title>
+    <ns0:content type="html">&lt;details open=""&gt;
+&lt;p&gt;ggml-zdnn: accept non-zdnn tensors, invalidate compute tensors after every op (&lt;a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="6249008991" data-permission-text="Title is private" data-url="https://github.com/ggml-org/llama.cpp/issues/31824" data-hovercard-type="pull_request" data-hovercard-url="/ggml-org/llama.cpp/pull/31824/hovercard" href=</ns0:content>
+    <ns0:author>
+      <ns0:name>github-actions[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/612354784/b12229</ns0:id>
+    <ns0:updated>2026-11-09T16:46:18Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/ggml-org/llama.cpp/releases/tag/b12229" />
+    <ns0:title>b12229</ns0:title>
+    <ns0:content type="html">&lt;details open=""&gt;
+&lt;p&gt;server : fix response_format json_schema when schema is not nested in the json_schema wrapper (&lt;a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="5411951198" data-permission-text="Title is private" data-url="https://github.com/ggml-org/llama.cpp/issues/28697" data-hovercard-type="pull_request" data-hovercard-url="/ggml-org/llama.cpp/pull/28697/</ns0:content>
+    <ns0:author>
+      <ns0:name>github-actions[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/612354784/b12228</ns0:id>
+    <ns0:updated>2026-11-09T16:26:55Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/ggml-org/llama.cpp/releases/tag/b12228" />
+    <ns0:title>b12228</ns0:title>
+    <ns0:content type="html">&lt;details open=""&gt;
+&lt;p&gt;ggml : implement the backward pass for TRI (&lt;a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="5897387181" data-permission-text="Title is private" data-url="https://github.com/ggml-org/llama.cpp/issues/30712" data-hovercard-type="pull_request" data-hovercard-url="/ggml-org/llama.cpp/pull/30712/hovercard" href="https://github.com/ggml-org/llama.</ns0:content>
+    <ns0:author>
+      <ns0:name>github-actions[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/612354784/b12227</ns0:id>
+    <ns0:updated>2026-11-09T12:54:27Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/ggml-org/llama.cpp/releases/tag/b12227" />
+    <ns0:title>b12227: tests : keep dummy ffn.act scales away from zero (#31940)</ns0:title>
+    <ns0:content type="html">&lt;p&gt;The dummy-model generator fills every tensor from a plain normal pool.&lt;br&gt;
+&lt;code&gt;blk.N.ffn.act.scales&lt;/code&gt; is a divisor in the mpt graph, so with seed&lt;br&gt;
+1224489258 it draws |v| ~ 1e-6, and &lt;code&gt;ffn_act = gelu(...) / scales&lt;/code&gt; reaches&lt;br&gt;
+2.7e5. Metal stages both operands of &lt;code&gt;kernel_mul_mm_f32_f32&lt;/code&gt; as half, so&lt;br&gt;
+those activations overflow to inf, the norm downstream turns t</ns0:content>
+    <ns0:author>
+      <ns0:name>ggerganov</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1991296?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/612354784/b12226</ns0:id>
+    <ns0:updated>2026-11-09T12:52:32Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/ggml-org/llama.cpp/releases/tag/b12226" />
+    <ns0:title>b12226</ns0:title>
+    <ns0:content type="html">&lt;p&gt;mtp: read the target hidden states from a device buffer (&lt;a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="6280876706" data-permission-text="Title is private" data-url="https://github.com/ggml-org/llama.cpp/issues/31927" data-hovercard-type="pull_request" data-hovercard-url="/ggml-org/llama.cpp/pull/31927/hovercard" href="https://github.com/ggml-org/llama.cpp/p</ns0:content>
+    <ns0:author>
+      <ns0:name>am17an</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/2929750?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/612354784/b12224</ns0:id>
+    <ns0:updated>2026-11-09T13:56:43Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/ggml-org/llama.cpp/releases/tag/b12224" />
+    <ns0:title>b12224</ns0:title>
+    <ns0:content type="html">&lt;details open=""&gt;
+&lt;p&gt;ggml-backend: don't upload inputs that are not read  (&lt;a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="6119199911" data-permission-text="Title is private" data-url="https://github.com/ggml-org/llama.cpp/issues/31419" data-hovercard-type="pull_request" data-hovercard-url="/ggml-org/llama.cpp/pull/31419/hovercard" href="https://github.com/ggml-</ns0:content>
+    <ns0:author>
+      <ns0:name>github-actions[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/612354784/b12223</ns0:id>
+    <ns0:updated>2026-11-09T12:55:36Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/ggml-org/llama.cpp/releases/tag/b12223" />
+    <ns0:title>b12223</ns0:title>
+    <ns0:content type="html">&lt;details open=""&gt;
+&lt;p&gt;models : Attach Granite NVFP4 weight scales (&lt;a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="6129288855" data-permission-text="Title is private" data-url="https://github.com/ggml-org/llama.cpp/issues/31449" data-hovercard-type="pull_request" data-hovercard-url="/ggml-org/llama.cpp/pull/31449/hovercard" href="https://github.com/ggml-org/llama</ns0:content>
+    <ns0:author>
+      <ns0:name>github-actions[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/612354784/b12221</ns0:id>
+    <ns0:updated>2026-11-09T12:31:33Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/ggml-org/llama.cpp/releases/tag/b12221" />
+    <ns0:title>b12221</ns0:title>
+    <ns0:content type="html">&lt;details open=""&gt;
+&lt;p&gt;metal : prevent out-of-bounds writes to the Metal FA output buffer (&lt;a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="6205404440" data-permission-text="Title is private" data-url="https://github.com/ggml-org/llama.cpp/issues/31662" data-hovercard-type="pull_request" data-hovercard-url="/ggml-org/llama.cpp/pull/31662/hovercard" href="https://gi</ns0:content>
+    <ns0:author>
+      <ns0:name>github-actions[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/612354784/b12220</ns0:id>
+    <ns0:updated>2026-11-09T12:04:40Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/ggml-org/llama.cpp/releases/tag/b12220" />
+    <ns0:title>b12220</ns0:title>
+    <ns0:content type="html">&lt;details open=""&gt;
+&lt;p&gt;metal : make ggml_tri select instead of scaling by the comparison (&lt;a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="5897385513" data-permission-text="Title is private" data-url="https://github.com/ggml-org/llama.cpp/issues/30711" data-hovercard-type="pull_request" data-hovercard-url="/ggml-org/llama.cpp/pull/30711/hovercard" href="https://git</ns0:content>
+    <ns0:author>
+      <ns0:name>github-actions[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/612354784/b12219</ns0:id>
+    <ns0:updated>2026-11-09T11:46:39Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/ggml-org/llama.cpp/releases/tag/b12219" />
+    <ns0:title>b12219</ns0:title>
+    <ns0:content type="html">&lt;details open=""&gt;
+&lt;p&gt;opencl : include climits (&lt;a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="6284347943" data-permission-text="Title is private" data-url="https://github.com/ggml-org/llama.cpp/issues/31935" data-hovercard-type="pull_request" data-hovercard-url="/ggml-org/llama.cpp/pull/31935/hovercard" href="https://github.com/ggml-org/llama.cpp/pull/31935"&gt;#3</ns0:content>
+    <ns0:author>
+      <ns0:name>github-actions[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4" />
+  </ns0:entry>
+</ns0:feed>

@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <ns0:id>tag:github.com,2008:https://github.com/letta-ai/letta/releases</ns0:id>
+  <ns0:link type="text/html" rel="alternate" href="https://github.com/letta-ai/letta/releases" />
+  <ns0:link type="application/atom+xml" rel="self" href="https://github.com/letta-ai/letta/releases.atom" />
+  <ns0:title>Release notes from letta</ns0:title>
+  <ns0:updated>2026-05-14T16:58:54Z</ns0:updated>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/703411624/0.16.8</ns0:id>
+    <ns0:updated>2026-05-14T17:14:24Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/letta-ai/letta/releases/tag/0.16.8" />
+    <ns0:title>v0.16.8</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;fix: workflows update by &lt;a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/cpacker/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/cpacker"&gt;@cpacker&lt;/a&gt; in &lt;a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4221254453" data-permi</ns0:content>
+    <ns0:author>
+      <ns0:name>kianjones9</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/11655409?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/703411624/0.16.7</ns0:id>
+    <ns0:updated>2026-04-02T18:01:30Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/letta-ai/letta/releases/tag/0.16.7" />
+    <ns0:title>v0.16.7</ns0:title>
+    <ns0:content type="html">&lt;h1&gt;Letta Server 0.16.7 Release Notes&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;173 commits since 0.16.6&lt;/strong&gt; | Released March 31, 2026&lt;/p&gt;
+&lt;h2&gt;Highlights&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Self-hosted users: this is a big upgrade.&lt;/strong&gt; The default global context window is raised from 32k to 128k, the context window reset bug (LET-7991) is fixed, and compaction has been overhauled. If you've been running curl commands to patch your c</ns0:content>
+    <ns0:author>
+      <ns0:name>carenthomas</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/5600960?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/703411624/0.16.6</ns0:id>
+    <ns0:updated>2026-03-05T22:51:28Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/letta-ai/letta/releases/tag/0.16.6" />
+    <ns0:title>v0.16.6</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;Highlights&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Expanded Conversations API support for &lt;strong&gt;default conversation / agent-direct mode&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;New conversations now initialize with a &lt;strong&gt;compiled system message at creation time&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Fixed &lt;code&gt;model_settings.max_output_tokens&lt;/code&gt; default behavior so it &lt;strong&gt;does not silently override&lt;/strong&gt; existing &lt;code&gt;max_tokens&lt;/code&gt; unle</ns0:content>
+    <ns0:author>
+      <ns0:name>carenthomas</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/5600960?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/703411624/0.16.5</ns0:id>
+    <ns0:updated>2026-02-24T19:02:50Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/letta-ai/letta/releases/tag/0.16.5" />
+    <ns0:title>v0.16.5</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;chore: bump version 0.16.5 by &lt;a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/carenthomas/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/carenthomas"&gt;@carenthomas&lt;/a&gt; in &lt;a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="39853</ns0:content>
+    <ns0:author>
+      <ns0:name>carenthomas</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/5600960?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/703411624/0.16.4</ns0:id>
+    <ns0:updated>2026-01-29T20:50:40Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/letta-ai/letta/releases/tag/0.16.4" />
+    <ns0:title>v0.16.4</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;fix: update gh templates by &lt;a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/cpacker/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/cpacker"&gt;@cpacker&lt;/a&gt; in &lt;a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3827359080" data-pe</ns0:content>
+    <ns0:author>
+      <ns0:name>carenthomas</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/5600960?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/703411624/0.16.2</ns0:id>
+    <ns0:updated>2026-01-12T19:04:44Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/letta-ai/letta/releases/tag/0.16.2" />
+    <ns0:title>v0.16.2</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;docs: update README.md by &lt;a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/cpacker/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/cpacker"&gt;@cpacker&lt;/a&gt; in &lt;a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3745303164" data-perm</ns0:content>
+    <ns0:author>
+      <ns0:name>carenthomas</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/5600960?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/703411624/0.16.1</ns0:id>
+    <ns0:updated>2025-12-18T01:37:57Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/letta-ai/letta/releases/tag/0.16.1" />
+    <ns0:title>v0.16.1</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Correct provider name for openai-proxy in LLMConfig by &lt;a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/SootyOwl/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/SootyOwl"&gt;@SootyOwl&lt;/a&gt; in &lt;a class="issue-link js-issue-link" data-error-text="Failed to load title</ns0:content>
+    <ns0:author>
+      <ns0:name>carenthomas</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/5600960?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/703411624/0.16.0</ns0:id>
+    <ns0:updated>2025-12-15T20:12:52Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/letta-ai/letta/releases/tag/0.16.0" />
+    <ns0:title>v0.16.0</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated readme with actual argument by &lt;a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/Godofnothing/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/Godofnothing"&gt;@Godofnothing&lt;/a&gt; in &lt;a class="issue-link js-issue-link" data-error-text="Failed to load title" da</ns0:content>
+    <ns0:author>
+      <ns0:name>carenthomas</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/5600960?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/703411624/0.15.1</ns0:id>
+    <ns0:updated>2025-11-26T22:46:17Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/letta-ai/letta/releases/tag/0.15.1" />
+    <ns0:title>v0.15.1</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;chore: bump version 0.15.1 by &lt;a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/carenthomas/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/carenthomas"&gt;@carenthomas&lt;/a&gt; in &lt;a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="36692</ns0:content>
+    <ns0:author>
+      <ns0:name>carenthomas</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/5600960?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/703411624/0.15.0</ns0:id>
+    <ns0:updated>2025-11-25T03:16:16Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/letta-ai/letta/releases/tag/0.15.0" />
+    <ns0:title>v0.15.0</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Add context windows for grok-4 models by &lt;a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/runtimeBob/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/runtimeBob"&gt;@runtimeBob&lt;/a&gt; in &lt;a class="issue-link js-issue-link" data-error-text="Failed to load title" data-i</ns0:content>
+    <ns0:author>
+      <ns0:name>carenthomas</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/5600960?s=60&amp;v=4" />
+  </ns0:entry>
+</ns0:feed>

@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <ns0:id>tag:github.com,2008:https://github.com/continuedev/continue/releases</ns0:id>
+  <ns0:link type="text/html" rel="alternate" href="https://github.com/continuedev/continue/releases" />
+  <ns0:link type="application/atom+xml" rel="self" href="https://github.com/continuedev/continue/releases.atom" />
+  <ns0:title>Release notes from continue</ns0:title>
+  <ns0:updated>2026-06-19T00:23:08Z</ns0:updated>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/644686905/v2.1.0-vscode</ns0:id>
+    <ns0:updated>2026-06-19T00:24:00Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/continuedev/continue/releases/tag/v2.1.0-vscode" />
+    <ns0:title>v2.1.0-vscode</ns0:title>
+    <ns0:content type="html">&lt;p&gt;chore: vscode 2.1.0&lt;/p&gt;
+
+&lt;p&gt;Co-authored-by: Cursor &amp;lt;cursoragent@cursor.com&amp;gt;&lt;/p&gt;</ns0:content>
+    <ns0:author>
+      <ns0:name>sestinj</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/33237525?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/644686905/v2.0.0-vscode</ns0:id>
+    <ns0:updated>2026-06-19T00:24:01Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/continuedev/continue/releases/tag/v2.0.0-vscode" />
+    <ns0:title>v2.0.0-vscode</ns0:title>
+    <ns0:content type="html">&lt;p&gt;chore: vscode 2.0.0&lt;/p&gt;
+
+&lt;p&gt;Co-authored-by: Cursor &amp;lt;cursoragent@cursor.com&amp;gt;&lt;/p&gt;</ns0:content>
+    <ns0:author>
+      <ns0:name>sestinj</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/33237525?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/644686905/v1.3.40-vscode</ns0:id>
+    <ns0:updated>2026-06-15T16:31:09Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/continuedev/continue/releases/tag/v1.3.40-vscode" />
+    <ns0:title>v1.3.40-vscode</ns0:title>
+    <ns0:content type="html">&lt;p&gt;Pre-release of the Continue VS Code extension (final-release cleanup).&lt;/p&gt;</ns0:content>
+    <ns0:author>
+      <ns0:name>sestinj</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/33237525?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/644686905/v1.2.24-vscode</ns0:id>
+    <ns0:updated>2026-06-15T16:59:46Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/continuedev/continue/releases/tag/v1.2.24-vscode" />
+    <ns0:title>v1.2.24-vscode</ns0:title>
+    <ns0:content type="html">&lt;p&gt;Stable release of the Continue VS Code extension (final release): removes the CLI-install banner and Generate Rule feature, switches onboarding and the new-config template to explicit model definitions (no Hub slugs), and updates the deprecation banner export link. Re-cut of v1.2.23 which only partially published due to a transient Marketplace API timeout.&lt;/p&gt;</ns0:content>
+    <ns0:author>
+      <ns0:name>sestinj</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/33237525?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/644686905/v1.2.23-vscode</ns0:id>
+    <ns0:updated>2026-06-15T16:43:38Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/continuedev/continue/releases/tag/v1.2.23-vscode" />
+    <ns0:title>v1.2.23-vscode</ns0:title>
+    <ns0:content type="html">&lt;p&gt;Stable release of the Continue VS Code extension (final release): removes the CLI-install banner and Generate Rule feature, switches onboarding and the new-config template to explicit model definitions (no Hub slugs), and updates the deprecation banner export link.&lt;/p&gt;</ns0:content>
+    <ns0:author>
+      <ns0:name>sestinj</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/33237525?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/644686905/v1.3.38-vscode</ns0:id>
+    <ns0:updated>2026-03-27T21:34:07Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/continuedev/continue/releases/tag/v1.3.38-vscode" />
+    <ns0:title>v1.3.38-vscode</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;fix: ensure config.yaml exists and is populated when accessed by &lt;a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/RomneyDa/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/RomneyDa"&gt;@RomneyDa&lt;/a&gt; in &lt;a class="issue-link js-issue-link" data-error-text="Failed to </ns0:content>
+    <ns0:author>
+      <ns0:name>RomneyDa</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6581799?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/644686905/v1.2.22-vscode</ns0:id>
+    <ns0:updated>2026-03-27T21:38:24Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/continuedev/continue/releases/tag/v1.2.22-vscode" />
+    <ns0:title>v1.2.22-vscode</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;fix: ensure config.yaml exists and is populated when accessed by &lt;a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/RomneyDa/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/RomneyDa"&gt;@RomneyDa&lt;/a&gt; in &lt;a class="issue-link js-issue-link" data-error-text="Failed to </ns0:content>
+    <ns0:author>
+      <ns0:name>RomneyDa</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6581799?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/644686905/v1.0.67-jetbrains</ns0:id>
+    <ns0:updated>2026-03-27T21:22:37Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/continuedev/continue/releases/tag/v1.0.67-jetbrains" />
+    <ns0:title>v1.0.67-jetbrains</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;fix: redirect Winston logger to stderr to prevent IPC stream corruption + fix binary tests by &lt;a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/RomneyDa/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/RomneyDa"&gt;@RomneyDa&lt;/a&gt; in &lt;a class="issue-link js-issue-link</ns0:content>
+    <ns0:author>
+      <ns0:name>RomneyDa</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6581799?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/644686905/v1.3.37-vscode</ns0:id>
+    <ns0:updated>2026-03-27T00:05:47Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/continuedev/continue/releases/tag/v1.3.37-vscode" />
+    <ns0:title>v1.3.37-vscode</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;chore: jb-66-vs-37 by &lt;a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/RomneyDa/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/RomneyDa"&gt;@RomneyDa&lt;/a&gt; in &lt;a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4147962294" data-permi</ns0:content>
+    <ns0:author>
+      <ns0:name>RomneyDa</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6581799?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/644686905/v1.3.36-vscode</ns0:id>
+    <ns0:updated>2026-03-26T22:43:05Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/continuedev/continue/releases/tag/v1.3.36-vscode" />
+    <ns0:title>v1.3.36-vscode</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;fix: add ModelDescription type to binary test callbacks by &lt;a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/RomneyDa/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/RomneyDa"&gt;@RomneyDa&lt;/a&gt; in &lt;a class="issue-link js-issue-link" data-error-text="Failed to load t</ns0:content>
+    <ns0:author>
+      <ns0:name>RomneyDa</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6581799?s=60&amp;v=4" />
+  </ns0:entry>
+</ns0:feed>

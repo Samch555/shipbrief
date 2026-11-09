@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>Apple Machine Learning Research</title>
+      <link>https://machinelearning.apple.com</link>
+      <description>Apple machine learning teams are engaged in state of the art research in machine learning and artificial intelligence. Learn about the latest advancements.</description>
+      <language>en</language>
+      <lastBuildDate>Thu, 05 Nov 2026 00:00:00 GMT</lastBuildDate>
+      <ns0:link href="https://machinelearning.apple.com/rss.xml" rel="self" type="application/rss+xml" />
+      
+  <item>
+    <guid>faster-retrieval</guid>
+    <title>Faster Retrieval for Better, More Efficient RAG</title>
+    <link>https://machinelearning.apple.com/research/faster-retrieval</link>
+    <description>Maximum inner product search (MIPS) sits at the core of recommendation systems, search, and retrieval-augmented generation (RAG). Given a query vector, MIPS systems search within a database of millions of candidate key vectors for the one that best matches the query. The original data point associated with that best-matching key is then used to handle the query: in RAG, the document that is best s</description>
+    <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
+  </item>
+
+  <item>
+    <guid>gharp-head-animation</guid>
+    <title>GHARP: Real-Time Gaussian Head Animation from Large-Scale Reconstruction Prior</title>
+    <link>https://machinelearning.apple.com/research/gharp-head-animation</link>
+    <description>We present GHARP (Real-time Gaussian Head Animation from Large-scale Reconstruction Prior), a method that animates 3D human heads in real time from a few input images of a subject and a driving expression signal. We decouple the problem into an identity stage that builds a representation of the subject’s geometry and appearance offline, and an animation stage that predicts expression-dependent res</description>
+    <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
+  </item>
+
+  <item>
+    <guid>mlx-distributed-inference</guid>
+    <title>Local and Distributed Large LLM Inference with MLX and RDMA on Mac Studio</title>
+    <link>https://machinelearning.apple.com/research/mlx-distributed-inference</link>
+    <description>MLX on Mac with Apple silicon lets AI researchers and developers experiment locally with the latest models and methods in a private environment. The open-source array framework leverages the unified memory architecture of Apple silicon, enabling anyone to run new inference and fine-tuning methods on their own hardware and explore other AI techniques. In a previous post, we highlighted the advantag</description>
+    <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
+  </item>
+
+  <item>
+    <guid>selection-structured-reasoning</guid>
+    <title>Selection-Based Structured Reasoning: Toward Efficient Multimodal Search Agents</title>
+    <link>https://machinelearning.apple.com/research/selection-structured-reasoning</link>
+    <description>Multimodal agents commonly generate freeform reasoning before each action. For small models, limited model capacity can result in lengthy reasoning that provides little useful guidance for action generation while incurring substantial inference cost. To address this challenge, we introduce Selection-based Structured Reasoning (SSR), a framework that reformulates reasoning as selection instead of o</description>
+    <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
+  </item>
+
+  <item>
+    <guid>plan-retrieve-tool-discovery</guid>
+    <title>Plan or Retrieve First? A Scale Study of Tool Discovery Architectures</title>
+    <link>https://machinelearning.apple.com/research/plan-retrieve-tool-discovery</link>
+    <description>Tool-augmented LLM agents discover relevant APIs from large registries before planning execution, yet finite context windows prohibit injecting all tool definitions into a single prompt. The dominant approach, which we term Retrieve-then-Plan (RtP), embeds the user query and retrieves similar tools via approximate nearest-neighbor search. We study an alternative Plan-then-Retrieve (PtR) paradigm i</description>
+    <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
+  </item>
+
+  <item>
+    <guid>code-switching-detection</guid>
+    <title>Code-Switching Detection via Language-Selective Dimensions in Speech Foundation Models</title>
+    <link>https://machinelearning.apple.com/research/code-switching-detection</link>
+    <description>Code-switching (CS), the alternation between languages within an utterance, is common in multilingual speech but underrepresented in pretraining corpora. Increasing CS coverage requires finding relevant utterances in large speech collections so that they can be included in training data. One way to find such utterances is to transcribe the speech and detect language alternation in the text, but th</description>
+    <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
+  </item>
+
+  <item>
+    <guid>tri-modal-masked-diffusion</guid>
+    <title>The Design Space of Tri-Modal Masked Diffusion Models</title>
+    <link>https://machinelearning.apple.com/research/tri-modal-masked-diffusion</link>
+    <description>Discrete diffusion models have emerged as strong alternatives to autoregressive language models, with recent work initializing and finetuning a base unimodal model for bi-modal generation. Diverging from previous approaches, we introduce the first tri-modal Masked Diffusion Models (MDM) pretrained from scratch on text, image-text, and audio-text data. We systematically analyze multimodal scaling l</description>
+    <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
+  </item>
+
+  <item>
+    <guid>mix-dont-tune</guid>
+    <title>Mix, Don't Tune: Bilingual Pre-Training Outperforms Hyperparameter Search in Data-Constrained Settings</title>
+    <link>https://machinelearning.apple.com/research/mix-dont-tune</link>
+    <description>For most languages of the world, language model pre-training operates in a data-constrained regime where models must repeat their training data many times, degrading generalization. Two remedies exist: aggressive hyperparameter tuning such as high weight decay, and mixing in data from a high-resource auxiliary language to directly aid the low-resource target. While hyperparameter tuning regularize</description>
+    <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
+  </item>
+
+  <item>
+    <guid>llm-translation-quality-annotation</guid>
+    <title>Large Language Models for Machine Translation Quality Annotation: Humans and Models Are Both Challenged</title>
+    <link>https://machinelearning.apple.com/research/llm-translation-quality-annotation</link>
+    <description>Large Language Models (LLMs) are considered to be a more efficient and cost-effective alternative to human judgment for Machine Translation (MT) evaluation. With MT evaluation spanning a large number of language pairs, domains and levels of annotation granularity, LLMs must be thoroughly evaluated across these dimensions before being reliably used as alternatives to human evaluation. In this paper</description>
+    <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
+  </item>
+
+  <item>
+    <guid>distributed-gpu-cloud</guid>
+    <title>Minions: A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices</title>
+    <link>https://machinelearning.apple.com/research/distributed-gpu-cloud</link>
+    <description>The increasing demand for GPU-accelerated machine learning inference has exposed limitations in centralized GPU infrastructures, including high cost, limited elasticity, and long wait times under resource constraints. At the same time, modern Apple Silicon–based macOS devices are equipped with powerful GPUs that remain largely idle during normal usage. This paper presents Minions, a dynamic and di</description>
+    <pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
+  </item>
+
+    </channel>
+  </rss>

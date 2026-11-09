@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <ns0:id>tag:github.com,2008:https://github.com/BerriAI/litellm/releases</ns0:id>
+  <ns0:link type="text/html" rel="alternate" href="https://github.com/BerriAI/litellm/releases" />
+  <ns0:link type="application/atom+xml" rel="self" href="https://github.com/BerriAI/litellm/releases.atom" />
+  <ns0:title>Release notes from litellm</ns0:title>
+  <ns0:updated>2026-11-08T00:57:20Z</ns0:updated>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/671269505/v1.110.0-dev.2</ns0:id>
+    <ns0:updated>2026-11-08T02:25:47Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/BerriAI/litellm/releases/tag/v1.110.0-dev.2" />
+    <ns0:title>v1.110.0-dev.2</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;Verify Docker Image Signature&lt;/h2&gt;
+&lt;p&gt;All LiteLLM Docker images are signed with &lt;a href="https://docs.sigstore.dev/cosign/overview/" rel="nofollow"&gt;cosign&lt;/a&gt;. This release is signed with the key introduced in &lt;a href="https://github.com/BerriAI/litellm/commit/e82a3c646908ba0a6ee0beddc4310d7a6cac4065"&gt;commit &lt;code&gt;e82a3c6&lt;/code&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Verify using the pinned commit hash (recommen</ns0:content>
+    <ns0:author>
+      <ns0:name>litellm-release[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/121462774?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/671269505/v1.110.0-dev.1</ns0:id>
+    <ns0:updated>2026-11-07T04:36:43Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/BerriAI/litellm/releases/tag/v1.110.0-dev.1" />
+    <ns0:title>v1.110.0-dev.1</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;Verify Docker Image Signature&lt;/h2&gt;
+&lt;p&gt;All LiteLLM Docker images are signed with &lt;a href="https://docs.sigstore.dev/cosign/overview/" rel="nofollow"&gt;cosign&lt;/a&gt;. This release is signed with the key introduced in &lt;a href="https://github.com/BerriAI/litellm/commit/e82a3c646908ba0a6ee0beddc4310d7a6cac4065"&gt;commit &lt;code&gt;e82a3c6&lt;/code&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Verify using the pinned commit hash (recommen</ns0:content>
+    <ns0:author>
+      <ns0:name>litellm-release[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/121462774?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/671269505/v1.108.3</ns0:id>
+    <ns0:updated>2026-11-07T22:48:05Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/BerriAI/litellm/releases/tag/v1.108.3" />
+    <ns0:title>1.108.3 (LTS)</ns0:title>
+    <ns0:content type="html">&lt;div class="markdown-alert markdown-alert-tip"&gt;&lt;p class="markdown-alert-title"&gt;&lt;svg data-component="Octicon" class="octicon octicon-light-bulb mr-2" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"&gt;&lt;path d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 0 1-1.484.211c-.04-.282-.163-.547-.37-.847</ns0:content>
+    <ns0:author>
+      <ns0:name>litellm-release[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/121462774?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/671269505/v1.108.2</ns0:id>
+    <ns0:updated>2026-11-06T22:50:40Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/BerriAI/litellm/releases/tag/v1.108.2" />
+    <ns0:title>1.108.2 (LTS)</ns0:title>
+    <ns0:content type="html">&lt;div class="markdown-alert markdown-alert-tip"&gt;&lt;p class="markdown-alert-title"&gt;&lt;svg data-component="Octicon" class="octicon octicon-light-bulb mr-2" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"&gt;&lt;path d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 0 1-1.484.211c-.04-.282-.163-.547-.37-.847</ns0:content>
+    <ns0:author>
+      <ns0:name>litellm-release[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/121462774?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/671269505/v1.108.1</ns0:id>
+    <ns0:updated>2026-11-06T22:50:38Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/BerriAI/litellm/releases/tag/v1.108.1" />
+    <ns0:title>1.108.1 (LTS)</ns0:title>
+    <ns0:content type="html">&lt;div class="markdown-alert markdown-alert-tip"&gt;&lt;p class="markdown-alert-title"&gt;&lt;svg data-component="Octicon" class="octicon octicon-light-bulb mr-2" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"&gt;&lt;path d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 0 1-1.484.211c-.04-.282-.163-.547-.37-.847</ns0:content>
+    <ns0:author>
+      <ns0:name>litellm-release[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/121462774?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/671269505/v1.107.0-rc.3</ns0:id>
+    <ns0:updated>2026-11-05T02:07:25Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/BerriAI/litellm/releases/tag/v1.107.0-rc.3" />
+    <ns0:title>v1.107.0-rc.3</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;Verify this release&lt;/h2&gt;
+&lt;p&gt;This release candidate is built from &lt;a href="https://github.com/BerriAI/litellm/commit/f9778e945daf481495272d68283d51bd72002f7c"&gt;&lt;code&gt;f9778e9&lt;/code&gt;&lt;/a&gt;, the reviewed merge of &lt;a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="6213297836" data-permission-text="Title is private" data-url="https://github.com/BerriAI/litellm/issues/50</ns0:content>
+    <ns0:author>
+      <ns0:name>litellm-release[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/121462774?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/671269505/v1.108.0</ns0:id>
+    <ns0:updated>2026-11-06T22:52:37Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/BerriAI/litellm/releases/tag/v1.108.0" />
+    <ns0:title>1.108.0 (LTS)</ns0:title>
+    <ns0:content type="html">&lt;div class="markdown-alert markdown-alert-tip"&gt;&lt;p class="markdown-alert-title"&gt;&lt;svg data-component="Octicon" class="octicon octicon-light-bulb mr-2" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"&gt;&lt;path d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 0 1-1.484.211c-.04-.282-.163-.547-.37-.847</ns0:content>
+    <ns0:author>
+      <ns0:name>litellm-release[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/121462774?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/671269505/v1.106.7</ns0:id>
+    <ns0:updated>2026-11-04T19:29:42Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/BerriAI/litellm/releases/tag/v1.106.7" />
+    <ns0:title>v1.106.7</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;Verify this release&lt;/h2&gt;
+&lt;div class="highlight highlight-source-shell notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="cosign verify \
+  --key https://raw.githubusercontent.com/BerriAI/litellm/e82a3c646908ba0a6ee0beddc4310d7a6cac4065/cosign.pub \
+  ghcr.io/berriai/litellm:v1.106.7"&gt;&lt;pre&gt;cosign verify \
+  --key https://raw.githubusercontent.com/BerriAI/litellm/e</ns0:content>
+    <ns0:author>
+      <ns0:name>litellm-release[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/121462774?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/671269505/v1.109.0-rc.1</ns0:id>
+    <ns0:updated>2026-11-04T02:17:12Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/BerriAI/litellm/releases/tag/v1.109.0-rc.1" />
+    <ns0:title>v1.109.0-rc.1</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;Verify Docker Image Signature&lt;/h2&gt;
+&lt;p&gt;All LiteLLM Docker images are signed with &lt;a href="https://docs.sigstore.dev/cosign/overview/" rel="nofollow"&gt;cosign&lt;/a&gt;. This release is signed with the key introduced in &lt;a href="https://github.com/BerriAI/litellm/commit/e82a3c646908ba0a6ee0beddc4310d7a6cac4065"&gt;commit &lt;code&gt;e82a3c6&lt;/code&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Verify using the pinned commit hash (recommen</ns0:content>
+    <ns0:author>
+      <ns0:name>litellm-release[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/121462774?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/671269505/v1.109.0-dev.2</ns0:id>
+    <ns0:updated>2026-10-30T03:53:18Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/BerriAI/litellm/releases/tag/v1.109.0-dev.2" />
+    <ns0:title>v1.109.0-dev.2</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;Verify Docker Image Signature&lt;/h2&gt;
+&lt;p&gt;All LiteLLM Docker images are signed with &lt;a href="https://docs.sigstore.dev/cosign/overview/" rel="nofollow"&gt;cosign&lt;/a&gt;. This release is signed with the key introduced in &lt;a href="https://github.com/BerriAI/litellm/commit/e82a3c646908ba0a6ee0beddc4310d7a6cac4065"&gt;commit &lt;code&gt;e82a3c6&lt;/code&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Verify using the pinned commit hash (recommen</ns0:content>
+    <ns0:author>
+      <ns0:name>litellm-release[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/121462774?s=60&amp;v=4" />
+  </ns0:entry>
+</ns0:feed>

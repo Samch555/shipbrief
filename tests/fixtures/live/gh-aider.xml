@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <ns0:id>tag:github.com,2008:https://github.com/Aider-AI/aider/releases</ns0:id>
+  <ns0:link type="text/html" rel="alternate" href="https://github.com/Aider-AI/aider/releases" />
+  <ns0:link type="application/atom+xml" rel="self" href="https://github.com/Aider-AI/aider/releases.atom" />
+  <ns0:title>Release notes from aider</ns0:title>
+  <ns0:updated>2026-02-12T00:42:25Z</ns0:updated>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/638629097/v0.86.3.dev</ns0:id>
+    <ns0:updated>2026-02-12T00:42:25Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/Aider-AI/aider/releases/tag/v0.86.3.dev" />
+    <ns0:title>v0.86.3.dev</ns0:title>
+    <ns0:content type="html">&lt;p&gt;set version to 0.86.3.dev&lt;/p&gt;</ns0:content>
+    <ns0:author>
+      <ns0:name>paul-gauthier</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/69695708?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/638629097/v0.86.2</ns0:id>
+    <ns0:updated>2026-02-12T00:42:24Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/Aider-AI/aider/releases/tag/v0.86.2" />
+    <ns0:title>v0.86.2</ns0:title>
+    <ns0:content type="html">&lt;p&gt;version bump to 0.86.2&lt;/p&gt;</ns0:content>
+    <ns0:author>
+      <ns0:name>paul-gauthier</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/69695708?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/638629097/v0.86.2.dev</ns0:id>
+    <ns0:updated>2025-08-13T15:46:02Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/Aider-AI/aider/releases/tag/v0.86.2.dev" />
+    <ns0:title>v0.86.2.dev</ns0:title>
+    <ns0:content type="html">&lt;p&gt;set version to 0.86.2.dev&lt;/p&gt;</ns0:content>
+    <ns0:author>
+      <ns0:name>paul-gauthier</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/69695708?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/638629097/v0.86.1</ns0:id>
+    <ns0:updated>2025-08-13T15:46:00Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/Aider-AI/aider/releases/tag/v0.86.1" />
+    <ns0:title>v0.86.1</ns0:title>
+    <ns0:content type="html">&lt;p&gt;version bump to 0.86.1&lt;/p&gt;</ns0:content>
+    <ns0:author>
+      <ns0:name>paul-gauthier</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/69695708?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/638629097/v0.86.1.dev</ns0:id>
+    <ns0:updated>2025-08-09T15:55:11Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/Aider-AI/aider/releases/tag/v0.86.1.dev" />
+    <ns0:title>v0.86.1.dev</ns0:title>
+    <ns0:content type="html">&lt;p&gt;set version to 0.86.1.dev&lt;/p&gt;</ns0:content>
+    <ns0:author>
+      <ns0:name>paul-gauthier</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/69695708?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/638629097/v0.86.0</ns0:id>
+    <ns0:updated>2025-08-09T17:42:19Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/Aider-AI/aider/releases/tag/v0.86.0" />
+    <ns0:title>Aider v0.86.0</ns0:title>
+    <ns0:content type="html">&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Added support for all GPT-5 models.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Added support for Grok-4 via &lt;code&gt;xai/grok-4&lt;/code&gt; and &lt;code&gt;openrouter/x-ai/grok-4&lt;/code&gt; model names.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Added support for &lt;code&gt;gemini/gemini-2.5-flash-lite-preview-06-17&lt;/code&gt; model, by Tamir Zahavi-Brunner.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;/clear&lt;/code&gt; now prints “All chat history cleared.” so you know it worked, by </ns0:content>
+    <ns0:author>
+      <ns0:name>paul-gauthier</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/69695708?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/638629097/v0.85.6.dev</ns0:id>
+    <ns0:updated>2025-08-07T20:54:56Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/Aider-AI/aider/releases/tag/v0.85.6.dev" />
+    <ns0:title>v0.85.6.dev</ns0:title>
+    <ns0:content type="html">&lt;p&gt;set version to 0.85.6.dev&lt;/p&gt;</ns0:content>
+    <ns0:author>
+      <ns0:name>paul-gauthier</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/69695708?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/638629097/v0.85.5</ns0:id>
+    <ns0:updated>2025-08-07T20:54:54Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/Aider-AI/aider/releases/tag/v0.85.5" />
+    <ns0:title>v0.85.5</ns0:title>
+    <ns0:content type="html">&lt;p&gt;version bump to 0.85.5&lt;/p&gt;</ns0:content>
+    <ns0:author>
+      <ns0:name>paul-gauthier</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/69695708?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/638629097/v0.85.5.dev</ns0:id>
+    <ns0:updated>2025-08-07T18:33:44Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/Aider-AI/aider/releases/tag/v0.85.5.dev" />
+    <ns0:title>v0.85.5.dev</ns0:title>
+    <ns0:content type="html">&lt;p&gt;set version to 0.85.5.dev&lt;/p&gt;</ns0:content>
+    <ns0:author>
+      <ns0:name>paul-gauthier</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/69695708?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/638629097/v0.85.4</ns0:id>
+    <ns0:updated>2025-08-07T18:33:43Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/Aider-AI/aider/releases/tag/v0.85.4" />
+    <ns0:title>v0.85.4</ns0:title>
+    <ns0:content type="html">&lt;p&gt;version bump to 0.85.4&lt;/p&gt;</ns0:content>
+    <ns0:author>
+      <ns0:name>paul-gauthier</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/69695708?s=60&amp;v=4" />
+  </ns0:entry>
+</ns0:feed>

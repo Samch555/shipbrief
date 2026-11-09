@@ -1,0 +1,143 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <ns0:id>tag:github.com,2008:https://github.com/microsoft/markitdown/releases</ns0:id>
+  <ns0:link type="text/html" rel="alternate" href="https://github.com/microsoft/markitdown/releases" />
+  <ns0:link type="application/atom+xml" rel="self" href="https://github.com/microsoft/markitdown/releases.atom" />
+  <ns0:title>Release notes from markitdown</ns0:title>
+  <ns0:updated>2026-10-21T19:39:20Z</ns0:updated>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/888092115/v0.1.9</ns0:id>
+    <ns0:updated>2026-10-21T19:40:32Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/microsoft/markitdown/releases/tag/v0.1.9" />
+    <ns0:title>Version 0.1.9</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;increase chunk size from 512 bytes to 64 KB for HTTP response reading by &lt;a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/YasirAlibrahem/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/YasirAlibrahem"&gt;Yasir Alibrahem (@YasirAlibrahem)&lt;/a&gt; in &lt;a class="issue-lin</ns0:content>
+    <ns0:author>
+      <ns0:name>afourney</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/4017093?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/888092115/v0.1.8</ns0:id>
+    <ns0:updated>2026-09-21T21:22:51Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/microsoft/markitdown/releases/tag/v0.1.8" />
+    <ns0:title>Version 0.1.8</ns0:title>
+    <ns0:content type="html">&lt;p&gt;This release rolls up dozens of small patches and bug fixes. For typical inputs and use cases, we expect outputs and behavior to remain largely unchanged from version 0.1.7.&lt;/p&gt;
+&lt;p&gt;The markitdown-ocr plugin has also been refactored to simplify future maintenance.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Mitigate UnicodeDecodeError due to wrong ASCII charset guess for long files by &lt;a class="us</ns0:content>
+    <ns0:author>
+      <ns0:name>afourney</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/4017093?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/888092115/v0.1.8b2</ns0:id>
+    <ns0:updated>2026-09-14T16:57:30Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/microsoft/markitdown/releases/tag/v0.1.8b2" />
+    <ns0:title>Version 0.1.8b2</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Pin GitHub Actions to full-length commit SHAs by &lt;a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/danfiedler-msft/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/danfiedler-msft"&gt;Dan Fiedler (@danfiedler-msft)&lt;/a&gt; in &lt;a class="issue-link js-issue-link" data-err</ns0:content>
+    <ns0:author>
+      <ns0:name>afourney</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/4017093?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/888092115/v0.1.8b1</ns0:id>
+    <ns0:updated>2026-09-04T03:48:18Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/microsoft/markitdown/releases/tag/v0.1.8b1" />
+    <ns0:title>Version 0.1.8b1</ns0:title>
+    <ns0:content type="html">&lt;p&gt;This prerelease includes numerous small bug fixes. None adds new features or is expected to change output in typical cases. Nevertheless, the volume of changes warrants a cautious rollout.&lt;/p&gt;
+&lt;p&gt;Please report any issues or regressions.&lt;/p&gt;
+&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Pin GitHub Actions to full-length commit SHAs by &lt;a class="user-mention notranslate" data-hovercard-type="user" data-hoverc</ns0:content>
+    <ns0:author>
+      <ns0:name>afourney</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/4017093?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/888092115/v0.1.7</ns0:id>
+    <ns0:updated>2026-07-29T18:19:15Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/microsoft/markitdown/releases/tag/v0.1.7" />
+    <ns0:title>Version 0.1.7</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;fix: avoid O(n^2) value lookups in PPTX chart conversion by &lt;a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/kz-000/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/kz-000"&gt;kz-000&lt;/a&gt; in &lt;a class="issue-link js-issue-link" data-error-text="Failed to load title" </ns0:content>
+    <ns0:author>
+      <ns0:name>afourney</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/4017093?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/888092115/v0.1.6</ns0:id>
+    <ns0:updated>2026-05-26T22:42:14Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/microsoft/markitdown/releases/tag/v0.1.6" />
+    <ns0:title>Version 0.1.6</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;[MS] Add OCR layer service for embedded images and PDF scans by &lt;a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/lesyk/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/lesyk"&gt;lesyk&lt;/a&gt; in &lt;a class="issue-link js-issue-link" data-error-text="Failed to load title"</ns0:content>
+    <ns0:author>
+      <ns0:name>afourney</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/4017093?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/888092115/v0.1.5</ns0:id>
+    <ns0:updated>2026-02-20T19:49:39Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/microsoft/markitdown/releases/tag/v0.1.5" />
+    <ns0:title>v0.1.5</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Update PDF table extraction to support aligned Markdown by &lt;a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/lesyk/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/lesyk"&gt;lesyk&lt;/a&gt; in &lt;a class="issue-link js-issue-link" data-error-text="Failed to load title" data</ns0:content>
+    <ns0:author>
+      <ns0:name>afourney</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/4017093?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/888092115/v0.1.5b1</ns0:id>
+    <ns0:updated>2026-01-08T23:23:05Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/microsoft/markitdown/releases/tag/v0.1.5b1" />
+    <ns0:title>Version 0.1.5b1</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Update PDF table extraction to support aligned Markdown by &lt;a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/lesyk/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/lesyk"&gt;lesyk&lt;/a&gt; in &lt;a class="issue-link js-issue-link" data-error-text="Failed to load title" data</ns0:content>
+    <ns0:author>
+      <ns0:name>afourney</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/4017093?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/888092115/v0.1.4</ns0:id>
+    <ns0:updated>2025-12-01T18:20:17Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/microsoft/markitdown/releases/tag/v0.1.4" />
+    <ns0:title>Version 0.1.4</ns0:title>
+    <ns0:content type="html">&lt;p&gt;Maintenance release:&lt;/p&gt;
+&lt;p&gt;Bumps mammoth to 1.11.0 to address &lt;a href="https://avd.aquasec.com/nvd/2025/cve-2025-11849/" rel="nofollow"&gt;cve-2025-11849&lt;/a&gt;&lt;br&gt;
+And pdfminer.six to 20251107 to address &lt;a href="https://github.com/pdfminer/pdfminer.six/security/advisories/GHSA-wf5f-4jwr-ppcp"&gt;GHSA-wf5f-4jwr-ppcp&lt;/a&gt;&lt;/p&gt;</ns0:content>
+    <ns0:author>
+      <ns0:name>afourney</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/4017093?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/888092115/v0.1.3</ns0:id>
+    <ns0:updated>2025-08-26T22:40:17Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/microsoft/markitdown/releases/tag/v0.1.3" />
+    <ns0:title>v0.1.3</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Pin &lt;code&gt;onnxruntime&lt;/code&gt; on Windows by &lt;a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/t-kalinowski/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/t-kalinowski"&gt;Tomasz Kalinowski (@t-kalinowski)&lt;/a&gt; in &lt;a class="issue-link js-issue-link" data-error-text="</ns0:content>
+    <ns0:author>
+      <ns0:name>afourney</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/4017093?s=60&amp;v=4" />
+  </ns0:entry>
+</ns0:feed>

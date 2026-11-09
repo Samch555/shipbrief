@@ -1,0 +1,146 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <ns0:id>tag:github.com,2008:https://github.com/ml-explore/mlx-lm/releases</ns0:id>
+  <ns0:link type="text/html" rel="alternate" href="https://github.com/ml-explore/mlx-lm/releases" />
+  <ns0:link type="application/atom+xml" rel="self" href="https://github.com/ml-explore/mlx-lm/releases.atom" />
+  <ns0:title>Release notes from mlx-lm</ns0:title>
+  <ns0:updated>2026-10-16T02:48:11Z</ns0:updated>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/946767878/v0.32.2</ns0:id>
+    <ns0:updated>2026-10-16T02:49:02Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/ml-explore/mlx-lm/releases/tag/v0.32.2" />
+    <ns0:title>v0.32.2</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fix attention value scaling in MiMo-V2-Flash by &lt;a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/ricky-chaoju/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/ricky-chaoju"&gt;@ricky-chaoju&lt;/a&gt; in &lt;a class="issue-link js-issue-link" data-error-text="Failed to load </ns0:content>
+    <ns0:author>
+      <ns0:name>michalk8</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/46717574?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/946767878/v0.32.1</ns0:id>
+    <ns0:updated>2026-10-15T21:22:02Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/ml-explore/mlx-lm/releases/tag/v0.32.1" />
+    <ns0:title>v0.32.1</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;fix muse template by &lt;a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/nastya236/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/nastya236"&gt;@nastya236&lt;/a&gt; in &lt;a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="5873432817" data-per</ns0:content>
+    <ns0:author>
+      <ns0:name>nastya236</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/41966024?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/946767878/v0.32.0</ns0:id>
+    <ns0:updated>2026-10-15T18:30:46Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/ml-explore/mlx-lm/releases/tag/v0.32.0" />
+    <ns0:title>v0.32.0</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Honour the left-padding mask in MiniCPM3 and Phixtral batches by &lt;a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/bhaskargurram-ai/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/bhaskargurram-ai"&gt;@bhaskargurram-ai&lt;/a&gt; in &lt;a class="issue-link js-issue-link" dat</ns0:content>
+    <ns0:author>
+      <ns0:name>michalk8</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/46717574?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/946767878/v0.31.3</ns0:id>
+    <ns0:updated>2026-04-22T07:43:57Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/ml-explore/mlx-lm/releases/tag/v0.31.3" />
+    <ns0:title>v0.31.3</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;Highlights&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Lots of bugfixes&lt;/li&gt;
+&lt;li&gt;Thread local generation stream to accompany MLX v0.31.2&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Bump the patch version by &lt;a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/angeloskath/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/ange</ns0:content>
+    <ns0:author>
+      <ns0:name>angeloskath</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1242043?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/946767878/v0.31.2</ns0:id>
+    <ns0:updated>2026-04-07T22:15:04Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/ml-explore/mlx-lm/releases/tag/v0.31.2" />
+    <ns0:title>v0.31.2</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;Highlights&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Caching system prompt and user messages for non-trimmable caches&lt;/li&gt;
+&lt;li&gt;Batch generator refactoring&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Bump the patch version by &lt;a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/angeloskath/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="htt</ns0:content>
+    <ns0:author>
+      <ns0:name>angeloskath</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1242043?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/946767878/v0.31.1</ns0:id>
+    <ns0:updated>2026-03-11T01:10:06Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/ml-explore/mlx-lm/releases/tag/v0.31.1" />
+    <ns0:title>v0.31.1</ns0:title>
+    <ns0:content type="html">&lt;p&gt;Fix CompletionsDataset mask_prompt crash (&lt;a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4041244552" data-permission-text="Title is private" data-url="https://github.com/ml-explore/mlx-lm/issues/967" data-hovercard-type="pull_request" data-hovercard-url="/ml-explore/mlx-lm/pull/967/hovercard" href="https://github.com/ml-explore/mlx-lm/pull/967"&gt;#967&lt;/a&gt;)&lt;/p&gt;</ns0:content>
+    <ns0:author>
+      <ns0:name>eyupcanakman</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1732357?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/946767878/v0.31.0</ns0:id>
+    <ns0:updated>2026-03-07T03:59:28Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/ml-explore/mlx-lm/releases/tag/v0.31.0" />
+    <ns0:title>v0.31.0</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fix save/load of CacheList by &lt;a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/angeloskath/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/angeloskath"&gt;@angeloskath&lt;/a&gt; in &lt;a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="39340</ns0:content>
+    <ns0:author>
+      <ns0:name>angeloskath</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1242043?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/946767878/v0.30.7</ns0:id>
+    <ns0:updated>2026-02-12T18:40:43Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/ml-explore/mlx-lm/releases/tag/v0.30.7" />
+    <ns0:title>v0.30.7</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fix Kimi Linear by &lt;a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/kernelpool/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/kernelpool"&gt;@kernelpool&lt;/a&gt; in &lt;a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3908825319" data-pe</ns0:content>
+    <ns0:author>
+      <ns0:name>awni</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1542805?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/946767878/v0.30.6</ns0:id>
+    <ns0:updated>2026-02-04T21:27:20Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/ml-explore/mlx-lm/releases/tag/v0.30.6" />
+    <ns0:title>v0.30.6</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Transformers v5 by &lt;a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/awni/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/awni"&gt;@awni&lt;/a&gt; in &lt;a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3856495190" data-permission-text="Tit</ns0:content>
+    <ns0:author>
+      <ns0:name>awni</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1542805?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/946767878/v0.30.5</ns0:id>
+    <ns0:updated>2026-01-25T15:29:05Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/ml-explore/mlx-lm/releases/tag/v0.30.5" />
+    <ns0:title>v0.30.5</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;import logging as it throws no logging error in place of actual error by &lt;a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/Maanas-Verma/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/Maanas-Verma"&gt;@Maanas-Verma&lt;/a&gt; in &lt;a class="issue-link js-issue-link" data-er</ns0:content>
+    <ns0:author>
+      <ns0:name>awni</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1542805?s=60&amp;v=4" />
+  </ns0:entry>
+</ns0:feed>

@@ -1,0 +1,143 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <ns0:id>tag:github.com,2008:https://github.com/huggingface/transformers/releases</ns0:id>
+  <ns0:link type="text/html" rel="alternate" href="https://github.com/huggingface/transformers/releases" />
+  <ns0:link type="application/atom+xml" rel="self" href="https://github.com/huggingface/transformers/releases.atom" />
+  <ns0:title>Release notes from transformers</ns0:title>
+  <ns0:updated>2026-11-06T15:39:22Z</ns0:updated>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/155220641/v5.22.2</ns0:id>
+    <ns0:updated>2026-11-06T15:43:27Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/huggingface/transformers/releases/tag/v5.22.2" />
+    <ns0:title>Patch release v5.22.2</ns0:title>
+    <ns0:content type="html">&lt;h1&gt;Patch release v5.22.2&lt;/h1&gt;
+&lt;p&gt;Some in between patch for security and distributed fixes. See the included commits 🤗&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;[Distributed] Set device_id only for NCCL (&lt;a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="6172290663" data-permission-text="Title is private" data-url="https://github.com/huggingface/transformers/issues/50281" data-hovercard-type="</ns0:content>
+    <ns0:author>
+      <ns0:name>vasqu</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/73884904?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/155220641/v5.22.1</ns0:id>
+    <ns0:updated>2026-10-30T09:36:03Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/huggingface/transformers/releases/tag/v5.22.1" />
+    <ns0:title>Patch release v5.22.1</ns0:title>
+    <ns0:content type="html">&lt;h1&gt;Patch release v5.22.1&lt;/h1&gt;
+&lt;p&gt;We just had to fix the documentation!&lt;/p&gt;
+&lt;p&gt;** [Fix] Remove WIP doc for Ml4 (&lt;a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="6101516054" data-permission-text="Title is private" data-url="https://github.com/huggingface/transformers/issues/50124" data-hovercard-type="pull_request" data-hovercard-url="/huggingface/transformers/pul</ns0:content>
+    <ns0:author>
+      <ns0:name>ArthurZucker</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/48595927?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/155220641/v5.22.0</ns0:id>
+    <ns0:updated>2026-10-29T14:16:58Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/huggingface/transformers/releases/tag/v5.22.0" />
+    <ns0:title>v5.22.0: Mistral Large 4 (Le Chonk)</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;New Models&lt;/h2&gt;
+&lt;h3&gt;Mistral Large 4 (Le Chonk)&lt;/h3&gt;
+&lt;a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/30755778/688928428-1cff9ca7-19e3-4622-8db6-fb1cfa842579.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTQyNDU1NTYsIm5iZiI6MTc5NDI0NTI1NiwicGF0aC</ns0:content>
+    <ns0:author>
+      <ns0:name>LysandreJik</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/30755778?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/155220641/v5.21.1</ns0:id>
+    <ns0:updated>2026-10-29T08:35:02Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/huggingface/transformers/releases/tag/v5.21.1" />
+    <ns0:title>Patch release v5.21.1</ns0:title>
+    <ns0:content type="html">&lt;h1&gt;Patch release v5.21.1&lt;/h1&gt;
+&lt;p&gt;** Fix rope_scaling setter for configs that assign it during init (&lt;a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="6079790113" data-permission-text="Title is private" data-url="https://github.com/huggingface/transformers/issues/50080" data-hovercard-type="pull_request" data-hovercard-url="/huggingface/transformers/pull/50080/hov</ns0:content>
+    <ns0:author>
+      <ns0:name>ArthurZucker</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/48595927?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/155220641/v5.21</ns0:id>
+    <ns0:updated>2026-10-26T18:21:30Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/huggingface/transformers/releases/tag/v5.21" />
+    <ns0:title>Release: v5.21.0</ns0:title>
+    <ns0:content type="html">&lt;h1&gt;Release v5.21.0&lt;/h1&gt;
+&lt;h2&gt;New Model additions&lt;/h2&gt;
+&lt;h3&gt;MiniCPM-OCR&lt;/h3&gt;
+&lt;p&gt;MiniCPM-OCR is a document-understanding model from OpenBMB's MiniCPM-V family. It keeps the MiniCPM-V 4.6 architecture, which pairs a SigLIP vision encoder and a window-attention merger with a Qwen3.5 language model. It is specialized for reading text-dense images such as scanned pages, screenshots, receipts and tables.&lt;</ns0:content>
+    <ns0:author>
+      <ns0:name>Cyrilvallez</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/71554963?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/155220641/v5.20.2</ns0:id>
+    <ns0:updated>2026-10-19T17:45:37Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/huggingface/transformers/releases/tag/v5.20.2" />
+    <ns0:title>Patch release v5.20.2</ns0:title>
+    <ns0:content type="html">&lt;h1&gt;Patch release: v5.20.2&lt;/h1&gt;
+&lt;p&gt;This patch notably solves an issue where some inputs could loose their original type inside &lt;code&gt;prepare_inputs_for_generation&lt;/code&gt; in &lt;code&gt;generate&lt;/code&gt;, leading to problems with multimodal models. It also fixes some other issues listed on the below commits.&lt;/p&gt;
+&lt;p&gt;It contains the following commits:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Fix inputs dict casting in generate (&lt;a clas</ns0:content>
+    <ns0:author>
+      <ns0:name>Cyrilvallez</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/71554963?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/155220641/v5.20.1</ns0:id>
+    <ns0:updated>2026-10-16T13:02:29Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/huggingface/transformers/releases/tag/v5.20.1" />
+    <ns0:title>Release v5.20.1</ns0:title>
+    <ns0:content type="html">&lt;h1&gt;Release v5.20.1&lt;/h1&gt;
+&lt;p&gt;Special surprise including the new model Beam from Reflection AI 🥳&lt;/p&gt;
+&lt;a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/73884904/675834992-bfc7ff16-4340-490c-925c-b1512e4ceb32.jpeg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOj</ns0:content>
+    <ns0:author>
+      <ns0:name>vasqu</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/73884904?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/155220641/v5.20.0</ns0:id>
+    <ns0:updated>2026-10-15T18:05:36Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/huggingface/transformers/releases/tag/v5.20.0" />
+    <ns0:title>Release v5.20.0</ns0:title>
+    <ns0:content type="html">&lt;h1&gt;Release v5.20.0&lt;/h1&gt;
+&lt;h2&gt;New Model additions&lt;/h2&gt;
+&lt;h3&gt;Muse Spark Open&lt;/h3&gt;
+&lt;a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/73884904/674958908-bf34ea27-0edf-4ded-ba6f-905b04096126.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTQyNDU1NTYsIm5iZiI</ns0:content>
+    <ns0:author>
+      <ns0:name>vasqu</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/73884904?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/155220641/v5.19.0</ns0:id>
+    <ns0:updated>2026-10-06T16:39:23Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/huggingface/transformers/releases/tag/v5.19.0" />
+    <ns0:title>Release v5.19.0</ns0:title>
+    <ns0:content type="html">&lt;h1&gt;Release v5.19.0&lt;/h1&gt;
+&lt;h2&gt;New Model additions&lt;/h2&gt;
+&lt;h3&gt;EmbeddingGemma2&lt;/h3&gt;
+&lt;a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/73884904/666833754-84734e74-163d-4d12-b166-ffcf6749d563.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTQyNDU1NTYsIm5iZiI</ns0:content>
+    <ns0:author>
+      <ns0:name>vasqu</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/73884904?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/155220641/v5.18.0</ns0:id>
+    <ns0:updated>2026-09-30T16:46:27Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/huggingface/transformers/releases/tag/v5.18.0" />
+    <ns0:title>Release 5.18.0</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;New Model additions&lt;/h2&gt;
+&lt;h3&gt;Nemotron 3 Diarization&lt;/h3&gt;
+&lt;a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/73884904/662347324-fe735cb3-9e5b-43ad-8f60-9dec8425aec7.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTQyNDU1NTcsIm5iZiI6MTc5NDI0NTI1Nywic</ns0:content>
+    <ns0:author>
+      <ns0:name>vasqu</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/73884904?s=60&amp;v=4" />
+  </ns0:entry>
+</ns0:feed>

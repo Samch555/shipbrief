@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <ns0:id>tag:github.com,2008:https://github.com/microsoft/agent-framework/releases</ns0:id>
+  <ns0:link type="text/html" rel="alternate" href="https://github.com/microsoft/agent-framework/releases" />
+  <ns0:link type="application/atom+xml" rel="self" href="https://github.com/microsoft/agent-framework/releases.atom" />
+  <ns0:title>Release notes from agent-framework</ns0:title>
+  <ns0:updated>2026-11-06T16:05:38Z</ns0:updated>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/974445592/python-1.25.0</ns0:id>
+    <ns0:updated>2026-11-07T15:52:42Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/microsoft/agent-framework/releases/tag/python-1.25.0" />
+    <ns0:title>python-1.25.0</ns0:title>
+    <ns0:content type="html">&lt;h3&gt;Added&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;agent-framework-core&lt;/strong&gt;, &lt;strong&gt;agent-framework-foundry-hosting&lt;/strong&gt;: Support callable MCP discovery approval policies and honor Foundry Toolbox approval metadata, including tool-name and read-only filters, explicit caller overrides, and policy refresh for retained tools (&lt;a href="https://github.com/microsoft/agent-framework/pull/10136" data-hovercard-typ</ns0:content>
+    <ns0:author>
+      <ns0:name>eavanvalkenburg</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/13749212?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/974445592/dotnet-1.28.0</ns0:id>
+    <ns0:updated>2026-11-09T11:56:26Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/microsoft/agent-framework/releases/tag/dotnet-1.28.0" />
+    <ns0:title>dotnet-1.28.0</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;[1.28.0] - 2026-11-06&lt;/h2&gt;
+&lt;h3&gt;Added&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Foundry: Add the GA computer tool through &lt;code&gt;FoundryAITool.CreateComputerTool()&lt;/code&gt; and carry computer calls and results through Foundry hosting, including batched actions. Add an Azure OpenAI computer-use sample; the Foundry project endpoint still requires the existing preview tool. For non-hosted GA loops, use stored-response continuat</ns0:content>
+    <ns0:author>
+      <ns0:name>dmytrostruk</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/13853051?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/974445592/python-1.24.0</ns0:id>
+    <ns0:updated>2026-10-30T21:52:13Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/microsoft/agent-framework/releases/tag/python-1.24.0" />
+    <ns0:title>python-1.24.0</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;&lt;a href="https://github.com/microsoft/agent-framework/compare/python-1.23.0...python-1.24.0"&gt;1.24.0&lt;/a&gt; - 2026-10-30&lt;/h2&gt;
+&lt;div class="markdown-alert markdown-alert-warning"&gt;&lt;p class="markdown-alert-title"&gt;&lt;svg data-component="Octicon" class="octicon octicon-alert mr-2" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"&gt;&lt;path d="M6.457 1.047c.659-1.234 2.427-1.234 3.086</ns0:content>
+    <ns0:author>
+      <ns0:name>eavanvalkenburg</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/13749212?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/974445592/dotnet-1.27.0</ns0:id>
+    <ns0:updated>2026-10-30T19:12:03Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/microsoft/agent-framework/releases/tag/dotnet-1.27.0" />
+    <ns0:title>dotnet-1.27.0</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;[1.27.0] - 2026-10-30&lt;/h2&gt;
+&lt;h3&gt;Added&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;skills: Add a .NET consumer skill for building with Agent Framework (&lt;a href="https://github.com/microsoft/agent-framework/pull/9651" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/agent-framework/pull/9651/hovercard"&gt;#9651&lt;/a&gt; by &lt;a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/weste</ns0:content>
+    <ns0:author>
+      <ns0:name>dmytrostruk</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/13853051?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/974445592/dotnet-1.26.0</ns0:id>
+    <ns0:updated>2026-10-23T14:32:13Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/microsoft/agent-framework/releases/tag/dotnet-1.26.0" />
+    <ns0:title>dotnet-1.26.0</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;Changes:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/microsoft/agent-framework/commit/9c8a3514a15a702f81bfda456d80c7ccaa4d2712/hovercard" href="https://github.com/microsoft/agent-framework/commit/9c8a3514a15a702f81bfda456d80c7ccaa4d2712"&gt;&lt;tt&gt;9c8a351&lt;/tt&gt;&lt;/a&gt; Update package versions for release (&lt;a class="issue-link js-issue-link" dat</ns0:content>
+    <ns0:author>
+      <ns0:name>dmytrostruk</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/13853051?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/974445592/python-1.23.0</ns0:id>
+    <ns0:updated>2026-10-22T17:06:17Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/microsoft/agent-framework/releases/tag/python-1.23.0" />
+    <ns0:title>python-1.23.0</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;[1.23.0] - 2026-10-22&lt;/h2&gt;
+&lt;h3&gt;Added&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;agent-framework-a2a&lt;/strong&gt;: Add allowlisted forwarding of function-invocation and client arguments from A2A request metadata (&lt;a href="https://github.com/microsoft/agent-framework/pull/9193" data-hovercard-type="pull_request" data-hovercard-url="/microsoft/agent-framework/pull/9193/hovercard"&gt;#9193&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;agent-framewo</ns0:content>
+    <ns0:author>
+      <ns0:name>eavanvalkenburg</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/13749212?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/974445592/python-1.22.0</ns0:id>
+    <ns0:updated>2026-10-15T09:54:16Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/microsoft/agent-framework/releases/tag/python-1.22.0" />
+    <ns0:title>python-1.22.0</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;[1.22.0] - 2026-10-15&lt;/h2&gt;
+&lt;div class="markdown-alert markdown-alert-important"&gt;&lt;p class="markdown-alert-title"&gt;&lt;svg data-component="Octicon" class="octicon octicon-report mr-2" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"&gt;&lt;path d="M0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v9.5A1.75 1.75 0 0 1 14.25 13H8.06l-2.573 2.573A1.458 1.458 0 0 1 3 14.543V1</ns0:content>
+    <ns0:author>
+      <ns0:name>eavanvalkenburg</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/13749212?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/974445592/dotnet-1.25.0</ns0:id>
+    <ns0:updated>2026-10-14T19:19:00Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/microsoft/agent-framework/releases/tag/dotnet-1.25.0" />
+    <ns0:title>dotnet-1.25.0</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;Changes:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/microsoft/agent-framework/commit/1ab3430a4b6c8add9f08854c77544b0211a3f13c/hovercard" href="https://github.com/microsoft/agent-framework/commit/1ab3430a4b6c8add9f08854c77544b0211a3f13c"&gt;&lt;tt&gt;1ab3430&lt;/tt&gt;&lt;/a&gt; .NET: Dotnet: Add approval reuse considerations (&lt;a class="issue-link js-iss</ns0:content>
+    <ns0:author>
+      <ns0:name>dmytrostruk</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/13853051?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/974445592/python-1.21.0</ns0:id>
+    <ns0:updated>2026-10-08T10:28:08Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/microsoft/agent-framework/releases/tag/python-1.21.0" />
+    <ns0:title>python-1.21.0</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;[1.21.0] - 2026-10-08&lt;/h2&gt;
+&lt;h3&gt;Added&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;agent-framework&lt;/strong&gt;, &lt;strong&gt;agent-framework-core&lt;/strong&gt;, &lt;strong&gt;agent-framework-purview&lt;/strong&gt;: Add tool-result standing guidance, expose rewritten variable-expansion arguments, and support full-buffer Purview policy evaluation for streamed responses (&lt;a href="https://github.com/microsoft/agent-framework/pull/8784" data-hove</ns0:content>
+    <ns0:author>
+      <ns0:name>jpalvarezl</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/11056031?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/974445592/dotnet-1.24.0</ns0:id>
+    <ns0:updated>2026-10-07T13:33:48Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/microsoft/agent-framework/releases/tag/dotnet-1.24.0" />
+    <ns0:title>dotnet-1.24.0</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;Changes:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/microsoft/agent-framework/commit/245d4284a5018b7f446b5eac4d3add1fa5547229/hovercard" href="https://github.com/microsoft/agent-framework/commit/245d4284a5018b7f446b5eac4d3add1fa5547229"&gt;&lt;tt&gt;245d428&lt;/tt&gt;&lt;/a&gt; .NET: Restore source-only release solution filter (&lt;a class="issue-link js-i</ns0:content>
+    <ns0:author>
+      <ns0:name>dmytrostruk</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/13853051?s=60&amp;v=4" />
+  </ns0:entry>
+</ns0:feed>

@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <ns0:id>tag:github.com,2008:https://github.com/huggingface/trl/releases</ns0:id>
+  <ns0:link type="text/html" rel="alternate" href="https://github.com/huggingface/trl/releases" />
+  <ns0:link type="application/atom+xml" rel="self" href="https://github.com/huggingface/trl/releases.atom" />
+  <ns0:title>Release notes from trl</ns0:title>
+  <ns0:updated>2026-10-30T14:12:30Z</ns0:updated>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/250510075/v1.17.1</ns0:id>
+    <ns0:updated>2026-10-30T14:15:28Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/huggingface/trl/releases/tag/v1.17.1" />
+    <ns0:title>v1.17.1</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Keep a parenthesis inside an LFM2.5 tool-call argument from closing the call by &lt;a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/albertvillanova/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/albertvillanova"&gt;@albertvillanova&lt;/a&gt; in &lt;a class="issue-link js-iss</ns0:content>
+    <ns0:author>
+      <ns0:name>albertvillanova</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/8515462?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/250510075/v1.17.0</ns0:id>
+    <ns0:updated>2026-10-30T05:42:15Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/huggingface/trl/releases/tag/v1.17.0" />
+    <ns0:title>v1.17.0</ns0:title>
+    <ns0:content type="html">&lt;a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/8515462/689737863-662cd576-e7a6-4fbd-9502-1441acab6323.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTQyNDU1NTcsIm5iZiI6MTc5NDI0NTI1NywicGF0aCI6Ii84NTE1NDYyLzY4OTczNzg2My02NjJjZDU3Ni1lN2E2LTRmYmQtOTU</ns0:content>
+    <ns0:author>
+      <ns0:name>albertvillanova</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/8515462?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/250510075/v1.16.0</ns0:id>
+    <ns0:updated>2026-10-16T05:59:37Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/huggingface/trl/releases/tag/v1.16.0" />
+    <ns0:title>v1.16.0</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;Features&lt;/h2&gt;
+&lt;h3&gt;🛠️ TRL now trains on AWS Trainium&lt;/h3&gt;
+&lt;a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/45557362/674971752-dcb6e2a1-0f7c-4635-819b-a1ec6f5e143b.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTQyNDU1NTcsIm5iZiI6MTc5NDI0NTI1Nywic</ns0:content>
+    <ns0:author>
+      <ns0:name>qgallouedec</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/45557362?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/250510075/v1.15.0</ns0:id>
+    <ns0:updated>2026-10-09T05:55:31Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/huggingface/trl/releases/tag/v1.15.0" />
+    <ns0:title>v1.15.0</ns0:title>
+    <ns0:content type="html">&lt;a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/45557362/669037072-329793d4-cef1-49ae-9ab6-5b1387d13071.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTQyNDU1NTcsIm5iZiI6MTc5NDI0NTI1NywicGF0aCI6Ii80NTU1NzM2Mi82NjkwMzcwNzItMzI5NzkzZDQtY2VmMS00OWFlLT</ns0:content>
+    <ns0:author>
+      <ns0:name>qgallouedec</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/45557362?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/250510075/v1.14.2</ns0:id>
+    <ns0:updated>2026-10-06T20:30:35Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/huggingface/trl/releases/tag/v1.14.2" />
+    <ns0:title>v1.14.2</ns0:title>
+    <ns0:content type="html">&lt;p&gt;Patch release fixing two cases of silently wrong training and three crashes.&lt;/p&gt;
+&lt;p&gt;Worth calling out: &lt;strong&gt;&lt;a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="5680466847" data-permission-text="Title is private" data-url="https://github.com/huggingface/trl/issues/7505" data-hovercard-type="pull_request" data-hovercard-url="/huggingface/trl/pull/7505/hovercard"</ns0:content>
+    <ns0:author>
+      <ns0:name>qgallouedec</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/45557362?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/250510075/v1.14.1</ns0:id>
+    <ns0:updated>2026-09-29T13:41:37Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/huggingface/trl/releases/tag/v1.14.1" />
+    <ns0:title>v1.14.1</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fix the server-mode crash at the first weight sync on vLLM 0.20 to 0.25 by &lt;a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/albertvillanova/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/albertvillanova"&gt;@albertvillanova&lt;/a&gt; in &lt;a class="issue-link js-issue-li</ns0:content>
+    <ns0:author>
+      <ns0:name>AmineDiro</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/14312141?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/250510075/v1.14.0</ns0:id>
+    <ns0:updated>2026-09-25T06:40:07Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/huggingface/trl/releases/tag/v1.14.0" />
+    <ns0:title>v1.14.0</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;Features&lt;/h2&gt;
+&lt;h3&gt;&lt;code&gt;trl.losses&lt;/code&gt; is gone: DPO, KTO and GRPO stream their own log-probs&lt;/h3&gt;
+&lt;div class="markdown-alert markdown-alert-warning"&gt;&lt;p class="markdown-alert-title"&gt;&lt;svg data-component="Octicon" class="octicon octicon-alert mr-2" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"&gt;&lt;path d="M6.457 1.047c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 </ns0:content>
+    <ns0:author>
+      <ns0:name>albertvillanova</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/8515462?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/250510075/v1.13.0</ns0:id>
+    <ns0:updated>2026-09-10T00:50:26Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/huggingface/trl/releases/tag/v1.13.0" />
+    <ns0:title>v1.13.0</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;Features&lt;/h2&gt;
+&lt;h3&gt;Training beyond 1M tokens&lt;/h3&gt;
+&lt;a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/45557362/649085359-806f9153-d098-4a45-bef4-5d4119b7ef25.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTQyNDU1NTcsIm5iZiI6MTc5NDI0NTI1NywicGF0aCI6I</ns0:content>
+    <ns0:author>
+      <ns0:name>qgallouedec</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/45557362?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/250510075/v1.12.0</ns0:id>
+    <ns0:updated>2026-08-26T20:05:50Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/huggingface/trl/releases/tag/v1.12.0" />
+    <ns0:title>v1.12.0</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;&lt;g-emoji class="g-emoji" alias="warning"&gt;⚠️&lt;/g-emoji&gt; v1.12.0 is an accidental duplicate of v1.11.0&lt;/h2&gt;
+&lt;p&gt;During the v1.11.0 release, &lt;code&gt;VERSION&lt;/code&gt; was bumped to &lt;code&gt;1.12.0&lt;/code&gt; instead of &lt;code&gt;1.12.0.dev0&lt;/code&gt;. Our publish workflow fires on any push to &lt;code&gt;main&lt;/code&gt; that touches &lt;code&gt;VERSION&lt;/code&gt; and only skips the upload when the version contains &lt;code&gt;"dev"&lt;/code&gt;, so</ns0:content>
+    <ns0:author>
+      <ns0:name>qgallouedec</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/45557362?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/250510075/v1.11.0</ns0:id>
+    <ns0:updated>2026-08-26T20:02:08Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/huggingface/trl/releases/tag/v1.11.0" />
+    <ns0:title>v1.11.0</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;Features&lt;/h2&gt;
+&lt;h3&gt;Use vLLM's own server instead of TRL's&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;trl vllm-serve&lt;/code&gt; used to run a custom FastAPI app around vLLM's &lt;code&gt;LLM&lt;/code&gt;, with its own data-parallel fan-out and a worker extension for weight sync. vLLM's own server covers all of that. The custom server is gone: &lt;code&gt;trl/scripts/vllm_serve.py&lt;/code&gt; drops from &lt;strong&gt;1218 to ~130 lines&lt;/strong&gt; and now tran</ns0:content>
+    <ns0:author>
+      <ns0:name>qgallouedec</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/45557362?s=60&amp;v=4" />
+  </ns0:entry>
+</ns0:feed>

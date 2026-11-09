@@ -1,0 +1,184 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <ns0:id>tag:github.com,2008:https://github.com/NVIDIA/TensorRT-LLM/releases</ns0:id>
+  <ns0:link type="text/html" rel="alternate" href="https://github.com/NVIDIA/TensorRT-LLM/releases" />
+  <ns0:link type="application/atom+xml" rel="self" href="https://github.com/NVIDIA/TensorRT-LLM/releases.atom" />
+  <ns0:title>Release notes from TensorRT-LLM</ns0:title>
+  <ns0:updated>2026-11-03T11:21:00Z</ns0:updated>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/679366051/v1.4.0rc3</ns0:id>
+    <ns0:updated>2026-11-06T21:38:32Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/NVIDIA/TensorRT-LLM/releases/tag/v1.4.0rc3" />
+    <ns0:title>v1.4.0rc3</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;Highlights&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Known Issues&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;DSA models, including GLM-5.2, may produce incorrect output when using an NVFP4 KV cache.&lt;/li&gt;
+&lt;li&gt;Kimi K3 DSpark with MegaMoE CuTe DSL TEP and CUDA graphs may hang during GB300 warmup.&lt;/li&gt;
+&lt;li&gt;DeepSeek-V4-Pro initialization may run out of GPU memory when MPI workers are reused after large MoE workloads.&lt;/li&gt;
+&lt;li&gt;Tensor-parallel serving w</ns0:content>
+    <ns0:author>
+      <ns0:name>peihu-nv</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/259410613?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/679366051/v1.4.0rc2.post1</ns0:id>
+    <ns0:updated>2026-10-28T05:29:36Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/NVIDIA/TensorRT-LLM/releases/tag/v1.4.0rc2.post1" />
+    <ns0:title>v1.4.0rc2.post1: [TRTLLM-17383][infra] Download Boost from AWS Artifactory (#21133)</ns0:title>
+    <ns0:content type="html">&lt;p&gt;Signed-off-by: Sharabesh Jayaraman &lt;a href="mailto:338298191+sharabeshj-nvda@users.noreply.github.com"&gt;338298191+sharabeshj-nvda@users.noreply.github.com&lt;/a&gt;&lt;br&gt;
+(cherry picked from commit &lt;a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/NVIDIA/TensorRT-LLM/commit/eb6fc51c944d3dd7ab07ebea8a841817e43e63fa/hovercard" href="https://github.com/NVIDIA/Tensor</ns0:content>
+    <ns0:author>
+      <ns0:name>sharabeshj-nvda</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/338298191?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/679366051/v1.4.0rc2</ns0:id>
+    <ns0:updated>2026-10-28T15:51:34Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/NVIDIA/TensorRT-LLM/releases/tag/v1.4.0rc2" />
+    <ns0:title>v1.4.0rc2</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;Python package version&lt;/h2&gt;
+&lt;p&gt;The Python wheels for this release are published as &lt;strong&gt;1.4.0rc2.post1&lt;/strong&gt;. Container images and documentation remain at &lt;strong&gt;1.4.0rc2&lt;/strong&gt;. Use &lt;code&gt;1.4.0rc2.post1&lt;/code&gt; when installing the Python package.&lt;/p&gt;
+&lt;p&gt;The wheel-only patch removes a direct Git dependency that prevented PyPI publication (&lt;a class="issue-link js-issue-link" data-error-</ns0:content>
+    <ns0:author>
+      <ns0:name>peihu-nv</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/259410613?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/679366051/v1.4.0rc1</ns0:id>
+    <ns0:updated>2026-10-22T01:38:13Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/NVIDIA/TensorRT-LLM/releases/tag/v1.4.0rc1" />
+    <ns0:title>v1.4.0rc1</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;Highlights&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Known Issues&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Disaggregated serving with the default Python KV cache transceiver may fail generation requests with a KV cache transfer error after streaming requests are cancelled (observed on A100).&lt;/li&gt;
+&lt;li&gt;The OpenAI JSON-schema serving example (examples/serve/openai_completion_client_json_schema.py) may return an unbounded response with Qwen3 models</ns0:content>
+    <ns0:author>
+      <ns0:name>peihu-nv</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/259410613?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/679366051/v1.4.0rc0</ns0:id>
+    <ns0:updated>2026-10-14T16:35:44Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/NVIDIA/TensorRT-LLM/releases/tag/v1.4.0rc0" />
+    <ns0:title>v1.4.0rc0</ns0:title>
+    <ns0:content type="html">&lt;p&gt;Highlights&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Known Issues&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Multi-GPU (TP2) streaming or RPC executor workloads may hang during worker initialization when MPI worker pools are reused across LLM instances (observed on H100).&lt;/li&gt;
+&lt;li&gt;DeepSeek MLA models on SM120/SM121 GPUs (for example RTX PRO 6000 Blackwell) may crash with an illegal memory access when CUDA graphs are captured with BF16 BMM.&lt;/li&gt;
+&lt;li</ns0:content>
+    <ns0:author>
+      <ns0:name>peihu-nv</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/259410613?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/679366051/v1.3.0rc29</ns0:id>
+    <ns0:updated>2026-09-29T10:56:19Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/NVIDIA/TensorRT-LLM/releases/tag/v1.3.0rc29" />
+    <ns0:title>v1.3.0rc29</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;Highlights&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Model Support&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Support Qwen3.5 checkpoints with global FP8 scales across model loading paths &lt;a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="5533721394" data-permission-text="Title is private" data-url="https://github.com/NVIDIA/TensorRT-LLM/issues/19519" data-hovercard-type="pull_request" data-hovercard-url="/NVIDIA/</ns0:content>
+    <ns0:author>
+      <ns0:name>tongyuantongyu</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/13075180?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/679366051/v1.3.0rc28</ns0:id>
+    <ns0:updated>2026-09-23T06:34:35Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/NVIDIA/TensorRT-LLM/releases/tag/v1.3.0rc28" />
+    <ns0:title>v1.3.0rc28</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;Highlights&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Known Issues&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Multi-node inference may fail during startup when a requested parallel mapping spans nodes or request payloads reference caller-local Python modules.&lt;/li&gt;
+&lt;li&gt;Disaggregated serving may fail to start when an advertised hostname does not resolve to a bindable IPv4 address. Use a hostname that resolves to a local IPv4 interface.&lt;/li&gt;
+&lt;li&gt;Qwen</ns0:content>
+    <ns0:author>
+      <ns0:name>tongyuantongyu</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/13075180?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/679366051/v1.3.0rc27</ns0:id>
+    <ns0:updated>2026-09-18T03:14:53Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/NVIDIA/TensorRT-LLM/releases/tag/v1.3.0rc27" />
+    <ns0:title>v1.3.0rc27</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;Highlights&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Known Issues&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;GPT-OSS Eagle3 speculative decoding may hang, produce non-terminating output, or lose accuracy when using multi-GPU execution.&lt;/li&gt;
+&lt;li&gt;GPT-OSS W4 inference with the Triton MoE backend may intermittently hang or lose accuracy in four-GPU data-parallel or expert-parallel configurations.&lt;/li&gt;
+&lt;li&gt;GPT-OSS Harmony tool calls may continue gener</ns0:content>
+    <ns0:author>
+      <ns0:name>tongyuantongyu</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/13075180?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/679366051/v1.3.0rc26</ns0:id>
+    <ns0:updated>2026-09-09T09:37:50Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/NVIDIA/TensorRT-LLM/releases/tag/v1.3.0rc26" />
+    <ns0:title>v1.3.0rc26</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;Highlights&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Known Issues&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;LoRA adapters that target the routed experts of Qwen3 mixture-of-experts models are silently ignored and produce base-model output. Adapters targeting attention layers behave correctly.&lt;/li&gt;
+&lt;li&gt;Models using the V2 KV cache manager may fail to start with an insufficient-memory error even when enough GPU memory is free, because the KV cache</ns0:content>
+    <ns0:author>
+      <ns0:name>tongyuantongyu</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/13075180?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/679366051/v1.3.0rc25</ns0:id>
+    <ns0:updated>2026-08-31T03:31:00Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/NVIDIA/TensorRT-LLM/releases/tag/v1.3.0rc25" />
+    <ns0:title>v1.3.0rc25</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;Highlights&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Annoucements&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;KV Cache Manager&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Enabled KV cache manager V2 by default for:
+&lt;ul&gt;
+&lt;li&gt;DeepSeek V3, DeepSeek R1, and DeepSeek V3 Lite&lt;/li&gt;
+&lt;li&gt;DeepSeek V3.2&lt;/li&gt;
+&lt;li&gt;DeepSeek V4&lt;/li&gt;
+&lt;li&gt;GLM-5&lt;/li&gt;
+&lt;li&gt;GPT-OSS&lt;/li&gt;
+&lt;li&gt;Mistral Large 3&lt;/li&gt;
+&lt;li&gt;Kimi K2, Kimi K2.5, and Kimi K3&lt;/li&gt;
+&lt;li&gt;MiniMax M2 and MiniMax M3&lt;/li&gt;
+&lt;li&gt;Nemotron H a</ns0:content>
+    <ns0:author>
+      <ns0:name>tongyuantongyu</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/13075180?s=60&amp;v=4" />
+  </ns0:entry>
+</ns0:feed>

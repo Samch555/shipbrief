@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <ns0:id>tag:github.com,2008:https://github.com/vercel/ai/releases</ns0:id>
+  <ns0:link type="text/html" rel="alternate" href="https://github.com/vercel/ai/releases" />
+  <ns0:link type="application/atom+xml" rel="self" href="https://github.com/vercel/ai/releases.atom" />
+  <ns0:title>Release notes from ai</ns0:title>
+  <ns0:updated>2026-11-09T02:50:58Z</ns0:updated>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/644461337/@ai-sdk/workflow-harness@1.0.177</ns0:id>
+    <ns0:updated>2026-11-09T02:57:24Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/vercel/ai/releases/tag/%40ai-sdk%2Fworkflow-harness%401.0.177" />
+    <ns0:title>@ai-sdk/workflow-harness@1.0.177</ns0:title>
+    <ns0:content type="html">&lt;h3&gt;Patch Changes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;@ai-sdk/harness@1.0.177&lt;/li&gt;
+&lt;/ul&gt;</ns0:content>
+    <ns0:author>
+      <ns0:name>github-actions[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/644461337/@ai-sdk/workflow@2.0.98</ns0:id>
+    <ns0:updated>2026-11-09T02:57:23Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/vercel/ai/releases/tag/%40ai-sdk%2Fworkflow%402.0.98" />
+    <ns0:title>@ai-sdk/workflow@2.0.98</ns0:title>
+    <ns0:content type="html">&lt;h3&gt;Patch Changes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;ai@7.0.166&lt;/li&gt;
+&lt;/ul&gt;</ns0:content>
+    <ns0:author>
+      <ns0:name>github-actions[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/644461337/@ai-sdk/vue@4.0.166</ns0:id>
+    <ns0:updated>2026-11-09T02:57:22Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/vercel/ai/releases/tag/%40ai-sdk%2Fvue%404.0.166" />
+    <ns0:title>@ai-sdk/vue@4.0.166</ns0:title>
+    <ns0:content type="html">&lt;h3&gt;Patch Changes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;ai@7.0.166&lt;/li&gt;
+&lt;/ul&gt;</ns0:content>
+    <ns0:author>
+      <ns0:name>github-actions[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/644461337/@ai-sdk/vue@3.0.326</ns0:id>
+    <ns0:updated>2026-11-09T03:03:22Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/vercel/ai/releases/tag/%40ai-sdk%2Fvue%403.0.326" />
+    <ns0:title>@ai-sdk/vue@3.0.326</ns0:title>
+    <ns0:content type="html">&lt;h3&gt;Patch Changes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;ai@6.0.326&lt;/li&gt;
+&lt;/ul&gt;</ns0:content>
+    <ns0:author>
+      <ns0:name>github-actions[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/644461337/@ai-sdk/tui@1.0.167</ns0:id>
+    <ns0:updated>2026-11-09T02:57:21Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/vercel/ai/releases/tag/%40ai-sdk%2Ftui%401.0.167" />
+    <ns0:title>@ai-sdk/tui@1.0.167</ns0:title>
+    <ns0:content type="html">&lt;h3&gt;Patch Changes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;ai@7.0.166&lt;/li&gt;
+&lt;/ul&gt;</ns0:content>
+    <ns0:author>
+      <ns0:name>github-actions[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/644461337/@ai-sdk/tool-web-fetch@1.0.16</ns0:id>
+    <ns0:updated>2026-11-09T02:57:19Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/vercel/ai/releases/tag/%40ai-sdk%2Ftool-web-fetch%401.0.16" />
+    <ns0:title>@ai-sdk/tool-web-fetch@1.0.16</ns0:title>
+    <ns0:content type="html">&lt;h3&gt;Patch Changes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;ai@7.0.166&lt;/li&gt;
+&lt;/ul&gt;</ns0:content>
+    <ns0:author>
+      <ns0:name>github-actions[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/644461337/@ai-sdk/tool-bash@1.0.20</ns0:id>
+    <ns0:updated>2026-11-09T02:57:18Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/vercel/ai/releases/tag/%40ai-sdk%2Ftool-bash%401.0.20" />
+    <ns0:title>@ai-sdk/tool-bash@1.0.20</ns0:title>
+    <ns0:content type="html">&lt;h3&gt;Patch Changes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;ai@7.0.166&lt;/li&gt;
+&lt;/ul&gt;</ns0:content>
+    <ns0:author>
+      <ns0:name>github-actions[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/644461337/@ai-sdk/svelte@5.0.166</ns0:id>
+    <ns0:updated>2026-11-09T02:57:17Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/vercel/ai/releases/tag/%40ai-sdk%2Fsvelte%405.0.166" />
+    <ns0:title>@ai-sdk/svelte@5.0.166</ns0:title>
+    <ns0:content type="html">&lt;h3&gt;Patch Changes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;ai@7.0.166&lt;/li&gt;
+&lt;/ul&gt;</ns0:content>
+    <ns0:author>
+      <ns0:name>github-actions[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/644461337/@ai-sdk/svelte@4.0.326</ns0:id>
+    <ns0:updated>2026-11-09T03:03:21Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/vercel/ai/releases/tag/%40ai-sdk%2Fsvelte%404.0.326" />
+    <ns0:title>@ai-sdk/svelte@4.0.326</ns0:title>
+    <ns0:content type="html">&lt;h3&gt;Patch Changes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;ai@6.0.326&lt;/li&gt;
+&lt;/ul&gt;</ns0:content>
+    <ns0:author>
+      <ns0:name>github-actions[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/644461337/@ai-sdk/sandbox-vercel@1.0.177</ns0:id>
+    <ns0:updated>2026-11-09T02:57:16Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/vercel/ai/releases/tag/%40ai-sdk%2Fsandbox-vercel%401.0.177" />
+    <ns0:title>@ai-sdk/sandbox-vercel@1.0.177</ns0:title>
+    <ns0:content type="html">&lt;h3&gt;Patch Changes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;@ai-sdk/harness@1.0.177&lt;/li&gt;
+&lt;/ul&gt;</ns0:content>
+    <ns0:author>
+      <ns0:name>github-actions[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4" />
+  </ns0:entry>
+</ns0:feed>

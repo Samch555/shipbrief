@@ -1,0 +1,274 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://arxiv.org/schemas/atom" version="2.0">
+  <channel>
+    <title>cs.LG updates on arXiv.org</title>
+    <link>http://rss.arxiv.org/rss/cs.LG</link>
+    <description>cs.LG updates on the arXiv.org e-print archive.</description>
+    <ns0:link href="http://rss.arxiv.org/rss/cs.LG" rel="self" type="application/rss+xml" />
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 09 Nov 2026 05:00:04 +0000</lastBuildDate>
+    <managingEditor>rss-help@arxiv.org</managingEditor>
+    <pubDate>Mon, 09 Nov 2026 00:00:00 -0500</pubDate>
+    <skipDays>
+      <day>Saturday</day>
+      <day>Sunday</day>
+    </skipDays>
+    <item>
+      <title>FasterRW: An Efficient Prior-Assisted Random Walk Solver for Thermal Analysis</title>
+      <link>https://arxiv.org/abs/2611.08490</link>
+      <description>arXiv:2611.08490v1 Announce Type: new 
+Abstract: Thermal simulation is becoming increasingly critical in modern IC design and manufacturing. Feynman--Kac random walk methods can estimate localized temperatures without solving the global field, but in practical settings without Dirichlet boundaries they require very long paths to control the truncation residual. This paper presents FasterRW, a cont</description>
+      <guid isPermaLink="false">oai:arXiv.org:2611.08490v1</guid>
+      <category>cs.LG</category>
+      <category>cs.NA</category>
+      <category>math.NA</category>
+      <category>stat.CO</category>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 -0500</pubDate>
+      <ns1:announce_type>new</ns1:announce_type>
+      <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+      <dc:creator>Zixiao Wang, Tianshu Hou, Chenghan Wang, Zhen Zhuang, Leilei Jin, Tsung-Yi Ho, Farzan Farnia, Bei Yu</dc:creator>
+    </item>
+    <item>
+      <title>Embedding Consistent Recurrent Neural Networks in Finite Element Simulations for Path-Dependent Damage Prediction</title>
+      <link>https://arxiv.org/abs/2611.08494</link>
+      <description>arXiv:2611.08494v1 Announce Type: new 
+Abstract: Capturing sheet-metal localisation physics with a trained surrogate inside a finite element (FEM) solver requires the surrogate to deliver consistent predictions irrespective of the solver's strain-increment count, which is difficult to control in non-linear explicit codes. We address this by re-implementing a trained recurrent neural network (RNN) </description>
+      <guid isPermaLink="false">oai:arXiv.org:2611.08494v1</guid>
+      <category>cs.LG</category>
+      <category>cs.CE</category>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 -0500</pubDate>
+      <ns1:announce_type>new</ns1:announce_type>
+      <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+      <dc:creator>Muhammed Adil Yatk{\i}n, Mihkel K\~orgesaar, Hasan Kurban</dc:creator>
+    </item>
+    <item>
+      <title>Rethinking Data Selection as Distribution Matching on Semantic Manifolds</title>
+      <link>https://arxiv.org/abs/2611.08495</link>
+      <description>arXiv:2611.08495v1 Announce Type: new 
+Abstract: Instruction tuning of large language models and large vision language models relies on massive training data, which incurs substantial computational and storage costs. Meanwhile, training data often contains redundancy, noise, and low quality samples. Existing data selection methods mostly rely on diversity, importance, or a combination of both, wit</description>
+      <guid isPermaLink="false">oai:arXiv.org:2611.08495v1</guid>
+      <category>cs.LG</category>
+      <category>cs.CL</category>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 -0500</pubDate>
+      <ns1:announce_type>new</ns1:announce_type>
+      <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+      <dc:creator>Peng Sun, Yi Yang, Mingshuo Chen, Chunxiao Li, Yao Zhu, Huawen Shen, Tianfan Fu</dc:creator>
+    </item>
+    <item>
+      <title>Generative Reconstruction of Full-Field Sensor States for Safety-Critical Digital Twins</title>
+      <link>https://arxiv.org/abs/2611.08499</link>
+      <description>arXiv:2611.08499v1 Announce Type: new 
+Abstract: Accurate reconstruction of incomplete sensor fields is critical for state awareness in safety-critical digital twins (DTs). Thermocouples in high-temperature and radiation environments may drift, fail, or become intermittently unavailable, causing partial observability. This study develops a sparse-sensor reconstruction framework for Oregon State Un</description>
+      <guid isPermaLink="false">oai:arXiv.org:2611.08499v1</guid>
+      <category>cs.LG</category>
+      <category>cs.SY</category>
+      <category>eess.SY</category>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 -0500</pubDate>
+      <ns1:announce_type>new</ns1:announce_type>
+      <dc:rights>http://creativecommons.org/licenses/by-nc-nd/4.0/</dc:rights>
+      <dc:creator>Umme Mahbuba Nabila, Linyu Lin, Majdi I. Radaideh</dc:creator>
+    </item>
+    <item>
+      <title>Adaptive Depth Aggregation in Graph Transformers for Long-Range Graph Reasoning</title>
+      <link>https://arxiv.org/abs/2611.08500</link>
+      <description>arXiv:2611.08500v1 Announce Type: new 
+Abstract: Graph Transformers improve long-range node-to-node communication through global or structure-aware interactions. However, improving cross-node communication does not determine how computations produced at different depths should be combined. Standard residual streams accumulate successive computations with fixed unit coefficients shared across nodes</description>
+      <guid isPermaLink="false">oai:arXiv.org:2611.08500v1</guid>
+      <category>cs.LG</category>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 -0500</pubDate>
+      <ns1:announce_type>new</ns1:announce_type>
+      <dc:rights>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</dc:rights>
+      <dc:creator>Yifeng Lu, Zhen Wang</dc:creator>
+    </item>
+    <item>
+      <title>Emergent Low-Dimensional Topological Dynamics Dictate Generalization and Escape Mechanics in Billion-Parameter Neural Networks</title>
+      <link>https://arxiv.org/abs/2611.08502</link>
+      <description>arXiv:2611.08502v1 Announce Type: new 
+Abstract: The remarkable generalization of modern over-parameterized neural networks defies classical statistical learning bounds. Here we establish that optimization trajectories in billion-parameter models do not sample the ambient dimension $\mathbb{R}^N$ homogeneously; instead, they are dynamically constrained to a low-dimensional execution submanifold $\</description>
+      <guid isPermaLink="false">oai:arXiv.org:2611.08502v1</guid>
+      <category>cs.LG</category>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 -0500</pubDate>
+      <ns1:announce_type>new</ns1:announce_type>
+      <dc:rights>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</dc:rights>
+      <dc:creator>Dongqing Cao</dc:creator>
+    </item>
+    <item>
+      <title>Does Country Matter? Evaluating Geographic Sensitivity of Large Language Models in Zero-Shot Chronic Kidney Disease Screening</title>
+      <link>https://arxiv.org/abs/2611.08507</link>
+      <description>arXiv:2611.08507v1 Announce Type: new 
+Abstract: Large language models (LLMs) show strong zero-shot reasoning capabilities, yet their sensitivity to prompt context raises questions about reliability in deployment. This study investigates whether geographic context embedded in prompts influences LLM-based chronic kidney disease (CKD) screening, independent of any change in patient features. Using a</description>
+      <guid isPermaLink="false">oai:arXiv.org:2611.08507v1</guid>
+      <category>cs.LG</category>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 -0500</pubDate>
+      <ns1:announce_type>new</ns1:announce_type>
+      <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+      <dc:creator>Sirajam Munira, Muhammad Ashad Kabir</dc:creator>
+    </item>
+    <item>
+      <title>Interpretable Multifidelity Learning with Kolmogorov-Arnold Networks for Spatiotemporal Nuclear Reactor Flow Modeling</title>
+      <link>https://arxiv.org/abs/2611.08512</link>
+      <description>arXiv:2611.08512v1 Announce Type: new 
+Abstract: High-fidelity computational fluid dynamics (CFD) simulations of nuclear reactor systems are computationally expensive, motivating machine learning methods that reduce cost while preserving accuracy. Multifidelity surrogate modeling addresses this by combining inexpensive low-fidelity data with limited high-fidelity data. This work investigates wheth</description>
+      <guid isPermaLink="false">oai:arXiv.org:2611.08512v1</guid>
+      <category>cs.LG</category>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 -0500</pubDate>
+      <ns1:announce_type>new</ns1:announce_type>
+      <dc:rights>http://creativecommons.org/licenses/by-nc-nd/4.0/</dc:rights>
+      <dc:creator>Meredith Eaheart, Majdi I. Radaideh</dc:creator>
+    </item>
+    <item>
+      <title>What Are LLM Agents Actually Learning on Low-Budget Molecular Optimization Benchmarks?</title>
+      <link>https://arxiv.org/abs/2611.08522</link>
+      <description>arXiv:2611.08522v1 Announce Type: new 
+Abstract: Recent work reports large gains for LLM agents on low-budget molecular optimization. We measure the contributions of online optimization, retrievable task information, and permissive oracle landscapes. On PMO at 50 oracle calls, a GPT-4o mini agent's sum AUC falls from 14.44 to 4.85 after task names and curated reference compounds are hidden. An ide</description>
+      <guid isPermaLink="false">oai:arXiv.org:2611.08522v1</guid>
+      <category>cs.LG</category>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 -0500</pubDate>
+      <ns1:announce_type>new</ns1:announce_type>
+      <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+      <dc:creator>Jiayu Qin, Zhengquan Luo, Changyou Chen, Zhiqiang Xu</dc:creator>
+    </item>
+    <item>
+      <title>Evolutionary Adaptive Metric Learning: A Multi-Objective Framework for Learning Local Distance Functions in Nearest Neighbor Classification</title>
+      <link>https://arxiv.org/abs/2611.08549</link>
+      <description>arXiv:2611.08549v1 Announce Type: new 
+Abstract: Nearest neighbour classifiers inherit the geometry of their distance function. Fixed distances and globally learned metrics apply the same geometry throughout the input space, although relevant feature directions may vary across regions. We propose EAML (Evolutionary Adaptive Metric Learning), a framework that learns instance-dependent positive-defi</description>
+      <guid isPermaLink="false">oai:arXiv.org:2611.08549v1</guid>
+      <category>cs.LG</category>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 -0500</pubDate>
+      <ns1:announce_type>new</ns1:announce_type>
+      <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+      <dc:creator>Isaac Touza</dc:creator>
+    </item>
+    <item>
+      <title>How Small Can We Go? Calibrating Activation-Cache Compression for SAE Training</title>
+      <link>https://arxiv.org/abs/2611.08551</link>
+      <description>arXiv:2611.08551v1 Announce Type: new 
+Abstract: To train a sparse autoencoder (SAE), you need a massive cache of model activations. We look into the effects that compression has on an SAE in two ways: we keep the original fp32-trained SAE and pass the compressed cache into the same SAE to see how many feature activations stay the same (the frozen-SAE test), and we retrain an SAE on the compressed</description>
+      <guid isPermaLink="false">oai:arXiv.org:2611.08551v1</guid>
+      <category>cs.LG</category>
+      <category>cs.CL</category>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 -0500</pubDate>
+      <ns1:announce_type>new</ns1:announce_type>
+      <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+      <dc:creator>Abraham Yeung</dc:creator>
+    </item>
+    <item>
+      <title>Minimum-Sufficient Knowledge and Computation for Wind Energy Predictive Analysis</title>
+      <link>https://arxiv.org/abs/2611.08558</link>
+      <description>arXiv:2611.08558v1 Announce Type: new 
+Abstract: Resource-constrained cyber-physical decision systems often apply fixed sensing, knowledge, and computational pipelines despite state-dependent information needs. We introduce Minimum-Sufficient Knowledge and Computation (MSKC), a resource-aware computing principle: select the least-costly route meeting decision-risk and deployment constraints, escal</description>
+      <guid isPermaLink="false">oai:arXiv.org:2611.08558v1</guid>
+      <category>cs.LG</category>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 -0500</pubDate>
+      <ns1:announce_type>new</ns1:announce_type>
+      <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+      <dc:creator>Purbak Sengupta, Aparna S. varde, Emil J{\o}rgensen Njor</dc:creator>
+    </item>
+    <item>
+      <title>PINNeval: A Comprehensive Evaluation Standard for Physics-Informed Neural Networks</title>
+      <link>https://arxiv.org/abs/2611.08559</link>
+      <description>arXiv:2611.08559v1 Announce Type: new 
+Abstract: The Physics-Informed Neural Network (PINN) literature has produced a rapidly expanding catalogue of methods. We divide a PINN training pipeline systematically into four components and observe that many existing benchmarks study these components in isolation. These components are domain-importance adaptation, loss balancing, neural network architectu</description>
+      <guid isPermaLink="false">oai:arXiv.org:2611.08559v1</guid>
+      <category>cs.LG</category>
+      <category>cs.AI</category>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 -0500</pubDate>
+      <ns1:announce_type>new</ns1:announce_type>
+      <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+      <dc:creator>Kevin von Bargen, Hamid Ebrahimy, Tim R\"omer</dc:creator>
+    </item>
+    <item>
+      <title>Not All Misalignment Is Alike: A Decomposed Benchmark for Emergent Misalignment</title>
+      <link>https://arxiv.org/abs/2611.08569</link>
+      <description>arXiv:2611.08569v1 Announce Type: new 
+Abstract: Emergent misalignment (EM), in which fine-tuning on a narrow task induces misaligned behaviour on unrelated prompts, has been demonstrated across a wide range of datasets, model families, and training setups. Yet, most studies continue to rely on the evaluation approach introduced in the original EM paper, producing rates that are sensitive to the s</description>
+      <guid isPermaLink="false">oai:arXiv.org:2611.08569v1</guid>
+      <category>cs.LG</category>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 -0500</pubDate>
+      <ns1:announce_type>new</ns1:announce_type>
+      <dc:rights>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</dc:rights>
+      <dc:creator>Afonso Domingues, Mubashara Akhtar, Bhada Yun, Xin Chen, Lukas Fluri, Anna Hedstr\"om</dc:creator>
+    </item>
+    <item>
+      <title>Benchmarking Machine Learning for Chaotic Three-Body Dynamics in Astrophysics</title>
+      <link>https://arxiv.org/abs/2611.08634</link>
+      <description>arXiv:2611.08634v1 Announce Type: new 
+Abstract: Machine learning (ML) and generative AI have recently made impressive progress in understanding physics. We explore a hierarchy of prediction problems stemming from chaotic three-body systems and benchmark existing ML approaches, including general-purpose prediction algorithms and those that build on top of foundational physics models. We first simu</description>
+      <guid isPermaLink="false">oai:arXiv.org:2611.08634v1</guid>
+      <category>cs.LG</category>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 -0500</pubDate>
+      <ns1:announce_type>new</ns1:announce_type>
+      <dc:rights>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</dc:rights>
+      <dc:creator>Sheng Wan, Pavan Vynatheya, Duo Xu, Li Kevin Wenliang, Ye Zhu</dc:creator>
+    </item>
+    <item>
+      <title>Higher Order Component Attribution via Learned Surrogates in High Energy Physics</title>
+      <link>https://arxiv.org/abs/2611.08656</link>
+      <description>arXiv:2611.08656v1 Announce Type: new 
+Abstract: Experimental High Energy Physics (HEP) has adopted the transformer architecture for identification of jets, particularly the state-of-the-art Particle Transformer (ParT) which injects explicit information about particle correlations into the attention mechanism. While able to achieve state-of-the-art results in accuracy, interpretability to its effe</description>
+      <guid isPermaLink="false">oai:arXiv.org:2611.08656v1</guid>
+      <category>cs.LG</category>
+      <category>hep-ex</category>
+      <category>hep-ph</category>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 -0500</pubDate>
+      <ns1:announce_type>new</ns1:announce_type>
+      <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+      <dc:creator>Lauri Laatu, Aritra Bal, Benedikt Maier, Markus Klute, Michael Spannowsky</dc:creator>
+    </item>
+    <item>
+      <title>Does a Trading Policy Need to Know What It Trades? Microstructure Invariance and Zero-Shot Transfer of Execution Policies</title>
+      <link>https://arxiv.org/abs/2611.08701</link>
+      <description>arXiv:2611.08701v1 Announce Type: new 
+Abstract: Execution algorithms are calibrated asset by asset, because the queues, trade rates and bid-ask spreads they face differ by orders of magnitude across assets. For reinforcement learning this is zero-shot generalisation across contexts of very different scales, and microstructure invariance proposes a normalisation fixed by theory: measured in each a</description>
+      <guid isPermaLink="false">oai:arXiv.org:2611.08701v1</guid>
+      <category>cs.LG</category>
+      <category>cs.CE</category>
+      <category>q-fin.TR</category>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 -0500</pubDate>
+      <ns1:announce_type>new</ns1:announce_type>
+      <dc:rights>http://creativecommons.org/licenses/by-sa/4.0/</dc:rights>
+      <dc:creator>Hieu Tran, Hong Yu</dc:creator>
+    </item>
+    <item>
+      <title>Foundation-Model Residuals as Signals of Urban Bus Irregularity</title>
+      <link>https://arxiv.org/abs/2611.08703</link>
+      <description>arXiv:2611.08703v1 Announce Type: new 
+Abstract: Pretrained trajectory models encode mobility patterns learned across cities, but their errors when transferred to a new city are usually treated only as performance limitations. We instead ask whether these residuals reveal systematic local conditions. Architectures such as UniTraj and TrajFM learn transferable trajectory representations, although c</description>
+      <guid isPermaLink="false">oai:arXiv.org:2611.08703v1</guid>
+      <category>cs.LG</category>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 -0500</pubDate>
+      <ns1:announce_type>new</ns1:announce_type>
+      <dc:rights>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</dc:rights>
+      <dc:creator>Csaba I. Sidl\'o, Jamil J. Ghazal, Domonkos R\'ozsay, Rita R\'onai, Andr\'as J. Moln\'ar</dc:creator>
+    </item>
+    <item>
+      <title>Dual-Stream LLM-Guided Reward Design for Reject-Inference-Aware Reinforcement Learning in E-Commerce Payment Fraud Detection</title>
+      <link>https://arxiv.org/abs/2611.08706</link>
+      <description>arXiv:2611.08706v1 Announce Type: new 
+Abstract: Production fraud-detection models learn from a censored slice of their own traffic: transactions a legacy system blocked never receive fraud labels, so models train on a biased, approved-only distribution. We extend LLM-guided reward design, the framework of Qu et al. (2025) in which an LLM evolves the reward of a two-step REINFORCE fraud-blocking p</description>
+      <guid isPermaLink="false">oai:arXiv.org:2611.08706v1</guid>
+      <category>cs.LG</category>
+      <category>cs.AI</category>
+      <category>cs.CL</category>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 -0500</pubDate>
+      <ns1:announce_type>new</ns1:announce_type>
+      <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+      <dc:creator>Bo Qu, Zhurong Wang, Frank Zahradnik, Ming Ouyang</dc:creator>
+    </item>
+    <item>
+      <title>An Educated Guess: Deriving Statistically Aligned Gradient Estimates for Zeroth-Order Optimisation</title>
+      <link>https://arxiv.org/abs/2611.08712</link>
+      <description>arXiv:2611.08712v1 Announce Type: new 
+Abstract: As novel hardware architectures are explored for the purposes of machine learning, including neuromorphic chips, asynchronous systems, and ASICs, effective learning algorithms are highly desirable. While backpropagation is the standard for differentiation on standard hardware, its requirement for global synchrony and exact differentiability limits t</description>
+      <guid isPermaLink="false">oai:arXiv.org:2611.08712v1</guid>
+      <category>cs.LG</category>
+      <category>cs.AI</category>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 -0500</pubDate>
+      <ns1:announce_type>new</ns1:announce_type>
+      <dc:rights>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</dc:rights>
+      <dc:creator>Justus Huebotter, Serge Thill, Marcel van Gerven, Nasir Ahmad</dc:creator>
+    </item>
+    </channel>
+</rss>

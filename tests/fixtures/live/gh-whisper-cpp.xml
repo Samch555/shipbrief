@@ -1,0 +1,137 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <ns0:id>tag:github.com,2008:https://github.com/ggml-org/whisper.cpp/releases</ns0:id>
+  <ns0:link type="text/html" rel="alternate" href="https://github.com/ggml-org/whisper.cpp/releases" />
+  <ns0:link type="application/atom+xml" rel="self" href="https://github.com/ggml-org/whisper.cpp/releases.atom" />
+  <ns0:title>Release notes from whisper.cpp</ns0:title>
+  <ns0:updated>2026-10-06T17:39:13Z</ns0:updated>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/541269386/v1.9.5</ns0:id>
+    <ns0:updated>2026-10-07T12:41:42Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/ggml-org/whisper.cpp/releases/tag/v1.9.5" />
+    <ns0:title>v1.9.5</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Maintenance release. Updates to &lt;a href="https://github.com/ggml-org/ggml/releases/tag/v0.26.0"&gt;ggml v0.26.0&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Nightly build:&lt;/strong&gt; &lt;a href="https://github.com/ggml-org/whisper.cpp/releases/tag/b5454"&gt;b5454&lt;/a&gt;&lt;br&gt;
+&lt;strong&gt;More info:&lt;/strong&gt; &lt;a href="https://github.com/ggml-org/ggml/discussions/1579"&gt;dist : releases and versioning of ggml-org projects&lt;/a&gt;</ns0:content>
+    <ns0:author>
+      <ns0:name>github-actions[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/541269386/b5454</ns0:id>
+    <ns0:updated>2026-10-06T16:52:11Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/ggml-org/whisper.cpp/releases/tag/b5454" />
+    <ns0:title>b5454</ns0:title>
+    <ns0:content>No content.</ns0:content>
+    <ns0:author>
+      <ns0:name>github-actions[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/541269386/v1.9.4</ns0:id>
+    <ns0:updated>2026-09-11T05:31:55Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/ggml-org/whisper.cpp/releases/tag/v1.9.4" />
+    <ns0:title>v1.9.4</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;Overview&lt;/h2&gt;
+&lt;p&gt;New version has been released.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Nightly build:&lt;/strong&gt; &lt;a href="https://github.com/ggml-org/whisper.cpp/releases/tag/b5130"&gt;b5130&lt;/a&gt;&lt;br&gt;
+&lt;strong&gt;More info:&lt;/strong&gt; &lt;a href="https://github.com/ggml-org/ggml/discussions/1579"&gt;dist : releases and versioning of ggml-org projects&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Changelog since v1.9.3&lt;/h2&gt;
+&lt;p&gt;&lt;a class="commit-link" data-hovercard-type=</ns0:content>
+    <ns0:author>
+      <ns0:name>github-actions[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/541269386/b5130</ns0:id>
+    <ns0:updated>2026-09-11T05:30:01Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/ggml-org/whisper.cpp/releases/tag/b5130" />
+    <ns0:title>b5130</ns0:title>
+    <ns0:content type="html">&lt;p&gt;metal : remove leftover ggml-metal.metal kernels file (&lt;a class="issue-link js-issue-link" href="https://github.com/ggml-org/whisper.cpp/pull/4051"&gt;#4051&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;This commit removes the ggml-metal.metal file that used to contain all
+&lt;br /&gt;the metal kernels. These have now been separated into separate kernels
+&lt;br /&gt;in ggml/src/ggml-metal/kernels and it seems that this file was not
+&lt;br /&gt;rem</ns0:content>
+    <ns0:author>
+      <ns0:name>github-actions[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/541269386/b5127</ns0:id>
+    <ns0:updated>2026-09-10T11:56:28Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/ggml-org/whisper.cpp/releases/tag/b5127" />
+    <ns0:title>b5127</ns0:title>
+    <ns0:content type="html">&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; the Windows arm64 (CUDA) build (&lt;code&gt;whisper-bin-win-cuda-*-arm64.zip&lt;/code&gt;) uses a preview edition of the CUDA Toolkit for Windows on Arm and should be considered experimental.&lt;/p&gt;</ns0:content>
+    <ns0:author>
+      <ns0:name>github-actions[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/541269386/v1.9.3</ns0:id>
+    <ns0:updated>2026-08-20T11:42:23Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/ggml-org/whisper.cpp/releases/tag/v1.9.3" />
+    <ns0:title>v1.9.3</ns0:title>
+    <ns0:content type="html">&lt;div class="markdown-alert markdown-alert-note"&gt;&lt;p class="markdown-alert-title"&gt;&lt;svg data-component="Octicon" class="octicon octicon-info mr-2" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"&gt;&lt;path d="M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8Zm8-6.5a6.5 6.5 0 1 0 0 13 6.5 6.5 0 0 0 0-13ZM6.5 7.75A.75.75 0 0 1 7.25 7h1a.75.75 0 0 1 .75.75v2.75h.25a.75.75 0 0 1 0 1.5h-2a.75.75 0 </ns0:content>
+    <ns0:author>
+      <ns0:name>github-actions[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/541269386/b4938</ns0:id>
+    <ns0:updated>2026-08-20T11:33:53Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/ggml-org/whisper.cpp/releases/tag/b4938" />
+    <ns0:title>b4938</ns0:title>
+    <ns0:content>No content.</ns0:content>
+    <ns0:author>
+      <ns0:name>github-actions[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/541269386/v1.9.2</ns0:id>
+    <ns0:updated>2026-08-04T15:31:37Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/ggml-org/whisper.cpp/releases/tag/v1.9.2" />
+    <ns0:title>v1.9.2</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;sync : ggml by &lt;a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/ggerganov/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/ggerganov"&gt;@ggerganov&lt;/a&gt; in &lt;a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4698744851" data-permissio</ns0:content>
+    <ns0:author>
+      <ns0:name>github-actions[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/541269386/v1.9.1</ns0:id>
+    <ns0:updated>2026-06-19T05:53:19Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/ggml-org/whisper.cpp/releases/tag/v1.9.1" />
+    <ns0:title>v1.9.1</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;ci : add GGML_NATIVE=OFF and GGML_BMI2=OFF to windows-blas by &lt;a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/danbev/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/danbev"&gt;@danbev&lt;/a&gt; in &lt;a class="issue-link js-issue-link" data-error-text="Failed to load titl</ns0:content>
+    <ns0:author>
+      <ns0:name>github-actions[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/541269386/v1.9.0</ns0:id>
+    <ns0:updated>2026-06-17T10:19:21Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/ggml-org/whisper.cpp/releases/tag/v1.9.0" />
+    <ns0:title>v1.9.0</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;ci : only trigger release jobs for tags by &lt;a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/danbev/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/danbev"&gt;@danbev&lt;/a&gt; in &lt;a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4673622</ns0:content>
+    <ns0:author>
+      <ns0:name>github-actions[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4" />
+  </ns0:entry>
+</ns0:feed>

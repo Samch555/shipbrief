@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"><channel><title>cs.CL updates on arXiv.org</title>
+<item><title>Sparse Attention for Long Contexts</title><link>https://arxiv.org/abs/2611.00001</link>
+<description>arXiv:2611.00001v1 Announce Type: new 
+Abstract: We propose a sparse attention method for language models. It reduces memory use by 40% on long inputs.</description>
+<pubDate>Mon, 09 Nov 2026 00:00:00 -0500</pubDate></item>
+<item><title>A Replaced Paper</title><link>https://arxiv.org/abs/2601.00002</link>
+<description>arXiv:2601.00002v3 Announce Type: replace 
+Abstract: Old paper, new version.</description>
+<pubDate>Mon, 09 Nov 2026 00:00:00 -0500</pubDate></item>
+<item><title>A Cross-listed Paper</title><link>https://arxiv.org/abs/2611.00003</link>
+<description>arXiv:2611.00003v1 Announce Type: cross 
+Abstract: Cross list.</description>
+<pubDate>Mon, 09 Nov 2026 00:00:00 -0500</pubDate></item>
+</channel></rss>

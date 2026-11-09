@@ -1,0 +1,155 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <ns0:id>tag:github.com,2008:https://github.com/pydantic/pydantic-ai/releases</ns0:id>
+  <ns0:link type="text/html" rel="alternate" href="https://github.com/pydantic/pydantic-ai/releases" />
+  <ns0:link type="application/atom+xml" rel="self" href="https://github.com/pydantic/pydantic-ai/releases.atom" />
+  <ns0:title>Release notes from pydantic-ai</ns0:title>
+  <ns0:updated>2026-11-09T16:35:07Z</ns0:updated>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/818331198/clai2-bleeding</ns0:id>
+    <ns0:updated>2026-11-09T16:56:28Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/pydantic/pydantic-ai/releases/tag/clai2-bleeding" />
+    <ns0:title>CLAI2 bleeding</ns0:title>
+    <ns0:content type="html">&lt;p&gt;Sdists rebuilt from &lt;code&gt;main&lt;/code&gt; for &lt;code&gt;/update&lt;/code&gt; on the CLAI &lt;code&gt;bleeding&lt;/code&gt; channel. Not a release.&lt;/p&gt;</ns0:content>
+    <ns0:author>
+      <ns0:name>github-actions[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/818331198/v2.66.0</ns0:id>
+    <ns0:updated>2026-11-04T11:51:46Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/pydantic/pydantic-ai/releases/tag/v2.66.0" />
+    <ns0:title>v2.66.0 (2026-11-04)</ns0:title>
+    <ns0:content type="html">
+&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;h3&gt;🛡️ Security&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/pydantic/pydantic-ai/security/advisories/GHSA-m5vj-8mcw-82qx"&gt;GHSA-m5vj-8mcw-82qx&lt;/a&gt; (high): &lt;code&gt;web_fetch_tool&lt;/code&gt; and the &lt;code&gt;WebFetch&lt;/code&gt; capability's local fallback re-indented a JSON response on the event loop before applying the returned-content limit, so a deeply nested document within the download</ns0:content>
+    <ns0:author>
+      <ns0:name>adtyavrdhn</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/76904033?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/818331198/v1.107.10</ns0:id>
+    <ns0:updated>2026-11-04T11:51:48Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/pydantic/pydantic-ai/releases/tag/v1.107.10" />
+    <ns0:title>v1.107.10 (2026-11-04)</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;h3&gt;🛡️ Security&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/pydantic/pydantic-ai/security/advisories/GHSA-m5vj-8mcw-82qx"&gt;GHSA-m5vj-8mcw-82qx&lt;/a&gt; (high): &lt;code&gt;web_fetch_tool&lt;/code&gt; and the &lt;code&gt;WebFetch&lt;/code&gt; capability's local fallback re-indented a JSON response on the event loop before applying the returned-content limit, so a deeply nested document within the download </ns0:content>
+    <ns0:author>
+      <ns0:name>adtyavrdhn</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/76904033?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/818331198/v2.65.0</ns0:id>
+    <ns0:updated>2026-11-03T01:25:27Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/pydantic/pydantic-ai/releases/tag/v2.65.0" />
+    <ns0:title>v2.65.0 (2026-11-02)</ns0:title>
+    <ns0:content type="html">
+&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;h3&gt;&lt;g-emoji class="g-emoji" alias="warning"&gt;⚠️&lt;/g-emoji&gt; Compatibility Notes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Protect the &lt;code&gt;gh-aw&lt;/code&gt; canonical session capture from agent tools by &lt;a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/dsfaccini/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://gith</ns0:content>
+    <ns0:author>
+      <ns0:name>dsfaccini</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/64162682?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/818331198/v2.64.0</ns0:id>
+    <ns0:updated>2026-10-30T23:27:24Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/pydantic/pydantic-ai/releases/tag/v2.64.0" />
+    <ns0:title>v2.64.0 (2026-10-30)</ns0:title>
+    <ns0:content type="html">
+&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;h3&gt;&lt;g-emoji class="g-emoji" alias="warning"&gt;⚠️&lt;/g-emoji&gt; Compatibility Notes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Raise an error status a retrying transport gave up on as &lt;code&gt;ModelHTTPError&lt;/code&gt;, so fallback moves on by &lt;a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/DouweM/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link</ns0:content>
+    <ns0:author>
+      <ns0:name>dsfaccini</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/64162682?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/818331198/v2.63.0</ns0:id>
+    <ns0:updated>2026-10-28T00:55:47Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/pydantic/pydantic-ai/releases/tag/v2.63.0" />
+    <ns0:title>v2.63.0 (2026-10-27)</ns0:title>
+    <ns0:content type="html">
+&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;h3&gt;&lt;g-emoji class="g-emoji" alias="warning"&gt;⚠️&lt;/g-emoji&gt; Compatibility Notes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Default &lt;code&gt;CodeMode&lt;/code&gt; to &lt;code&gt;dynamic_catalog=True&lt;/code&gt;, so a revealed tool is appended instead of rewriting the cached prompt by &lt;a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/DouweM/hovercard" data-octo-click="hovercard-link-cl</ns0:content>
+    <ns0:author>
+      <ns0:name>dsfaccini</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/64162682?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/818331198/v2.62.0</ns0:id>
+    <ns0:updated>2026-10-27T02:38:43Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/pydantic/pydantic-ai/releases/tag/v2.62.0" />
+    <ns0:title>v2.62.0 (2026-10-26)</ns0:title>
+    <ns0:content type="html">
+&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;h3&gt;&lt;g-emoji class="g-emoji" alias="warning"&gt;⚠️&lt;/g-emoji&gt; Compatibility Notes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Change thinking effort mid-conversation via OpenAI &lt;code&gt;configuration_update&lt;/code&gt; and Anthropic per-message &lt;code&gt;output_config&lt;/code&gt;, recorded as &lt;code&gt;ModelSettingsDeltaPart&lt;/code&gt; by &lt;a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/Dou</ns0:content>
+    <ns0:author>
+      <ns0:name>dsfaccini</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/64162682?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/818331198/v2.61.0</ns0:id>
+    <ns0:updated>2026-10-24T03:13:40Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/pydantic/pydantic-ai/releases/tag/v2.61.0" />
+    <ns0:title>v2.61.0 (2026-10-23)</ns0:title>
+    <ns0:content type="html">
+&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;h3&gt;&lt;g-emoji class="g-emoji" alias="warning"&gt;⚠️&lt;/g-emoji&gt; Compatibility Notes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Warn when a provider-specific thinking setting from a broader scope overrides &lt;code&gt;thinking&lt;/code&gt; by &lt;a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/dsfaccini/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_typ</ns0:content>
+    <ns0:author>
+      <ns0:name>dsfaccini</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/64162682?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/818331198/v2.60.0</ns0:id>
+    <ns0:updated>2026-10-23T01:44:06Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/pydantic/pydantic-ai/releases/tag/v2.60.0" />
+    <ns0:title>v2.60.0 (2026-10-22)</ns0:title>
+    <ns0:content type="html">
+&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;h3&gt;&lt;g-emoji class="g-emoji" alias="warning"&gt;⚠️&lt;/g-emoji&gt; Compatibility Notes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Raise model error categories like &lt;code&gt;ModelRateLimitError&lt;/code&gt; from embedding models by &lt;a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/DouweM/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="</ns0:content>
+    <ns0:author>
+      <ns0:name>dsfaccini</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/64162682?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/818331198/v2.59.0</ns0:id>
+    <ns0:updated>2026-10-21T04:36:13Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/pydantic/pydantic-ai/releases/tag/v2.59.0" />
+    <ns0:title>v2.59.0 (2026-10-20)</ns0:title>
+    <ns0:content type="html">&lt;blockquote&gt;
+&lt;p&gt;This comment was posted by Codex Desktop using gpt-6.1-sol on behalf of David.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;h3&gt;🛡️ Security&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;High — HTML conversion in &lt;code&gt;web_fetch&lt;/code&gt;:&lt;/strong&gt; &lt;a href="https://github.com/pydantic/pydantic-ai/security/advisories/GHSA-4whf-38hw-pxxh"&gt;GHSA-4whf-38hw-pxxh&lt;/a&gt;. When &lt;code&gt;web_fetch_tool&lt;/code&gt; fetched attacker-c</ns0:content>
+    <ns0:author>
+      <ns0:name>dsfaccini</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/64162682?s=60&amp;v=4" />
+  </ns0:entry>
+</ns0:feed>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Example Atom</title>
+  <entry>
+    <title type="html">Fine-tuning &lt;em&gt;small&lt;/em&gt; models</title>
+    <link rel="related" href="https://example.org/related"/>
+    <link rel="alternate" href="https://example.org/posts/finetune"/>
+    <published>2026-11-09T07:30:00Z</published>
+    <updated>2026-11-09T09:00:00Z</updated>
+    <summary type="html">&lt;p&gt;How to fine-tune small language models on a laptop.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>Updated-only entry about AI evals</title>
+    <link href="https://example.org/posts/evals"/>
+    <updated>2026-11-08T12:00:00+02:00</updated>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><p>Evals for <b>LLM</b> apps.</p></div></content>
+  </entry>
+</feed>

@@ -1,0 +1,317 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://purl.org/syndication/thread/1.0" xml:lang="" xml:base="https://developer.nvidia.com/blog/wp-atom.php">
+	<ns0:title type="text">NVIDIA Technical Blog</ns0:title>
+	<ns0:subtitle type="text">News and tutorials for developers, data scientists, and IT admins</ns0:subtitle>
+
+	<ns0:updated>2026-11-06T22:20:31Z</ns0:updated>
+
+	<ns0:link rel="alternate" type="text/html" href="https://developer.nvidia.com/blog" />
+	<ns0:id>https://developer.nvidia.com/blog/feed/</ns0:id>
+	<ns0:link rel="self" type="application/atom+xml" href="https://developer.nvidia.com/blog/feed/" />
+
+	
+		<ns0:entry>
+		<ns0:author>
+			<ns0:name>Olivia Stoner</ns0:name>
+					</ns0:author>
+		<ns0:title type="html">Speed Up Image Generation with FLUX 3 Image Klein on NVIDIA Blackwell GPUs</ns0:title>
+		<ns0:link rel="alternate" type="text/html" href="https://developer.nvidia.com/blog/speed-up-image-generation-with-flux-3-image-klein-on-nvidia-blackwell-gpus/" />
+		<ns0:id>https://developer.nvidia.com/blog/?p=124785</ns0:id>
+		<ns0:updated>2026-11-06T22:20:31Z</ns0:updated>
+		<ns0:published>2026-11-06T22:20:20Z</ns0:published>
+		<ns0:category scheme="https://developer.nvidia.com/blog" term="Agentic AI / Generative AI" /><ns0:category scheme="https://developer.nvidia.com/blog" term="Content Creation / Rendering" /><ns0:category scheme="https://developer.nvidia.com/blog" term="Diffusion models" /><ns0:category scheme="https://developer.nvidia.com/blog" term="Image Generation" /><ns0:category scheme="https://developer.nvidia.com/blog" term="NVFP4" />		<ns0:summary type="html">&lt;img width="768" height="432" src="https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/techblog-5893-article-kix-ulkeecvizi09-768x432.png" class="webfeedsFeaturedVisual wp-post-image" alt="Two generated images of a red fox beside a moss-covered fallen tree in an autumn forest." style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetc</ns0:summary>
+		<ns0:content type="html" xml:base="https://developer.nvidia.com/blog/speed-up-image-generation-with-flux-3-image-klein-on-nvidia-blackwell-gpus/">&lt;img width="768" height="432" src="https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/techblog-5893-article-kix-ulkeecvizi09-768x432.png" class="webfeedsFeaturedVisual wp-post-image" alt="Two generated images of a red fox beside a moss-covered fallen tree in an autumn forest." style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" srcs</ns0:content>
+		<ns0:link rel="replies" type="text/html" href="https://developer.nvidia.com/blog/speed-up-image-generation-with-flux-3-image-klein-on-nvidia-blackwell-gpus/#comments" ns1:count="0" />
+		<ns0:link rel="replies" type="application/atom+xml" href="https://developer.nvidia.com/blog/speed-up-image-generation-with-flux-3-image-klein-on-nvidia-blackwell-gpus/feed/" ns1:count="0" />
+		<ns1:total>0</ns1:total>
+	</ns0:entry>
+		<ns0:entry>
+		<ns0:author>
+			<ns0:name>Tanya Lenz</ns0:name>
+					</ns0:author>
+		<ns0:title type="html">Accelerating Reinforcement Learning Weight Refit with the Reshard Collective</ns0:title>
+		<ns0:link rel="alternate" type="text/html" href="https://developer.nvidia.com/blog/accelerating-reinforcement-learning-weight-refit-with-the-reshard-collective/" />
+		<ns0:id>https://developer.nvidia.com/blog/?p=124653</ns0:id>
+		<ns0:updated>2026-11-06T18:22:43Z</ns0:updated>
+		<ns0:published>2026-11-06T18:03:26Z</ns0:published>
+		<ns0:category scheme="https://developer.nvidia.com/blog" term="Agentic AI / Generative AI" /><ns0:category scheme="https://developer.nvidia.com/blog" term="MLOps" /><ns0:category scheme="https://developer.nvidia.com/blog" term="Networking / Communications" /><ns0:category scheme="https://developer.nvidia.com/blog" term="Low-Latency Inference" /><ns0:category scheme="https://developer.nvidia.com/blog" term="PyTorch" /><ns0:category scheme="https://developer.nvidia.com/blog" term="Reinforcement Learning" /><ns0:category scheme="https://developer.nvidia.com/blog" term="Training AI Models" />		<ns0:summary type="html">&lt;img width="600" height="338" src="https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/green-cube.webp" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/green-cube.webp 600w, https://developer-bl</ns0:summary>
+		<ns0:content type="html" xml:base="https://developer.nvidia.com/blog/accelerating-reinforcement-learning-weight-refit-with-the-reshard-collective/">&lt;img width="600" height="338" src="https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/green-cube.webp" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/green-cube.webp 600w, https://developer-bl</ns0:content>
+		<ns0:link rel="replies" type="text/html" href="https://developer.nvidia.com/blog/accelerating-reinforcement-learning-weight-refit-with-the-reshard-collective/#comments" ns1:count="0" />
+		<ns0:link rel="replies" type="application/atom+xml" href="https://developer.nvidia.com/blog/accelerating-reinforcement-learning-weight-refit-with-the-reshard-collective/feed/" ns1:count="0" />
+		<ns1:total>0</ns1:total>
+	</ns0:entry>
+		<ns0:entry>
+		<ns0:author>
+			<ns0:name>Sowmyan Soman</ns0:name>
+					</ns0:author>
+		<ns0:title type="html">Configure, Certify, and Operate Kubernetes GPU Clusters with NVIDIA DSX OS</ns0:title>
+		<ns0:link rel="alternate" type="text/html" href="https://developer.nvidia.com/blog/configure-certify-and-operate-kubernetes-gpu-clusters-with-nvidia-dsx-os/" />
+		<ns0:id>https://developer.nvidia.com/blog/?p=124575</ns0:id>
+		<ns0:updated>2026-11-04T17:42:06Z</ns0:updated>
+		<ns0:published>2026-11-05T17:00:00Z</ns0:published>
+		<ns0:category scheme="https://developer.nvidia.com/blog" term="Agentic AI / Generative AI" /><ns0:category scheme="https://developer.nvidia.com/blog" term="Data Center / Cloud" /><ns0:category scheme="https://developer.nvidia.com/blog" term="Developer Tools &amp; Techniques" /><ns0:category scheme="https://developer.nvidia.com/blog" term="Cloud Services" /><ns0:category scheme="https://developer.nvidia.com/blog" term="DSX" /><ns0:category scheme="https://developer.nvidia.com/blog" term="Kubernetes" /><ns0:category scheme="https://developer.nvidia.com/blog" term="Open Source" />		<ns0:summary type="html">&lt;img width="768" height="432" src="https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/dsx-os-cluster-readiness-featured-768x432.png" class="webfeedsFeaturedVisual wp-post-image" alt="Glowing green modular cube with gauge, clock, and gear icons on a black background." style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy"</ns0:summary>
+		<ns0:content type="html" xml:base="https://developer.nvidia.com/blog/configure-certify-and-operate-kubernetes-gpu-clusters-with-nvidia-dsx-os/">&lt;img width="768" height="432" src="https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/dsx-os-cluster-readiness-featured-768x432.png" class="webfeedsFeaturedVisual wp-post-image" alt="Glowing green modular cube with gauge, clock, and gear icons on a black background." style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy"</ns0:content>
+		<ns0:link rel="replies" type="text/html" href="https://developer.nvidia.com/blog/configure-certify-and-operate-kubernetes-gpu-clusters-with-nvidia-dsx-os/#comments" ns1:count="0" />
+		<ns0:link rel="replies" type="application/atom+xml" href="https://developer.nvidia.com/blog/configure-certify-and-operate-kubernetes-gpu-clusters-with-nvidia-dsx-os/feed/" ns1:count="0" />
+		<ns1:total>0</ns1:total>
+	</ns0:entry>
+		<ns0:entry>
+		<ns0:author>
+			<ns0:name>Shara Tibken</ns0:name>
+					</ns0:author>
+		<ns0:title type="html">Five Ways NVIDIA Co-Design Maximizes the Value of Every Byte in the AI Factory</ns0:title>
+		<ns0:link rel="alternate" type="text/html" href="https://developer.nvidia.com/blog/five-ways-nvidia-co-design-maximizes-the-value-of-every-byte-in-the-ai-factory/" />
+		<ns0:id>https://developer.nvidia.com/blog/?p=124533</ns0:id>
+		<ns0:updated>2026-11-05T17:14:21Z</ns0:updated>
+		<ns0:published>2026-11-05T16:00:00Z</ns0:published>
+		<ns0:category scheme="https://developer.nvidia.com/blog" term="Agentic AI / Generative AI" /><ns0:category scheme="https://developer.nvidia.com/blog" term="Data Center / Cloud" /><ns0:category scheme="https://developer.nvidia.com/blog" term="BlueField DPU" /><ns0:category scheme="https://developer.nvidia.com/blog" term="DOCA" /><ns0:category scheme="https://developer.nvidia.com/blog" term="Dynamo" /><ns0:category scheme="https://developer.nvidia.com/blog" term="Ethernet" /><ns0:category scheme="https://developer.nvidia.com/blog" term="featured" /><ns0:category scheme="https://developer.nvidia.com/blog" term="GB200" /><ns0:category scheme="https://developer.nvidia.com/blog" term="GB300" /><ns0:category scheme="https://developer.nvidia.com/blog" term="GB300 NVL72" /><ns0:category scheme="https://developer.nvidia.com/blog" term="GPUDirect" /><ns0:category scheme="https://developer.nvidia.com/blog" term="H100" /><ns0:category scheme="https://developer.nvidia.com/blog" term="NVLink" /><ns0:category scheme="https://developer.nvidia.com/blog" term="Rubin GPU" /><ns0:category scheme="https://developer.nvidia.com/blog" term="Spectrum-X" /><ns0:category scheme="https://developer.nvidia.com/blog" term="TensorRT-LLM" /><ns0:category scheme="https://developer.nvidia.com/blog" term="Vera CPU" /><ns0:category scheme="https://developer.nvidia.com/blog" term="Vera Rubin" /><ns0:category scheme="https://developer.nvidia.com/blog" term="Vera Rubin NVL72" />		<ns0:summary type="html">&lt;img width="768" height="432" src="https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/image5-1-768x432.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/image5-1-768x432.png 768w, https://de</ns0:summary>
+		<ns0:content type="html" xml:base="https://developer.nvidia.com/blog/five-ways-nvidia-co-design-maximizes-the-value-of-every-byte-in-the-ai-factory/">&lt;img width="768" height="432" src="https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/image5-1-768x432.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/image5-1-768x432.png 768w, https://de</ns0:content>
+		<ns0:link rel="replies" type="text/html" href="https://developer.nvidia.com/blog/five-ways-nvidia-co-design-maximizes-the-value-of-every-byte-in-the-ai-factory/#comments" ns1:count="0" />
+		<ns0:link rel="replies" type="application/atom+xml" href="https://developer.nvidia.com/blog/five-ways-nvidia-co-design-maximizes-the-value-of-every-byte-in-the-ai-factory/feed/" ns1:count="0" />
+		<ns1:total>0</ns1:total>
+	</ns0:entry>
+		<ns0:entry>
+		<ns0:author>
+			<ns0:name>Shara Tibken</ns0:name>
+					</ns0:author>
+		<ns0:title type="html">How NVIDIA Uses AI Agents to Streamline AI Factory Operations</ns0:title>
+		<ns0:link rel="alternate" type="text/html" href="https://developer.nvidia.com/blog/how-nvidia-uses-ai-agents-to-streamline-ai-factory-operations/" />
+		<ns0:id>https://developer.nvidia.com/blog/?p=124627</ns0:id>
+		<ns0:updated>2026-11-04T22:13:03Z</ns0:updated>
+		<ns0:published>2026-11-04T22:00:17Z</ns0:published>
+		<ns0:category scheme="https://developer.nvidia.com/blog" term="Agentic AI / Generative AI" /><ns0:category scheme="https://developer.nvidia.com/blog" term="Data Center / Cloud" /><ns0:category scheme="https://developer.nvidia.com/blog" term="MLOps" /><ns0:category scheme="https://developer.nvidia.com/blog" term="AI Agent" /><ns0:category scheme="https://developer.nvidia.com/blog" term="AI Factory" /><ns0:category scheme="https://developer.nvidia.com/blog" term="Build AI Agents" /><ns0:category scheme="https://developer.nvidia.com/blog" term="DGX" /><ns0:category scheme="https://developer.nvidia.com/blog" term="GB200" /><ns0:category scheme="https://developer.nvidia.com/blog" term="GB300" /><ns0:category scheme="https://developer.nvidia.com/blog" term="HGX" /><ns0:category scheme="https://developer.nvidia.com/blog" term="HPC / Scientific Computing" /><ns0:category scheme="https://developer.nvidia.com/blog" term="Machine Learning &amp; Artificial Intelligence" /><ns0:category scheme="https://developer.nvidia.com/blog" term="NemoClaw" /><ns0:category scheme="https://developer.nvidia.com/blog" term="Nemotron" /><ns0:category scheme="https://developer.nvidia.com/blog" term="OpenShell" />		<ns0:summary type="html">&lt;img width="768" height="432" src="https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/image2-3-768x432.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/image2-3-768x432.jpg 768w, https://de</ns0:summary>
+		<ns0:content type="html" xml:base="https://developer.nvidia.com/blog/how-nvidia-uses-ai-agents-to-streamline-ai-factory-operations/">&lt;img width="768" height="432" src="https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/image2-3-768x432.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/image2-3-768x432.jpg 768w, https://de</ns0:content>
+		<ns0:link rel="replies" type="text/html" href="https://developer.nvidia.com/blog/how-nvidia-uses-ai-agents-to-streamline-ai-factory-operations/#comments" ns1:count="0" />
+		<ns0:link rel="replies" type="application/atom+xml" href="https://developer.nvidia.com/blog/how-nvidia-uses-ai-agents-to-streamline-ai-factory-operations/feed/" ns1:count="0" />
+		<ns1:total>0</ns1:total>
+	</ns0:entry>
+		<ns0:entry>
+		<ns0:author>
+			<ns0:name>Shara Tibken</ns0:name>
+					</ns0:author>
+		<ns0:title type="html">NVIDIA CUDA 13.5 Brings NVIDIA Vera Rubin GA Support</ns0:title>
+		<ns0:link rel="alternate" type="text/html" href="https://developer.nvidia.com/blog/nvidia-cuda-13-5-brings-nvidia-vera-rubin-ga-support/" />
+		<ns0:id>https://developer.nvidia.com/blog/?p=124464</ns0:id>
+		<ns0:updated>2026-11-04T18:46:28Z</ns0:updated>
+		<ns0:published>2026-11-04T18:46:07Z</ns0:published>
+		<ns0:category scheme="https://developer.nvidia.com/blog" term="Developer Tools &amp; Techniques" /><ns0:category scheme="https://developer.nvidia.com/blog" term="CUDA" /><ns0:category scheme="https://developer.nvidia.com/blog" term="CUDA Tile" /><ns0:category scheme="https://developer.nvidia.com/blog" term="cuTile" /><ns0:category scheme="https://developer.nvidia.com/blog" term="featured" /><ns0:category scheme="https://developer.nvidia.com/blog" term="Machine Learning &amp; Artificial Intelligence" /><ns0:category scheme="https://developer.nvidia.com/blog" term="Nsight Tools - Compute" /><ns0:category scheme="https://developer.nvidia.com/blog" term="Python" />		<ns0:summary type="html">&lt;img width="768" height="432" src="https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image1-16-768x432.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image1-16-768x432.png 768w, https://</ns0:summary>
+		<ns0:content type="html" xml:base="https://developer.nvidia.com/blog/nvidia-cuda-13-5-brings-nvidia-vera-rubin-ga-support/">&lt;img width="768" height="432" src="https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image1-16-768x432.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image1-16-768x432.png 768w, https://</ns0:content>
+		<ns0:link rel="replies" type="text/html" href="https://developer.nvidia.com/blog/nvidia-cuda-13-5-brings-nvidia-vera-rubin-ga-support/#comments" ns1:count="0" />
+		<ns0:link rel="replies" type="application/atom+xml" href="https://developer.nvidia.com/blog/nvidia-cuda-13-5-brings-nvidia-vera-rubin-ga-support/feed/" ns1:count="0" />
+		<ns1:total>0</ns1:total>
+	</ns0:entry>
+		<ns0:entry>
+		<ns0:author>
+			<ns0:name>Samuel Ochoa</ns0:name>
+					</ns0:author>
+		<ns0:title type="html">How NVIDIA Factory Operations Blueprint Coordinates AI Agents to Investigate Production Issues</ns0:title>
+		<ns0:link rel="alternate" type="text/html" href="https://developer.nvidia.com/blog/how-nvidia-factory-operations-blueprint-coordinates-ai-agents-to-investigate-production-issues/" />
+		<ns0:id>https://developer.nvidia.com/blog/?p=124039</ns0:id>
+		<ns0:updated>2026-11-02T22:53:01Z</ns0:updated>
+		<ns0:published>2026-11-04T17:00:00Z</ns0:published>
+		<ns0:category scheme="https://developer.nvidia.com/blog" term="Agentic AI / Generative AI" /><ns0:category scheme="https://developer.nvidia.com/blog" term="Computer Vision / Video Analytics" /><ns0:category scheme="https://developer.nvidia.com/blog" term="Edge Computing" /><ns0:category scheme="https://developer.nvidia.com/blog" term="Robotics" /><ns0:category scheme="https://developer.nvidia.com/blog" term="Agent toolkit" /><ns0:category scheme="https://developer.nvidia.com/blog" term="Build AI Agents" /><ns0:category scheme="https://developer.nvidia.com/blog" term="featured" /><ns0:category scheme="https://developer.nvidia.com/blog" term="LLMs" /><ns0:category scheme="https://developer.nvidia.com/blog" term="NeMo" /><ns0:category scheme="https://developer.nvidia.com/blog" term="NemoClaw" />		<ns0:summary type="html">&lt;img width="768" height="432" src="https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/FOC-Blueprint-768x432.png" class="webfeedsFeaturedVisual wp-post-image" alt="Factory Manager Agent illustration surrounded by a humanoid robot, a circuit board, an electronics production line, and automated material handling equipment." style="display: block; margin-bottom: 5px; clear:both;max-width: 1</ns0:summary>
+		<ns0:content type="html" xml:base="https://developer.nvidia.com/blog/how-nvidia-factory-operations-blueprint-coordinates-ai-agents-to-investigate-production-issues/">&lt;img width="768" height="432" src="https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/FOC-Blueprint-768x432.png" class="webfeedsFeaturedVisual wp-post-image" alt="Factory Manager Agent illustration surrounded by a humanoid robot, a circuit board, an electronics production line, and automated material handling equipment." style="display: block; margin-bottom: 5px; clear:both;max-width: 1</ns0:content>
+		<ns0:link rel="replies" type="text/html" href="https://developer.nvidia.com/blog/how-nvidia-factory-operations-blueprint-coordinates-ai-agents-to-investigate-production-issues/#comments" ns1:count="0" />
+		<ns0:link rel="replies" type="application/atom+xml" href="https://developer.nvidia.com/blog/how-nvidia-factory-operations-blueprint-coordinates-ai-agents-to-investigate-production-issues/feed/" ns1:count="0" />
+		<ns1:total>0</ns1:total>
+	</ns0:entry>
+		<ns0:entry>
+		<ns0:author>
+			<ns0:name>Patrick Moorhead</ns0:name>
+					</ns0:author>
+		<ns0:title type="html">Use NVIDIA NeMo to Turn Agent Failures into Tests and Harness Fixes</ns0:title>
+		<ns0:link rel="alternate" type="text/html" href="https://developer.nvidia.com/blog/use-nvidia-nemo-to-turn-agent-failures-into-tests-and-harness-fixes/" />
+		<ns0:id>https://developer.nvidia.com/blog/?p=124389</ns0:id>
+		<ns0:updated>2026-11-04T20:26:19Z</ns0:updated>
+		<ns0:published>2026-11-04T16:00:00Z</ns0:published>
+		<ns0:category scheme="https://developer.nvidia.com/blog" term="Agentic AI / Generative AI" /><ns0:category scheme="https://developer.nvidia.com/blog" term="Developer Tools &amp; Techniques" /><ns0:category scheme="https://developer.nvidia.com/blog" term="Build AI Agents" /><ns0:category scheme="https://developer.nvidia.com/blog" term="LLMs" /><ns0:category scheme="https://developer.nvidia.com/blog" term="NeMo" /><ns0:category scheme="https://developer.nvidia.com/blog" term="NemoClaw" />		<ns0:summary type="html">&lt;img width="768" height="432" src="https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/agentic-workflow-768x432.png" class="webfeedsFeaturedVisual wp-post-image" alt="A glowing network cube connected by green arrows to a developer, code blocks, a checklist, and a rising bar chart." style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" </ns0:summary>
+		<ns0:content type="html" xml:base="https://developer.nvidia.com/blog/use-nvidia-nemo-to-turn-agent-failures-into-tests-and-harness-fixes/">&lt;img width="768" height="432" src="https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/agentic-workflow-768x432.png" class="webfeedsFeaturedVisual wp-post-image" alt="A glowing network cube connected by green arrows to a developer, code blocks, a checklist, and a rising bar chart." style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" </ns0:content>
+		<ns0:link rel="replies" type="text/html" href="https://developer.nvidia.com/blog/use-nvidia-nemo-to-turn-agent-failures-into-tests-and-harness-fixes/#comments" ns1:count="0" />
+		<ns0:link rel="replies" type="application/atom+xml" href="https://developer.nvidia.com/blog/use-nvidia-nemo-to-turn-agent-failures-into-tests-and-harness-fixes/feed/" ns1:count="0" />
+		<ns1:total>0</ns1:total>
+	</ns0:entry>
+		<ns0:entry>
+		<ns0:author>
+			<ns0:name>Elizabeth Goodman</ns0:name>
+					</ns0:author>
+		<ns0:title type="html">Diagnose Distributed AI Workload Failures with NVIDIA Attribution</ns0:title>
+		<ns0:link rel="alternate" type="text/html" href="https://developer.nvidia.com/blog/diagnose-distributed-ai-workload-failures-with-nvidia-attribution/" />
+		<ns0:id>https://developer.nvidia.com/blog/?p=124515</ns0:id>
+		<ns0:updated>2026-11-03T17:47:42Z</ns0:updated>
+		<ns0:published>2026-11-02T23:39:34Z</ns0:published>
+		<ns0:category scheme="https://developer.nvidia.com/blog" term="Data Center / Cloud" /><ns0:category scheme="https://developer.nvidia.com/blog" term="Developer Tools &amp; Techniques" /><ns0:category scheme="https://developer.nvidia.com/blog" term="MLOps" /><ns0:category scheme="https://developer.nvidia.com/blog" term="Accelerated Computing Libraries" /><ns0:category scheme="https://developer.nvidia.com/blog" term="NVL72" />		<ns0:summary type="html">&lt;img width="768" height="432" src="https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/image3-1-768x432.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/image3-1-768x432.jpg 768w, https://de</ns0:summary>
+		<ns0:content type="html" xml:base="https://developer.nvidia.com/blog/diagnose-distributed-ai-workload-failures-with-nvidia-attribution/">&lt;img width="768" height="432" src="https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/image3-1-768x432.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/image3-1-768x432.jpg 768w, https://de</ns0:content>
+		<ns0:link rel="replies" type="text/html" href="https://developer.nvidia.com/blog/diagnose-distributed-ai-workload-failures-with-nvidia-attribution/#comments" ns1:count="0" />
+		<ns0:link rel="replies" type="application/atom+xml" href="https://developer.nvidia.com/blog/diagnose-distributed-ai-workload-failures-with-nvidia-attribution/feed/" ns1:count="0" />
+		<ns1:total>0</ns1:total>
+	</ns0:entry>
+		<ns0:entry>
+		<ns0:author>
+			<ns0:name>Elizabeth Goodman</ns0:name>
+					</ns0:author>
+		<ns0:title type="html">Keep Distributed Training Running with Automated Workload Recovery</ns0:title>
+		<ns0:link rel="alternate" type="text/html" href="https://developer.nvidia.com/blog/keep-distributed-training-running-with-automated-workload-recovery/" />
+		<ns0:id>https://developer.nvidia.com/blog/?p=124491</ns0:id>
+		<ns0:updated>2026-11-03T18:04:03Z</ns0:updated>
+		<ns0:published>2026-11-02T22:43:05Z</ns0:published>
+		<ns0:category scheme="https://developer.nvidia.com/blog" term="Agentic AI / Generative AI" /><ns0:category scheme="https://developer.nvidia.com/blog" term="Data Center / Cloud" /><ns0:category scheme="https://developer.nvidia.com/blog" term="DSX" /><ns0:category scheme="https://developer.nvidia.com/blog" term="DSX AI Factory Platform" /><ns0:category scheme="https://developer.nvidia.com/blog" term="Infrastructure" />		<ns0:summary type="html">&lt;img width="768" height="432" src="https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/image8-768x432.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/image8-768x432.png 768w, https://develo</ns0:summary>
+		<ns0:content type="html" xml:base="https://developer.nvidia.com/blog/keep-distributed-training-running-with-automated-workload-recovery/">&lt;img width="768" height="432" src="https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/image8-768x432.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/image8-768x432.png 768w, https://develo</ns0:content>
+<ns0:link href="https://developer.download.nvidia.com/devblogs/NVIDIA-Recovery-Blog-Demo.mp4" rel="enclosure" length="61034794" type="video/mp4" />
+		<ns0:link rel="replies" type="text/html" href="https://developer.nvidia.com/blog/keep-distributed-training-running-with-automated-workload-recovery/#comments" ns1:count="0" />
+		<ns0:link rel="replies" type="application/atom+xml" href="https://developer.nvidia.com/blog/keep-distributed-training-running-with-automated-workload-recovery/feed/" ns1:count="0" />
+		<ns1:total>0</ns1:total>
+	</ns0:entry>
+		<ns0:entry>
+		<ns0:author>
+			<ns0:name>Shara Tibken</ns0:name>
+					</ns0:author>
+		<ns0:title type="html">Making Kubernetes AI-Ready for NVIDIA Vera Rubin on Day One</ns0:title>
+		<ns0:link rel="alternate" type="text/html" href="https://developer.nvidia.com/blog/making-kubernetes-ai-ready-for-nvidia-vera-rubin-on-day-one/" />
+		<ns0:id>https://developer.nvidia.com/blog/?p=124438</ns0:id>
+		<ns0:updated>2026-10-30T22:24:21Z</ns0:updated>
+		<ns0:published>2026-11-02T18:00:00Z</ns0:published>
+		<ns0:category scheme="https://developer.nvidia.com/blog" term="Agentic AI / Generative AI" /><ns0:category scheme="https://developer.nvidia.com/blog" term="Data Center / Cloud" /><ns0:category scheme="https://developer.nvidia.com/blog" term="AI Factory" /><ns0:category scheme="https://developer.nvidia.com/blog" term="BlueField DPU" /><ns0:category scheme="https://developer.nvidia.com/blog" term="Cloud Services" /><ns0:category scheme="https://developer.nvidia.com/blog" term="ConnectX" /><ns0:category scheme="https://developer.nvidia.com/blog" term="DSX" /><ns0:category scheme="https://developer.nvidia.com/blog" term="DSX AI Factory Platform" /><ns0:category scheme="https://developer.nvidia.com/blog" term="GB200" /><ns0:category scheme="https://developer.nvidia.com/blog" term="Infrastructure" /><ns0:category scheme="https://developer.nvidia.com/blog" term="Kubernetes" /><ns0:category scheme="https://developer.nvidia.com/blog" term="Machine Learning &amp; Artificial Intelligence" /><ns0:category scheme="https://developer.nvidia.com/blog" term="NVLink" /><ns0:category scheme="https://developer.nvidia.com/blog" term="Rubin GPU" /><ns0:category scheme="https://developer.nvidia.com/blog" term="Vera Rubin" /><ns0:category scheme="https://developer.nvidia.com/blog" term="Vera Rubin NVL72" />		<ns0:summary type="html">&lt;img width="768" height="432" src="https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/runai-tech-blog-compute-domains-1920x1080-4504000-1024x576-png-768x432.webp" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://developer-blogs.nvidia.com/wp-conten</ns0:summary>
+		<ns0:content type="html" xml:base="https://developer.nvidia.com/blog/making-kubernetes-ai-ready-for-nvidia-vera-rubin-on-day-one/">&lt;img width="768" height="432" src="https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/runai-tech-blog-compute-domains-1920x1080-4504000-1024x576-png-768x432.webp" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://developer-blogs.nvidia.com/wp-conten</ns0:content>
+		<ns0:link rel="replies" type="text/html" href="https://developer.nvidia.com/blog/making-kubernetes-ai-ready-for-nvidia-vera-rubin-on-day-one/#comments" ns1:count="0" />
+		<ns0:link rel="replies" type="application/atom+xml" href="https://developer.nvidia.com/blog/making-kubernetes-ai-ready-for-nvidia-vera-rubin-on-day-one/feed/" ns1:count="0" />
+		<ns1:total>0</ns1:total>
+	</ns0:entry>
+		<ns0:entry>
+		<ns0:author>
+			<ns0:name>Elizabeth Goodman</ns0:name>
+					</ns0:author>
+		<ns0:title type="html">Build World Models for Interactive Simulation with NVIDIA Cosmos</ns0:title>
+		<ns0:link rel="alternate" type="text/html" href="https://developer.nvidia.com/blog/build-world-models-for-interactive-simulation-with-nvidia-cosmos/" />
+		<ns0:id>https://developer.nvidia.com/blog/?p=124402</ns0:id>
+		<ns0:updated>2026-11-02T17:40:03Z</ns0:updated>
+		<ns0:published>2026-11-02T17:00:00Z</ns0:published>
+		<ns0:category scheme="https://developer.nvidia.com/blog" term="Agentic AI / Generative AI" /><ns0:category scheme="https://developer.nvidia.com/blog" term="Robotics" /><ns0:category scheme="https://developer.nvidia.com/blog" term="Simulation / Modeling / Design" /><ns0:category scheme="https://developer.nvidia.com/blog" term="autonomous vehicles" /><ns0:category scheme="https://developer.nvidia.com/blog" term="Cosmos" /><ns0:category scheme="https://developer.nvidia.com/blog" term="Metropolis" /><ns0:category scheme="https://developer.nvidia.com/blog" term="Physical AI" /><ns0:category scheme="https://developer.nvidia.com/blog" term="Robotics Simulation" /><ns0:category scheme="https://developer.nvidia.com/blog" term="VLMs" />		<ns0:summary type="html">&lt;img width="600" height="338" src="https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/cosmos-framework-tech-blog-600x338-5784057.webp" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/cosmos-fra</ns0:summary>
+		<ns0:content type="html" xml:base="https://developer.nvidia.com/blog/build-world-models-for-interactive-simulation-with-nvidia-cosmos/">&lt;img width="600" height="338" src="https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/cosmos-framework-tech-blog-600x338-5784057.webp" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/cosmos-fra</ns0:content>
+<ns0:link href="https://developer.download.nvidia.com/devblogs/mads94-093-i2v-surround-grid-v5-master.mp4" rel="enclosure" length="50671624" type="video/mp4" />
+<ns0:link href="https://developer.download.nvidia.com/devblogs/transfer-layout-under60mb.mp4" rel="enclosure" length="58479388" type="video/mp4" />
+<ns0:link href="https://developer.download.nvidia.com/devblogs/transfer-depth-grid.mp4" rel="enclosure" length="6633905" type="video/mp4" />
+		<ns0:link rel="replies" type="text/html" href="https://developer.nvidia.com/blog/build-world-models-for-interactive-simulation-with-nvidia-cosmos/#comments" ns1:count="0" />
+		<ns0:link rel="replies" type="application/atom+xml" href="https://developer.nvidia.com/blog/build-world-models-for-interactive-simulation-with-nvidia-cosmos/feed/" ns1:count="0" />
+		<ns1:total>0</ns1:total>
+	</ns0:entry>
+		<ns0:entry>
+		<ns0:author>
+			<ns0:name>Alon Lavian</ns0:name>
+					</ns0:author>
+		<ns0:title type="html">Support New AI Frameworks Faster Using NVIDIA Workload Map</ns0:title>
+		<ns0:link rel="alternate" type="text/html" href="https://developer.nvidia.com/blog/support-new-ai-frameworks-faster-using-nvidia-workload-map/" />
+		<ns0:id>https://developer.nvidia.com/blog/?p=124270</ns0:id>
+		<ns0:updated>2026-10-28T21:46:21Z</ns0:updated>
+		<ns0:published>2026-11-02T16:00:00Z</ns0:published>
+		<ns0:category scheme="https://developer.nvidia.com/blog" term="Data Center / Cloud" /><ns0:category scheme="https://developer.nvidia.com/blog" term="Developer Tools &amp; Techniques" /><ns0:category scheme="https://developer.nvidia.com/blog" term="MLOps" /><ns0:category scheme="https://developer.nvidia.com/blog" term="DSX AI Factory Platform" /><ns0:category scheme="https://developer.nvidia.com/blog" term="Kubernetes" />		<ns0:summary type="html">&lt;img width="768" height="431" src="https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/AdobeStock_1f14ed65-d635-4fac-a472-570887464326-e1793050942456-768x431.webp" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://developer-blogs.nvidia.com/wp-conten</ns0:summary>
+		<ns0:content type="html" xml:base="https://developer.nvidia.com/blog/support-new-ai-frameworks-faster-using-nvidia-workload-map/">&lt;img width="768" height="431" src="https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/AdobeStock_1f14ed65-d635-4fac-a472-570887464326-e1793050942456-768x431.webp" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://developer-blogs.nvidia.com/wp-conten</ns0:content>
+		<ns0:link rel="replies" type="text/html" href="https://developer.nvidia.com/blog/support-new-ai-frameworks-faster-using-nvidia-workload-map/#comments" ns1:count="0" />
+		<ns0:link rel="replies" type="application/atom+xml" href="https://developer.nvidia.com/blog/support-new-ai-frameworks-faster-using-nvidia-workload-map/feed/" ns1:count="0" />
+		<ns1:total>0</ns1:total>
+	</ns0:entry>
+		<ns0:entry>
+		<ns0:author>
+			<ns0:name>Stefan Schimanski</ns0:name>
+					</ns0:author>
+		<ns0:title type="html">Build a Validated Kubernetes Runtime for NVIDIA Dynamo</ns0:title>
+		<ns0:link rel="alternate" type="text/html" href="https://developer.nvidia.com/blog/build-a-validated-kubernetes-runtime-for-nvidia-dynamo/" />
+		<ns0:id>https://developer.nvidia.com/blog/?p=124424</ns0:id>
+		<ns0:updated>2026-10-30T22:52:36Z</ns0:updated>
+		<ns0:published>2026-10-30T21:35:31Z</ns0:published>
+		<ns0:category scheme="https://developer.nvidia.com/blog" term="Agentic AI / Generative AI" /><ns0:category scheme="https://developer.nvidia.com/blog" term="Data Center / Cloud" /><ns0:category scheme="https://developer.nvidia.com/blog" term="Developer Tools &amp; Techniques" /><ns0:category scheme="https://developer.nvidia.com/blog" term="MLOps" /><ns0:category scheme="https://developer.nvidia.com/blog" term="Cloud Services" /><ns0:category scheme="https://developer.nvidia.com/blog" term="DSX" /><ns0:category scheme="https://developer.nvidia.com/blog" term="Dynamo" /><ns0:category scheme="https://developer.nvidia.com/blog" term="Kubernetes" /><ns0:category scheme="https://developer.nvidia.com/blog" term="NVL72" /><ns0:category scheme="https://developer.nvidia.com/blog" term="NVLink" /><ns0:category scheme="https://developer.nvidia.com/blog" term="vLLM" />		<ns0:summary type="html">&lt;img width="768" height="432" src="https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/inline-image-1-1-768x432.png" class="webfeedsFeaturedVisual wp-post-image" alt="Glowing green AI network illustration in front of server racks." style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://developer-blogs.nvid</ns0:summary>
+		<ns0:content type="html" xml:base="https://developer.nvidia.com/blog/build-a-validated-kubernetes-runtime-for-nvidia-dynamo/">&lt;img width="768" height="432" src="https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/inline-image-1-1-768x432.png" class="webfeedsFeaturedVisual wp-post-image" alt="Glowing green AI network illustration in front of server racks." style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://developer-blogs.nvid</ns0:content>
+		<ns0:link rel="replies" type="text/html" href="https://developer.nvidia.com/blog/build-a-validated-kubernetes-runtime-for-nvidia-dynamo/#comments" ns1:count="0" />
+		<ns0:link rel="replies" type="application/atom+xml" href="https://developer.nvidia.com/blog/build-a-validated-kubernetes-runtime-for-nvidia-dynamo/feed/" ns1:count="0" />
+		<ns1:total>0</ns1:total>
+	</ns0:entry>
+		<ns0:entry>
+		<ns0:author>
+			<ns0:name>Shara Tibken</ns0:name>
+					</ns0:author>
+		<ns0:title type="html">Run AI Models for Edge Application Development with Just a Few Commands</ns0:title>
+		<ns0:link rel="alternate" type="text/html" href="https://developer.nvidia.com/blog/run-ai-models-for-edge-application-development-with-just-a-few-commands/" />
+		<ns0:id>https://developer.nvidia.com/blog/?p=124453</ns0:id>
+		<ns0:updated>2026-11-06T17:47:24Z</ns0:updated>
+		<ns0:published>2026-10-30T20:33:18Z</ns0:published>
+		<ns0:category scheme="https://developer.nvidia.com/blog" term="Agentic AI / Generative AI" /><ns0:category scheme="https://developer.nvidia.com/blog" term="Developer Tools &amp; Techniques" /><ns0:category scheme="https://developer.nvidia.com/blog" term="Edge Computing" /><ns0:category scheme="https://developer.nvidia.com/blog" term="AI Inference" /><ns0:category scheme="https://developer.nvidia.com/blog" term="DGX Spark" /><ns0:category scheme="https://developer.nvidia.com/blog" term="LLMs" /><ns0:category scheme="https://developer.nvidia.com/blog" term="Local AI" /><ns0:category scheme="https://developer.nvidia.com/blog" term="Machine Learning &amp; Artificial Intelligence" /><ns0:category scheme="https://developer.nvidia.com/blog" term="Nemotron" /><ns0:category scheme="https://developer.nvidia.com/blog" term="TensorRT" /><ns0:category scheme="https://developer.nvidia.com/blog" term="Tutorial" />		<ns0:summary type="html">&lt;img width="768" height="432" src="https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/IMG_8351-768x432.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/IMG_8351-768x432.png 768w, https://de</ns0:summary>
+		<ns0:content type="html" xml:base="https://developer.nvidia.com/blog/run-ai-models-for-edge-application-development-with-just-a-few-commands/">&lt;img width="768" height="432" src="https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/IMG_8351-768x432.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/IMG_8351-768x432.png 768w, https://de</ns0:content>
+		<ns0:link rel="replies" type="text/html" href="https://developer.nvidia.com/blog/run-ai-models-for-edge-application-development-with-just-a-few-commands/#comments" ns1:count="0" />
+		<ns0:link rel="replies" type="application/atom+xml" href="https://developer.nvidia.com/blog/run-ai-models-for-edge-application-development-with-just-a-few-commands/feed/" ns1:count="0" />
+		<ns1:total>0</ns1:total>
+	</ns0:entry>
+		<ns0:entry>
+		<ns0:author>
+			<ns0:name>Nicola Sessions</ns0:name>
+					</ns0:author>
+		<ns0:title type="html">Build Specialized Agents on a Stack You Control with NVIDIA NemoClaw</ns0:title>
+		<ns0:link rel="alternate" type="text/html" href="https://developer.nvidia.com/blog/build-specialized-agents-on-a-stack-you-control-with-nvidia-nemoclaw/" />
+		<ns0:id>https://developer.nvidia.com/blog/?p=124341</ns0:id>
+		<ns0:updated>2026-10-30T15:11:46Z</ns0:updated>
+		<ns0:published>2026-10-30T16:00:00Z</ns0:published>
+		<ns0:category scheme="https://developer.nvidia.com/blog" term="Agentic AI / Generative AI" /><ns0:category scheme="https://developer.nvidia.com/blog" term="Developer Tools &amp; Techniques" /><ns0:category scheme="https://developer.nvidia.com/blog" term="AI Agent" /><ns0:category scheme="https://developer.nvidia.com/blog" term="Build AI Agents" /><ns0:category scheme="https://developer.nvidia.com/blog" term="LLMs" /><ns0:category scheme="https://developer.nvidia.com/blog" term="NemoClaw" /><ns0:category scheme="https://developer.nvidia.com/blog" term="Nemotron" /><ns0:category scheme="https://developer.nvidia.com/blog" term="OpenShell" />		<ns0:summary type="html">&lt;img width="768" height="432" src="https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/nemoclaw-featured-768x432.png" class="webfeedsFeaturedVisual wp-post-image" alt="Orange lobster character holding a green shield with a padlock beside a computer displaying code and an NVIDIA DGX Spark on a desk." style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail=""</ns0:summary>
+		<ns0:content type="html" xml:base="https://developer.nvidia.com/blog/build-specialized-agents-on-a-stack-you-control-with-nvidia-nemoclaw/">&lt;img width="768" height="432" src="https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/nemoclaw-featured-768x432.png" class="webfeedsFeaturedVisual wp-post-image" alt="Orange lobster character holding a green shield with a padlock beside a computer displaying code and an NVIDIA DGX Spark on a desk." style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail=""</ns0:content>
+		<ns0:link rel="replies" type="text/html" href="https://developer.nvidia.com/blog/build-specialized-agents-on-a-stack-you-control-with-nvidia-nemoclaw/#comments" ns1:count="0" />
+		<ns0:link rel="replies" type="application/atom+xml" href="https://developer.nvidia.com/blog/build-specialized-agents-on-a-stack-you-control-with-nvidia-nemoclaw/feed/" ns1:count="0" />
+		<ns1:total>0</ns1:total>
+	</ns0:entry>
+		<ns0:entry>
+		<ns0:author>
+			<ns0:name>Phil Carns</ns0:name>
+					</ns0:author>
+		<ns0:title type="html">How to Check and Configure NVIDIA GPUDirect Storage for Your Platform</ns0:title>
+		<ns0:link rel="alternate" type="text/html" href="https://developer.nvidia.com/blog/how-to-check-and-configure-nvidia-gpudirect-storage-for-your-platform/" />
+		<ns0:id>https://developer.nvidia.com/blog/?p=124327</ns0:id>
+		<ns0:updated>2026-10-30T15:09:18Z</ns0:updated>
+		<ns0:published>2026-10-30T15:01:36Z</ns0:published>
+		<ns0:category scheme="https://developer.nvidia.com/blog" term="Data Center / Cloud" /><ns0:category scheme="https://developer.nvidia.com/blog" term="Developer Tools &amp; Techniques" /><ns0:category scheme="https://developer.nvidia.com/blog" term="Accelerated Computing Libraries" /><ns0:category scheme="https://developer.nvidia.com/blog" term="Data Storage" /><ns0:category scheme="https://developer.nvidia.com/blog" term="GPUDirect" /><ns0:category scheme="https://developer.nvidia.com/blog" term="Magnum IO" />		<ns0:summary type="html">&lt;img width="768" height="432" src="https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/inline-image-1-e1793140900880-768x432.webp" class="webfeedsFeaturedVisual wp-post-image" alt="Data center server racks with network cables connecting rack-mounted equipment." style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset</ns0:summary>
+		<ns0:content type="html" xml:base="https://developer.nvidia.com/blog/how-to-check-and-configure-nvidia-gpudirect-storage-for-your-platform/">&lt;img width="768" height="432" src="https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/inline-image-1-e1793140900880-768x432.webp" class="webfeedsFeaturedVisual wp-post-image" alt="Data center server racks with network cables connecting rack-mounted equipment." style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset</ns0:content>
+		<ns0:link rel="replies" type="text/html" href="https://developer.nvidia.com/blog/how-to-check-and-configure-nvidia-gpudirect-storage-for-your-platform/#comments" ns1:count="0" />
+		<ns0:link rel="replies" type="application/atom+xml" href="https://developer.nvidia.com/blog/how-to-check-and-configure-nvidia-gpudirect-storage-for-your-platform/feed/" ns1:count="0" />
+		<ns1:total>0</ns1:total>
+	</ns0:entry>
+		<ns0:entry>
+		<ns0:author>
+			<ns0:name>Anoushka Bhutani</ns0:name>
+					</ns0:author>
+		<ns0:title type="html">Unlocking Tensor Core Performance for Machine Learning Interatomic Potentials</ns0:title>
+		<ns0:link rel="alternate" type="text/html" href="https://developer.nvidia.com/blog/unlocking-tensor-core-performance-for-machine-learning-interatomic-potentials/" />
+		<ns0:id>https://developer.nvidia.com/blog/?p=124309</ns0:id>
+		<ns0:updated>2026-10-29T00:07:21Z</ns0:updated>
+		<ns0:published>2026-10-29T15:00:00Z</ns0:published>
+		<ns0:category scheme="https://developer.nvidia.com/blog" term="Developer Tools &amp; Techniques" /><ns0:category scheme="https://developer.nvidia.com/blog" term="Edge Computing" /><ns0:category scheme="https://developer.nvidia.com/blog" term="Simulation / Modeling / Design" /><ns0:category scheme="https://developer.nvidia.com/blog" term="ALCHEMI" /><ns0:category scheme="https://developer.nvidia.com/blog" term="Blackwell" /><ns0:category scheme="https://developer.nvidia.com/blog" term="Computational Chemistry / Materials Science" /><ns0:category scheme="https://developer.nvidia.com/blog" term="cuBLAS" /><ns0:category scheme="https://developer.nvidia.com/blog" term="CUDA" /><ns0:category scheme="https://developer.nvidia.com/blog" term="CUDA-X" /><ns0:category scheme="https://developer.nvidia.com/blog" term="featured" /><ns0:category scheme="https://developer.nvidia.com/blog" term="Hardware / Semiconductor" /><ns0:category scheme="https://developer.nvidia.com/blog" term="HPC / Scientific Computing" />		<ns0:summary type="html">&lt;img width="768" height="432" src="https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/mlip-tensor-core-featured-768x432.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Colorful matrix-like blocks transition into a lattice of spheres, illustrating computation for atomistic simulation." style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decodi</ns0:summary>
+		<ns0:content type="html" xml:base="https://developer.nvidia.com/blog/unlocking-tensor-core-performance-for-machine-learning-interatomic-potentials/">&lt;img width="768" height="432" src="https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/mlip-tensor-core-featured-768x432.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Colorful matrix-like blocks transition into a lattice of spheres, illustrating computation for atomistic simulation." style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decodi</ns0:content>
+		<ns0:link rel="replies" type="text/html" href="https://developer.nvidia.com/blog/unlocking-tensor-core-performance-for-machine-learning-interatomic-potentials/#comments" ns1:count="0" />
+		<ns0:link rel="replies" type="application/atom+xml" href="https://developer.nvidia.com/blog/unlocking-tensor-core-performance-for-machine-learning-interatomic-potentials/feed/" ns1:count="0" />
+		<ns1:total>0</ns1:total>
+	</ns0:entry>
+		<ns0:entry>
+		<ns0:author>
+			<ns0:name>Elizabeth Goodman</ns0:name>
+					</ns0:author>
+		<ns0:title type="html">Memory-Enforced GPU Sharing in Kubernetes with NVIDIA CUDA 13.4</ns0:title>
+		<ns0:link rel="alternate" type="text/html" href="https://developer.nvidia.com/blog/memory-enforced-gpu-sharing-in-kubernetes-with-nvidia-cuda-13-4/" />
+		<ns0:id>https://developer.nvidia.com/blog/?p=124247</ns0:id>
+		<ns0:updated>2026-10-27T20:50:45Z</ns0:updated>
+		<ns0:published>2026-10-27T20:50:39Z</ns0:published>
+		<ns0:category scheme="https://developer.nvidia.com/blog" term="Data Center / Cloud" /><ns0:category scheme="https://developer.nvidia.com/blog" term="Developer Tools &amp; Techniques" /><ns0:category scheme="https://developer.nvidia.com/blog" term="MLOps" /><ns0:category scheme="https://developer.nvidia.com/blog" term="Cloud Networking" /><ns0:category scheme="https://developer.nvidia.com/blog" term="Cloud Services" /><ns0:category scheme="https://developer.nvidia.com/blog" term="CUDA" /><ns0:category scheme="https://developer.nvidia.com/blog" term="DSX" /><ns0:category scheme="https://developer.nvidia.com/blog" term="Kubernetes" /><ns0:category scheme="https://developer.nvidia.com/blog" term="Open Source" /><ns0:category scheme="https://developer.nvidia.com/blog" term="Software-Defined Data Center" />		<ns0:summary type="html">&lt;img width="768" height="432" src="https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/CUDAMemoryKV-768x432.webp" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/CUDAMemoryKV-768x432.webp 768w, </ns0:summary>
+		<ns0:content type="html" xml:base="https://developer.nvidia.com/blog/memory-enforced-gpu-sharing-in-kubernetes-with-nvidia-cuda-13-4/">&lt;img width="768" height="432" src="https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/CUDAMemoryKV-768x432.webp" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/CUDAMemoryKV-768x432.webp 768w, </ns0:content>
+		<ns0:link rel="replies" type="text/html" href="https://developer.nvidia.com/blog/memory-enforced-gpu-sharing-in-kubernetes-with-nvidia-cuda-13-4/#comments" ns1:count="0" />
+		<ns0:link rel="replies" type="application/atom+xml" href="https://developer.nvidia.com/blog/memory-enforced-gpu-sharing-in-kubernetes-with-nvidia-cuda-13-4/feed/" ns1:count="0" />
+		<ns1:total>0</ns1:total>
+	</ns0:entry>
+		<ns0:entry>
+		<ns0:author>
+			<ns0:name>Elizabeth Goodman</ns0:name>
+					</ns0:author>
+		<ns0:title type="html">NVIDIA RTX Spark Powers Neural Rendering and AI Characters in Games</ns0:title>
+		<ns0:link rel="alternate" type="text/html" href="https://developer.nvidia.com/blog/nvidia-rtx-spark-powers-neural-rendering-and-ai-characters-in-games/" />
+		<ns0:id>https://developer.nvidia.com/blog/?p=124273</ns0:id>
+		<ns0:updated>2026-10-28T14:12:08Z</ns0:updated>
+		<ns0:published>2026-10-27T17:00:00Z</ns0:published>
+		<ns0:category scheme="https://developer.nvidia.com/blog" term="Content Creation / Rendering" /><ns0:category scheme="https://developer.nvidia.com/blog" term="ACE" /><ns0:category scheme="https://developer.nvidia.com/blog" term="DGX Spark" /><ns0:category scheme="https://developer.nvidia.com/blog" term="DLSS" /><ns0:category scheme="https://developer.nvidia.com/blog" term="Nsight Tools - Graphics" /><ns0:category scheme="https://developer.nvidia.com/blog" term="RTX Kit" /><ns0:category scheme="https://developer.nvidia.com/blog" term="Unreal Engine" />		<ns0:summary type="html">&lt;img width="768" height="432" src="https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image6-2-768x432.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image6-2-768x432.png 768w, https://de</ns0:summary>
+		<ns0:content type="html" xml:base="https://developer.nvidia.com/blog/nvidia-rtx-spark-powers-neural-rendering-and-ai-characters-in-games/">&lt;img width="768" height="432" src="https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image6-2-768x432.png" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image6-2-768x432.png 768w, https://de</ns0:content>
+		<ns0:link rel="replies" type="text/html" href="https://developer.nvidia.com/blog/nvidia-rtx-spark-powers-neural-rendering-and-ai-characters-in-games/#comments" ns1:count="0" />
+		<ns0:link rel="replies" type="application/atom+xml" href="https://developer.nvidia.com/blog/nvidia-rtx-spark-powers-neural-rendering-and-ai-characters-in-games/feed/" ns1:count="0" />
+		<ns1:total>0</ns1:total>
+	</ns0:entry>
+		</ns0:feed>

@@ -1,0 +1,140 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <ns0:id>tag:github.com,2008:https://github.com/langgenius/dify/releases</ns0:id>
+  <ns0:link type="text/html" rel="alternate" href="https://github.com/langgenius/dify/releases" />
+  <ns0:link type="application/atom+xml" rel="self" href="https://github.com/langgenius/dify/releases.atom" />
+  <ns0:title>Release notes from dify</ns0:title>
+  <ns0:updated>2026-11-04T07:20:24Z</ns0:updated>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/626805178/1.19.0</ns0:id>
+    <ns0:updated>2026-11-04T07:37:34Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/langgenius/dify/releases/tag/1.19.0" />
+    <ns0:title>v1.19.0 - Trace Your Workflows, Layer by Layer</ns0:title>
+    <ns0:content type="html">&lt;p&gt;&lt;strong&gt;Dify 1.19.0 brings nested workflow tracing to your observability tools.&lt;/strong&gt; Follow a workflow into the Workflow Tools it calls, inspect the steps inside each invocation, and keep the LLM context alongside the execution tree.&lt;/p&gt;
+&lt;p&gt;This release also makes Workflow Tools portable with App packages, adds Skill Hub automation, and makes Agent files easier to upload and preview. The bu</ns0:content>
+    <ns0:author>
+      <ns0:name>laipz8200</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/16485841?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/626805178/1.18.0</ns0:id>
+    <ns0:updated>2026-10-23T06:35:41Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/langgenius/dify/releases/tag/1.18.0" />
+    <ns0:title>v1.18.0 — Smarter Agent Routing, Portable Apps, Deeper Workflow Visibility</ns0:title>
+    <ns0:content type="html">&lt;p&gt;Dify 1.18.0 brings &lt;strong&gt;Agents that route workflows&lt;/strong&gt;, &lt;strong&gt;portable app packages&lt;/strong&gt;, &lt;strong&gt;deeper visibility into nested workflow runs&lt;/strong&gt;, and the opt-in &lt;strong&gt;Agent Knowledge Base&lt;/strong&gt; experience. OpenAPI and the new difyctl expand how you build and manage apps from the command line.&lt;/p&gt;
+&lt;div class="markdown-alert markdown-alert-important"&gt;&lt;p class="markdown-a</ns0:content>
+    <ns0:author>
+      <ns0:name>laipz8200</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/16485841?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/626805178/1.17.1</ns0:id>
+    <ns0:updated>2026-09-10T10:17:09Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/langgenius/dify/releases/tag/1.17.1" />
+    <ns0:title>v1.17.1 - Bug Fixes and Improvements</ns0:title>
+    <ns0:content type="html">&lt;div class="markdown-alert markdown-alert-warning"&gt;&lt;p class="markdown-alert-title"&gt;&lt;svg data-component="Octicon" class="octicon octicon-alert mr-2" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"&gt;&lt;path d="M6.457 1.047c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0 1 14.082 15H1.918a1.75 1.75 0 0 1-1.543-2.575Zm1.763.707a.25.25 0 0 0-.44 0L1.698 13.132a.25.25 </ns0:content>
+    <ns0:author>
+      <ns0:name>wylswz</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/12965714?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/626805178/1.17.0</ns0:id>
+    <ns0:updated>2026-09-01T15:49:46Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/langgenius/dify/releases/tag/1.17.0" />
+    <ns0:title>v1.17.0</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;New Features&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Agent: E2B Sandbox, Home Snapshots, and Skill Management&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;E2B sandbox backend&lt;/strong&gt;: agent shell/code execution can now run on &lt;a href="https://e2b.dev" rel="nofollow"&gt;E2B&lt;/a&gt; cloud sandboxes in addition to the local sandbox. Select the backend with &lt;code&gt;DIFY_AGENT_RUNTIME_BACKEND&lt;/code&gt;; a new &lt;code&gt;docker-compose.e2b.yaml&lt;/code&gt; s</ns0:content>
+    <ns0:author>
+      <ns0:name>wylswz</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/12965714?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/626805178/1.16.1</ns0:id>
+    <ns0:updated>2026-09-01T15:59:51Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/langgenius/dify/releases/tag/1.16.1" />
+    <ns0:title>v1.16.1 - Bug Fixes and Security Enhancements</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;h3&gt;New Features&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Tool Multi-Select Input&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Workflow tool nodes now support multi-select dropdown inputs, allowing users to choose multiple values from a predefined list when configuring tool parameters. (&lt;a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4935910649" data-permission-text="Title is private" </ns0:content>
+    <ns0:author>
+      <ns0:name>wylswz</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/12965714?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/626805178/1.16.0</ns0:id>
+    <ns0:updated>2026-09-01T16:00:43Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/langgenius/dify/releases/tag/1.16.0" />
+    <ns0:title>v1.16.0</ns0:title>
+    <ns0:content type="html">&lt;h1&gt;Introducing Dify Agent &lt;em&gt;(Beta)&lt;/em&gt;: A New Agent Experience in Dify&lt;/h1&gt;
+&lt;div class="markdown-alert markdown-alert-warning"&gt;&lt;p class="markdown-alert-title"&gt;&lt;svg data-component="Octicon" class="octicon octicon-alert mr-2" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"&gt;&lt;path d="M6.457 1.047c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0 1 14.082 15H1.91</ns0:content>
+    <ns0:author>
+      <ns0:name>wylswz</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/12965714?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/626805178/1.16.0-rc1</ns0:id>
+    <ns0:updated>2026-07-09T14:06:30Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/langgenius/dify/releases/tag/1.16.0-rc1" />
+    <ns0:title>v1.16.0-rc1</ns0:title>
+    <ns0:content type="html">&lt;h1&gt;Introducing Dify Agent &lt;em&gt;(Experimental)&lt;/em&gt;: A New Agent Experience in Dify&lt;/h1&gt;
+&lt;div class="markdown-alert markdown-alert-warning"&gt;&lt;p class="markdown-alert-title"&gt;&lt;svg data-component="Octicon" class="octicon octicon-alert mr-2" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"&gt;&lt;path d="M6.457 1.047c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0 1 14.082</ns0:content>
+    <ns0:author>
+      <ns0:name>QuantumGhost</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/2939865?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/626805178/1.15.0</ns0:id>
+    <ns0:updated>2026-09-01T16:00:04Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/langgenius/dify/releases/tag/1.15.0" />
+    <ns0:title>1.15.0</ns0:title>
+    <ns0:content type="html">&lt;h1&gt;Dify 1.15.0 Release Note&lt;/h1&gt;
+&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;h3&gt;UX &amp;amp; UI Enhancements&lt;/h3&gt;
+&lt;a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/12965714/613113289-c3ac7394-2ccf-4a66-873a-b7224a16897a.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTQyND</ns0:content>
+    <ns0:author>
+      <ns0:name>wylswz</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/12965714?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/626805178/1.14.2</ns0:id>
+    <ns0:updated>2026-05-19T05:34:25Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/langgenius/dify/releases/tag/1.14.2" />
+    <ns0:title>v1.14.2 - Security fixes, agent groundwork, workflow reliability, and deployment updates</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;🚀 What's New in v1.14.2?&lt;/h2&gt;
+&lt;p&gt;v1.14.2 is a patch release focused on security hardening, workflow and knowledge reliability, observability fixes, agent groundwork, and deployment/runtime tuning after v1.14.1.&lt;/p&gt;
+&lt;h3&gt;🔐 Security and administration&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Tenant-scoped sensitive endpoints&lt;/strong&gt; — strengthened tenant isolation for app trace-config endpoints and FilePreview tex</ns0:content>
+    <ns0:author>
+      <ns0:name>laipz8200</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/16485841?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/626805178/1.14.1</ns0:id>
+    <ns0:updated>2026-05-12T08:19:23Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/langgenius/dify/releases/tag/1.14.1" />
+    <ns0:title>v1.14.1 - Security hardening, workflow stability, and cleaner self-hosted deployments</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;🚀 What's New in v1.14.1?&lt;/h2&gt;
+&lt;p&gt;v1.14.1 is a patch release focused on security hardening, workflow and knowledge-base stability, deployment cleanup, and continued UI platform migration after v1.14.0.&lt;/p&gt;
+&lt;h3&gt;🔐 Security&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Self-hosted &lt;code&gt;SECRET_KEY&lt;/code&gt; hardening&lt;/strong&gt; — Docker deployments no longer rely on a public default key. When &lt;code&gt;SECRET_KEY&lt;/code&gt; is left e</ns0:content>
+    <ns0:author>
+      <ns0:name>laipz8200</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/16485841?s=60&amp;v=4" />
+  </ns0:entry>
+</ns0:feed>

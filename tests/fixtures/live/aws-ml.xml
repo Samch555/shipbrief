@@ -1,0 +1,371 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://purl.org/rss/1.0/modules/syndication/" xmlns:ns3="http://purl.org/rss/1.0/modules/content/" version="2.0">
+
+<channel>
+	<title>Artificial Intelligence</title>
+	<ns0:link href="https://aws.amazon.com/blogs/machine-learning/feed/" rel="self" type="application/rss+xml" />
+	<link>https://aws.amazon.com/blogs/machine-learning/</link>
+	<description>Official Machine Learning Blog of Amazon Web Services</description>
+	<lastBuildDate>Fri, 06 Nov 2026 18:01:00 +0000</lastBuildDate>
+	<language>en-US</language>
+	<ns1:updatePeriod>
+	hourly	</ns1:updatePeriod>
+	<ns1:updateFrequency>
+	1	</ns1:updateFrequency>
+	
+	<item>
+		<title>SageMaker Inference now supports Multi-Instance GPU to maximize GPU utilization for model endpoints</title>
+		<link>https://aws.amazon.com/blogs/machine-learning/sagemaker-inference-now-supports-multi-instance-gpu-to-maximize-gpu-utilization-for-model-endpoints/</link>
+		
+		<dc:creator>Shantanu Tripathi</dc:creator>
+		<pubDate>Fri, 06 Nov 2026 18:01:00 +0000</pubDate>
+				<category>Amazon SageMaker AI</category>
+		<category>Announcements</category>
+		<category>Intermediate (200)</category>
+		<guid isPermaLink="false">45834970ac5a8ce39a39de22bbc2ae33f7618139</guid>
+
+					<description>Amazon SageMaker Inference now supports GPU partitioning with NVIDIA Multi-Instance GPU (MIG), which divides one GPU into hardware-isolated partitions so you can run a different model in each or take a right-sized fraction of a newer accelerator. This post shows how two optional API fields place one model per partition, and what we measured against a whole older GPU.</description>
+										<ns3:encoded>&lt;p&gt;When you deploy a model to a GPU endpoint, the smallest unit of GPU you can request is one whole accelerator.&lt;/p&gt; 
+&lt;p&gt;This constraint can cost you twice. First, you can’t host more models on an instance than it has accelerators. An &lt;code&gt;ml.p4d.24xlarge&lt;/code&gt; has eight A100s, so it holds eight models, whether each one needs 40 GB or 14 GB. Second, and less obvious, it makes every deployment co</ns3:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Taxonomy of agentic primitives in Amazon Quick</title>
+		<link>https://aws.amazon.com/blogs/machine-learning/taxonomy-of-agentic-primitives-in-amazon-quick/</link>
+		
+		<dc:creator>Thomas Delteil</dc:creator>
+		<pubDate>Fri, 06 Nov 2026 17:34:45 +0000</pubDate>
+				<category>Amazon Quick Suite</category>
+		<category>Intermediate (200)</category>
+		<category>Thought Leadership</category>
+		<guid isPermaLink="false">755c7d8248913b9c1698eceff615a3e12637e5e9</guid>
+
+					<description>As we built Amazon Quick, its agents grew from answering questions to taking actions, and the same primitives kept getting rebuilt under different names. This post shares the taxonomy we converged on — triggers, agents, capabilities, and learned context — found by decomposing agentic work into four plain questions: When, What, Who, and How.</description>
+										<ns3:encoded>&lt;p&gt;Over the past year, as we built Amazon Quick, our agents went from answering questions to taking actions: scheduling meetings, running research, generating reports. As the system evolved, one problem kept resurfacing: there was no shared definition of the primitives that agentic work is built from. The same few ideas kept getting rebuilt under different names: an actor that does the work, a sig</ns3:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Serverless MCP server for AI agent data lake access on Amazon ECS Fargate</title>
+		<link>https://aws.amazon.com/blogs/machine-learning/serverless-mcp-server-for-ai-agent-data-lake-access-on-amazon-ecs-fargate/</link>
+		
+		<dc:creator>Aishwarya Pawar</dc:creator>
+		<pubDate>Fri, 06 Nov 2026 17:13:13 +0000</pubDate>
+				<category>Amazon Elastic Container Service</category>
+		<category>AWS Fargate</category>
+		<category>Intermediate (200)</category>
+		<category>Technical How-to</category>
+		<guid isPermaLink="false">64b64349a40669287b5c781082e75c92e2cc9153</guid>
+
+					<description>Learn how to build a serverless Model Context Protocol (MCP) server on Amazon ECS with AWS Fargate that gives AI agents secure, metadata-driven access to an enterprise data lake. Exposing a new dataset requires only a JSON file, with no per-dataset integration code.</description>
+										<ns3:encoded>&lt;p&gt;Organizations building applications powered by artificial intelligence (AI) face a recurring challenge: giving large language model (LLM) agents access to enterprise data lakes without duplicating integration logic across every agent and application. Most teams begin by wiring agents directly to databases and APIs, with no shared gateway such as a Model Context Protocol (MCP) server in between.</ns3:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Govern AI agent access with Okta Cross App Access and Amazon Bedrock AgentCore – Part 2</title>
+		<link>https://aws.amazon.com/blogs/machine-learning/govern-ai-agent-access-with-okta-cross-app-access-and-amazon-bedrock-agentcore-part-2/</link>
+		
+		<dc:creator>Hammad Ausaf</dc:creator>
+		<pubDate>Fri, 06 Nov 2026 17:09:23 +0000</pubDate>
+				<category>Amazon Bedrock AgentCore</category>
+		<category>Expert (400)</category>
+		<category>Technical How-to</category>
+		<guid isPermaLink="false">568f99493ce9fc7f0fbe42c57947610f9ca4666c</guid>
+
+					<description>In Part 1 you built one governed agent. Part 2 scales the pattern to an enterprise: Amazon Bedrock AgentCore Gateway becomes the single front door and redeems Okta's grant, Cedar policies bind each tool to the agent, a second agent runs on Amazon EKS, and AgentCore Observability traces every allow and deny beside Okta's log in Amazon CloudWatch.</description>
+										<ns3:encoded>&lt;p&gt;In &lt;a href="https://aws.amazon.com/blogs/machine-learning/govern-ai-agent-access-with-okta-cross-app-access-and-amazon-bedrock-agentcore-part-1/" target="_blank" rel="noopener"&gt;Part 1&lt;/a&gt;, you built a task agent on &lt;a href="https://aws.amazon.com/bedrock/agentcore/" target="_blank" rel="noopener"&gt;Amazon Bedrock AgentCore&lt;/a&gt;, a platform to build, connect, and optimize agents at scale, with any </ns3:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Govern AI agent access with Okta Cross App Access and Amazon Bedrock AgentCore – Part 1</title>
+		<link>https://aws.amazon.com/blogs/machine-learning/govern-ai-agent-access-with-okta-cross-app-access-and-amazon-bedrock-agentcore-part-1/</link>
+		
+		<dc:creator>Hammad Ausaf</dc:creator>
+		<pubDate>Fri, 06 Nov 2026 17:09:18 +0000</pubDate>
+				<category>Amazon Bedrock AgentCore</category>
+		<category>Expert (400)</category>
+		<category>Technical How-to</category>
+		<guid isPermaLink="false">c0f0c6e1e028e85f24cb91645e1a321ffca6e02a</guid>
+
+					<description>An AI agent that acts for a user raises an identity question that per-app OAuth and service accounts leave open: which agent may act for which user, and how you stop it. In this first post of two, you build a task agent on Amazon Bedrock AgentCore that governs access through Okta Cross App Access and AgentCore Identity, and enforces each user's authority.</description>
+										<ns3:encoded>&lt;p&gt;An AI agent that updates a ticket or reads a customer record acts for a person, inside applications that person can reach. Your identity team then has to answer a question that per-app OAuth consent and shared service accounts leave open: which agent might act for which user in which application, and how you stop it. Okta Cross App Access (XAA) answers it in your identity provider (IdP). You re</ns3:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>How Greenlight Financial built an autonomous SOC solution on Amazon Bedrock AgentCore</title>
+		<link>https://aws.amazon.com/blogs/machine-learning/how-greenlight-financial-built-an-autonomous-soc-solution-on-amazon-bedrock-agentcore/</link>
+		
+		<dc:creator>Adam Maksimuk</dc:creator>
+		<pubDate>Fri, 06 Nov 2026 16:55:05 +0000</pubDate>
+				<category>Advanced (300)</category>
+		<category>Amazon Bedrock AgentCore</category>
+		<category>Customer Solutions</category>
+		<guid isPermaLink="false">c5e92a0371483b3162fb07723de361bea61a1cce</guid>
+
+					<description>Greenlight Financial resolves more than 90% of up to 4,000 monthly security and risk cases without human intervention using Luna, a tiered multi-agent system on Amazon Bedrock AgentCore. This post covers the architecture, episodic memory for continuous learning, and the expansion from SOC operations into financial risk triage.</description>
+										<ns3:encoded>&lt;p&gt;Greenlight Financial resolves more than 90 percent of up to 4,000 security and risk cases each month without human intervention. Greenlight’s Luna uses &lt;a href="https://aws.amazon.com/bedrock/agentcore/" target="_blank" rel="noopener"&gt;Amazon Bedrock AgentCore&lt;/a&gt;, infrastructure for building, connecting, and optimizing agents at scale. Specifically, Greenlight uses AgentCore runtime, a capabili</ns3:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Taxbit Assist: A grounded, role-aware AI agent on Amazon Bedrock AgentCore</title>
+		<link>https://aws.amazon.com/blogs/machine-learning/taxbit-assist-a-grounded-role-aware-ai-agent-on-amazon-bedrock-agentcore/</link>
+		
+		<dc:creator>Karan Nayak</dc:creator>
+		<pubDate>Fri, 06 Nov 2026 16:49:42 +0000</pubDate>
+				<category>Advanced (300)</category>
+		<category>Amazon Bedrock AgentCore</category>
+		<category>Customer Solutions</category>
+		<guid isPermaLink="false">300480516c367305f4d8824ac5917a409db07911</guid>
+
+					<description>Taxbit built Taxbit Assist, a cited, permission-aware AI assistant embedded in its enterprise dashboard, on Amazon Bedrock AgentCore. This post shows how they grounded answers in a curated knowledge base, enforced role-aware and region-compliant safety, and continuously measured answer quality on live production traffic.</description>
+										<ns3:encoded>&lt;p&gt;&lt;a href="https://www.taxbit.com/" target="_blank" rel="noopener"&gt;Taxbit&lt;/a&gt; is a digital-asset tax and accounting compliance platform. Founded in 2018, Taxbit helps enterprises such as exchanges, payment services, and brokers calculate gains and losses, collect tax documentation, and file information returns at scale. Now, a cited, permission-aware AI assistant helps compliance teams find answe</ns3:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Extend Claude Code to remote sessions on Amazon Bedrock AgentCore with security controls</title>
+		<link>https://aws.amazon.com/blogs/machine-learning/extend-claude-code-to-remote-sessions-on-amazon-bedrock-agentcore-with-security-controls/</link>
+		
+		<dc:creator>Andrew (Qingjie) Ren</dc:creator>
+		<pubDate>Fri, 06 Nov 2026 16:45:58 +0000</pubDate>
+				<category>Amazon Bedrock</category>
+		<category>Amazon Bedrock AgentCore</category>
+		<category>Expert (400)</category>
+		<category>Technical How-to</category>
+		<guid isPermaLink="false">7f770c3595174ddce3e090066fd2d16df2549723</guid>
+
+					<description>Run Claude Code as a remote agent on Amazon Bedrock AgentCore. Each coding task runs in its own isolated session in your AWS account, every model call goes through Amazon Bedrock, and the result comes back as a GitHub pull request you review and merge.</description>
+										<ns3:encoded>&lt;p&gt;You might already run Claude Code locally on your laptop, backed by Amazon Bedrock. This post shows how to go a step further: run it as a remote agent on Amazon Bedrock AgentCore, a platform to build, connect, and optimize agents at scale, with any framework or model. The sample uses AgentCore runtime, a capability of Amazon Bedrock AgentCore, so every task runs in its own isolated session insi</ns3:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Getting started with Web Answer on Amazon Bedrock AgentCore</title>
+		<link>https://aws.amazon.com/blogs/machine-learning/getting-started-with-web-answer-on-amazon-bedrock-agentcore/</link>
+		
+		<dc:creator>Adrianna Chudy</dc:creator>
+		<pubDate>Thu, 05 Nov 2026 21:04:24 +0000</pubDate>
+				<category>Amazon Bedrock</category>
+		<category>Amazon Bedrock AgentCore</category>
+		<category>Intermediate (200)</category>
+		<category>Technical How-to</category>
+		<guid isPermaLink="false">376dbe736a2397bd4acc4f174380565d54b0823b</guid>
+
+					<description>Web Answer on Amazon Bedrock AgentCore returns a synthesized, source-cited answer to a natural-language question in a single tool call, with no search, retrieve, synthesize, and citation pipeline to build. Learn how it works and how to add it to an AgentCore Gateway and call it from an agent.</description>
+										<ns3:encoded>&lt;p&gt;Today, we are announcing the general availability of Web Answer on Amazon Bedrock AgentCore. With Web Answer, agent builders get a synthesized, source-cited answer to a natural-language question with a single tool call. They no longer build a search, retrieve, synthesize, and citation pipeline themselves.&lt;/p&gt; 
+&lt;p&gt;If you have built agents that need to answer questions from current web sources, y</ns3:encoded>
+					
+		
+		<enclosure length="3331322" type="video/mp4" url="https://d2908q01vomqb2.cloudfront.net/artifacts/DBSBlogs/ML-22248/web_answer_storylane_demo_video.mp4" />
+
+			</item>
+		<item>
+		<title>How Amazon Marketplace evaluates content quality with Amazon SageMaker AI</title>
+		<link>https://aws.amazon.com/blogs/machine-learning/how-amazon-marketplace-evaluates-content-quality-with-amazon-sagemaker-ai/</link>
+		
+		<dc:creator>James Kim</dc:creator>
+		<pubDate>Thu, 05 Nov 2026 18:06:43 +0000</pubDate>
+				<category>Amazon SageMaker AI</category>
+		<category>Best Practices</category>
+		<category>Expert (400)</category>
+		<guid isPermaLink="false">e8c83ec5b92498185c84027903905490ba326750</guid>
+
+					<description>Learn how Amazon Marketplace evaluates A+ Content quality at scale on Amazon SageMaker AI by rendering each product page as a single snapshot, scoring it with a vision-language model fused with OCR readability signals in a CatBoost classifier, and using SHAP to turn each decision into prioritized, actionable recommendations for selling partners.</description>
+										<ns3:encoded>&lt;p&gt;A+ Content is the rich media widget on the Amazon product detail page. Through visual assets, brands communicate unique product and brand value to help customers make informed purchase decisions. Selling partners using high-quality A+ Content boost their sales by 8–20 percent compared to those without it. A wide variety of brands, from established brands with large in-house design teams to boot</ns3:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Use decision models with Amazon Bedrock AgentCore Evaluations</title>
+		<link>https://aws.amazon.com/blogs/machine-learning/use-decision-models-with-amazon-bedrock-agentcore-evaluations/</link>
+		
+		<dc:creator>Sungyeon Kim</dc:creator>
+		<pubDate>Wed, 04 Nov 2026 18:46:36 +0000</pubDate>
+				<category>Advanced (300)</category>
+		<category>Amazon Bedrock AgentCore</category>
+		<category>Technical How-to</category>
+		<guid isPermaLink="false">af187d4dcc140f40d628b5b7a009df4d46179afa</guid>
+
+					<description>Some agent-evaluation questions are narrow and repeatable, and decision models answer exactly that kind of question. This post shows how to connect two decision models, Jev and Strands Decider, to Amazon Bedrock AgentCore Evaluations through code-based evaluators, and how to validate a decision-model check before you gate a release on it.</description>
+										<ns3:encoded>&lt;p&gt;Some of the questions you ask when evaluating an agent are narrow and repeatable. Did this response stay on policy? Is this tool call safe to approve? Does this answer match the retrieved context? Decision models answer exactly that kind of question. They take a structured state and a fixed set of allowed answers and return a calibrated probability over them, rather than free-form text whose co</ns3:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Smart Approvals in Amazon Quick: Human oversight where it matters</title>
+		<link>https://aws.amazon.com/blogs/machine-learning/smart-approvals-in-amazon-quick-human-oversight-where-it-matters/</link>
+		
+		<dc:creator>Steve Vinsik</dc:creator>
+		<pubDate>Wed, 04 Nov 2026 16:33:03 +0000</pubDate>
+				<category>Amazon Quick Suite</category>
+		<category>Intermediate (200)</category>
+		<category>Thought Leadership</category>
+		<guid isPermaLink="false">9c5c128f7a31e5e43f3eafba7ef1c3537f53e875</guid>
+
+					<description>Smart Approvals in Amazon Quick reviews eligible agent actions within your existing controls, reducing unnecessary approval prompts while keeping consequential decisions with a person. See how policy sets the boundary, how a classifier reviews actions, and how AWS CloudTrail and Amazon CloudWatch Logs support audit.</description>
+										<ns3:encoded>&lt;p&gt;How should security leaders preserve human oversight as AI agents take on more work? Permissions establish which actions agents can take, but a permitted action can still warrant a person’s judgment. Requiring approval for every step might seem like the safest approach, yet multi-step tasks can produce &lt;a href="https://arxiv.org/abs/2510.05307" target="_blank" rel="noopener"&gt;repeated prompts&lt;/a</ns3:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Four layers of context engineering for production AI agents: How Deep Insight applies them in working code</title>
+		<link>https://aws.amazon.com/blogs/machine-learning/four-layers-of-context-engineering-for-production-ai-agents-how-deep-insight-applies-them-in-working-code/</link>
+		
+		<dc:creator>Yoonseo Kim</dc:creator>
+		<pubDate>Wed, 04 Nov 2026 16:30:40 +0000</pubDate>
+				<category>Advanced (300)</category>
+		<category>Amazon Bedrock AgentCore</category>
+		<category>Strands Agents</category>
+		<category>Technical How-to</category>
+		<guid isPermaLink="false">f002aac1d7eda07b2b65eb10ab1188bfa0625420</guid>
+
+					<description>In production AI agents, context management is the real bottleneck. This post presents a four-layer context engineering framework (architecture, prompts, file-based tools, and verification agents), implemented in working code from Deep Insight, an open source multi-agent data analysis solution on the Strands Agents SDK and Amazon Bedrock AgentCore.</description>
+										<ns3:encoded>&lt;p&gt;When production AI agents handle tasks such as data analysis and report generation, context management can become a major bottleneck. A 200K-token window sounds generous until a real-world task burns through most of it in minutes. Data analysis and report generation leave the agent failing mid-execution, losing accuracy, or driving up costs. A body of published guidance already addresses this, </ns3:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>How Indegene is modernizing and scaling enterprise data quality in life sciences</title>
+		<link>https://aws.amazon.com/blogs/machine-learning/how-indegene-is-modernizing-and-scaling-enterprise-data-quality-in-life-sciences/</link>
+		
+		<dc:creator>Bhagyashree Chandak</dc:creator>
+		<pubDate>Wed, 04 Nov 2026 16:25:57 +0000</pubDate>
+				<category>Advanced (300)</category>
+		<category>Customer Solutions</category>
+		<guid isPermaLink="false">ec8f216d6e33b15ef288b415453d9a3caa46a158</guid>
+
+					<description>This post explores how Indegene built a production-grade, LLM-powered Data Quality Agent in its NEXT Unified Data Platform on AWS. The agent generates context-aware data quality rules, validates them, and produces ready-to-run SQL and Python under human-in-the-loop governance, helping life sciences organizations scale enterprise data quality.</description>
+										<ns3:encoded>&lt;p&gt;&lt;em&gt;This post is co-written with Shravan K S from Indegene Limited.&lt;/em&gt;&lt;/p&gt; 
+&lt;p&gt;Enterprise AI is creating new opportunities for life sciences organizations to improve decision-making across commercial, medical, market access, and other business functions. But the quality of every AI model, dashboard, and business insight depends on one thing: trusted data. As enterprise data grows across multi</ns3:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>How U Mobile built agentic telco operations with Amazon Bedrock AgentCore</title>
+		<link>https://aws.amazon.com/blogs/machine-learning/how-u-mobile-built-agentic-telco-operations-with-amazon-bedrock-agentcore/</link>
+		
+		<dc:creator>Jin Tiong Lim</dc:creator>
+		<pubDate>Wed, 04 Nov 2026 16:23:33 +0000</pubDate>
+				<category>Advanced (300)</category>
+		<category>Amazon Bedrock</category>
+		<category>Amazon Bedrock AgentCore</category>
+		<category>Customer Solutions</category>
+		<guid isPermaLink="false">86f7643574ae8df6cc5e69fb4f2fae28796c9da8</guid>
+
+					<description>U Mobile, Malaysia's newest 5G network provider, built AiDaH, an agentic AI operations platform on Amazon Bedrock AgentCore that moves beyond AI assistance to autonomous action across telco operations. Nine months after production launch, AiDaH handles over 150 operational scenarios across six divisions, cutting trouble tickets by up to 84.5%.</description>
+										<ns3:encoded>&lt;p&gt;U Mobile, Malaysia’s newest 5G network provider, has always run its telco operations lean, doing more with less through continuous automation. When new AI capabilities became available, U Mobile explored how to enhance operational efficiency beyond basic productivity gains. The real opportunity was further upstream, in how operations teams diagnose and resolve problems in the first place. The s</ns3:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Bring structured and unstructured data together with Amazon Quick</title>
+		<link>https://aws.amazon.com/blogs/machine-learning/bring-structured-and-unstructured-data-together-with-amazon-quick/</link>
+		
+		<dc:creator>Puneeth Komaragiri</dc:creator>
+		<pubDate>Tue, 03 Nov 2026 16:49:29 +0000</pubDate>
+				<category>Amazon Quick Suite</category>
+		<category>Intermediate (200)</category>
+		<category>Technical How-to</category>
+		<guid isPermaLink="false">a3db7b2c3fdf8a48e563f027e982fa25a50c5a02</guid>
+
+					<description>Amazon Quick brings structured and unstructured data together in one experience. In this post, you connect Amazon S3 as a knowledge base, enrich a dataset, build a Space, and create a custom chat agent that answers business questions across both data types through a single conversational interface.</description>
+										<ns3:encoded>&lt;p&gt;Organizations collect data in many forms. Structured data lives in databases and spreadsheets, whereas unstructured data sits in documents, reports, and files stored across file systems. Analyzing both together typically requires switching between multiple tools, running separate queries, and manually correlating results.&lt;/p&gt; 
+&lt;p&gt;&lt;a href="https://docs.aws.amazon.com/quick/latest/userguide/welco</ns3:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>ServiceNow on-behalf-of token exchange with Bedrock AgentCore Gateway</title>
+		<link>https://aws.amazon.com/blogs/machine-learning/servicenow-on-behalf-of-token-exchange-with-bedrock-agentcore-gateway/</link>
+		
+		<dc:creator>Greg Biegel</dc:creator>
+		<pubDate>Tue, 03 Nov 2026 16:47:40 +0000</pubDate>
+				<category>Advanced (300)</category>
+		<category>Amazon Bedrock AgentCore</category>
+		<category>Technical How-to</category>
+		<guid isPermaLink="false">1350dc3292e99da0becbb3e875f11092aaa597f1</guid>
+
+					<description>Learn how to configure Amazon Bedrock AgentCore Gateway for an on-behalf-of (OBO) token exchange with Microsoft Entra ID, so an AI agent can call the ServiceNow REST API while preserving the calling user's identity. AgentCore Gateway performs the exchange natively, with no interceptor Lambda or custom code.</description>
+										<ns3:encoded>&lt;p&gt;AI agents that interact with enterprise APIs on behalf of users need to maintain user identity throughout the request chain. Without identity propagation, API calls arrive at downstream services as the application itself rather than the user who initiated the action. This breaks audit trails, bypasses user-level access controls, and violates the principle of least privilege.&lt;/p&gt; 
+&lt;p&gt;Amazon Bedr</ns3:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>How Gen Digital built Norton Revamp’s AI-curated News Engine with Amazon Bedrock AgentCore Web Search</title>
+		<link>https://aws.amazon.com/blogs/machine-learning/how-gen-digital-built-norton-revamps-ai-curated-news-engine-with-amazon-bedrock-agentcore-web-search/</link>
+		
+		<dc:creator>Iskander Sanchez-Rola</dc:creator>
+		<pubDate>Tue, 03 Nov 2026 16:43:20 +0000</pubDate>
+				<category>Amazon Bedrock</category>
+		<category>Amazon Bedrock AgentCore</category>
+		<category>Customer Solutions</category>
+		<category>Expert (400)</category>
+		<guid isPermaLink="false">5ba6fab2d05a0a1835c7f5d2cacc32e13156d4b9</guid>
+
+					<description>Gen Digital built Norton Revamp, a generative AI-powered professional reputation management platform, with an AI-curated News Engine grounded by Web Search on Amazon Bedrock AgentCore. See how the Gen team delivers real-time, cited content suggestions, goal setting, and news feeds with zero data egress and Norton-grade privacy.</description>
+										<ns3:encoded>&lt;p&gt;Your professional reputation now lives online first. Recruiters check LinkedIn before returning a call. Clients review your digital presence before booking a first meeting. For ambitious professionals, that shift is an opportunity: a well-crafted online voice can open doors that a résumé alone never could.&lt;/p&gt; 
+&lt;p&gt;But standing out takes more than content generation. It takes real-time awareness</ns3:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Build a semantic layer for agentic AI with EDB Postgres AI and Amazon Bedrock AgentCore</title>
+		<link>https://aws.amazon.com/blogs/machine-learning/build-a-semantic-layer-for-agentic-ai-with-edb-postgres-ai-and-amazon-bedrock-agentcore/</link>
+		
+		<dc:creator>Rajesh Nagpal</dc:creator>
+		<pubDate>Tue, 03 Nov 2026 16:41:13 +0000</pubDate>
+				<category>Advanced (300)</category>
+		<category>Amazon Bedrock AgentCore</category>
+		<category>Customer Solutions</category>
+		<guid isPermaLink="false">070b0dd86152d3c36e4ca952542e5bc8e5351104</guid>
+
+					<description>Learn how to build a governed semantic layer for agentic AI inside EDB Postgres AI and query it from a Strands Agents agent on Amazon Bedrock AgentCore. Business meaning, join paths, and access control all live in Postgres, with GRANT and row-level security enforcing what each agent can read.</description>
+										<ns3:encoded>&lt;p&gt;In this post, we show how to build a semantic layer for agentic AI using &lt;a href="https://www.enterprisedb.com/docs/aidb/latest/" target="_blank" rel="noopener"&gt;EDB Postgres AI&lt;/a&gt;. We run a &lt;a href="https://github.com/strands-agents" target="_blank" rel="noopener"&gt;Strands Agents&lt;/a&gt; agent on &lt;a href="https://aws.amazon.com/bedrock/agentcore/" target="_blank" rel="noopener"&gt;Amazon Bedrock Agent</ns3:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Building ultra-low-latency voice AI applications on AWS</title>
+		<link>https://aws.amazon.com/blogs/machine-learning/building-ultra-low-latency-voice-ai-applications-on-aws/</link>
+		
+		<dc:creator>Nolan Chen</dc:creator>
+		<pubDate>Tue, 03 Nov 2026 16:40:54 +0000</pubDate>
+				<category>Advanced (300)</category>
+		<category>Amazon Connect</category>
+		<category>Amazon SageMaker AI</category>
+		<category>Technical How-to</category>
+		<guid isPermaLink="false">e6bbcdf35e46913f9daf0c1f2ed621b067d27d2d</guid>
+
+					<description>Learn how Cartesia, an AWS Partner, uses purpose-built State Space Models and AWS infrastructure to deliver sub-100ms text-to-speech and speech-to-text at global scale, and how to deploy its Sonic model on Amazon SageMaker AI or self-managed Amazon EC2 GPU instances.</description>
+										<ns3:encoded>&lt;p&gt;Conversational AI is transforming how humans interact with technology. From virtual assistants and AI-powered contact centers to real-time translation and accessibility tools, voice-first interfaces are rapidly becoming the default mode of interaction for millions of users worldwide.&lt;/p&gt; 
+&lt;p&gt;Yet delivering a truly natural voice experience remains one of the hardest challenges in AI infrastructu</ns3:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

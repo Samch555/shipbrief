@@ -1,0 +1,153 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <ns0:id>tag:github.com,2008:https://github.com/qdrant/qdrant/releases</ns0:id>
+  <ns0:link type="text/html" rel="alternate" href="https://github.com/qdrant/qdrant/releases" />
+  <ns0:link type="application/atom+xml" rel="self" href="https://github.com/qdrant/qdrant/releases.atom" />
+  <ns0:title>Release notes from qdrant</ns0:title>
+  <ns0:updated>2026-10-21T18:22:02Z</ns0:updated>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/268163609/v1.20.0</ns0:id>
+    <ns0:updated>2026-10-22T14:47:48Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/qdrant/qdrant/releases/tag/v1.20.0" />
+    <ns0:title>v1.20.0</ns0:title>
+    <ns0:content type="html">&lt;h1&gt;Changelog&lt;/h1&gt;
+&lt;h2&gt;Features 🎶&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/qdrant/qdrant/issues/10750" data-hovercard-type="issue" data-hovercard-url="/qdrant/qdrant/issues/10750/hovercard"&gt;#10750&lt;/a&gt; - BM25 scoring directly on the full-text payload index [&lt;a href="https://qdrant.tech/documentation/search/text-search/full-text-search/" rel="nofollow"&gt;docs&lt;/a&gt;]&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com</ns0:content>
+    <ns0:author>
+      <ns0:name>generall</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1935623?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/268163609/v1.19.2</ns0:id>
+    <ns0:updated>2026-10-05T15:07:27Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/qdrant/qdrant/releases/tag/v1.19.2" />
+    <ns0:title>v1.19.2</ns0:title>
+    <ns0:content type="html">&lt;h1&gt;Change log&lt;/h1&gt;
+&lt;h2&gt;Improvements&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="5479979891" data-permission-text="Title is private" data-url="https://github.com/qdrant/qdrant/issues/10682" data-hovercard-type="pull_request" data-hovercard-url="/qdrant/qdrant/pull/10682/hovercard" href="https://github.com/qdrant/qdrant/pull/10682"&gt;#10682&lt;/a&gt; - </ns0:content>
+    <ns0:author>
+      <ns0:name>timvisee</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/856222?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/268163609/v1.19.1</ns0:id>
+    <ns0:updated>2026-09-04T08:42:33Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/qdrant/qdrant/releases/tag/v1.19.1" />
+    <ns0:title>v1.19.1</ns0:title>
+    <ns0:content type="html">&lt;h1&gt;Change log&lt;/h1&gt;
+&lt;h2&gt;Improvements&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="5257623419" data-permission-text="Title is private" data-url="https://github.com/qdrant/qdrant/issues/10342" data-hovercard-type="pull_request" data-hovercard-url="/qdrant/qdrant/pull/10342/hovercard" href="https://github.com/qdrant/qdrant/pull/10342"&gt;#10342&lt;/a&gt;, &lt;</ns0:content>
+    <ns0:author>
+      <ns0:name>timvisee</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/856222?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/268163609/v1.19.0</ns0:id>
+    <ns0:updated>2026-10-09T10:25:54Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/qdrant/qdrant/releases/tag/v1.19.0" />
+    <ns0:title>v1.19.0</ns0:title>
+    <ns0:content type="html">&lt;h1&gt;Change log&lt;/h1&gt;
+&lt;h2&gt;Features ☝️&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/qdrant/qdrant/milestone/50"&gt;https://github.com/qdrant/qdrant/milestone/50&lt;/a&gt; - TurboQuant 4-bit as a datatype of primary vector storage. Only store 4-bit quantized vectors and spare disk space on original vectors. [&lt;a href="https://qdrant.tech/documentation/manage-data/vectors/#turbo4" rel="nofollow"&gt;docs&lt;/a&gt;]&lt;/li&gt;
+&lt;li&gt;</ns0:content>
+    <ns0:author>
+      <ns0:name>generall</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1935623?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/268163609/v1.18.3</ns0:id>
+    <ns0:updated>2026-07-17T14:09:13Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/qdrant/qdrant/releases/tag/v1.18.3" />
+    <ns0:title>v1.18.3</ns0:title>
+    <ns0:content type="html">&lt;h1&gt;Change log&lt;/h1&gt;
+&lt;h2&gt;Bug Fixes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4909983194" data-permission-text="Title is private" data-url="https://github.com/qdrant/qdrant/issues/9882" data-hovercard-type="pull_request" data-hovercard-url="/qdrant/qdrant/pull/9882/hovercard" href="https://github.com/qdrant/qdrant/pull/9882"&gt;#9882&lt;/a&gt; - Fix que</ns0:content>
+    <ns0:author>
+      <ns0:name>timvisee</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/856222?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/268163609/v1.18.2</ns0:id>
+    <ns0:updated>2026-06-04T07:36:19Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/qdrant/qdrant/releases/tag/v1.18.2" />
+    <ns0:title>v1.18.2</ns0:title>
+    <ns0:content type="html">&lt;h1&gt;Change log&lt;/h1&gt;
+&lt;h2&gt;Improvements&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4577894365" data-permission-text="Title is private" data-url="https://github.com/qdrant/qdrant/issues/9282" data-hovercard-type="pull_request" data-hovercard-url="/qdrant/qdrant/pull/9282/hovercard" href="https://github.com/qdrant/qdrant/pull/9282"&gt;#9282&lt;/a&gt; - Log </ns0:content>
+    <ns0:author>
+      <ns0:name>timvisee</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/856222?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/268163609/v1.18.1</ns0:id>
+    <ns0:updated>2026-05-22T13:14:54Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/qdrant/qdrant/releases/tag/v1.18.1" />
+    <ns0:title>v1.18.1</ns0:title>
+    <ns0:content type="html">&lt;h1&gt;Change log&lt;/h1&gt;
+&lt;h2&gt;Improvements&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4419923582" data-permission-text="Title is private" data-url="https://github.com/qdrant/qdrant/issues/8988" data-hovercard-type="pull_request" data-hovercard-url="/qdrant/qdrant/pull/8988/hovercard" href="https://github.com/qdrant/qdrant/pull/8988"&gt;#8988&lt;/a&gt; - Refa</ns0:content>
+    <ns0:author>
+      <ns0:name>timvisee</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/856222?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/268163609/v1.18.0</ns0:id>
+    <ns0:updated>2026-05-11T15:54:18Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/qdrant/qdrant/releases/tag/v1.18.0" />
+    <ns0:title>v1.18.0</ns0:title>
+    <ns0:content type="html">&lt;h1&gt;Change log&lt;/h1&gt;
+&lt;h2&gt;Features 🏎️&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/qdrant/qdrant/milestone/48"&gt;milestone!48&lt;/a&gt; - Add TurboQuant quantization variant, 8x vector compression without the recall tax&lt;/li&gt;
+&lt;li&gt;&lt;a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4208969944" data-permission-text="Title is private" data-url="https://github.com/qdrant/qdrant/issue</ns0:content>
+    <ns0:author>
+      <ns0:name>timvisee</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/856222?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/268163609/v1.17.1</ns0:id>
+    <ns0:updated>2026-03-27T11:24:00Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/qdrant/qdrant/releases/tag/v1.17.1" />
+    <ns0:title>v1.17.1</ns0:title>
+    <ns0:content type="html">&lt;h1&gt;Change log&lt;/h1&gt;
+&lt;h2&gt;Improvements&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/qdrant/qdrant/milestone/46?closed=1"&gt;milestone#46&lt;/a&gt; - Defer point updates, efficiently apply and optimize points with &lt;code&gt;prevent_unoptimized=true&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3967868399" data-permission-text="Title is private" data-url="https://</ns0:content>
+    <ns0:author>
+      <ns0:name>timvisee</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/856222?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/268163609/v1.17.0</ns0:id>
+    <ns0:updated>2026-02-20T12:26:53Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/qdrant/qdrant/releases/tag/v1.17.0" />
+    <ns0:title>v1.17.0</ns0:title>
+    <ns0:content type="html">&lt;h1&gt;Change log&lt;/h1&gt;
+&lt;h2&gt;Features 🏋️&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/qdrant/qdrant/milestone/38?closed=1"&gt;milestone#38&lt;/a&gt; - Relevance Feedback (&lt;a href="https://qdrant.tech/documentation/concepts/search-relevance/#relevance-feedback" rel="nofollow"&gt;docs&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/qdrant/qdrant/milestone/44?closed=1"&gt;milestone#44&lt;/a&gt; - API for detailed report on optimizatio</ns0:content>
+    <ns0:author>
+      <ns0:name>timvisee</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/856222?s=60&amp;v=4" />
+  </ns0:entry>
+</ns0:feed>

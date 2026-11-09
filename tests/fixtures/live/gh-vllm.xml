@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <ns0:id>tag:github.com,2008:https://github.com/vllm-project/vllm/releases</ns0:id>
+  <ns0:link type="text/html" rel="alternate" href="https://github.com/vllm-project/vllm/releases" />
+  <ns0:link type="application/atom+xml" rel="self" href="https://github.com/vllm-project/vllm/releases.atom" />
+  <ns0:title>Release notes from vllm</ns0:title>
+  <ns0:updated>2026-11-01T09:21:10Z</ns0:updated>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/599547518/v0.33.0</ns0:id>
+    <ns0:updated>2026-11-01T09:21:10Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/vllm-project/vllm/releases/tag/v0.33.0" />
+    <ns0:title>v0.33.0</ns0:title>
+    <ns0:content type="html">&lt;p&gt;vLLM v0.33.0&lt;/p&gt;</ns0:content>
+    <ns0:author>
+      <ns0:name>khluu</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/51931015?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/599547518/v0.33.0rc3</ns0:id>
+    <ns0:updated>2026-11-02T10:11:34Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/vllm-project/vllm/releases/tag/v0.33.0rc3" />
+    <ns0:title>v0.33.0</ns0:title>
+    <ns0:content type="html">&lt;h1&gt;v0.33.0&lt;/h1&gt;
+&lt;h2&gt;Highlights&lt;/h2&gt;
+&lt;p&gt;This release features 927 commits from 389 contributors (122 new)!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;New models&lt;/strong&gt;: Reflection Beam-1.0 (501B MoE, 23B active) with its DFlash2 drafter (&lt;a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="5889776852" data-permission-text="Title is private" data-url="https://github.com/vllm-project/vllm</ns0:content>
+    <ns0:author>
+      <ns0:name>khluu</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/51931015?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/599547518/v0.33.0rc2</ns0:id>
+    <ns0:updated>2026-10-30T09:10:43Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/vllm-project/vllm/releases/tag/v0.33.0rc2" />
+    <ns0:title>v0.33.0rc2: [ROCm][Bugfix] Skip AITER tuned GEMM when M*N &gt;= 2^31 on gfx950 (#64567)</ns0:title>
+    <ns0:content type="html">&lt;p&gt;Signed-off-by: Micah Williamson &lt;a href="mailto:micah.williamson@amd.com"&gt;micah.williamson@amd.com&lt;/a&gt;&lt;br&gt;
+(cherry picked from commit &lt;a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/vllm-project/vllm/commit/6d018934838a0c8c6beed244aa1ca327e1ed7182/hovercard" href="https://github.com/vllm-project/vllm/commit/6d018934838a0c8c6beed244aa1ca327e1ed7182"&gt;&lt;tt</ns0:content>
+    <ns0:author>
+      <ns0:name>micah-wil</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/181019437?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/599547518/v0.33.0rc1</ns0:id>
+    <ns0:updated>2026-10-28T09:31:23Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/vllm-project/vllm/releases/tag/v0.33.0rc1" />
+    <ns0:title>v0.33.0rc1: [CI] Fix stale NVFP4 decode test selector on DGX Spark (#64107)</ns0:title>
+    <ns0:content type="html">&lt;p&gt;Signed-off-by: grYe99 &lt;a href="mailto:guorongye99@gmail.com"&gt;guorongye99@gmail.com&lt;/a&gt;&lt;br&gt;
+Co-authored-by: grYe99 &lt;a href="mailto:guorongye99@gmail.com"&gt;guorongye99@gmail.com&lt;/a&gt;&lt;br&gt;
+(cherry picked from commit &lt;a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/vllm-project/vllm/commit/bfa2a433453675b0c7abcb5df163fd5e59ffe2a3/hovercard" href="https://githu</ns0:content>
+    <ns0:author>
+      <ns0:name>grYe99</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/35474918?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/599547518/v0.33.0rc0</ns0:id>
+    <ns0:updated>2026-10-26T17:59:24Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/vllm-project/vllm/releases/tag/v0.33.0rc0" />
+    <ns0:title>v0.33.0rc0</ns0:title>
+    <ns0:content type="html">&lt;p&gt;[Bugfix][MRV2] Skip adaptive verification cost profiling in the CUDA …&lt;/p&gt;</ns0:content>
+    <ns0:author>
+      <ns0:name>LucasWilkinson</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/8854186?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/599547518/v0.32.1rc0</ns0:id>
+    <ns0:updated>2026-10-18T09:26:56Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/vllm-project/vllm/releases/tag/v0.32.1rc0" />
+    <ns0:title>v0.32.1rc0</ns0:title>
+    <ns0:content type="html">&lt;p&gt;[Doc][RL] Document the weight-transfer HTTP protocol for trainers wit…&lt;/p&gt;</ns0:content>
+    <ns0:author>
+      <ns0:name>aoshen02</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/281812371?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/599547518/v0.32.0</ns0:id>
+    <ns0:updated>2026-10-18T10:23:45Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/vllm-project/vllm/releases/tag/v0.32.0" />
+    <ns0:title>v0.32.0</ns0:title>
+    <ns0:content type="html">&lt;h1&gt;v0.32.0&lt;/h1&gt;
+&lt;h2&gt;Highlights&lt;/h2&gt;
+&lt;p&gt;This release features 814 commits from 363 contributors (121 new)!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Structured decisions and generic parsers&lt;/strong&gt;: the new &lt;code&gt;POST /v1/systemone&lt;/code&gt; endpoint answers &lt;code&gt;choice&lt;/code&gt;, &lt;code&gt;noul&lt;/code&gt; and &lt;code&gt;score&lt;/code&gt; questions over a structured state (&lt;a class="issue-link js-issue-link" data-error-text="Failed to load</ns0:content>
+    <ns0:author>
+      <ns0:name>khluu</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/51931015?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/599547518/v0.32.0rc3</ns0:id>
+    <ns0:updated>2026-10-17T00:25:45Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/vllm-project/vllm/releases/tag/v0.32.0rc3" />
+    <ns0:title>v0.32.0rc3: [Bugfix] Fix NaN output of the Mamba2 chunk scan kernel on sm90 (#61718)</ns0:title>
+    <ns0:content type="html">&lt;p&gt;Signed-off-by: Vadim Gimpelson &lt;a href="mailto:vadim.gimpelson@gmail.com"&gt;vadim.gimpelson@gmail.com&lt;/a&gt;&lt;br&gt;
+Co-authored-by: Claude &lt;a href="mailto:noreply@anthropic.com"&gt;noreply@anthropic.com&lt;/a&gt;&lt;/p&gt;</ns0:content>
+    <ns0:author>
+      <ns0:name>vadiklyutiy</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/156319763?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/599547518/v0.32.0rc2</ns0:id>
+    <ns0:updated>2026-10-15T09:50:46Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/vllm-project/vllm/releases/tag/v0.32.0rc2" />
+    <ns0:title>v0.32.0rc2</ns0:title>
+    <ns0:content type="html">&lt;p&gt;[CI] Pin DeepSeek-V4.1-Flash-NVFP4 eval to its FP8-Engram revision (#…&lt;/p&gt;</ns0:content>
+    <ns0:author>
+      <ns0:name>khluu</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/51931015?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/599547518/v0.32.0rc1</ns0:id>
+    <ns0:updated>2026-10-14T23:29:34Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/vllm-project/vllm/releases/tag/v0.32.0rc1" />
+    <ns0:title>v0.32.0rc1: [Dependency] Update Humming and remove NVFP4 scale workaround (#61556)</ns0:title>
+    <ns0:content type="html">&lt;p&gt;Signed-off-by: jinzhen.ljz &lt;a href="mailto:jinzhen.ljz@antgroup.com"&gt;jinzhen.ljz@antgroup.com&lt;/a&gt;&lt;br&gt;
+Co-authored-by: Codex &lt;a href="mailto:codex@openai.com"&gt;codex@openai.com&lt;/a&gt;&lt;br&gt;
+Co-authored-by: Misha Goin &lt;a href="mailto:mgoin64@gmail.com"&gt;mgoin64@gmail.com&lt;/a&gt;&lt;br&gt;
+Co-authored-by: Kevin H. Luu &lt;a href="mailto:khluu000@gmail.com"&gt;khluu000@gmail.com&lt;/a&gt;&lt;/p&gt;</ns0:content>
+    <ns0:author>
+      <ns0:name>jinzhen-lin</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/14980050?s=60&amp;v=4" />
+  </ns0:entry>
+</ns0:feed>

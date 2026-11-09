@@ -1,0 +1,210 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <ns0:id>tag:github.com,2008:https://github.com/crewAIInc/crewAI/releases</ns0:id>
+  <ns0:link type="text/html" rel="alternate" href="https://github.com/crewAIInc/crewAI/releases" />
+  <ns0:link type="application/atom+xml" rel="self" href="https://github.com/crewAIInc/crewAI/releases.atom" />
+  <ns0:title>Release notes from crewAI</ns0:title>
+  <ns0:updated>2026-11-09T01:07:11Z</ns0:updated>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/710601088/1.15.39</ns0:id>
+    <ns0:updated>2026-11-09T01:07:14Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/crewAIInc/crewAI/releases/tag/1.15.39" />
+    <ns0:title>1.15.39</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;h3&gt;Documentation&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Document the &lt;code&gt;apps_not_connected&lt;/code&gt; error on &lt;code&gt;/kickoff&lt;/code&gt; and &lt;code&gt;/status&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Contributors&lt;/h2&gt;
+&lt;p&gt;&lt;a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/joaomdmoura/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://git</ns0:content>
+    <ns0:author>
+      <ns0:name>joaomdmoura</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/667063?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/710601088/1.15.38</ns0:id>
+    <ns0:updated>2026-11-08T19:39:30Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/crewAIInc/crewAI/releases/tag/1.15.38" />
+    <ns0:title>1.15.38</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;h3&gt;Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Make gpt-6-luna crewAI's default model everywhere&lt;/li&gt;
+&lt;li&gt;Read spreadsheet URLs in an agent's input with tools over every row&lt;/li&gt;
+&lt;li&gt;Tag eval usage spans with target and a per-evaluation id&lt;/li&gt;
+&lt;li&gt;Add --no-open to crewai eval for headless use&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Bug Fixes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Count a crewai eval run that exits with an error as run_failed</ns0:content>
+    <ns0:author>
+      <ns0:name>joaomdmoura</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/667063?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/710601088/1.15.37</ns0:id>
+    <ns0:updated>2026-11-07T02:18:06Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/crewAIInc/crewAI/releases/tag/1.15.37" />
+    <ns0:title>1.15.37</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;h3&gt;Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Add functionality to read spreadsheets for agents in crewai-files.&lt;/li&gt;
+&lt;li&gt;Scaffold and load standalone agent projects.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Documentation&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Update RagTool description for better parsing by Mintlify.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Contributors&lt;/h2&gt;
+&lt;p&gt;&lt;a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/</ns0:content>
+    <ns0:author>
+      <ns0:name>joaomdmoura</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/667063?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/710601088/1.15.36</ns0:id>
+    <ns0:updated>2026-11-06T04:40:02Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/crewAIInc/crewAI/releases/tag/1.15.36" />
+    <ns0:title>1.15.36</ns0:title>
+    <ns0:content type="html">&lt;h1&gt;What's Changed&lt;/h1&gt;
+&lt;h3&gt;Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Add experimental conversational Agent sessions.&lt;/li&gt;
+&lt;li&gt;Ask for a missing API key when crewai run starts.&lt;/li&gt;
+&lt;li&gt;Record the error class when crewai run cannot load a project.&lt;/li&gt;
+&lt;li&gt;Name the apps CrewAI AMP cannot resolve for an agent.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Bug Fixes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fix async call execution in the caller's context for sync tools.&lt;/li&gt;</ns0:content>
+    <ns0:author>
+      <ns0:name>joaomdmoura</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/667063?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/710601088/1.15.35</ns0:id>
+    <ns0:updated>2026-11-03T18:25:15Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/crewAIInc/crewAI/releases/tag/1.15.35" />
+    <ns0:title>1.15.35</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;h3&gt;Documentation&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Update litellm model catalog for v1.15.35&lt;/li&gt;
+&lt;li&gt;Add snapshot and changelog for v1.15.34&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Contributors&lt;/h2&gt;
+&lt;p&gt;@github-actions[bot], &lt;a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/joaomdmoura/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href=</ns0:content>
+    <ns0:author>
+      <ns0:name>lorenzejay</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/63378463?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/710601088/1.15.34</ns0:id>
+    <ns0:updated>2026-11-01T21:21:56Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/crewAIInc/crewAI/releases/tag/1.15.34" />
+    <ns0:title>1.15.34</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;h3&gt;Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Add standalone LiteLLM catalog PR before version bump&lt;/li&gt;
+&lt;li&gt;Record where crewai run stops before kickoff&lt;/li&gt;
+&lt;li&gt;Add crewai skill search to list the organization's skills&lt;/li&gt;
+&lt;li&gt;Pass crewai run --inputs to a Python flow&lt;/li&gt;
+&lt;li&gt;Add deploy create --zip and print the commit a zip is built from&lt;/li&gt;
+&lt;li&gt;Document agent planning with planningcon</ns0:content>
+    <ns0:author>
+      <ns0:name>joaomdmoura</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/667063?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/710601088/1.15.33</ns0:id>
+    <ns0:updated>2026-10-29T07:36:24Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/crewAIInc/crewAI/releases/tag/1.15.33" />
+    <ns0:title>1.15.33</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;h3&gt;Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Add &lt;code&gt;crewai skill search&lt;/code&gt; to list the organization's skills&lt;/li&gt;
+&lt;li&gt;Pass &lt;code&gt;crewai run --inputs&lt;/code&gt; to a Python flow&lt;/li&gt;
+&lt;li&gt;Add &lt;code&gt;deploy create --zip&lt;/code&gt; and print the commit a zip is built from&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Bug Fixes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Report token usage for LiteLLM tool-call and structured-output calls&lt;/li&gt;
+&lt;li&gt;Restore re</ns0:content>
+    <ns0:author>
+      <ns0:name>Vidit-Ostwal</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/110953813?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/710601088/1.15.32</ns0:id>
+    <ns0:updated>2026-10-27T23:04:05Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/crewAIInc/crewAI/releases/tag/1.15.32" />
+    <ns0:title>1.15.32</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;h3&gt;Bug Fixes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fix failing flaky tests&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Documentation&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Update snapshot and changelog for v1.15.31&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Contributors&lt;/h2&gt;
+&lt;p&gt;&lt;a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/lorenzejay/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https:/</ns0:content>
+    <ns0:author>
+      <ns0:name>lorenzejay</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/63378463?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/710601088/1.15.31</ns0:id>
+    <ns0:updated>2026-10-27T21:36:29Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/crewAIInc/crewAI/releases/tag/1.15.31" />
+    <ns0:title>1.15.31</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;h3&gt;Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Support conversational flow context compaction.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Bug Fixes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Update vulnerable audit dependencies.&lt;/li&gt;
+&lt;li&gt;Stop sending 'stop' to GPT-6 and newer models.&lt;/li&gt;
+&lt;li&gt;Run the provider listing off the loop in &lt;code&gt;acleanup_provider_files&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;Emit &lt;code&gt;LLMGuardrailCompletedEvent&lt;/code&gt; for a malformed guardrail </ns0:content>
+    <ns0:author>
+      <ns0:name>lorenzejay</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/63378463?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/710601088/1.15.30</ns0:id>
+    <ns0:updated>2026-10-24T01:56:04Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/crewAIInc/crewAI/releases/tag/1.15.30" />
+    <ns0:title>1.15.30</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;h3&gt;Bug Fixes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fix AGENTS.md to start the login process while evaluating and stop after three rounds.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Documentation&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Update snapshot and changelog for v1.15.29.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Contributors&lt;/h2&gt;
+&lt;p&gt;&lt;a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/joaomdmoura/hovercard" data-octo-click="hovercar</ns0:content>
+    <ns0:author>
+      <ns0:name>joaomdmoura</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/667063?s=60&amp;v=4" />
+  </ns0:entry>
+</ns0:feed>

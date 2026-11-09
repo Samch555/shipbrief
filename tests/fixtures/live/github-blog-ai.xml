@@ -1,0 +1,272 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://purl.org/rss/1.0/modules/syndication/" xmlns:ns2="com-wordpress:feed-additions:1" xmlns:ns4="http://purl.org/rss/1.0/modules/content/" version="2.0">
+
+<channel>
+	<title>The latest on AI &amp; ML - The GitHub Blog</title>
+	<ns0:link href="https://github.blog/ai-and-ml/feed/" rel="self" type="application/rss+xml" />
+	<link>https://github.blog/ai-and-ml/</link>
+	<description>Updates, ideas, and inspiration from GitHub to help developers build and design software.</description>
+	<lastBuildDate>Fri, 06 Nov 2026 22:16:01 +0000</lastBuildDate>
+	<language>en-US</language>
+	<ns1:updatePeriod>
+	hourly	</ns1:updatePeriod>
+	<ns1:updateFrequency>
+	1	</ns1:updateFrequency>
+	<generator>https://wordpress.org/?v=7.1.4</generator>
+
+<image>
+	<url>https://github.blog/wp-content/uploads/2019/01/cropped-github-favicon-512.png?fit=32%2C32</url>
+	<title>The latest on AI &amp; ML - The GitHub Blog</title>
+	<link>https://github.blog/ai-and-ml/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<ns2:site>153214340</ns2:site>	<item>
+		<title>Beyond code generation: A developer’s guide to agentic engineering</title>
+		<link>https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/</link>
+		
+		<dc:creator>Nick Liffen</dc:creator>
+		<pubDate>Fri, 06 Nov 2026 22:15:59 +0000</pubDate>
+				<category>AI &amp; ML</category>
+		<category>GitHub Copilot</category>
+		<category>GitHub Universe</category>
+		<guid isPermaLink="false">https://github.blog/?p=100047</guid>
+
+					<description>&lt;p&gt;Writing code got faster. The work around it didn't. See how you can plan, write code, review changes, and investigate production issues with GitHub Copilot, and what work still needs your judgment.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/"&gt;Beyond code generation: A developer&amp;#8217;s guide to agentic e</description>
+										<ns4:encoded>&lt;!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"&gt;
+&lt;html&gt;&lt;body&gt;&lt;p class="wp-block-paragraph"&gt;This October, GitHub saw more than 1.2 billion commits in one week&amp;mdash;over 400% more than a year earlier. This is more commits than GitHub received in all of 2025. Chances are, you&amp;rsquo;re generating more code than you were a year ago. But ask you</ns4:encoded>
+					
+		
+		
+		<ns2:post-id>100047</ns2:post-id>	</item>
+		<item>
+		<title>How 3 Java Champions are using GitHub Copilot for increased productivity</title>
+		<link>https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity/</link>
+		
+		<dc:creator>Julien Dubois</dc:creator>
+		<pubDate>Tue, 20 Oct 2026 16:05:03 +0000</pubDate>
+				<category>AI &amp; ML</category>
+		<category>GitHub Copilot</category>
+		<category>java</category>
+		<guid isPermaLink="false">https://github.blog/?p=99538</guid>
+
+					<description>&lt;p&gt;Three Java Champions share how they use GitHub Copilot to solve problems, accelerate development, and keep humans responsible for the results.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity/"&gt;How 3 Java Champions are using GitHub Copilot for increased productivity&lt;/a&gt; appeared first on &lt;a href="https</description>
+										<ns4:encoded>&lt;!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"&gt;
+&lt;html&gt;&lt;body&gt;&lt;p class="wp-block-paragraph"&gt;AI coding tools can generate code quickly, but speed alone does not solve the hardest software engineering problems. Developers still need to provide context, validate results, protect maintainability, and remain accountable for what ships.&lt;/p&gt;
+
+
+
+&lt;p </ns4:encoded>
+					
+		
+		
+		<ns2:post-id>99538</ns2:post-id>	</item>
+		<item>
+		<title>How to continue a GitHub Copilot app session in VS Code</title>
+		<link>https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/</link>
+		
+		<dc:creator>Kayla Cinnamon</dc:creator>
+		<pubDate>Mon, 19 Oct 2026 18:47:22 +0000</pubDate>
+				<category>AI &amp; ML</category>
+		<category>GitHub Copilot</category>
+		<category>GitHub Copilot app</category>
+		<category>GitHub Copilot app for Beginners</category>
+		<guid isPermaLink="false">https://github.blog/?p=99556</guid>
+
+					<description>&lt;p&gt;Learn how to move an agent session from the GitHub Copilot app into VS Code without losing the conversation, code changes, or working context.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/"&gt;How to continue a GitHub Copilot app session in VS Code&lt;/a&gt; appeared first on &lt;a href="https://github.blog"&gt;The GitHub Blog&lt;/a</description>
+										<ns4:encoded>&lt;!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"&gt;
+&lt;html&gt;&lt;body&gt;&lt;p class="wp-block-paragraph"&gt;The agent has finished the bulk of your change. Now you want to inspect one implementation detail, adjust a few lines by hand, and run the project locally before you ship it.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;But the work is sitting in the &lt;a href=</ns4:encoded>
+					
+		
+		
+		<ns2:post-id>99556</ns2:post-id>	</item>
+		<item>
+		<title>GitHub’s model for secret detection: Finding more secrets with less noise</title>
+		<link>https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise/</link>
+		
+		<dc:creator>Batu Ozturkler</dc:creator>
+		<pubDate>Tue, 13 Oct 2026 17:56:33 +0000</pubDate>
+				<category>AI &amp; ML</category>
+		<category>Application security</category>
+		<category>Security</category>
+		<category>AI</category>
+		<category>Secret Scanning</category>
+		<guid isPermaLink="false">https://github.blog/?p=99413</guid>
+
+					<description>&lt;p&gt;GitHub’s context-aware secret classifier improves detection quality, raises weighted acceptance by 11.5%, and reduces median scan execution time by 86%.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise/"&gt;GitHub’s model for secret detection: Finding more secrets with less noise&lt;/a&gt; appeared first on &lt;a href="https://gi</description>
+										<ns4:encoded>&lt;!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"&gt;
+
+&lt;style data-wp-block-html="css"&gt;
+/*
+Copyright 2022 The Mona Sans Project Authors (https://github.com/github/mona-sans), with Reserved Font Name "Mona"
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is copied below, and is also available with a FAQ </ns4:encoded>
+					
+		
+		
+		<ns2:post-id>99413</ns2:post-id>	</item>
+		<item>
+		<title>GitHub Copilot app for Beginners: How to teach Copilot about your codebase</title>
+		<link>https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase/</link>
+		
+		<dc:creator>Christopher Harrison</dc:creator>
+		<pubDate>Mon, 12 Oct 2026 17:43:59 +0000</pubDate>
+				<category>AI &amp; ML</category>
+		<category>GitHub Copilot</category>
+		<category>GitHub Copilot app</category>
+		<category>GitHub Copilot app for Beginners</category>
+		<guid isPermaLink="false">https://github.blog/?p=99409</guid>
+
+					<description>&lt;p&gt;Learn how to add custom instructions and skills to your repository, use custom agents, and connect MCP servers like Playwright.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase/"&gt;GitHub Copilot app for Beginners: How to teach Copilot about your codebase&lt;/a&gt; appeared first on &lt;a href="https://github.bl</description>
+										<ns4:encoded>&lt;!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"&gt;
+&lt;html&gt;&lt;body&gt;&lt;p class="wp-block-paragraph"&gt;Context matters when you&amp;rsquo;re working with AI. Every codebase has its own house rules: how components are structured, which scripts to run, and which conventions apply to different frameworks and file types.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Co</ns4:encoded>
+					
+		
+		
+		<ns2:post-id>99409</ns2:post-id>	</item>
+		<item>
+		<title>Secret protection must scale with software</title>
+		<link>https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software/</link>
+		
+		<dc:creator>Erin Havens</dc:creator>
+		<pubDate>Wed, 07 Oct 2026 17:45:34 +0000</pubDate>
+				<category>AI &amp; ML</category>
+		<category>Generative AI</category>
+		<category>GitHub Copilot</category>
+		<category>AI</category>
+		<category>Secret Protection</category>
+		<category>Secret Scanning</category>
+		<guid isPermaLink="false">https://github.blog/?p=99310</guid>
+
+					<description>&lt;p&gt;Developers aren’t becoming more careless; they’re being outpaced. The tools that let developers create more software should also take on more of the work of protecting it.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software/"&gt;Secret protection must scale with software&lt;/a&gt; appeared first on &lt;a href="https://github.blog"&gt;The GitHub Blog</description>
+										<ns4:encoded>&lt;!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"&gt;
+&lt;html&gt;&lt;body&gt;&lt;p class="wp-block-paragraph"&gt;Today, &lt;a href="https://www.microsoft.com/en-us/investor/events/fy-2026/earnings-fy-2026-q4"&gt;one in three pull requests on GitHub involves an AI agent&lt;/a&gt;. A year ago, that number was fewer than one in 10. If that pace holds, within the next two years</ns4:encoded>
+					
+		
+		
+		<ns2:post-id>99310</ns2:post-id>	</item>
+		<item>
+		<title>ReviewBench: An open benchmark for AI code review</title>
+		<link>https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review/</link>
+		
+		<dc:creator>Michelle Zhou</dc:creator>
+		<pubDate>Mon, 05 Oct 2026 15:59:40 +0000</pubDate>
+				<category>AI &amp; ML</category>
+		<category>GitHub Copilot</category>
+		<category>AI</category>
+		<category>benchmarking</category>
+		<category>code review</category>
+		<guid isPermaLink="false">https://github.blog/?p=99258</guid>
+
+					<description>&lt;p&gt;We’re launching ReviewBench, a benchmark for code review agents built on representative GitHub pull requests, multi-source ground truth, calibrated evaluation, and production-aligned metrics.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review/"&gt;ReviewBench: An open benchmark for AI code review&lt;/a&gt; appeared first on &lt;a href="htt</description>
+										<ns4:encoded>&lt;!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"&gt;
+&lt;html&gt;&lt;body&gt;&lt;p class="wp-block-paragraph"&gt;Agentic code review is becoming an essential piece of how development happens. It helps you inspect pull requests, catch issues, and decide what deserves attention before code ships.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;But the quality of existing AI </ns4:encoded>
+					
+		
+		
+		<ns2:post-id>99258</ns2:post-id>	</item>
+		<item>
+		<title>AI is changing developer work. Here are three skills to strengthen.</title>
+		<link>https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out/</link>
+		
+		<dc:creator>Gwen Davis</dc:creator>
+		<pubDate>Fri, 02 Oct 2026 15:00:00 +0000</pubDate>
+				<category>AI &amp; ML</category>
+		<category>Career growth</category>
+		<category>Developer skills</category>
+		<category>AI</category>
+		<category>career development</category>
+		<guid isPermaLink="false">https://github.blog/?p=99170</guid>
+
+					<description>&lt;p&gt;Learn to direct AI agents, critically review their output, and keep technical judgment at the center of your workflow.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out/"&gt;AI is changing developer work. Here are three skills to strengthen.&lt;/a&gt; appeared first on &lt;a href="https://github.blog"&gt;The GitHub Blog&lt;/a&gt;.&lt;/p&gt;
+</description>
+										<ns4:encoded>&lt;!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"&gt;
+&lt;html&gt;&lt;body&gt;&lt;p class="wp-block-paragraph"&gt;AI is changing how developers work and apply their skills. Writing code is still essential, but developers increasingly need to know how to direct AI, evaluate its output, communicate tradeoffs, and make sound technical decisions.&lt;/p&gt;
+
+
+
+&lt;p class="wp-</ns4:encoded>
+					
+		
+		
+		<ns2:post-id>99170</ns2:post-id>	</item>
+		<item>
+		<title>GitHub Copilot app for Beginners: How to build custom workflows with canvases</title>
+		<link>https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases/</link>
+		
+		<dc:creator>Kayla Cinnamon</dc:creator>
+		<pubDate>Fri, 25 Sep 2026 18:00:00 +0000</pubDate>
+				<category>AI &amp; ML</category>
+		<category>GitHub Copilot</category>
+		<category>GitHub Copilot app</category>
+		<category>GitHub Copilot app for Beginners</category>
+		<guid isPermaLink="false">https://github.blog/?p=99027</guid>
+
+					<description>&lt;p&gt;Describe the interface you need in plain English, then let the agent build a live surface you can both use and update—so you spend less time adapting to tools and more time getting work done.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases/"&gt;GitHub Copilot app for Beginners: How to build custom wo</description>
+										<ns4:encoded>&lt;!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"&gt;
+&lt;html&gt;&lt;body&gt;&lt;p class="wp-block-paragraph"&gt;Most tools give you a fixed set of screens and ask you to fit your work into them. But what if you could start with the workflow you want instead and have the interface take shape around it?&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;That&amp;rsquo;s the idea b</ns4:encoded>
+					
+		
+		
+		<ns2:post-id>99027</ns2:post-id>	</item>
+		<item>
+		<title>When chat is the wrong UI</title>
+		<link>https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui/</link>
+		
+		<dc:creator>Burke Holland</dc:creator>
+		<pubDate>Thu, 24 Sep 2026 20:00:00 +0000</pubDate>
+				<category>AI &amp; ML</category>
+		<category>GitHub Copilot</category>
+		<category>canvases</category>
+		<category>GitHub Copilot app</category>
+		<guid isPermaLink="false">https://github.blog/?p=98939</guid>
+
+					<description>&lt;p&gt;What is a developer to do when they need something more tangible than a chat box? Enter canvases.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui/"&gt;When chat is the wrong UI&lt;/a&gt; appeared first on &lt;a href="https://github.blog"&gt;The GitHub Blog&lt;/a&gt;.&lt;/p&gt;
+</description>
+										<ns4:encoded>&lt;!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"&gt;
+&lt;html&gt;&lt;body&gt;&lt;p class="wp-block-paragraph"&gt;We&amp;rsquo;re 176 years into this AI experiment.&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Wait&amp;hellip;it&amp;rsquo;s only been three years?&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Are you sure?&lt;/p&gt;
+
+
+
+&lt;p class="wp-block-paragraph"&gt;Sometimes I remember things that </ns4:encoded>
+					
+		
+		
+		<ns2:post-id>98939</ns2:post-id>	</item>
+	</channel>
+</rss>

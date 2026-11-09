@@ -1,0 +1,195 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <ns0:id>tag:github.com,2008:https://github.com/anthropics/anthropic-sdk-python/releases</ns0:id>
+  <ns0:link type="text/html" rel="alternate" href="https://github.com/anthropics/anthropic-sdk-python/releases" />
+  <ns0:link type="application/atom+xml" rel="self" href="https://github.com/anthropics/anthropic-sdk-python/releases.atom" />
+  <ns0:title>Release notes from anthropic-sdk-python</ns0:title>
+  <ns0:updated>2026-11-05T18:56:55Z</ns0:updated>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/590187800/v2.6.0</ns0:id>
+    <ns0:updated>2026-11-05T18:58:47Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.6.0" />
+    <ns0:title>v2.6.0</ns0:title>
+    <ns0:content type="html">&lt;h3&gt;Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;api:&lt;/strong&gt; add error code for ramp limit errors&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;api:&lt;/strong&gt; add error codes for External Key validation failures&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;api:&lt;/strong&gt; add support for signing organization members out everywhere&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Bug Fixes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;bedrock,vertex:&lt;/strong&gt; raise error-code and status exception classes on platform clients&lt;/</ns0:content>
+    <ns0:author>
+      <ns0:name>anthropic-sdks-releaser[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/76263028?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/590187800/v2.5.0</ns0:id>
+    <ns0:updated>2026-11-04T20:27:20Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.5.0" />
+    <ns0:title>v2.5.0</ns0:title>
+    <ns0:content type="html">&lt;h3&gt;Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;api:&lt;/strong&gt; add error details types and new error type values&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;api:&lt;/strong&gt; add ids filter to list workspaces&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;client:&lt;/strong&gt; add error classes for HTTP statuses and API error codes, and error_code, details and api_message on APIStatusError&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Bug Fixes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;api:&lt;/strong&gt; capitalize CMEK in error d</ns0:content>
+    <ns0:author>
+      <ns0:name>anthropic-sdks-releaser[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/76263028?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/590187800/v2.4.0</ns0:id>
+    <ns0:updated>2026-11-02T19:07:19Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.4.0" />
+    <ns0:title>v2.4.0</ns0:title>
+    <ns0:content type="html">&lt;h3&gt;Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;api:&lt;/strong&gt; add GA methods for analytics, spend limits and RBAC&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;api:&lt;/strong&gt; add named beta types for unified metrics and RBAC delete responses&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;api:&lt;/strong&gt; add shared analytics order and increase request actor types&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;api:&lt;/strong&gt; add tool_use_limit_reached_error and compaction_limit_reached_error session err</ns0:content>
+    <ns0:author>
+      <ns0:name>anthropic-sdks-releaser[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/76263028?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/590187800/v2.3.0</ns0:id>
+    <ns0:updated>2026-10-23T23:18:22Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.3.0" />
+    <ns0:title>v2.3.0</ns0:title>
+    <ns0:content type="html">&lt;h3&gt;Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;api:&lt;/strong&gt; add Claude Tag endpoints for Claude Enterprise organizations&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Bug Fixes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;google-cloud:&lt;/strong&gt; send user profiles requests to the organization endpoint&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Chores&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;client:&lt;/strong&gt; stop sending query params hardcoded in endpoint paths&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;docs:&lt;/strong&gt; improve the desc</ns0:content>
+    <ns0:author>
+      <ns0:name>anthropic-sdks-releaser[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/76263028?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/590187800/v2.2.0</ns0:id>
+    <ns0:updated>2026-10-23T13:10:10Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.2.0" />
+    <ns0:title>v2.2.0</ns0:title>
+    <ns0:content type="html">&lt;h3&gt;Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;api:&lt;/strong&gt; add support for message threads&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;api:&lt;/strong&gt; add usage and cost reports by dimension, mark older reports legacy&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Bug Fixes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;client:&lt;/strong&gt; stop suggesting math.inf in the max_retries error message&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;tools:&lt;/strong&gt; leave the tool runner's history to the caller after &lt;code&gt;append_m</ns0:content>
+    <ns0:author>
+      <ns0:name>anthropic-sdks-releaser[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/76263028?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/590187800/v2.1.0</ns0:id>
+    <ns0:updated>2026-10-21T22:00:30Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.1.0" />
+    <ns0:title>v2.1.0</ns0:title>
+    <ns0:content type="html">&lt;h3&gt;Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;api:&lt;/strong&gt; add enforcement status, actions and filter to user profiles&lt;/li&gt;
+&lt;/ul&gt;</ns0:content>
+    <ns0:author>
+      <ns0:name>anthropic-sdks-releaser[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/76263028?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/590187800/v2.0.0</ns0:id>
+    <ns0:updated>2026-10-21T15:51:32Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/anthropics/anthropic-sdk-python/releases/tag/v2.0.0" />
+    <ns0:title>v2.0.0</ns0:title>
+    <ns0:content type="html">&lt;h3&gt;⚠ BREAKING CHANGES&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;api:&lt;/strong&gt; add support for new API version 2026-10-21&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;api:&lt;/strong&gt; add a workspace_id filter and the usage_tier scope type to list spend limits&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;api:&lt;/strong&gt; add support for new API version 2026-10-21&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Documentation&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;api:&lt;/strong&gt; remove outdated system</ns0:content>
+    <ns0:author>
+      <ns0:name>anthropic-sdks-releaser[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/76263028?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/590187800/v1.17.0</ns0:id>
+    <ns0:updated>2026-10-20T22:13:01Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.17.0" />
+    <ns0:title>v1.17.0</ns0:title>
+    <ns0:content type="html">&lt;h3&gt;Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;api:&lt;/strong&gt; add org webhook endpoints and user profile enforcement events&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;api:&lt;/strong&gt; add RBAC Group owner-access error codes to the Admin API&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;api:&lt;/strong&gt; document the unsupported_charset error code for plugin uploads&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Bug Fixes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;bedrock:&lt;/strong&gt; keep a workspace ID set in default_headers</ns0:content>
+    <ns0:author>
+      <ns0:name>anthropic-sdks-releaser[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/76263028?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/590187800/v1.16.0</ns0:id>
+    <ns0:updated>2026-10-20T17:49:46Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.16.0" />
+    <ns0:title>v1.16.0</ns0:title>
+    <ns0:content type="html">&lt;h3&gt;Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;api:&lt;/strong&gt; add data_refreshed_at and has_more to analytics report pages&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;api:&lt;/strong&gt; add workspace rate-limit updates to the Admin API&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;api:&lt;/strong&gt; make User Profiles generally available&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;client:&lt;/strong&gt; yield server-sent events with unrecognized event names&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;google-cloud:&lt;/strong&gt; use the v1</ns0:content>
+    <ns0:author>
+      <ns0:name>anthropic-sdks-releaser[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/76263028?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/590187800/v1.15.0</ns0:id>
+    <ns0:updated>2026-10-15T19:45:15Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/anthropics/anthropic-sdk-python/releases/tag/v1.15.0" />
+    <ns0:title>v1.15.0</ns0:title>
+    <ns0:content type="html">&lt;h3&gt;Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;api:&lt;/strong&gt; add between_tools to thinking types in model capabilities&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;api:&lt;/strong&gt; add the speed parameter and usage.speed to Messages&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;api:&lt;/strong&gt; return a Console organization's usage-tier spend cap as a read-only spend limit&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Chores&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;ci:&lt;/strong&gt; speed up breaking change detection&lt;/li&gt;
+&lt;l</ns0:content>
+    <ns0:author>
+      <ns0:name>anthropic-sdks-releaser[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/76263028?s=60&amp;v=4" />
+  </ns0:entry>
+</ns0:feed>

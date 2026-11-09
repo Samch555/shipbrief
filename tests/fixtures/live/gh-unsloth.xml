@@ -1,0 +1,149 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <ns0:id>tag:github.com,2008:https://github.com/unslothai/unsloth/releases</ns0:id>
+  <ns0:link type="text/html" rel="alternate" href="https://github.com/unslothai/unsloth/releases" />
+  <ns0:link type="application/atom+xml" rel="self" href="https://github.com/unslothai/unsloth/releases.atom" />
+  <ns0:title>Release notes from unsloth</ns0:title>
+  <ns0:updated>2026-11-06T14:29:30Z</ns0:updated>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/725205304/v0.1.916-beta</ns0:id>
+    <ns0:updated>2026-11-06T15:20:21Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/unslothai/unsloth/releases/tag/v0.1.916-beta" />
+    <ns0:title>Large Performance Fixes</ns0:title>
+    <ns0:content type="html">&lt;p&gt;This release brings large performance fixes across Unsloth: faster typing and search in long chats, faster image/video loads, two-GPU image/video gen. It also adds separate browsers for each chat, floating browser window.&lt;/p&gt;
+&lt;h2&gt;Highlights&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Large performance fixes&lt;/strong&gt; with more Glass theme optimizations coming next week&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Glass theme fixes&lt;/strong&gt; no m</ns0:content>
+    <ns0:author>
+      <ns0:name>shimmyshimmer</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/107991372?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/725205304/v0.1.915-beta</ns0:id>
+    <ns0:updated>2026-11-06T14:37:06Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/unslothai/unsloth/releases/tag/v0.1.915-beta" />
+    <ns0:title>Improved Customization + Glass + Browser Use</ns0:title>
+    <ns0:content type="html">&lt;p&gt;This release introduces &lt;strong&gt;Qwen3.8-Flash-Next&lt;/strong&gt; Dynamic V3.1, polishes the Glass themes (now in Beta), adds a Composer position slider and lets models interact with files in the built-in browser. It also brings lower idle memory usage, preserved chat context when switching GGUF models, faster MLX loading and FP8 LoRA training.&lt;/p&gt;
+&lt;h2&gt;Highlights&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Qwen3.8-Flash-N</ns0:content>
+    <ns0:author>
+      <ns0:name>shimmyshimmer</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/107991372?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/725205304/v0.1.914-beta</ns0:id>
+    <ns0:updated>2026-11-03T14:45:47Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/unslothai/unsloth/releases/tag/v0.1.914-beta" />
+    <ns0:title>Glass Theme, Personalize &amp; Faster Generation</ns0:title>
+    <ns0:content type="html">&lt;p&gt;Unsloth now has Glass themes and more customization options for backgrounds, greetings and chats. This release also brings faster generation, more multi-GPU training options and CPU training in Unsloth.&lt;/p&gt;
+&lt;a target="_blank" rel="noopener noreferrer" href="https://private-user-images.githubusercontent.com/107991372/692460191-bc38677f-9e49-4b46-b0ac-f16522541a57.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGci</ns0:content>
+    <ns0:author>
+      <ns0:name>shimmyshimmer</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/107991372?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/725205304/v0.1.913-beta</ns0:id>
+    <ns0:updated>2026-10-31T02:13:26Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/unslothai/unsloth/releases/tag/v0.1.913-beta" />
+    <ns0:title>Customize + Performance + UI/UX improvements</ns0:title>
+    <ns0:content type="html">&lt;p&gt;Make Unsloth your own with custom backgrounds and a improved UI/UX. This release also cuts app update times and speeds up Linux app and Qwen-Image gen when VRAM is limited.  Also new: DeepSeek-V4.1-Flash-1017 in Unsloth &lt;a href="https://unsloth.ai/docs/models/deepseek-v4.1-flash" rel="nofollow"&gt;Dynamic v3.1&lt;/a&gt; GGUFs (preview), FLUX.2-klein-9B on low-RAM machines, smoother chats and batched MoE</ns0:content>
+    <ns0:author>
+      <ns0:name>shimmyshimmer</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/107991372?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/725205304/v0.1.912-beta</ns0:id>
+    <ns0:updated>2026-10-28T14:50:25Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/unslothai/unsloth/releases/tag/v0.1.912-beta" />
+    <ns0:title>Trick or Treat + Optimizations</ns0:title>
+    <ns0:content type="html">&lt;p&gt;Halloween 👻 is here. Through October, a &lt;strong&gt;Trick or treat&lt;/strong&gt; row in the sidebar opens eleven Halloween themes, spooky greetings and a few spiders and bats.&lt;/p&gt;
+&lt;p&gt;This release also speeds up the first launch, Linux tool calls and model loading, and trains compatible fine-tuning jobs together with multi-LoRA.&lt;/p&gt;
+&lt;p align="center"&gt;
+&lt;a target="_blank" rel="noopener noreferrer" href="ht</ns0:content>
+    <ns0:author>
+      <ns0:name>danielhanchen</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/23090290?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/725205304/v0.1.911-beta</ns0:id>
+    <ns0:updated>2026-10-26T23:45:59Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/unslothai/unsloth/releases/tag/v0.1.911-beta" />
+    <ns0:title>Scheduled + MiniMax-M3.1-Flash + Perf Gains</ns0:title>
+    <ns0:content type="html">&lt;p&gt;This release adds scheduled tasks, FLUX-3 edit support, perf improvements and more. Also new: MiniMax-M3.1-Flash, face touch-ups for images and faster performance + chats on Mac.&lt;/p&gt;
+&lt;h2&gt;Highlights&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Scheduled tasks&lt;/strong&gt;: Run a prompt on a schedule with a local model or an API&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;MiniMax-M3.1-Flash&lt;/strong&gt;: MiniMax's 428B MoE (23B active) &lt;a href="https://</ns0:content>
+    <ns0:author>
+      <ns0:name>danielhanchen</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/23090290?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/725205304/v0.1.910-beta</ns0:id>
+    <ns0:updated>2026-10-24T03:58:39Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/unslothai/unsloth/releases/tag/v0.1.910-beta" />
+    <ns0:title>MOSS-Image, Flint &amp; NVIDIA Bolt E4B</ns0:title>
+    <ns0:content type="html">&lt;p&gt;Recursive's Flint, MOSS-Image and NVIDIA's Nemotron Bolt 4B are here! Run them locally in Unsloth. Also new: a chat-only Unsloth Desktop install, MLX MoE models bigger than your Mac's memory and an OpenAI-compatible fine-tuning API.&lt;/p&gt;
+&lt;h2&gt;Highlights&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Bigger MoE models on Mac&lt;/strong&gt;: MLX MoE models too big for memory keep experts on SSD, so Qwen3.8-Flash-Next runs on a 3</ns0:content>
+    <ns0:author>
+      <ns0:name>danielhanchen</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/23090290?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/725205304/v0.1.909-beta</ns0:id>
+    <ns0:updated>2026-10-19T16:50:21Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/unslothai/unsloth/releases/tag/v0.1.909-beta" />
+    <ns0:title>DeepSeek-V4.1 &amp; FLUX-3</ns0:title>
+    <ns0:content type="html">&lt;p&gt;DeepSeek-V4.1-Flash-1017 and FLUX.3 Image Klein are here! Run both locally in Unsloth. Also new: images and videos in chat, multi-GPU training with FSDP2 (alpha) and one-command MCP setup for coding agents.&lt;/p&gt;
+&lt;h2&gt;Highlights&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;DeepSeek-V4.1-Flash-1017&lt;/strong&gt;: 552B (16B active) - runs on ~125 GB at 1-bit with its Engram table on SSD &lt;a href="https://unsloth.ai/docs/models/</ns0:content>
+    <ns0:author>
+      <ns0:name>danielhanchen</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/23090290?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/725205304/v0.1.908-beta</ns0:id>
+    <ns0:updated>2026-10-17T06:22:08Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/unslothai/unsloth/releases/tag/v0.1.908-beta" />
+    <ns0:title>Meta Muse Spark Open + NVIDIA Nemotron 3.5</ns0:title>
+    <ns0:content type="html">&lt;p&gt;Run NVIDIA's new Nemotron 3.5 models and Meta's new Muse Spark Open locally in Unsloth. New: text-diffusion LLMs, DeepSpeed training and better prompt caching for coding agents.&lt;/p&gt;
+&lt;h2&gt;Highlights&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;NVIDIA Nemotron 3.5 Bolt&lt;/strong&gt;: Run on 24 GB of memory. &lt;a href="https://unsloth.ai/docs/models/nemotron-3.5-bolt" rel="nofollow"&gt;Guide&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;NVIDIA Nemotron 3.</ns0:content>
+    <ns0:author>
+      <ns0:name>shimmyshimmer</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/107991372?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/725205304/v0.1.907-beta</ns0:id>
+    <ns0:updated>2026-10-13T22:38:10Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/unslothai/unsloth/releases/tag/v0.1.907-beta" />
+    <ns0:title>Large Performance Gains + More Browser Use</ns0:title>
+    <ns0:content type="html">&lt;p&gt;Unsloth has gotten major performance upgrades!&lt;/p&gt;
+&lt;h2&gt;Highlights&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Large perf gains&lt;/strong&gt;: all Unsloth UI/UX faster - up to 10x for multiple chats&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Up to 5x faster inference&lt;/strong&gt;: 95% cache hit rate, MoE Strata style fixes, slowdown fixes&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Better Compaction&lt;/strong&gt; - works for all API + better UI handling&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Drag and dro</ns0:content>
+    <ns0:author>
+      <ns0:name>shimmyshimmer</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/107991372?s=60&amp;v=4" />
+  </ns0:entry>
+</ns0:feed>

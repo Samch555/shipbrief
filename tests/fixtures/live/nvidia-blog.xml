@@ -1,0 +1,525 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://purl.org/rss/1.0/modules/syndication/" xmlns:ns3="http://purl.org/rss/1.0/modules/content/" xmlns:ns4="http://search.yahoo.com/mrss/" version="2.0">
+
+<channel>
+	<title>NVIDIA Blog</title>
+	<ns0:link href="https://blogs.nvidia.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://blogs.nvidia.com/</link>
+	<description />
+	<lastBuildDate>Mon, 09 Nov 2026 17:04:15 +0000</lastBuildDate>
+	<language>en-US</language>
+	<ns1:updatePeriod>
+	hourly	</ns1:updatePeriod>
+	<ns1:updateFrequency>
+	1	</ns1:updateFrequency>
+	<generator>https://wordpress.org/?v=7.1.4</generator>
+	<item>
+		<title>Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Simulation</title>
+		<link>https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/</link>
+		
+		<dc:creator>Sasa Docca</dc:creator>
+		<pubDate>Mon, 09 Nov 2026 14:00:01 +0000</pubDate>
+				<category>Robotics</category>
+		<category>Agentic AI</category>
+		<category>Artificial Intelligence</category>
+		<category>Cosmos</category>
+		<category>Events</category>
+		<category>Industrial and Manufacturing</category>
+		<category>Isaac</category>
+		<category>NVIDIA Research</category>
+		<category>Omniverse</category>
+		<category>Open Source</category>
+		<category>Physical AI</category>
+		<category>Simulation and Design</category>
+		<guid isPermaLink="false">https://blogs.nvidia.com/?p=99751</guid>
+
+					<description>Simulation, which has long been the proving ground for robots learning to walk, roll and hop, is now helping researchers teach robots tasks that require a finer touch: aligning gears, connecting cables and assembling small components.  The shift from locomotion to manipulation is taking center stage at this week’s Conference on Robot Learning (CoRL) in [&amp;#8230;]</description>
+										<ns3:encoded>&lt;div id="bsf_rt_marker"&gt;&lt;/div&gt;&lt;p&gt;&lt;span style="font-weight: 400;"&gt;Simulation, which has long been the proving ground for robots learning to walk, roll and hop, is now helping researchers teach robots tasks that require a finer touch: aligning gears, connecting cables and assembling small components. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-weight: 400;"&gt;The shift from locomotion to manipulation is taking c</ns3:encoded>
+					
+		
+		<enclosure url="https://blogs.nvidia.com/wp-content/uploads/2026/11/groot-2-shipping-label.mp4" length="2908942" type="video/mp4" />
+<enclosure url="https://blogs.nvidia.com/wp-content/uploads/2026/11/egohand-demo.mp4" length="9611394" type="video/mp4" />
+<enclosure url="https://blogs.nvidia.com/wp-content/uploads/2026/11/newton-strawberry.mp4" length="1989701" type="video/mp4" />
+<enclosure url="https://blogs.nvidia.com/wp-content/uploads/2026/11/newton-physx-web.mp4" length="949677" type="video/mp4" />
+<enclosure url="https://blogs.nvidia.com/wp-content/uploads/2026/11/robotics-montage-8s.mp4" length="8704810" type="video/mp4" />
+<enclosure url="https://blogs.nvidia.com/wp-content/uploads/2026/11/flexion-newton-isaac-lab.mp4" length="10947153" type="video/mp4" />
+<enclosure url="https://blogs.nvidia.com/wp-content/uploads/2026/11/alphanist-6-16s-web.mp4" length="2092344" type="video/mp4" />
+<enclosure url="https://blogs.nvidia.com/wp-content/uploads/2026/11/task-tool-sorting.mp4" length="640183" type="video/mp4" />
+<enclosure url="https://blogs.nvidia.com/wp-content/uploads/2026/11/wipe-the-bar.mp4" length="213015" type="video/mp4" />
+
+				<ns4:content url="https://blogs.nvidia.com/wp-content/uploads/2026/11/corl-corp-blog-promo-pack-1920x1080-1.png" type="image/png" width="1920" height="1080">
+			
+			Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Simulation
+			
+		</ns4:content>
+	</item>
+		<item>
+		<title>NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum</title>
+		<link>https://blogs.nvidia.com/blog/korean-startup-investments-msit/</link>
+		
+		<dc:creator>NVIDIA Writers</dc:creator>
+		<pubDate>Mon, 09 Nov 2026 08:00:53 +0000</pubDate>
+				<category>AI</category>
+		<category>Agentic AI</category>
+		<category>Events</category>
+		<category>Inception</category>
+		<category>Physical AI</category>
+		<category>Robotics</category>
+		<guid isPermaLink="false">https://blogs.nvidia.com/?p=99744</guid>
+
+					<description>Korea’s Ministry of Science and ICT and NVIDIA hosted the MSIT-NVIDIA AI Startup Partnership Forum at COEX. Ryu Je-myung, vice minister of science and ICT, joined NVIDIA leaders to meet with over 20 Korean startups across foundation models, physical AI, AI infrastructure and AI semiconductors. NVIDIA also announced an investment in Korean startup Point2, with [&amp;#8230;]</description>
+										<ns3:encoded>&lt;div id="bsf_rt_marker"&gt;&lt;/div&gt;&lt;p&gt;&lt;span style="font-weight: 400;"&gt;Korea’s Ministry of Science and ICT and NVIDIA hosted the &lt;/span&gt;&lt;span style="font-weight: 400;"&gt;MSIT&lt;/span&gt;&lt;span style="font-weight: 400;"&gt;-NVIDIA AI Startup Partnership Forum at COEX.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-weight: 400;"&gt;Ryu Je-myung, vice minister of science and ICT&lt;/span&gt;&lt;span style="font-weight: 400;"&gt;, joined NVIDIA le</ns3:encoded>
+					
+		
+		
+				<ns4:content url="https://blogs.nvidia.com/wp-content/uploads/2026/11/korea-startups-msit-1920x1080-1.jpg" type="image/jpeg" width="1920" height="1080">
+			
+			NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum
+			
+		</ns4:content>
+	</item>
+		<item>
+		<title>Korea Advances Physical AI Across Industries With NVIDIA</title>
+		<link>https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem/</link>
+		
+		<dc:creator>NVIDIA Writers</dc:creator>
+		<pubDate>Mon, 09 Nov 2026 05:00:40 +0000</pubDate>
+				<category>Driving</category>
+		<category>Robotics</category>
+		<category>CUDA</category>
+		<category>Industrial and Manufacturing</category>
+		<category>Isaac</category>
+		<category>NVIDIA Halos</category>
+		<category>NVIDIA Jetson</category>
+		<category>NVIDIA PhysicsNeMo</category>
+		<category>Physical AI</category>
+		<guid isPermaLink="false">https://blogs.nvidia.com/?p=99712</guid>
+
+					<description>Tapping into the country’s strengths in manufacturing and engineering, NVIDIA is helping advance Korea’s physical AI ecosystem. The country’s industry leaders are applying accelerated computing, AI and simulation to everything from semiconductor manufacturing to robotics and autonomous vehicles. These efforts are helping bring physical AI from development into real-world production. Samsung Advanc</description>
+										<ns3:encoded>&lt;div id="bsf_rt_marker"&gt;&lt;/div&gt;&lt;p&gt;&lt;span style="font-weight: 400;"&gt;Tapping into the country’s strengths in manufacturing and engineering, NVIDIA is helping advance Korea’s physical AI ecosystem. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-weight: 400;"&gt;The country’s industry leaders are applying accelerated computing, AI and simulation to everything from semiconductor manufacturing to robotics and autonomous v</ns3:encoded>
+					
+		
+		
+				<ns4:content url="https://blogs.nvidia.com/wp-content/uploads/2026/11/omniverse-overall-ai-day-seoul-1920x1080-1.jpeg" type="image/jpeg" width="1920" height="1080">
+			
+			Korea Advances Physical AI Across Industries With NVIDIA
+			
+		</ns4:content>
+	</item>
+		<item>
+		<title>Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA</title>
+		<link>https://blogs.nvidia.com/blog/korea-secure-agentic-ai/</link>
+		
+		<dc:creator>Nicola Sessions</dc:creator>
+		<pubDate>Mon, 09 Nov 2026 05:00:39 +0000</pubDate>
+				<category>AI</category>
+		<category>Agentic AI</category>
+		<category>Nemotron</category>
+		<category>Open Source</category>
+		<category>OpenShell</category>
+		<guid isPermaLink="false">https://blogs.nvidia.com/?p=99736</guid>
+
+					<description>As AI agents take on more work, they need capable open models and security that advances alongside them. Hyundai Motor Group is exploring NVIDIA NemoClaw blueprints and the NVIDIA OpenShell runtime, while AIM Intelligence is integrating its Starfort platform with NVIDIA OpenShell to support secure AI agents for employee productivity and enterprise workflows. A key [&amp;#8230;]</description>
+										<ns3:encoded>&lt;div id="bsf_rt_marker"&gt;&lt;/div&gt;&lt;p&gt;&lt;span style="font-weight: 400;"&gt;As AI agents take on more work, they need capable open models and security that advances alongside them.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-weight: 400;"&gt;Hyundai Motor Group is exploring NVIDIA NemoClaw blueprints and the NVIDIA OpenShell runtime, while AIM Intelligence is integrating its Starfort platform with NVIDIA OpenShell to suppo</ns3:encoded>
+					
+		
+		
+				<ns4:content url="https://blogs.nvidia.com/wp-content/uploads/2026/11/korea-agentic-ai-1920x1080-1.jpg" type="image/jpeg" width="1920" height="1080">
+			
+			Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA
+			
+		</ns4:content>
+	</item>
+		<item>
+		<title>From Chips to Skills, NVIDIA and Korea Expand Sovereign AI Collaboration</title>
+		<link>https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration/</link>
+		
+		<dc:creator>Jesse Clayton</dc:creator>
+		<pubDate>Mon, 09 Nov 2026 05:00:04 +0000</pubDate>
+				<category>AI</category>
+		<category>Dynamo</category>
+		<category>NVLink</category>
+		<category>Sovereign AI</category>
+		<guid isPermaLink="false">https://blogs.nvidia.com/?p=99721</guid>
+
+					<description>NVIDIA and Korea’s Ministry of Science and ICT (MSIT) are expanding their collaboration across the country’s sovereign AI ecosystem, from AI semiconductors and data center infrastructure to talent, startups, models, agents and security. The collaboration lays the groundwork for Korean NPU and XPU companies to explore participation in the NVIDIA NVLink Fusion ecosystem, and includes [&amp;#8230;]</description>
+										<ns3:encoded>&lt;div id="bsf_rt_marker"&gt;&lt;/div&gt;&lt;p&gt;&lt;span style="font-weight: 400;"&gt;NVIDIA and Korea’s Ministry of Science and ICT (MSIT) are expanding their collaboration across the country’s sovereign AI ecosystem, from AI semiconductors and data center infrastructure to talent, startups, models, agents and security.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-weight: 400;"&gt;The collaboration lays the groundwork for Korean NPU</ns3:encoded>
+					
+		
+		
+				<ns4:content url="https://blogs.nvidia.com/wp-content/uploads/2026/11/korea-sovereign-ai-nvlink-fusion.jpg" type="image/jpeg" width="1920" height="1080">
+			
+			From Chips to Skills, NVIDIA and Korea Expand Sovereign AI Collaboration
+			
+		</ns4:content>
+	</item>
+		<item>
+		<title>NVIDIA Dynamo Recipes Bring Korea’s Leading Open Models to Production</title>
+		<link>https://blogs.nvidia.com/blog/nvidia-dynamo-korea-open-models/</link>
+		
+		<dc:creator>Amr Elmeleegy</dc:creator>
+		<pubDate>Mon, 09 Nov 2026 05:00:00 +0000</pubDate>
+				<category>AI</category>
+		<category>Dynamo</category>
+		<category>Inference</category>
+		<category>Open Source</category>
+		<guid isPermaLink="false">https://blogs.nvidia.com/?p=99731</guid>
+
+					<description>NVIDIA is releasing Dynamo-optimized deployment recipes for Korea’s leading open models: A.X K2 from SK Telecom, K-EXAONE 2.0 from LG AI Research, Solar Open 2 from Upstage and Motif-3 from Motif Technologies. As models grow beyond the capacity of a single GPU, they must be split across multiple GPUs, requiring careful coordination of request routing [&amp;#8230;]</description>
+										<ns3:encoded>&lt;div id="bsf_rt_marker"&gt;&lt;/div&gt;&lt;p&gt;&lt;span style="font-weight: 400;"&gt;NVIDIA is releasing Dynamo-optimized deployment recipes for Korea’s leading open models: A.X K2 from &lt;/span&gt;&lt;span style="font-weight: 400;"&gt;SK Telecom&lt;/span&gt;&lt;span style="font-weight: 400;"&gt;, K-EXAONE 2.0 from &lt;/span&gt;&lt;span style="font-weight: 400;"&gt;LG AI Research&lt;/span&gt;&lt;span style="font-weight: 400;"&gt;, Solar Open 2 from &lt;/span&gt;&lt;span s</ns3:encoded>
+					
+		
+		
+				<ns4:content url="https://blogs.nvidia.com/wp-content/uploads/2026/11/dynamo-korea-ai-day.jpg" type="image/jpeg" width="1920" height="1080">
+			
+			NVIDIA Dynamo Recipes Bring Korea’s Leading Open Models to Production
+			
+		</ns4:content>
+	</item>
+		<item>
+		<title>How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks</title>
+		<link>https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks/</link>
+		
+		<dc:creator>Soma Velayutham</dc:creator>
+		<pubDate>Fri, 06 Nov 2026 16:00:35 +0000</pubDate>
+				<category>AI</category>
+		<category>AI Infrastructure</category>
+		<category>Software</category>
+		<category>6G</category>
+		<category>Open Source</category>
+		<category>Telecommunications</category>
+		<guid isPermaLink="false">https://blogs.nvidia.com/?p=99702</guid>
+
+					<description>A year ago, NVIDIA open sourced its Aerial wireless software, joining Sionna and a broader suite of open source tools for accelerating next-generation 6G network development. Together, they give researchers a foundation for testing ideas, comparing results and building on each other’s work — connecting simulation and AI training with experiments on real over-the-air wireless [&amp;#8230;]</description>
+										<ns3:encoded>&lt;div id="bsf_rt_marker"&gt;&lt;/div&gt;&lt;p&gt;&lt;span style="font-weight: 400;"&gt;A year ago, NVIDIA &lt;/span&gt;&lt;a href="https://blogs.nvidia.com/blog/open-source-aerial-ai-native-6g/"&gt;&lt;span style="font-weight: 400;"&gt;open sourced its Aerial wireless software&lt;/span&gt;&lt;/a&gt;&lt;span style="font-weight: 400;"&gt;, joining Sionna and a broader suite of open source tools for accelerating next-generation 6G network development. Toget</ns3:encoded>
+					
+		
+		
+				<ns4:content url="https://blogs.nvidia.com/wp-content/uploads/2026/11/Screenshot-2026-11-05-at-8.30.25-PM-scaled.png" type="image/png" width="2048" height="1152">
+			
+			How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks
+			
+		</ns4:content>
+	</item>
+		<item>
+		<title>Vera Delivers the Best of Both Worlds: Highest Throughput and Fastest Agents</title>
+		<link>https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents/</link>
+		
+		<dc:creator>Hannah Coutand</dc:creator>
+		<pubDate>Thu, 05 Nov 2026 20:00:41 +0000</pubDate>
+				<category>AI Infrastructure</category>
+		<category>Hardware</category>
+		<category>Networking</category>
+		<category>Software</category>
+		<category>Agentic AI</category>
+		<category>NVIDIA Vera</category>
+		<guid isPermaLink="false">https://blogs.nvidia.com/?p=99689</guid>
+
+					<description>AI agents do more than generate answers. They search for information, query databases, write and test code and take action.  Each of those steps relies on a CPU, with agents moving between GPU reasoning and CPU execution throughout a task.  As businesses put more agents to work, AI factories need CPUs that can execute those [&amp;#8230;]</description>
+										<ns3:encoded>&lt;div id="bsf_rt_marker"&gt;&lt;/div&gt;&lt;p&gt;&lt;span style="font-weight: 400;"&gt;AI agents do more than generate answers. They search for information, query databases, write and test code and take action. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-weight: 400;"&gt;Each of those steps relies on a CPU, with agents moving between GPU reasoning and CPU execution throughout a task. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-weight: 400;"&gt;As</ns3:encoded>
+					
+		
+		
+				<ns4:content url="https://blogs.nvidia.com/wp-content/uploads/2026/11/tech-blog-cpu-architecture-angled-vera-rack-5769445-1920x1080-1.png" type="image/png" width="1920" height="1080">
+			
+			Vera Delivers the Best of Both Worlds: Highest Throughput and Fastest Agents
+			
+		</ns4:content>
+	</item>
+		<item>
+		<title>Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents</title>
+		<link>https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/</link>
+		
+		<dc:creator>NVIDIA Writers</dc:creator>
+		<pubDate>Thu, 05 Nov 2026 17:00:35 +0000</pubDate>
+				<category>Robotics</category>
+		<category>Agentic AI</category>
+		<category>Into the Omniverse</category>
+		<category>NVIDIA Isaac Sim</category>
+		<category>Omniverse</category>
+		<category>OpenUSD</category>
+		<category>Physical AI</category>
+		<category>Simulation</category>
+		<guid isPermaLink="false">https://blogs.nvidia.com/?p=98677</guid>
+
+					<description>Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help carry out that work — building applications for exploring scenarios, investigating failures and improving designs. Developers direct AI agents through [&amp;#8</description>
+										<ns3:encoded>&lt;div id="bsf_rt_marker"&gt;&lt;/div&gt;&lt;p&gt;&lt;span style="font-weight: 400;"&gt;Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with&lt;/span&gt;&lt;a target="_blank" href="https://developer.nvidia.com/omniverse"&gt; &lt;span style="font-weight: 400;"&gt;NVIDIA Omniverse libr</ns3:encoded>
+					
+		
+		<enclosure url="https://blogs.nvidia.com/wp-content/uploads/2026/10/Humanoid-Warehouse.mp4" length="9339145" type="video/mp4" />
+<enclosure url="https://blogs.nvidia.com/wp-content/uploads/2026/10/zero-to-alpamayo-under-10MB.mp4" length="9692557" type="video/mp4" />
+<enclosure url="https://blogs.nvidia.com/wp-content/uploads/2026/10/0_00-0_004-hubble_rivermark_Real_Sim_no_loop.mp4" length="6517882" type="video/mp4" />
+<enclosure url="https://blogs.nvidia.com/wp-content/uploads/2026/10/Infra-scale-demo-20260914_144614-Meeting-Recording.mp4" length="6815937" type="video/mp4" />
+<enclosure url="https://blogs.nvidia.com/wp-content/uploads/2026/10/scurve_rl_vs_astra_side_by_side.mp4" length="6145836" type="video/mp4" />
+<enclosure url="https://blogs.nvidia.com/wp-content/uploads/2026/10/relay-video-v14-1080p.mp4" length="9557112" type="video/mp4" />
+<enclosure url="https://blogs.nvidia.com/wp-content/uploads/2026/10/Turbine-Lab-RTX-and-What-If-under-10MB-1.mp4" length="9387027" type="video/mp4" />
+<enclosure url="https://blogs.nvidia.com/wp-content/uploads/2026/10/kitchen_final_blog_with_music.mp4" length="9974240" type="video/mp4" />
+<enclosure url="https://blogs.nvidia.com/wp-content/uploads/2026/10/Robot_Hand_Video_Omniverse.mp4" length="7901725" type="video/mp4" />
+<enclosure url="https://blogs.nvidia.com/wp-content/uploads/2026/11/Robotic_Dissasembly_Omniverse.mp4" length="8670789" type="video/mp4" />
+
+				<ns4:content url="https://blogs.nvidia.com/wp-content/uploads/2026/10/Copy-of-nvidia-ov-x-astra-4up-KV-r1-press-4k-r2-scaled.png" type="image/png" width="2048" height="1152">
+			
+			Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents
+			
+		</ns4:content>
+	</item>
+		<item>
+		<title>The Wizard of Open Weights: Chris Alexiuk Makes AI Easy With Open Models</title>
+		<link>https://blogs.nvidia.com/blog/nvidia-life-chris-alexiuk/</link>
+		
+		<dc:creator>Matthew Leib</dc:creator>
+		<pubDate>Thu, 05 Nov 2026 16:00:05 +0000</pubDate>
+				<category>AI</category>
+		<category>NVIDIA Life</category>
+		<category>Agentic AI</category>
+		<category>Nemotron</category>
+		<category>Nemotron Labs</category>
+		<category>Open Source</category>
+		<guid isPermaLink="false">https://blogs.nvidia.com/?p=99663</guid>
+
+					<description>Chris Alexiuk has a simple rule about open source AI: If you believe in it, be loud about it. “We should be shouting about this technology from the rooftops,” said Alexiuk, a Toronto-based senior product research engineer in deep learning at NVIDIA who specializes in making open large language models (LLMs) practical for working developers.  [&amp;#8230;]</description>
+										<ns3:encoded>&lt;div id="bsf_rt_marker"&gt;&lt;/div&gt;&lt;p&gt;&lt;span style="font-weight: 400"&gt;Chris Alexiuk has a simple rule about open source AI: If you believe in it, be loud about it.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-weight: 400"&gt;“We should be shouting about this technology from the rooftops,” said Alexiuk, a Toronto-based senior product research engineer in deep learning at NVIDIA who specializes in making open large langu</ns3:encoded>
+					
+		
+		<enclosure url="https://blogs.nvidia.com/wp-content/uploads/2026/11/ChrisAlexiuk_captions_9MB.mp4" length="9701261" type="video/mp4" />
+
+				<ns4:content url="https://blogs.nvidia.com/wp-content/uploads/2026/11/Chris-Alexiuk_portrait-1280-720.png" type="image/png" width="1280" height="720">
+			
+			The Wizard of Open Weights: Chris Alexiuk Makes AI Easy With Open Models
+			
+		</ns4:content>
+	</item>
+		<item>
+		<title>More Performance From Every Byte: How Full-Stack Codesign Solves AI’s Memory Challenge</title>
+		<link>https://blogs.nvidia.com/blog/memory-full-stack-codesign/</link>
+		
+		<dc:creator>Amr Elmeleegy</dc:creator>
+		<pubDate>Thu, 05 Nov 2026 16:00:00 +0000</pubDate>
+				<category>AI Infrastructure</category>
+		<category>Agentic AI</category>
+		<category>AI Factory</category>
+		<category>Artificial Intelligence</category>
+		<category>Dynamo</category>
+		<category>Hardware</category>
+		<category>Inference</category>
+		<category>Nemotron</category>
+		<category>NVIDIA Blackwell</category>
+		<category>NVIDIA Hopper Architecture</category>
+		<category>NVIDIA Rubin</category>
+		<category>NVIDIA Vera</category>
+		<category>NVLink</category>
+		<guid isPermaLink="false">https://blogs.nvidia.com/?p=99648</guid>
+
+					<description>Larger models, longer contexts and agentic applications are increasing GPU memory pressure while supply tightens and prices rise — a trend expected to continue through the near term. NVIDIA works closely with memory partners to rapidly adopt the latest memory technologies. NVIDIA was first to adopt HBM3e and HBM4 technologies into an accelerated computing stack.  [&amp;#8230;]</description>
+										<ns3:encoded>&lt;div id="bsf_rt_marker"&gt;&lt;/div&gt;&lt;p&gt;&lt;span style="font-weight: 400;"&gt;Larger models, longer contexts and agentic applications are increasing GPU memory pressure while supply tightens and prices rise — a trend expected to continue through the near term.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-weight: 400;"&gt;NVIDIA works closely with memory partners to rapidly adopt the latest memory technologies. NVIDIA was firs</ns3:encoded>
+					
+		
+		
+				<ns4:content url="https://blogs.nvidia.com/wp-content/uploads/2026/11/memory-codesign-1920x1080-1.jpg" type="image/jpeg" width="1920" height="1080">
+			
+			More Performance From Every Byte: How Full-Stack Codesign Solves AI’s Memory Challenge
+			
+		</ns4:content>
+	</item>
+		<item>
+		<title>‘Hogwarts Legacy’ Gets a Magical NVIDIA DLSS 5 Upgrade on GeForce NOW</title>
+		<link>https://blogs.nvidia.com/blog/geforce-now-thursday-hogwarts-legacy-dlss-5/</link>
+		
+		<dc:creator>GeForce NOW Community</dc:creator>
+		<pubDate>Thu, 05 Nov 2026 14:00:34 +0000</pubDate>
+				<category>Gaming</category>
+		<category>Cloud Gaming</category>
+		<category>GeForce NOW</category>
+		<guid isPermaLink="false">https://blogs.nvidia.com/?p=99635</guid>
+
+					<description>Hogwarts Legacy receives an NVIDIA DLSS 5 upgrade with 3D-Guided Neural Rendering today, bringing lifelike lighting and materials to the wizarding world on GeForce NOW. Blizzard Entertainment’s World of Warcraft: Forever also opens a new chapter in Azeroth, with a launch-week access reward available for GeForce NOW members. Meanwhile, Ubisoft brings fresh challenges with expansions [&amp;#8230;]</description>
+										<ns3:encoded>&lt;div id="bsf_rt_marker"&gt;&lt;/div&gt;&lt;p&gt;&lt;i&gt;&lt;span style="font-weight: 400"&gt;Hogwarts Legacy&lt;/span&gt;&lt;/i&gt;&lt;span style="font-weight: 400"&gt; receives an &lt;/span&gt;&lt;a target="_blank" href="https://www.nvidia.com/en-us/geforce/news/dlss-5-faster-ai-model-hogwarts-legacy-rtx-spark-laptops/"&gt;&lt;span style="font-weight: 400"&gt;NVIDIA DLSS 5 upgrade with 3D-Guided Neural Rendering&lt;/span&gt;&lt;/a&gt;&lt;span style="font-weight: 400"&gt; tod</ns3:encoded>
+					
+		
+		
+				<ns4:content url="https://blogs.nvidia.com/wp-content/uploads/2026/11/gfn-thursday-11-5-blog-1920x1080-no-copy.jpg" type="image/jpeg" width="1920" height="1080">
+			
+			‘Hogwarts Legacy’ Gets a Magical NVIDIA DLSS 5 Upgrade on GeForce NOW
+			
+		</ns4:content>
+	</item>
+		<item>
+		<title>AI Is Changing How Semiconductor Fabs Work — and Engineers Are Moving Faster Because of It</title>
+		<link>https://blogs.nvidia.com/blog/ai-semiconductor-fabs/</link>
+		
+		<dc:creator>Timothy Costa</dc:creator>
+		<pubDate>Tue, 03 Nov 2026 16:00:45 +0000</pubDate>
+				<category>AI</category>
+		<category>Agentic AI</category>
+		<category>Artificial Intelligence</category>
+		<category>CUDA</category>
+		<category>Digital Twin</category>
+		<category>Industrial and Manufacturing</category>
+		<category>NVIDIA NeMo</category>
+		<category>NVIDIA PhysicsNeMo</category>
+		<category>Omniverse</category>
+		<category>Physical AI</category>
+		<category>Simulation</category>
+		<guid isPermaLink="false">https://blogs.nvidia.com/?p=99605</guid>
+
+					<description>Demand for advanced chips is rising. The processes to build them are getting more complex. And the margin for error is shrinking. For engineers, understanding how a process change will behave, how a material will interact with a new step, how a defect maps back to a root cause are critical, challenging steps in semiconductor [&amp;#8230;]</description>
+										<ns3:encoded>&lt;div id="bsf_rt_marker"&gt;&lt;/div&gt;&lt;p&gt;&lt;span style="font-weight: 400;"&gt;Demand for advanced chips is rising. The processes to build them are getting more complex. And the margin for error is shrinking.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-weight: 400;"&gt;For engineers, understanding how a process change will behave, how a material will interact with a new step, how a defect maps back to a root cause are critica</ns3:encoded>
+					
+		
+		
+				<ns4:content url="https://blogs.nvidia.com/wp-content/uploads/2026/11/ai-semiconductor-fab-still-1920x1080-1.jpg" type="image/jpeg" width="1920" height="1080">
+			
+			AI Is Changing How Semiconductor Fabs Work — and Engineers Are Moving Faster Because of It
+			
+		</ns4:content>
+	</item>
+		<item>
+		<title>Cities Worldwide Build and Scale AI Services With NVIDIA Physical and Agentic AI</title>
+		<link>https://blogs.nvidia.com/blog/cities-physical-agentic-ai-applications/</link>
+		
+		<dc:creator>Esther Lee</dc:creator>
+		<pubDate>Tue, 03 Nov 2026 07:00:12 +0000</pubDate>
+				<category>AI</category>
+		<category>Agentic AI</category>
+		<category>AI Factory</category>
+		<category>Artificial Intelligence</category>
+		<category>Cosmos</category>
+		<category>Customer Stories</category>
+		<category>Digital Twin</category>
+		<category>Events</category>
+		<category>Metropolis</category>
+		<category>Nemotron</category>
+		<category>NVIDIA Blueprints</category>
+		<category>Omniverse</category>
+		<category>Open Source</category>
+		<category>Physical AI</category>
+		<category>Public Sector</category>
+		<category>Smart Spaces</category>
+		<category>Sovereign AI</category>
+		<guid isPermaLink="false">https://blogs.nvidia.com/?p=99615</guid>
+
+					<description>Cities generate enormous amounts of data from cameras, sensors and operational systems, but turning it into useful action — for planning, maintenance and public services — remains a challenge. Physical and agentic AI offer new ways to close that gap, from digital twins for infrastructure planning to vision and service agents, while keeping local governments [&amp;#8230;]</description>
+										<ns3:encoded>&lt;div id="bsf_rt_marker"&gt;&lt;/div&gt;&lt;p&gt;&lt;span style="font-weight: 400;"&gt;Cities generate enormous amounts of data from cameras, sensors and operational systems, but turning it into useful action — for planning, maintenance and public services — remains a challenge.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-weight: 400;"&gt;Physical and agentic AI offer new ways to close that gap, from digital twins for infrastructure </ns3:encoded>
+					
+		
+		
+				<ns4:content url="https://blogs.nvidia.com/wp-content/uploads/2026/11/smart-city-blog-1920x1080-1.jpeg" type="image/jpeg" width="1920" height="1080">
+			
+			Cities Worldwide Build and Scale AI Services With NVIDIA Physical and Agentic AI
+			
+		</ns4:content>
+	</item>
+		<item>
+		<title>Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals</title>
+		<link>https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/</link>
+		
+		<dc:creator>Chris Porter</dc:creator>
+		<pubDate>Fri, 30 Oct 2026 15:00:10 +0000</pubDate>
+				<category>AI</category>
+		<category>Artificial Intelligence</category>
+		<category>Nemotron</category>
+		<category>NVIDIA Holoscan</category>
+		<category>Science</category>
+		<guid isPermaLink="false">https://blogs.nvidia.com/?p=99597</guid>
+
+					<description>While science fiction lore tells us that humans will meet extraterrestrial life in the form of little green men, the detail that should raise hairs this Halloween is this: the search for extraterrestrial intelligence took a major leap forward with AI, and it increasingly focuses on AI agents built by humans listening for AI agents [&amp;#8230;]</description>
+										<ns3:encoded>&lt;div id="bsf_rt_marker"&gt;&lt;/div&gt;&lt;p&gt;&lt;span style="font-weight: 400;"&gt;While science fiction lore tells us that humans will meet extraterrestrial life in the form of little green men, the detail that should raise hairs this Halloween is this: the search for extraterrestrial intelligence took a major leap forward with AI, and it increasingly focuses on AI agents built by humans listening for AI agents bu</ns3:encoded>
+					
+		
+		
+				<ns4:content url="https://blogs.nvidia.com/wp-content/uploads/2026/10/IMG_1607-ATA-2023-CREDIT-Joe-Marfia-scaled.jpg" type="image/jpeg" width="2048" height="1365">
+			
+			Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals
+			
+		</ns4:content>
+	</item>
+		<item>
+		<title>Slice Into GFN Thursday: ‘Phantom Blade Zero’ Launches on GeForce NOW</title>
+		<link>https://blogs.nvidia.com/blog/geforce-now-thursday-phantom-blade-zero/</link>
+		
+		<dc:creator>GeForce NOW Community</dc:creator>
+		<pubDate>Thu, 29 Oct 2026 13:00:16 +0000</pubDate>
+				<category>Gaming</category>
+		<category>Cloud Gaming</category>
+		<category>GeForce NOW</category>
+		<guid isPermaLink="false">https://blogs.nvidia.com/?p=99565</guid>
+
+					<description>This Halloween week, GFN Thursday is delivering a fresh batch of gaming treats. Something wicked this blade comes. S-GAME’s Phantom Blade Zero launches on GeForce NOW today, bringing a scarily good blend of martial arts and punk fantasy to the cloud. There’s also something on the horizon for adventurers: World of Warcraft: Forever arrives Wednesday, [&amp;#8230;]</description>
+										<ns3:encoded>&lt;div id="bsf_rt_marker"&gt;&lt;/div&gt;&lt;p&gt;&lt;span style="font-weight: 400"&gt;This Halloween week, GFN Thursday is delivering a fresh batch of gaming treats.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-weight: 400"&gt;Something wicked this blade comes. S-GAME’s &lt;/span&gt;&lt;i&gt;&lt;span style="font-weight: 400"&gt;Phantom Blade Zero&lt;/span&gt;&lt;/i&gt;&lt;span style="font-weight: 400"&gt; launches on &lt;/span&gt;&lt;a target="_blank" href="https://www.nvidia.co</ns3:encoded>
+					
+		
+		
+				<ns4:content url="https://blogs.nvidia.com/wp-content/uploads/2026/10/gfn-thursday-10-29-blog-1920x1080-logo.jpg" type="image/jpeg" width="1920" height="1080">
+			
+			Slice Into GFN Thursday: ‘Phantom Blade Zero’ Launches on GeForce NOW
+			
+		</ns4:content>
+	</item>
+		<item>
+		<title>Thin, Light and Built for Everything: NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games</title>
+		<link>https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/</link>
+		
+		<dc:creator>Shreevar Rastogi</dc:creator>
+		<pubDate>Wed, 28 Oct 2026 15:00:46 +0000</pubDate>
+				<category>AI</category>
+		<category>Agentic AI</category>
+		<category>Artificial Intelligence</category>
+		<category>Gaming</category>
+		<category>GeForce</category>
+		<category>Local AI</category>
+		<category>NVIDIA RTX</category>
+		<category>Open Source</category>
+		<category>RTX Spark</category>
+		<guid isPermaLink="false">https://blogs.nvidia.com/?p=99523</guid>
+
+					<description>NVIDIA RTX Spark powers thin and light laptops built for everything that developers, creators and gamers do. RTX Spark laptops are now available from ASUS, Dell, HP, Lenovo, Microsoft and MSI. These powerful systems combine an NVIDIA Blackwell RTX GPU and an NVIDIA Grace CPU in a single superchip with up to 128GB of unified [&amp;#8230;]</description>
+										<ns3:encoded>&lt;div id="bsf_rt_marker"&gt;&lt;/div&gt;&lt;p&gt;&lt;a target="_blank" href="https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs"&gt;&lt;span style="font-weight: 400;"&gt;NVIDIA RTX Spark&lt;/span&gt;&lt;/a&gt;&lt;span style="font-weight: 400;"&gt; powers thin and light laptops built for everything that developers, creators and gamers do.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-weight: 400;"&gt;RTX Spa</ns3:encoded>
+					
+		
+		
+				<ns4:content url="https://blogs.nvidia.com/wp-content/uploads/2026/10/nv-blog-1280x680-2-1.jpg" type="image/jpeg" width="1280" height="680">
+			
+			Thin, Light and Built for Everything: NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games
+			
+		</ns4:content>
+	</item>
+		<item>
+		<title>How AI Is Changing the Pace of Discovery for Millions Living With Dementia</title>
+		<link>https://blogs.nvidia.com/blog/open-source-ai-tools-cbrain-dementia/</link>
+		
+		<dc:creator>Anthony Costa</dc:creator>
+		<pubDate>Tue, 27 Oct 2026 15:00:20 +0000</pubDate>
+				<category>AI</category>
+		<category>Agentic AI</category>
+		<category>AI for Good</category>
+		<category>Healthcare and Life Sciences</category>
+		<category>Open Source</category>
+		<guid isPermaLink="false">https://blogs.nvidia.com/?p=99512</guid>
+
+					<description>There are 57 million people worldwide living with dementia today. For the researchers working to help them, the obstacle isn’t a lack of effort — it’s too much data, too few experts to synthesize it and a pace of discovery that can’t keep up with the disease.  The Consortium for Biomedical Research and AI in [&amp;#8230;]</description>
+										<ns3:encoded>&lt;div id="bsf_rt_marker"&gt;&lt;/div&gt;&lt;p&gt;&lt;span style="font-weight: 400;"&gt;There are 57 million people worldwide living with dementia today. For the researchers working to help them, the obstacle isn’t a lack of effort — it’s too much data, too few experts to synthesize it and a pace of discovery that can’t keep up with the disease. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-weight: 400;"&gt;The Consortium for Biomedica</ns3:encoded>
+					
+		
+		
+				<ns4:content url="https://blogs.nvidia.com/wp-content/uploads/2026/10/cbrain-nvidia-1.png" type="image/png" width="1484" height="835">
+			
+			How AI Is Changing the Pace of Discovery for Millions Living With Dementia
+			
+		</ns4:content>
+	</item>
+	</channel>
+</rss>

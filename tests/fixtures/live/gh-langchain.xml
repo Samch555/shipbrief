@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <ns0:id>tag:github.com,2008:https://github.com/langchain-ai/langchain/releases</ns0:id>
+  <ns0:link type="text/html" rel="alternate" href="https://github.com/langchain-ai/langchain/releases" />
+  <ns0:link type="application/atom+xml" rel="self" href="https://github.com/langchain-ai/langchain/releases.atom" />
+  <ns0:title>Release notes from langchain</ns0:title>
+  <ns0:updated>2026-11-05T22:54:06Z</ns0:updated>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/552661142/langchain-typesafe==0.0.2</ns0:id>
+    <ns0:updated>2026-11-05T22:57:00Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/langchain-ai/langchain/releases/tag/langchain-typesafe%3D%3D0.0.2" />
+    <ns0:title>langchain-typesafe==0.0.2</ns0:title>
+    <ns0:content type="html">&lt;p&gt;Changes since langchain-typesafe==0.0.1&lt;/p&gt;
+&lt;p&gt;release(typesafe): 0.0.2 (&lt;a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="6230967008" data-permission-text="Title is private" data-url="https://github.com/langchain-ai/langchain/issues/41720" data-hovercard-type="pull_request" data-hovercard-url="/langchain-ai/langchain/pull/41720/hovercard" href="https://github.</ns0:content>
+    <ns0:author>
+      <ns0:name>github-actions[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/552661142/langchain-core==1.7.6</ns0:id>
+    <ns0:updated>2026-11-05T00:22:14Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.7.6" />
+    <ns0:title>langchain-core==1.7.6</ns0:title>
+    <ns0:content type="html">&lt;p&gt;Changes since langchain-core==1.7.5&lt;/p&gt;
+&lt;p&gt;release(core): 1.7.6 (&lt;a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="6213888976" data-permission-text="Title is private" data-url="https://github.com/langchain-ai/langchain/issues/41698" data-hovercard-type="pull_request" data-hovercard-url="/langchain-ai/langchain/pull/41698/hovercard" href="https://github.com/lang</ns0:content>
+    <ns0:author>
+      <ns0:name>github-actions[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/552661142/langchain-typesafe==0.0.1</ns0:id>
+    <ns0:updated>2026-11-04T00:11:28Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/langchain-ai/langchain/releases/tag/langchain-typesafe%3D%3D0.0.1" />
+    <ns0:title>langchain-typesafe==0.0.1</ns0:title>
+    <ns0:content type="html">&lt;p&gt;Initial release&lt;/p&gt;
+&lt;p&gt;release(typesafe): 0.0.1 (&lt;a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="6177394114" data-permission-text="Title is private" data-url="https://github.com/langchain-ai/langchain/issues/41650" data-hovercard-type="pull_request" data-hovercard-url="/langchain-ai/langchain/pull/41650/hovercard" href="https://github.com/langchain-ai/langcha</ns0:content>
+    <ns0:author>
+      <ns0:name>github-actions[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/552661142/langchain-openai==1.7.4</ns0:id>
+    <ns0:updated>2026-11-04T16:55:56Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/langchain-ai/langchain/releases/tag/langchain-openai%3D%3D1.7.4" />
+    <ns0:title>langchain-openai==1.7.4</ns0:title>
+    <ns0:content type="html">&lt;p&gt;Changes since langchain-openai==1.7.3&lt;/p&gt;
+&lt;p&gt;release(openai): 1.7.4 (&lt;a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="6206524370" data-permission-text="Title is private" data-url="https://github.com/langchain-ai/langchain/issues/41683" data-hovercard-type="pull_request" data-hovercard-url="/langchain-ai/langchain/pull/41683/hovercard" href="https://github.com/</ns0:content>
+    <ns0:author>
+      <ns0:name>github-actions[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/552661142/langchain-fireworks==1.7.2</ns0:id>
+    <ns0:updated>2026-11-04T20:47:52Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/langchain-ai/langchain/releases/tag/langchain-fireworks%3D%3D1.7.2" />
+    <ns0:title>langchain-fireworks==1.7.2</ns0:title>
+    <ns0:content type="html">&lt;p&gt;Changes since langchain-fireworks==1.7.1&lt;/p&gt;
+&lt;p&gt;fix(fireworks): report streamed token usage once (&lt;a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="6210729612" data-permission-text="Title is private" data-url="https://github.com/langchain-ai/langchain/issues/41693" data-hovercard-type="pull_request" data-hovercard-url="/langchain-ai/langchain/pull/41693/hoverca</ns0:content>
+    <ns0:author>
+      <ns0:name>github-actions[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/552661142/langchain-core==1.7.5</ns0:id>
+    <ns0:updated>2026-11-04T15:50:07Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.7.5" />
+    <ns0:title>langchain-core==1.7.5</ns0:title>
+    <ns0:content type="html">&lt;p&gt;Changes since langchain-core==1.7.4&lt;/p&gt;
+&lt;p&gt;release(core): 1.7.5 (&lt;a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="6194131413" data-permission-text="Title is private" data-url="https://github.com/langchain-ai/langchain/issues/41665" data-hovercard-type="pull_request" data-hovercard-url="/langchain-ai/langchain/pull/41665/hovercard" href="https://github.com/lang</ns0:content>
+    <ns0:author>
+      <ns0:name>github-actions[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/552661142/langchain-anthropic==1.7.10</ns0:id>
+    <ns0:updated>2026-11-04T16:51:15Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/langchain-ai/langchain/releases/tag/langchain-anthropic%3D%3D1.7.10" />
+    <ns0:title>langchain-anthropic==1.7.10</ns0:title>
+    <ns0:content type="html">&lt;p&gt;Changes since langchain-anthropic==1.7.9&lt;/p&gt;
+&lt;p&gt;release(anthropic): 1.7.10 (&lt;a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="6207182262" data-permission-text="Title is private" data-url="https://github.com/langchain-ai/langchain/issues/41685" data-hovercard-type="pull_request" data-hovercard-url="/langchain-ai/langchain/pull/41685/hovercard" href="https://gith</ns0:content>
+    <ns0:author>
+      <ns0:name>github-actions[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/552661142/langchain==1.4.9</ns0:id>
+    <ns0:updated>2026-11-04T17:07:40Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/langchain-ai/langchain/releases/tag/langchain%3D%3D1.4.9" />
+    <ns0:title>langchain==1.4.9</ns0:title>
+    <ns0:content type="html">&lt;p&gt;Changes since langchain==1.4.8&lt;/p&gt;
+&lt;p&gt;release(langchain): 1.4.9 (&lt;a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="6207156487" data-permission-text="Title is private" data-url="https://github.com/langchain-ai/langchain/issues/41684" data-hovercard-type="pull_request" data-hovercard-url="/langchain-ai/langchain/pull/41684/hovercard" href="https://github.com/lang</ns0:content>
+    <ns0:author>
+      <ns0:name>github-actions[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/552661142/langchain-core==1.7.4</ns0:id>
+    <ns0:updated>2026-11-02T15:31:49Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/langchain-ai/langchain/releases/tag/langchain-core%3D%3D1.7.4" />
+    <ns0:title>langchain-core==1.7.4</ns0:title>
+    <ns0:content type="html">&lt;div class="markdown-alert markdown-alert-warning"&gt;&lt;p class="markdown-alert-title"&gt;&lt;svg data-component="Octicon" class="octicon octicon-alert mr-2" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"&gt;&lt;path d="M6.457 1.047c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0 1 14.082 15H1.918a1.75 1.75 0 0 1-1.543-2.575Zm1.763.707a.25.25 0 0 0-.44 0L1.698 13.132a.25.25 </ns0:content>
+    <ns0:author>
+      <ns0:name>github-actions[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/552661142/langchain-anthropic==1.7.9</ns0:id>
+    <ns0:updated>2026-11-02T20:14:21Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/langchain-ai/langchain/releases/tag/langchain-anthropic%3D%3D1.7.9" />
+    <ns0:title>langchain-anthropic==1.7.9</ns0:title>
+    <ns0:content type="html">&lt;p&gt;Changes since langchain-anthropic==1.7.8&lt;/p&gt;
+&lt;p&gt;release(anthropic): 1.7.9 (&lt;a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="6170055828" data-permission-text="Title is private" data-url="https://github.com/langchain-ai/langchain/issues/41644" data-hovercard-type="pull_request" data-hovercard-url="/langchain-ai/langchain/pull/41644/hovercard" href="https://githu</ns0:content>
+    <ns0:author>
+      <ns0:name>github-actions[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4" />
+  </ns0:entry>
+</ns0:feed>

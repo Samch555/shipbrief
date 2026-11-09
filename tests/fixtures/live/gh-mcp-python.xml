@@ -1,0 +1,144 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <ns0:id>tag:github.com,2008:https://github.com/modelcontextprotocol/python-sdk/releases</ns0:id>
+  <ns0:link type="text/html" rel="alternate" href="https://github.com/modelcontextprotocol/python-sdk/releases" />
+  <ns0:link type="application/atom+xml" rel="self" href="https://github.com/modelcontextprotocol/python-sdk/releases.atom" />
+  <ns0:title>Release notes from python-sdk</ns0:title>
+  <ns0:updated>2026-10-02T21:56:10Z</ns0:updated>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/862584018/v2.3.0</ns0:id>
+    <ns0:updated>2026-10-02T22:02:27Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/modelcontextprotocol/python-sdk/releases/tag/v2.3.0" />
+    <ns0:title>v2.3.0</ns0:title>
+    <ns0:content type="html">&lt;p&gt;&lt;code&gt;pip install -U mcp&lt;/code&gt;. Docs: &lt;a href="https://py.sdk.modelcontextprotocol.io/" rel="nofollow"&gt;https://py.sdk.modelcontextprotocol.io/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Mostly fixes, plus three new options. A few things behave differently, so skim these first:&lt;/p&gt;
+&lt;h2&gt;Behaviour changes&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;&lt;code&gt;httpx2&amp;gt;=2.10.0&lt;/code&gt; is now required&lt;/strong&gt; (&lt;a class="issue-link js-issue-link" data-error-text</ns0:content>
+    <ns0:author>
+      <ns0:name>maxisbey</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/224885523?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/862584018/v2.2.0</ns0:id>
+    <ns0:updated>2026-09-07T15:53:57Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/modelcontextprotocol/python-sdk/releases/tag/v2.2.0" />
+    <ns0:title>v2.2.0</ns0:title>
+    <ns0:content type="html">&lt;p&gt;&lt;code&gt;pip install -U mcp&lt;/code&gt;. Docs: &lt;a href="https://py.sdk.modelcontextprotocol.io/" rel="nofollow"&gt;https://py.sdk.modelcontextprotocol.io/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;A few defaults changed in this release. If you run a server or client on 2.x, skim these first:&lt;/p&gt;
+&lt;h2&gt;Behaviour changes&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;HTTP client redirects are only followed within the endpoint's origin&lt;/strong&gt; (&lt;a class="issue-link js-i</ns0:content>
+    <ns0:author>
+      <ns0:name>maxisbey</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/224885523?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/862584018/v1.30.0</ns0:id>
+    <ns0:updated>2026-09-07T14:03:59Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/modelcontextprotocol/python-sdk/releases/tag/v1.30.0" />
+    <ns0:title>v1.30.0</ns0:title>
+    <ns0:content type="html">&lt;p&gt;Maintenance release of the 1.x line. 2.x is the current line; 1.x docs are at &lt;a href="https://py.sdk.modelcontextprotocol.io/v1/" rel="nofollow"&gt;https://py.sdk.modelcontextprotocol.io/v1/&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;A few defaults changed in this release. If you run a server or client on 1.x, skim these first:&lt;/p&gt;
+&lt;h2&gt;Behaviour changes&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;HTTP client redirects are only followed within the endpoin</ns0:content>
+    <ns0:author>
+      <ns0:name>maxisbey</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/224885523?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/862584018/v2.0.1</ns0:id>
+    <ns0:updated>2026-08-26T10:42:44Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/modelcontextprotocol/python-sdk/releases/tag/v2.0.1" />
+    <ns0:title>v2.0.1</ns0:title>
+    <ns0:content type="html">&lt;p&gt;One off backport of the FastMCP import warning for &lt;code&gt;2.0.x&lt;/code&gt;, this is due to a lot of people running into this error and making issues on other repos about it. Ideally either pin &lt;code&gt;mcp&amp;lt;2&lt;/code&gt; or upgrade to 2.&lt;/p&gt;
+&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;[v2.0.x] Point imports of mcp.server.fastmcp at the migration guide by &lt;a class="user-mention notranslate" data-hovercard-type="user"</ns0:content>
+    <ns0:author>
+      <ns0:name>maxisbey</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/224885523?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/862584018/v2.1.1</ns0:id>
+    <ns0:updated>2026-08-25T15:58:21Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/modelcontextprotocol/python-sdk/releases/tag/v2.1.1" />
+    <ns0:title>v2.1.1</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Point imports of mcp.server.fastmcp at the migration guide by &lt;a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/maxisbey/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/maxisbey"&gt;@maxisbey&lt;/a&gt; in &lt;a class="issue-link js-issue-link" data-error-text="Failed to loa</ns0:content>
+    <ns0:author>
+      <ns0:name>maxisbey</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/224885523?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/862584018/v2.1.0</ns0:id>
+    <ns0:updated>2026-08-24T19:00:24Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/modelcontextprotocol/python-sdk/releases/tag/v2.1.0" />
+    <ns0:title>v2.1.0</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;Highlights&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;Client&lt;/code&gt; accepts &lt;code&gt;StdioServerParameters&lt;/code&gt; directly: &lt;code&gt;Client(StdioServerParameters(command="uv", args=["run", "server.py"]))&lt;/code&gt; (&lt;a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="5165349988" data-permission-text="Title is private" data-url="https://github.com/modelcontextprotocol/python-sdk/issues/3321" dat</ns0:content>
+    <ns0:author>
+      <ns0:name>maxisbey</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/224885523?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/862584018/v1.29.1</ns0:id>
+    <ns0:updated>2026-08-24T18:24:41Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/modelcontextprotocol/python-sdk/releases/tag/v1.29.1" />
+    <ns0:title>v1.29.1</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;[v1.x] Complete the FastMCP Settings model at import time by &lt;a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/maxisbey/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/maxisbey"&gt;@maxisbey&lt;/a&gt; in &lt;a class="issue-link js-issue-link" data-error-text="Failed to load</ns0:content>
+    <ns0:author>
+      <ns0:name>maxisbey</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/224885523?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/862584018/v2.0.0</ns0:id>
+    <ns0:updated>2026-07-28T13:42:35Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/modelcontextprotocol/python-sdk/releases/tag/v2.0.0" />
+    <ns0:title>v2.0.0</ns0:title>
+    <ns0:content type="html">&lt;h1&gt;MCP Python SDK v2 Stable Release&lt;/h1&gt;
+&lt;p&gt;This is v2.0.0, the stable v2 release of the MCP Python SDK. It supports the 2026-07-28 revision of the Model Context Protocol and serves every earlier revision from the same server. &lt;code&gt;pip install mcp&lt;/code&gt; now installs 2.x.&lt;/p&gt;
+&lt;div class="highlight highlight-source-shell notranslate position-relative overflow-auto" data-snippet-clipboard-copy-con</ns0:content>
+    <ns0:author>
+      <ns0:name>maxisbey</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/224885523?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/862584018/v1.29.0</ns0:id>
+    <ns0:updated>2026-07-28T13:37:06Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/modelcontextprotocol/python-sdk/releases/tag/v1.29.0" />
+    <ns0:title>v1.29.0</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;[v1.x] Route Context.report_progress() to the originating request stream by &lt;a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/maxisbey/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/maxisbey"&gt;@maxisbey&lt;/a&gt; in &lt;a class="issue-link js-issue-link" data-error-text=</ns0:content>
+    <ns0:author>
+      <ns0:name>maxisbey</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/224885523?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/862584018/v2.0.0rc1</ns0:id>
+    <ns0:updated>2026-07-27T23:53:00Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/modelcontextprotocol/python-sdk/releases/tag/v2.0.0rc1" />
+    <ns0:title>v2.0.0rc1</ns0:title>
+    <ns0:content type="html">&lt;p&gt;First v2 release candidate. Pre-releases are opt-in only; &lt;code&gt;pip install mcp&lt;/code&gt; still resolves to the stable 1.x line.&lt;/p&gt;
+&lt;div class="highlight highlight-source-shell notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="pip install mcp==2.0.0rc1
+# or
+uv add &amp;quot;mcp==2.0.0rc1&amp;quot;"&gt;&lt;pre&gt;pip install mcp==2.0.0rc1
+&lt;span class="pl-c"&gt;&lt;span class="pl-c"&gt;#&lt;/spa</ns0:content>
+    <ns0:author>
+      <ns0:name>maxisbey</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/224885523?s=60&amp;v=4" />
+  </ns0:entry>
+</ns0:feed>

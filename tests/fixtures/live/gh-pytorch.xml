@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <ns0:id>tag:github.com,2008:https://github.com/pytorch/pytorch/releases</ns0:id>
+  <ns0:link type="text/html" rel="alternate" href="https://github.com/pytorch/pytorch/releases" />
+  <ns0:link type="application/atom+xml" rel="self" href="https://github.com/pytorch/pytorch/releases.atom" />
+  <ns0:title>Release notes from pytorch</ns0:title>
+  <ns0:updated>2026-11-09T02:04:13Z</ns0:updated>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/65600975/viable/strict/1794206227</ns0:id>
+    <ns0:updated>2026-11-09T02:04:13Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/pytorch/pytorch/releases/tag/viable%2Fstrict%2F1794206227" />
+    <ns0:title>viable/strict/1794206227</ns0:title>
+    <ns0:content type="html">&lt;p&gt;[Test] Add XPU skip on test_conv_bias_rounds_before_log_softmax() (&lt;a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="171402941" data-permission-text="Title is private" data-url="https://github.com/pytorch/pytorch/issues/2" data-hovercard-type="issue" data-hovercard-url="/pytorch/pytorch/issues/2/hovercard" href="https://github.com/pytorch/pytorch/issues/2"&gt;#2&lt;/</ns0:content>
+    <ns0:author>
+      <ns0:name>KarhouTam</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/82705454?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/65600975/trunk/48650663938f85f1b572e65a2cbb75757f4c976f</ns0:id>
+    <ns0:updated>2026-11-09T03:18:11Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/pytorch/pytorch/releases/tag/trunk%2F48650663938f85f1b572e65a2cbb75757f4c976f" />
+    <ns0:title>trunk/48650663938f85f1b572e65a2cbb75757f4c976f</ns0:title>
+    <ns0:content type="html">&lt;p&gt;[LinAlg][CUDA][MAGMA]: ldl_factor(hermitian=True): replace MAGMA kern…&lt;/p&gt;</ns0:content>
+    <ns0:author>
+      <ns0:name>nikitaved</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1255244?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/65600975/trunk/921ec491bba0032f4959296f98a084e3b9055ff2</ns0:id>
+    <ns0:updated>2026-11-09T05:44:02Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/pytorch/pytorch/releases/tag/trunk%2F921ec491bba0032f4959296f98a084e3b9055ff2" />
+    <ns0:title>trunk/921ec491bba0032f4959296f98a084e3b9055ff2: Update Metamates merge rule (#203997)</ns0:title>
+    <ns0:content type="html">&lt;p&gt;This PR is auto-generated nightly by &lt;a href="https://github.com/pytorch/pytorch/blob/main/.github/workflows/nightly.yml"&gt;this action&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Updates the Metamates merge rule with active team members.&lt;br&gt;
+Pull Request resolved: &lt;a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="6277568759" data-permission-text="Title is private" data-url="https://github.com/</ns0:content>
+    <ns0:author>
+      <ns0:name>pytorchupdatebot</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/133916390?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/65600975/trunk/496fe2ac128f3f9dcb3bead8862e63e3673a7058</ns0:id>
+    <ns0:updated>2026-11-09T08:29:13Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/pytorch/pytorch/releases/tag/trunk%2F496fe2ac128f3f9dcb3bead8862e63e3673a7058" />
+    <ns0:title>trunk/496fe2ac128f3f9dcb3bead8862e63e3673a7058</ns0:title>
+    <ns0:content type="html">&lt;p&gt;[xpu][fix] Rename `subgroup_matrix_multiply_accumulate_tensor_float32…&lt;/p&gt;</ns0:content>
+    <ns0:author>
+      <ns0:name>Stonepia</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/12094956?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/65600975/trunk/84ba068b13a1e0c650a53016597af7ca1f643dd9</ns0:id>
+    <ns0:updated>2026-11-09T05:03:40Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/pytorch/pytorch/releases/tag/trunk%2F84ba068b13a1e0c650a53016597af7ca1f643dd9" />
+    <ns0:title>trunk/84ba068b13a1e0c650a53016597af7ca1f643dd9</ns0:title>
+    <ns0:content type="html">&lt;p&gt;[Testcase Refactoring] Label test_fsdp_backward_prefetch ACCELERATOR …&lt;/p&gt;</ns0:content>
+    <ns0:author>
+      <ns0:name>twthighd</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/282749850?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/65600975/trunk/8a9a9e737dba491a2eea270641bff86eea6e1ea2</ns0:id>
+    <ns0:updated>2026-11-09T15:59:25Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/pytorch/pytorch/releases/tag/trunk%2F8a9a9e737dba491a2eea270641bff86eea6e1ea2" />
+    <ns0:title>trunk/8a9a9e737dba491a2eea270641bff86eea6e1ea2: Apply one precedence rule to all forwarded build env vars (#201666)</ns0:title>
+    <ns0:content type="html">&lt;p&gt;Go through the following checklist&lt;/p&gt;
+&lt;ul class="contains-task-list"&gt;
+&lt;li class="task-list-item"&gt;&lt;input type="checkbox" id="" disabled="" class="task-list-item-checkbox" aria-label="Completed task" checked=""&gt; Passes lint (&lt;code&gt;spin fixlint&lt;/code&gt;)&lt;/li&gt;
+&lt;li class="task-list-item"&gt;&lt;input type="checkbox" id="" disabled="" class="task-list-item-checkbox" aria-label="Completed task" checked=""&gt; A</ns0:content>
+    <ns0:author>
+      <ns0:name>zklaus</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1185813?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/65600975/trunk/6dca9f63bc4975ac323044a440c2c7e5f8512408</ns0:id>
+    <ns0:updated>2026-11-09T15:06:52Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/pytorch/pytorch/releases/tag/trunk%2F6dca9f63bc4975ac323044a440c2c7e5f8512408" />
+    <ns0:title>trunk/6dca9f63bc4975ac323044a440c2c7e5f8512408: Remove deprecated public TorchScript APIs + tests (#203621)</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;Summary (human written only)&lt;/h2&gt;
+&lt;p&gt;Remove deprecated public TorchScript APIs and their tests; preserve needed internal source through build-time overrides, with no copied tests.&lt;/p&gt;
+&lt;h3&gt;What is getting deleted?&lt;/h3&gt;
+&lt;p&gt;Already deprecated public &lt;code&gt;torch.jit&lt;/code&gt; APIs:&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;script&lt;/code&gt;, &lt;code&gt;script_method&lt;/code&gt;, &lt;code&gt;interface&lt;/code&gt;, &lt;code&gt;trace&lt;/code&gt;, &lt;code&gt;trace_module&lt;/</ns0:content>
+    <ns0:author>
+      <ns0:name>janeyx99</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/31798555?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/65600975/trunk/02a1dc067a8b1f9a35cadabba6250b8d77274b59</ns0:id>
+    <ns0:updated>2026-11-09T15:34:57Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/pytorch/pytorch/releases/tag/trunk%2F02a1dc067a8b1f9a35cadabba6250b8d77274b59" />
+    <ns0:title>trunk/02a1dc067a8b1f9a35cadabba6250b8d77274b59</ns0:title>
+    <ns0:content type="html">&lt;p&gt;[AI Codemod][Trunk Test Fixer] Restore typing_extensions Self in torc…&lt;/p&gt;</ns0:content>
+    <ns0:author>
+      <ns0:name>atalman</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/7563158?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/65600975/trunk/1f91f6870d42a651b382acfbe61b3347545017ea</ns0:id>
+    <ns0:updated>2026-11-09T17:14:30Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/pytorch/pytorch/releases/tag/trunk%2F1f91f6870d42a651b382acfbe61b3347545017ea" />
+    <ns0:title>trunk/1f91f6870d42a651b382acfbe61b3347545017ea</ns0:title>
+    <ns0:content type="html">&lt;p&gt;[CUDA] Enable C10_LAUNCH_BOUNDS_2 on ctc_loss_log_alpha_gpu_kernel (#…&lt;/p&gt;</ns0:content>
+    <ns0:author>
+      <ns0:name>ddelgadovargas-cyber</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/249188294?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/65600975/trunk/f7ae2fc401a80318c527a063c160c4e8f4d2564a</ns0:id>
+    <ns0:updated>2026-11-09T04:44:35Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/pytorch/pytorch/releases/tag/trunk%2Ff7ae2fc401a80318c527a063c160c4e8f4d2564a" />
+    <ns0:title>trunk/f7ae2fc401a80318c527a063c160c4e8f4d2564a</ns0:title>
+    <ns0:content type="html">&lt;p&gt;[Testcase Refactoring] Make test_joint_graph device-agnostic via inst…&lt;/p&gt;</ns0:content>
+    <ns0:author>
+      <ns0:name>gavinwang269</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/292349524?s=60&amp;v=4" />
+  </ns0:entry>
+</ns0:feed>

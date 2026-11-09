@@ -1,0 +1,108 @@
+# ShipBrief sources. See README "Adding or removing sources".
+#
+# Fields:
+#   id       unique slug (used in health.json and fixtures)
+#   name     display name shown to readers
+#   type     rss | github_releases | hn | arxiv     (rss also handles Atom and RDF)
+#   url      feed / API URL            (github_releases: derived from `repo` if omitted)
+#   repo     owner/name                (github_releases only)
+#   weight   0.1 .. 2.0 source importance used by ranking (default 1.0)
+#   tags     default topic tags for items from this source
+#   kind     default kind: news | release | paper | tool | discussion
+#   roles    default audience
+#   maxItems cap on items taken from this source per run (default 30)
+#   minScore HN only: minimum points
+#   enabled  set false to keep a source documented but skip it
+#
+# Every URL here was verified by scripts/verify_sources.py. Dropped sources are listed in DECISIONS.md.
+
+defaults:
+  weight: 1.0
+  maxItems: 30
+  roles: [everyone]
+
+sources:
+  # ---------------------------------------------------------------- AI labs & companies
+  - {id: openai-news, name: OpenAI News, type: rss, url: "https://openai.com/news/rss.xml", weight: 1.8, tags: [models], kind: news, roles: [everyone, developer]}
+  - {id: google-deepmind, name: Google DeepMind Blog, type: rss, url: "https://deepmind.google/blog/rss.xml", weight: 1.7, tags: [models, research], kind: news, roles: [everyone, researcher]}
+  - {id: google-ai, name: Google AI Blog (The Keyword), type: rss, url: "https://blog.google/technology/ai/rss/", weight: 1.4, tags: [models], kind: news, roles: [everyone]}
+  - {id: google-research, name: Google Research Blog, type: rss, url: "https://research.google/blog/rss/", weight: 1.2, tags: [research], kind: news, roles: [researcher]}
+  - {id: microsoft-research, name: Microsoft Research Blog, type: rss, url: "https://www.microsoft.com/en-us/research/feed/", weight: 1.1, tags: [research], kind: news, roles: [researcher]}
+  - {id: mistral-news, name: Mistral AI News, type: rss, url: "https://mistral.ai/news/rss", weight: 1.5, tags: [models], kind: news, roles: [everyone, developer]}
+  - {id: nvidia-blog, name: NVIDIA Blog, type: rss, url: "https://blogs.nvidia.com/feed/", weight: 1.0, tags: [hardware], kind: news, roles: [everyone]}
+  - {id: nvidia-developer, name: NVIDIA Technical Blog, type: rss, url: "https://developer.nvidia.com/blog/feed", weight: 0.9, tags: [tools], kind: news, roles: [developer]}
+  - {id: aws-ml, name: AWS Machine Learning Blog, type: rss, url: "https://aws.amazon.com/blogs/machine-learning/feed/", weight: 0.8, tags: [tools], kind: news, roles: [developer], maxItems: 15}
+  - {id: apple-ml, name: Apple Machine Learning Research, type: rss, url: "https://machinelearning.apple.com/rss.xml", weight: 1.1, tags: [research], kind: news, roles: [researcher]}
+  - {id: huggingface-blog, name: Hugging Face Blog, type: rss, url: "https://huggingface.co/blog/feed.xml", weight: 1.4, tags: [open-source, models], kind: news, roles: [developer, researcher]}
+  - {id: github-blog-ai, name: GitHub Blog (AI & ML), type: rss, url: "https://github.blog/ai-and-ml/feed/", weight: 1.1, tags: [tools, coding], kind: news, roles: [developer]}
+  - {id: cloudflare-ai, name: Cloudflare Blog (AI), type: rss, url: "https://blog.cloudflare.com/tag/ai/rss/", weight: 0.8, tags: [tools], kind: news, roles: [developer]}
+  - {id: pytorch-blog, name: PyTorch Blog, type: rss, url: "https://pytorch.org/blog/feed/", weight: 0.9, tags: [open-source], kind: news, roles: [developer, researcher]}
+  - {id: langchain-blog, name: LangChain Blog, type: rss, url: "https://www.langchain.com/blog/rss.xml", weight: 0.9, tags: [agents], kind: news, roles: [developer]}
+  - {id: bair-blog, name: Berkeley AI Research Blog, type: rss, url: "https://bair.berkeley.edu/blog/feed.xml", weight: 0.9, tags: [research], kind: news, roles: [researcher]}
+  - {id: mit-news-ai, name: MIT News (AI), type: rss, url: "https://news.mit.edu/rss/topic/artificial-intelligence2", weight: 0.8, tags: [research], kind: news, roles: [everyone]}
+  - {id: ollama-blog, name: Ollama Blog, type: rss, url: "https://ollama.com/blog/rss.xml", weight: 0.9, tags: [open-source, models], kind: news, roles: [developer]}
+
+  # ---------------------------------------------------------------- Community
+  - {id: hn, name: Hacker News, type: hn, url: "https://hn.algolia.com/api/v1/search_by_date", weight: 1.0, tags: [], kind: discussion, roles: [developer], minScore: 80, maxItems: 40}
+
+  # ---------------------------------------------------------------- Research
+  - {id: arxiv-cs-ai, name: arXiv cs.AI, type: arxiv, url: "https://rss.arxiv.org/rss/cs.AI", weight: 0.6, tags: [research], kind: paper, roles: [researcher], maxItems: 40}
+  - {id: arxiv-cs-cl, name: arXiv cs.CL, type: arxiv, url: "https://rss.arxiv.org/rss/cs.CL", weight: 0.6, tags: [research], kind: paper, roles: [researcher], maxItems: 40}
+  - {id: arxiv-cs-lg, name: arXiv cs.LG, type: arxiv, url: "https://rss.arxiv.org/rss/cs.LG", weight: 0.6, tags: [research], kind: paper, roles: [researcher], maxItems: 40}
+
+  # ---------------------------------------------------------------- Open-source releases (GitHub releases.atom)
+  # Agent frameworks & SDKs
+  - {id: gh-langchain, name: LangChain, type: github_releases, repo: langchain-ai/langchain, weight: 1.0, tags: [agents]}
+  - {id: gh-langgraph, name: LangGraph, type: github_releases, repo: langchain-ai/langgraph, weight: 1.0, tags: [agents]}
+  - {id: gh-llamaindex, name: LlamaIndex, type: github_releases, repo: run-llama/llama_index, weight: 0.9, tags: [agents, rag]}
+  - {id: gh-ms-agent-framework, name: Microsoft Agent Framework, type: github_releases, repo: microsoft/agent-framework, weight: 0.9, tags: [agents]}
+  - {id: gh-crewai, name: CrewAI, type: github_releases, repo: crewAIInc/crewAI, weight: 0.9, tags: [agents]}
+  - {id: gh-openai-agents, name: OpenAI Agents SDK, type: github_releases, repo: openai/openai-agents-python, weight: 1.1, tags: [agents]}
+  - {id: gh-anthropic-sdk, name: Anthropic Python SDK, type: github_releases, repo: anthropics/anthropic-sdk-python, weight: 0.9, tags: [tools]}
+  - {id: gh-claude-code, name: Claude Code, type: github_releases, repo: anthropics/claude-code, weight: 1.1, tags: [agents, coding]}
+  - {id: gh-google-adk, name: Google Agent Development Kit, type: github_releases, repo: google/adk-python, weight: 1.0, tags: [agents]}
+  - {id: gh-pydantic-ai, name: Pydantic AI, type: github_releases, repo: pydantic/pydantic-ai, weight: 0.9, tags: [agents]}
+  - {id: gh-smolagents, name: smolagents, type: github_releases, repo: huggingface/smolagents, weight: 0.9, tags: [agents]}
+  - {id: gh-agno, name: Agno, type: github_releases, repo: agno-agi/agno, weight: 0.8, tags: [agents]}
+  - {id: gh-letta, name: Letta, type: github_releases, repo: letta-ai/letta, weight: 0.8, tags: [agents]}
+  - {id: gh-semantic-kernel, name: Semantic Kernel, type: github_releases, repo: microsoft/semantic-kernel, weight: 0.8, tags: [agents]}
+  - {id: gh-openhands, name: OpenHands, type: github_releases, repo: All-Hands-AI/OpenHands, weight: 1.0, tags: [agents, coding]}
+  - {id: gh-aider, name: Aider, type: github_releases, repo: Aider-AI/aider, weight: 0.9, tags: [agents, coding]}
+  - {id: gh-mcp-python, name: MCP Python SDK, type: github_releases, repo: modelcontextprotocol/python-sdk, weight: 1.0, tags: [agents, tools]}
+  - {id: gh-mcp-typescript, name: MCP TypeScript SDK, type: github_releases, repo: modelcontextprotocol/typescript-sdk, weight: 0.9, tags: [agents, tools]}
+  - {id: gh-browser-use, name: Browser Use, type: github_releases, repo: browser-use/browser-use, weight: 0.9, tags: [agents]}
+  - {id: gh-mastra, name: Mastra, type: github_releases, repo: mastra-ai/mastra, weight: 0.8, tags: [agents]}
+  - {id: gh-vercel-ai, name: Vercel AI SDK, type: github_releases, repo: vercel/ai, weight: 0.8, tags: [tools]}
+  - {id: gh-dspy, name: DSPy, type: github_releases, repo: stanfordnlp/dspy, weight: 0.9, tags: [tools]}
+  - {id: gh-codex, name: OpenAI Codex CLI, type: github_releases, repo: openai/codex, weight: 1.0, tags: [agents, coding]}
+  - {id: gh-gemini-cli, name: Gemini CLI, type: github_releases, repo: google-gemini/gemini-cli, weight: 1.0, tags: [agents, coding]}
+  - {id: gh-cline, name: Cline, type: github_releases, repo: cline/cline, weight: 0.9, tags: [agents, coding]}
+  - {id: gh-continue, name: Continue, type: github_releases, repo: continuedev/continue, weight: 0.8, tags: [coding]}
+  # Model runtimes & training
+  - {id: gh-ollama, name: Ollama, type: github_releases, repo: ollama/ollama, weight: 1.2, tags: [models, open-source]}
+  - {id: gh-llama-cpp, name: llama.cpp, type: github_releases, repo: ggml-org/llama.cpp, weight: 1.0, tags: [models, open-source], enabled: false}  # only ships bNNNN build tags
+  - {id: gh-vllm, name: vLLM, type: github_releases, repo: vllm-project/vllm, weight: 1.1, tags: [models, open-source]}
+  - {id: gh-sglang, name: SGLang, type: github_releases, repo: sgl-project/sglang, weight: 0.9, tags: [models, open-source]}
+  - {id: gh-transformers, name: Transformers, type: github_releases, repo: huggingface/transformers, weight: 1.2, tags: [models, open-source]}
+  - {id: gh-diffusers, name: Diffusers, type: github_releases, repo: huggingface/diffusers, weight: 0.9, tags: [models, multimodal]}
+  - {id: gh-trl, name: TRL, type: github_releases, repo: huggingface/trl, weight: 0.8, tags: [training]}
+  - {id: gh-mlx, name: MLX, type: github_releases, repo: ml-explore/mlx, weight: 0.9, tags: [open-source]}
+  - {id: gh-mlx-lm, name: MLX LM, type: github_releases, repo: ml-explore/mlx-lm, weight: 0.8, tags: [models]}
+  - {id: gh-tensorrt-llm, name: TensorRT-LLM, type: github_releases, repo: NVIDIA/TensorRT-LLM, weight: 0.8, tags: [models]}
+  - {id: gh-pytorch, name: PyTorch, type: github_releases, repo: pytorch/pytorch, weight: 1.0, tags: [open-source]}
+  - {id: gh-unsloth, name: Unsloth, type: github_releases, repo: unslothai/unsloth, weight: 0.8, tags: [training]}
+  - {id: gh-llama-factory, name: LLaMA-Factory, type: github_releases, repo: hiyouga/LLaMA-Factory, weight: 0.7, tags: [training]}
+  - {id: gh-whisper-cpp, name: whisper.cpp, type: github_releases, repo: ggml-org/whisper.cpp, weight: 0.7, tags: [models, audio]}
+  - {id: gh-exo, name: exo, type: github_releases, repo: exo-explore/exo, weight: 0.6, tags: [open-source]}
+  # Developer tools, apps, infra
+  - {id: gh-litellm, name: LiteLLM, type: github_releases, repo: BerriAI/litellm, weight: 0.8, tags: [tools], maxItems: 5}
+  - {id: gh-open-webui, name: Open WebUI, type: github_releases, repo: open-webui/open-webui, weight: 0.9, tags: [tools]}
+  - {id: gh-comfyui, name: ComfyUI, type: github_releases, repo: comfyanonymous/ComfyUI, weight: 0.8, tags: [multimodal, tools]}
+  - {id: gh-localai, name: LocalAI, type: github_releases, repo: mudler/LocalAI, weight: 0.7, tags: [tools]}
+  - {id: gh-langfuse, name: Langfuse, type: github_releases, repo: langfuse/langfuse, weight: 0.7, tags: [tools, evals]}
+  - {id: gh-promptfoo, name: promptfoo, type: github_releases, repo: promptfoo/promptfoo, weight: 0.7, tags: [tools, evals]}
+  - {id: gh-chroma, name: Chroma, type: github_releases, repo: chroma-core/chroma, weight: 0.7, tags: [tools, rag]}
+  - {id: gh-qdrant, name: Qdrant, type: github_releases, repo: qdrant/qdrant, weight: 0.7, tags: [tools, rag]}
+  - {id: gh-ragflow, name: RAGFlow, type: github_releases, repo: infiniflow/ragflow, weight: 0.7, tags: [tools, rag]}
+  - {id: gh-dify, name: Dify, type: github_releases, repo: langgenius/dify, weight: 0.8, tags: [tools, agents]}
+  - {id: gh-markitdown, name: MarkItDown, type: github_releases, repo: microsoft/markitdown, weight: 0.6, tags: [tools]}

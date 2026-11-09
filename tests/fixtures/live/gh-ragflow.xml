@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <ns0:id>tag:github.com,2008:https://github.com/infiniflow/ragflow/releases</ns0:id>
+  <ns0:link type="text/html" rel="alternate" href="https://github.com/infiniflow/ragflow/releases" />
+  <ns0:link type="application/atom+xml" rel="self" href="https://github.com/infiniflow/ragflow/releases.atom" />
+  <ns0:title>Release notes from ragflow</ns0:title>
+  <ns0:updated>2026-11-09T12:49:17Z</ns0:updated>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/730534580/nightly</ns0:id>
+    <ns0:updated>2026-11-09T13:17:39Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/infiniflow/ragflow/releases/tag/nightly" />
+    <ns0:title>nightly</ns0:title>
+    <ns0:content type="html">&lt;p&gt;Release nightly created from &lt;a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/infiniflow/ragflow/commit/ed5a84fee9abc8091aea111d1195cf7768541ff1/hovercard" href="https://github.com/infiniflow/ragflow/commit/ed5a84fee9abc8091aea111d1195cf7768541ff1"&gt;&lt;tt&gt;ed5a84f&lt;/tt&gt;&lt;/a&gt; at 2026-11-09 13:17:33+00:00&lt;/p&gt;</ns0:content>
+    <ns0:author>
+      <ns0:name>yuzhichang</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/153784?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/730534580/dev-20261109</ns0:id>
+    <ns0:updated>2026-11-09T03:23:01Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/infiniflow/ragflow/releases/tag/dev-20261109" />
+    <ns0:title>dev-20261109</ns0:title>
+    <ns0:content type="html">&lt;p&gt;fix(models): drop Claude sampling parameters the model rejects in the…&lt;/p&gt;</ns0:content>
+    <ns0:author>
+      <ns0:name>pcbeingused333</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/82875882?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/730534580/dev-20261109-3</ns0:id>
+    <ns0:updated>2026-11-09T11:35:08Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/infiniflow/ragflow/releases/tag/dev-20261109-3" />
+    <ns0:title>dev-20261109-3</ns0:title>
+    <ns0:content type="html">&lt;p&gt;Fix(chatchannel):Strip the DingTalk sessionWebhook query credential f…&lt;/p&gt;</ns0:content>
+    <ns0:author>
+      <ns0:name>flyingwhit</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/149575453?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/730534580/dev-20261109-2</ns0:id>
+    <ns0:updated>2026-11-09T08:36:55Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/infiniflow/ragflow/releases/tag/dev-20261109-2" />
+    <ns0:title>dev-20261109-2</ns0:title>
+    <ns0:content type="html">&lt;p&gt;Feature: observability OSS stub (&lt;a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="6282617029" data-permission-text="Title is private" data-url="https://github.com/infiniflow/ragflow/issues/22168" data-hovercard-type="pull_request" data-hovercard-url="/infiniflow/ragflow/pull/22168/hovercard" href="https://github.com/infiniflow/ragflow/pull/22168"&gt;#22168&lt;/a&gt;)&lt;/</ns0:content>
+    <ns0:author>
+      <ns0:name>wangq8</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/15903574?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/730534580/dev-20261109-1</ns0:id>
+    <ns0:updated>2026-11-09T03:23:01Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/infiniflow/ragflow/releases/tag/dev-20261109-1" />
+    <ns0:title>dev-20261109-1</ns0:title>
+    <ns0:content type="html">&lt;p&gt;fix(models): drop Claude sampling parameters the model rejects in the…&lt;/p&gt;</ns0:content>
+    <ns0:author>
+      <ns0:name>pcbeingused333</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/82875882?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/730534580/v1.0.0</ns0:id>
+    <ns0:updated>2026-11-09T05:18:10Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/infiniflow/ragflow/releases/tag/v1.0.0" />
+    <ns0:title>v1.0.0</ns0:title>
+    <ns0:content type="html">&lt;p&gt;After three release candidates, we are pleased to announce the official release of RAGFlow 1.0, now ready for production. Built on a complete rewrite in Go, this release significantly reduces deployment and runtime overhead and introduces an all-new Agentic Chat experience. We encourage all users to upgrade for improved stability, performance, and question answering.&lt;/p&gt;
+&lt;h3&gt;Highlights&lt;/h3&gt;
+&lt;ul</ns0:content>
+    <ns0:author>
+      <ns0:name>github-actions[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/730534580/dev-20261106</ns0:id>
+    <ns0:updated>2026-11-06T01:42:40Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/infiniflow/ragflow/releases/tag/dev-20261106" />
+    <ns0:title>dev-20261106</ns0:title>
+    <ns0:content type="html">&lt;p&gt;fix: restore harness interrupt resume and events (&lt;a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="6221484078" data-permission-text="Title is private" data-url="https://github.com/infiniflow/ragflow/issues/22050" data-hovercard-type="pull_request" data-hovercard-url="/infiniflow/ragflow/pull/22050/hovercard" href="https://github.com/infiniflow/ragflow/pull/220</ns0:content>
+    <ns0:author>
+      <ns0:name>buua436</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/66937541?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/730534580/dev-20261106-2</ns0:id>
+    <ns0:updated>2026-11-06T08:37:12Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/infiniflow/ragflow/releases/tag/dev-20261106-2" />
+    <ns0:title>dev-20261106-2</ns0:title>
+    <ns0:content type="html">&lt;p&gt;fix(web): refresh tenant user list after removing a member (&lt;a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="6239353636" data-permission-text="Title is private" data-url="https://github.com/infiniflow/ragflow/issues/22096" data-hovercard-type="pull_request" data-hovercard-url="/infiniflow/ragflow/pull/22096/hovercard" href="https://github.com/infiniflow/ragflo</ns0:content>
+    <ns0:author>
+      <ns0:name>dcc123456</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/20180003?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/730534580/dev-20261105</ns0:id>
+    <ns0:updated>2026-11-05T03:24:53Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/infiniflow/ragflow/releases/tag/dev-20261105" />
+    <ns0:title>dev-20261105</ns0:title>
+    <ns0:content type="html">&lt;p&gt;Fix: second sort key for memory messages (&lt;a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="6215252799" data-permission-text="Title is private" data-url="https://github.com/infiniflow/ragflow/issues/22004" data-hovercard-type="pull_request" data-hovercard-url="/infiniflow/ragflow/pull/22004/hovercard" href="https://github.com/infiniflow/ragflow/pull/22004"&gt;#220</ns0:content>
+    <ns0:author>
+      <ns0:name>Lynn-Inf</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/230955255?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/730534580/dev-20261105-3</ns0:id>
+    <ns0:updated>2026-11-05T12:51:14Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/infiniflow/ragflow/releases/tag/dev-20261105-3" />
+    <ns0:title>dev-20261105-3</ns0:title>
+    <ns0:content type="html">&lt;p&gt;fix: seed user rows in tenant service tests (&lt;a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="6223130202" data-permission-text="Title is private" data-url="https://github.com/infiniflow/ragflow/issues/22060" data-hovercard-type="pull_request" data-hovercard-url="/infiniflow/ragflow/pull/22060/hovercard" href="https://github.com/infiniflow/ragflow/pull/22060"&gt;#</ns0:content>
+    <ns0:author>
+      <ns0:name>buua436</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/66937541?s=60&amp;v=4" />
+  </ns0:entry>
+</ns0:feed>

@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <ns0:id>tag:github.com,2008:https://github.com/openai/openai-agents-python/releases</ns0:id>
+  <ns0:link type="text/html" rel="alternate" href="https://github.com/openai/openai-agents-python/releases" />
+  <ns0:link type="application/atom+xml" rel="self" href="https://github.com/openai/openai-agents-python/releases.atom" />
+  <ns0:title>Release notes from openai-agents-python</ns0:title>
+  <ns0:updated>2026-11-08T06:56:18Z</ns0:updated>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/946380199/v0.24.0-alpha.7</ns0:id>
+    <ns0:updated>2026-11-08T07:07:12Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/openai/openai-agents-python/releases/tag/v0.24.0-alpha.7" />
+    <ns0:title>Agents SDK v0.24.0-alpha.7</ns0:title>
+    <ns0:content type="html">&lt;h1&gt;Agents SDK v0.24.0-alpha.7&lt;/h1&gt;
+&lt;h2&gt;Highlights&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Use Classic workflows alongside native execution.&lt;/strong&gt; Import the retained v0 runtime through &lt;code&gt;agents.classic&lt;/code&gt;. This alpha also changes executor write defaults; review the upgrade actions before opening existing environments.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Keep conversations in your own storage.&lt;/strong&gt; Add durable root Ses</ns0:content>
+    <ns0:author>
+      <ns0:name>markstuart-oai</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/323302876?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/946380199/v0.24.0-alpha.6</ns0:id>
+    <ns0:updated>2026-11-03T16:48:20Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/openai/openai-agents-python/releases/tag/v0.24.0-alpha.6" />
+    <ns0:title>Agents SDK v0.24.0-alpha.6</ns0:title>
+    <ns0:content type="html">&lt;h1&gt;Install the preview&lt;/h1&gt;
+&lt;p&gt;Use standard CPython 3.10–3.14 in a virtual environment. These wheels include the native runtime; no Rust toolchain or source build is needed. This preview is distributed through GitHub Releases, not PyPI.&lt;/p&gt;
+&lt;p&gt;Run the command for your platform:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Linux x86_64 (glibc 2.39 or newer)&lt;/strong&gt;&lt;/p&gt;
+&lt;div class="highlight highlight-source-shell notranslate </ns0:content>
+    <ns0:author>
+      <ns0:name>markstuart-oai</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/323302876?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/946380199/v0.24.0</ns0:id>
+    <ns0:updated>2026-10-15T02:37:43Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/openai/openai-agents-python/releases/tag/v0.24.0" />
+    <ns0:title>v0.24.0</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;&lt;a href="https://github.com/openai/openai-agents-python/compare/v0.23.1...v0.24.0"&gt;0.24.0&lt;/a&gt; (2026-10-15)&lt;/h2&gt;
+&lt;h3&gt;Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;expose MCP annotations on converted tools (&lt;a href="https://github.com/openai/openai-agents-python/issues/5356" data-hovercard-type="pull_request" data-hovercard-url="/openai/openai-agents-python/pull/5356/hovercard"&gt;#5356&lt;/a&gt;) (&lt;a href="https://github.com/</ns0:content>
+    <ns0:author>
+      <ns0:name>openai-sdks[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/3705508?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/946380199/v0.23.1</ns0:id>
+    <ns0:updated>2026-10-02T15:36:24Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/openai/openai-agents-python/releases/tag/v0.23.1" />
+    <ns0:title>v0.23.1</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;&lt;a href="https://github.com/openai/openai-agents-python/compare/v0.23.0...v0.23.1"&gt;0.23.1&lt;/a&gt; (2026-10-02)&lt;/h2&gt;
+&lt;h3&gt;Bug Fixes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;restore release tests and refresh required readiness check (&lt;a href="https://github.com/openai/openai-agents-python/issues/5278" data-hovercard-type="pull_request" data-hovercard-url="/openai/openai-agents-python/pull/5278/hovercard"&gt;#5278&lt;/a&gt;) (&lt;a href="h</ns0:content>
+    <ns0:author>
+      <ns0:name>openai-sdks[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/3705508?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/946380199/v0.23.0</ns0:id>
+    <ns0:updated>2026-10-02T01:08:23Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/openai/openai-agents-python/releases/tag/v0.23.0" />
+    <ns0:title>v0.23.0</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;&lt;a href="https://github.com/openai/openai-agents-python/compare/v0.22.3...v0.23.0"&gt;0.23.0&lt;/a&gt; (2026-10-01)&lt;/h2&gt;
+&lt;h3&gt;Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;mcp:&lt;/strong&gt; add configurable MCP listing page limits (&lt;a href="https://github.com/openai/openai-agents-python/issues/5133" data-hovercard-type="pull_request" data-hovercard-url="/openai/openai-agents-python/pull/5133/hovercard"&gt;#5133&lt;/a&gt;) (&lt;a href</ns0:content>
+    <ns0:author>
+      <ns0:name>openai-sdks[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/3705508?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/946380199/v0.22.3</ns0:id>
+    <ns0:updated>2026-09-17T22:19:05Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/openai/openai-agents-python/releases/tag/v0.22.3" />
+    <ns0:title>v0.22.3</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;fix(core): align conditional approvals with validated tool arguments by &lt;a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/seratch/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/seratch"&gt;@seratch&lt;/a&gt; in &lt;a class="issue-link js-issue-link" data-error-text="Failed</ns0:content>
+    <ns0:author>
+      <ns0:name>seratch</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/19658?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/946380199/v0.22.2</ns0:id>
+    <ns0:updated>2026-09-09T12:36:10Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/openai/openai-agents-python/releases/tag/v0.22.2" />
+    <ns0:title>v0.22.2</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;feat: support current image generation tool options by &lt;a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/seratch/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/seratch"&gt;@seratch&lt;/a&gt; in &lt;a class="issue-link js-issue-link" data-error-text="Failed to load title" d</ns0:content>
+    <ns0:author>
+      <ns0:name>seratch</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/19658?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/946380199/v0.22.1</ns0:id>
+    <ns0:updated>2026-09-08T09:18:00Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/openai/openai-agents-python/releases/tag/v0.22.1" />
+    <ns0:title>v0.22.1</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;feat(core): support image results in web search tools by &lt;a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/seratch/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/seratch"&gt;@seratch&lt;/a&gt; in &lt;a class="issue-link js-issue-link" data-error-text="Failed to load title"</ns0:content>
+    <ns0:author>
+      <ns0:name>seratch</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/19658?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/946380199/v0.22.0</ns0:id>
+    <ns0:updated>2026-08-19T13:44:38Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/openai/openai-agents-python/releases/tag/v0.22.0" />
+    <ns0:title>v0.22.0</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;Key Changes&lt;/h2&gt;
+&lt;p&gt;Version 0.22.0 is a minor release because it adds substantial runtime hardening and tightens an existing provider configuration contract. Applications that combine an explicit &lt;code&gt;openai_client&lt;/code&gt; with &lt;code&gt;organization&lt;/code&gt; or &lt;code&gt;project&lt;/code&gt; must move those values to the &lt;code&gt;AsyncOpenAI&lt;/code&gt; client.&lt;/p&gt;
+&lt;h3&gt;Highlights:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Redacts terminal func</ns0:content>
+    <ns0:author>
+      <ns0:name>seratch</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/19658?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/946380199/v0.21.1</ns0:id>
+    <ns0:updated>2026-08-16T22:28:55Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/openai/openai-agents-python/releases/tag/v0.21.1" />
+    <ns0:title>v0.21.1</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;feat(core): add model call timeouts by &lt;a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/seratch/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/seratch"&gt;@seratch&lt;/a&gt; in &lt;a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="51571215</ns0:content>
+    <ns0:author>
+      <ns0:name>seratch</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/19658?s=60&amp;v=4" />
+  </ns0:entry>
+</ns0:feed>

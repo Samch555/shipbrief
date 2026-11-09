@@ -1,0 +1,144 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <ns0:id>tag:github.com,2008:https://github.com/huggingface/smolagents/releases</ns0:id>
+  <ns0:link type="text/html" rel="alternate" href="https://github.com/huggingface/smolagents/releases" />
+  <ns0:link type="application/atom+xml" rel="self" href="https://github.com/huggingface/smolagents/releases.atom" />
+  <ns0:title>Release notes from smolagents</ns0:title>
+  <ns0:updated>2026-05-29T05:08:24Z</ns0:updated>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/898968194/v1.26.0</ns0:id>
+    <ns0:updated>2026-05-29T05:09:47Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/huggingface/smolagents/releases/tag/v1.26.0" />
+    <ns0:title>v1.26.0</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Bump dev version: v1.26.0.dev0 by &lt;a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/albertvillanova/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/albertvillanova"&gt;@albertvillanova&lt;/a&gt; in &lt;a class="issue-link js-issue-link" data-error-text="Failed to load title</ns0:content>
+    <ns0:author>
+      <ns0:name>albertvillanova</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/8515462?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/898968194/v1.25.0</ns0:id>
+    <ns0:updated>2026-05-14T11:38:12Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/huggingface/smolagents/releases/tag/v1.25.0" />
+    <ns0:title>v1.25.0</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Bump dev version: v1.25.0.dev0 by &lt;a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/albertvillanova/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/albertvillanova"&gt;@albertvillanova&lt;/a&gt; in &lt;a class="issue-link js-issue-link" data-error-text="Failed to load title</ns0:content>
+    <ns0:author>
+      <ns0:name>albertvillanova</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/8515462?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/898968194/v1.24.0</ns0:id>
+    <ns0:updated>2026-01-16T05:39:28Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/huggingface/smolagents/releases/tag/v1.24.0" />
+    <ns0:title>v1.24.0</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Bump version to 1.24 by &lt;a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/aymeric-roucher/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/aymeric-roucher"&gt;@aymeric-roucher&lt;/a&gt; in &lt;a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id=</ns0:content>
+    <ns0:author>
+      <ns0:name>albertvillanova</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/8515462?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/898968194/v1.23.0</ns0:id>
+    <ns0:updated>2025-11-17T14:35:02Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/huggingface/smolagents/releases/tag/v1.23.0" />
+    <ns0:title>v1.23.0</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;Improvements ✨&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Update final answer checks to accept the agent instance by &lt;a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/Zoe14/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/Zoe14"&gt;@Zoe14&lt;/a&gt; in &lt;a class="issue-link js-issue-link" data-error-text="Failed to load title" dat</ns0:content>
+    <ns0:author>
+      <ns0:name>aymeric-roucher</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/69208727?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/898968194/v1.22.0</ns0:id>
+    <ns0:updated>2025-09-25T08:47:27Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/huggingface/smolagents/releases/tag/v1.22.0" />
+    <ns0:title>v1.22.0</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Bump dev version: v1.22.0.dev0 by &lt;a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/albertvillanova/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/albertvillanova"&gt;@albertvillanova&lt;/a&gt; in &lt;a class="issue-link js-issue-link" data-error-text="Failed to load title</ns0:content>
+    <ns0:author>
+      <ns0:name>albertvillanova</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/8515462?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/898968194/v1.21.3</ns0:id>
+    <ns0:updated>2025-09-01T14:35:16Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/huggingface/smolagents/releases/tag/v1.21.3" />
+    <ns0:title>v1.21.3</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;Bug Fixes 🐛&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fix E2BExecutor by pinning e2b-code-interpreter to &amp;lt; 2 by &lt;a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/albertvillanova/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/albertvillanova"&gt;@albertvillanova&lt;/a&gt; in &lt;a class="issue-link js-issue-link" data-error-te</ns0:content>
+    <ns0:author>
+      <ns0:name>albertvillanova</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/8515462?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/898968194/v1.21.2</ns0:id>
+    <ns0:updated>2025-08-20T05:15:23Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/huggingface/smolagents/releases/tag/v1.21.2" />
+    <ns0:title>v1.21.2</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;Bug Fixes 🐛&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Pin telemetry extra &amp;gt;=0.1.15 to use new TokenUsage structure by &lt;a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/albertvillanova/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/albertvillanova"&gt;@albertvillanova&lt;/a&gt; in &lt;a class="issue-link js-issue-link" data-er</ns0:content>
+    <ns0:author>
+      <ns0:name>albertvillanova</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/8515462?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/898968194/v1.21.1</ns0:id>
+    <ns0:updated>2025-08-11T10:52:43Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/huggingface/smolagents/releases/tag/v1.21.1" />
+    <ns0:title>v1.21.1</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;Bug Fixes 🐛&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Fix error for GPT-5 not supporting the &lt;code&gt;stop&lt;/code&gt; parameter by &lt;a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/Xmader/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/Xmader"&gt;@Xmader&lt;/a&gt; in &lt;a class="issue-link js-issue-link" data-error-text="Failed to load</ns0:content>
+    <ns0:author>
+      <ns0:name>albertvillanova</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/8515462?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/898968194/v1.21.0</ns0:id>
+    <ns0:updated>2025-08-07T13:46:07Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/huggingface/smolagents/releases/tag/v1.21.0" />
+    <ns0:title>v1.21.0</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;Enhancements ✨&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Tool &amp;amp; Model Improvements&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Add Tool to_code_prompt and to_tool_calling_prompt by &lt;a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/albertvillanova/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/albertvillanova"&gt;@albertvillan</ns0:content>
+    <ns0:author>
+      <ns0:name>albertvillanova</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/8515462?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/898968194/v1.20.0</ns0:id>
+    <ns0:updated>2025-07-10T20:54:39Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/huggingface/smolagents/releases/tag/v1.20.0" />
+    <ns0:title>v1.20.0</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;New Features ✨&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Remote Execution&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Implement remote Python WasmExecutor by &lt;a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/albertvillanova/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/albertvillanova"&gt;@albertvillanova&lt;/a&gt; in &lt;a class="issue</ns0:content>
+    <ns0:author>
+      <ns0:name>albertvillanova</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/8515462?s=60&amp;v=4" />
+  </ns0:entry>
+</ns0:feed>

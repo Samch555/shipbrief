@@ -1,0 +1,155 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <ns0:id>tag:github.com,2008:https://github.com/google/adk-python/releases</ns0:id>
+  <ns0:link type="text/html" rel="alternate" href="https://github.com/google/adk-python/releases" />
+  <ns0:link type="application/atom+xml" rel="self" href="https://github.com/google/adk-python/releases.atom" />
+  <ns0:title>Release notes from adk-python</ns0:title>
+  <ns0:updated>2026-11-07T00:52:39Z</ns0:updated>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/958830659/v2.14.0</ns0:id>
+    <ns0:updated>2026-11-07T00:58:18Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/google/adk-python/releases/tag/v2.14.0" />
+    <ns0:title>v2.14.0</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;&lt;a href="https://github.com/google/adk-python/compare/v2.13.0...v2.14.0"&gt;2.14.0&lt;/a&gt; (2026-11-04)&lt;/h2&gt;
+&lt;h3&gt;Highlights&lt;/h3&gt;
+&lt;p&gt;This release graduates execution environments, A2A, evaluation, and core runtime modules from experimental, adds multi-run evaluation and semantic tool argument matching, adds Microsoft Teams and OpenAI Decisions integrations, and makes long multi-turn workflows faster.&lt;</ns0:content>
+    <ns0:author>
+      <ns0:name>haranrk</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/19757243?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/958830659/v2.13.0</ns0:id>
+    <ns0:updated>2026-10-23T18:08:23Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/google/adk-python/releases/tag/v2.13.0" />
+    <ns0:title>v2.13.0</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;&lt;a href="https://github.com/google/adk-python/compare/v2.12.0...v2.13.0"&gt;2.13.0&lt;/a&gt; (2026-10-22)&lt;/h2&gt;
+&lt;h3&gt;Highlights&lt;/h3&gt;
+&lt;p&gt;This release stabilizes core features while introducing TypeSafe workflow classification, live audio interactions, MongoDB integrations, and execution performance improvements.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Stability&lt;/strong&gt;: Access 12 mature experimental features now promoted t</ns0:content>
+    <ns0:author>
+      <ns0:name>Jacksunwei</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1281348?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/958830659/v2.12.0</ns0:id>
+    <ns0:updated>2026-10-13T16:35:19Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/google/adk-python/releases/tag/v2.12.0" />
+    <ns0:title>v2.12.0</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;&lt;a href="https://github.com/google/adk-python/compare/v2.11.0...v2.12.0"&gt;2.12.0&lt;/a&gt; (2026-10-13)&lt;/h2&gt;
+&lt;h3&gt;Highlights&lt;/h3&gt;
+&lt;p&gt;This release enhances execution performance in long sessions while introducing finer control over tool execution, workflow approvals, and deployment security.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Performance&lt;/strong&gt;: Cut time to first model request by 40% in long sessions. (&lt;a href="ht</ns0:content>
+    <ns0:author>
+      <ns0:name>GWeale</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/51099682?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/958830659/v2.11.0</ns0:id>
+    <ns0:updated>2026-10-08T21:50:37Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/google/adk-python/releases/tag/v2.11.0" />
+    <ns0:title>v2.11.0</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;&lt;a href="https://github.com/google/adk-python/compare/v2.10.0...v2.11.0"&gt;2.11.0&lt;/a&gt; (2026-10-01)&lt;/h2&gt;
+&lt;h3&gt;Highlights&lt;/h3&gt;
+&lt;p&gt;This release adds graceful cancellation and tool confirmation to workflows, a tool for consulting another model mid-task, and a built-in SQLite memory service.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Execution cancellation&lt;/strong&gt;: Pass an &lt;code&gt;abort_signal&lt;/code&gt; to &lt;code&gt;Runner&lt;/code&gt;,</ns0:content>
+    <ns0:author>
+      <ns0:name>xuanyang15</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/13991296?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/958830659/v2.10.0</ns0:id>
+    <ns0:updated>2026-09-25T19:00:05Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/google/adk-python/releases/tag/v2.10.0" />
+    <ns0:title>v2.10.0</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;&lt;a href="https://github.com/google/adk-python/compare/v2.9.2...v2.10.0"&gt;2.10.0&lt;/a&gt; (2026-09-24)&lt;/h2&gt;
+&lt;h3&gt;Highlights&lt;/h3&gt;
+&lt;p&gt;This release introduces advanced skill lifecycle management, expands database and model integration support, and brings richer efficiency metrics to agent evaluation.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Skills&lt;/strong&gt;: Control resource usage and tool persistence dynamically using new e</ns0:content>
+    <ns0:author>
+      <ns0:name>wyf7107</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/14008276?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/958830659/v2.9.2</ns0:id>
+    <ns0:updated>2026-09-18T18:08:40Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/google/adk-python/releases/tag/v2.9.2" />
+    <ns0:title>v2.9.2</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;&lt;a href="https://github.com/google/adk-python/compare/v2.9.1...v2.9.2"&gt;2.9.2&lt;/a&gt; (2026-09-18)&lt;/h2&gt;
+&lt;h3&gt;Highlights&lt;/h3&gt;
+&lt;p&gt;This release focuses on refining telemetry behavior by correcting how OpenTelemetry event names are handled across different environments.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Telemetry&lt;/strong&gt;: OpenTelemetry event names are now preserved on platforms outside of Agent Engine, ensuring mor</ns0:content>
+    <ns0:author>
+      <ns0:name>Jacksunwei</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1281348?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/958830659/v2.9.1</ns0:id>
+    <ns0:updated>2026-09-15T18:03:42Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/google/adk-python/releases/tag/v2.9.1" />
+    <ns0:title>v2.9.1</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;&lt;a href="https://github.com/google/adk-python/compare/v2.9.0...v2.9.1"&gt;2.9.1&lt;/a&gt; (2026-09-15)&lt;/h2&gt;
+&lt;h3&gt;Highlights&lt;/h3&gt;
+&lt;p&gt;This release focuses on improving visibility into model reasoning steps when utilizing Claude's adaptive thinking capabilities.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Claude Integration&lt;/strong&gt;: Access the step-by-step reasoning process of Claude models by ensuring visible thoughts are requ</ns0:content>
+    <ns0:author>
+      <ns0:name>Jacksunwei</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1281348?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/958830659/v2.9.0</ns0:id>
+    <ns0:updated>2026-10-08T21:50:47Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/google/adk-python/releases/tag/v2.9.0" />
+    <ns0:title>v2.9.0</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;&lt;a href="https://github.com/google/adk-python/compare/v2.8.0...v2.9.0"&gt;2.9.0&lt;/a&gt; (2026-09-10)&lt;/h2&gt;
+&lt;h3&gt;Highlights&lt;/h3&gt;
+&lt;p&gt;This release focuses on agent resilience and ecosystem integration by introducing automatic model failover, native voice support via LiveKit, and compatibility with MCP SDK 2.x.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Models&lt;/strong&gt;: Safeguard agent uptime by automatically failing over to ba</ns0:content>
+    <ns0:author>
+      <ns0:name>GWeale</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/51099682?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/958830659/v1.39.1</ns0:id>
+    <ns0:updated>2026-08-27T21:56:28Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/google/adk-python/releases/tag/v1.39.1" />
+    <ns0:title>v1.39.1</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;&lt;a href="https://github.com/google/adk-python/compare/v1.39.0...v1.39.1"&gt;1.39.1&lt;/a&gt; (2026-08-27)&lt;/h2&gt;
+&lt;h3&gt;Bug Fixes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;a2a:&lt;/strong&gt; Port event action allowlist, agent card description source and resume flattening to v1 (&lt;a href="https://github.com/google/adk-python/issues/6801" data-hovercard-type="pull_request" data-hovercard-url="/google/adk-python/pull/6801/hovercard"&gt;#6</ns0:content>
+    <ns0:author>
+      <ns0:name>wukath</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/108756731?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/958830659/v2.8.0</ns0:id>
+    <ns0:updated>2026-08-26T23:25:15Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/google/adk-python/releases/tag/v2.8.0" />
+    <ns0:title>v2.8.0</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;&lt;a href="https://github.com/google/adk-python/compare/v2.7.1...v2.8.0"&gt;2.8.0&lt;/a&gt; (2026-08-25)&lt;/h2&gt;
+&lt;h3&gt;Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;a2a:&lt;/strong&gt; add native task mode support to RemoteA2aAgent (&lt;a href="https://github.com/google/adk-python/commit/72f3ff5cfb11fdf7432c6c2faa01befcc350ad7e"&gt;72f3ff5&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;add ADK_MAX_LLM_CALLS environment variable to configure max LLM calls limit (&lt;a hre</ns0:content>
+    <ns0:author>
+      <ns0:name>wukath</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/108756731?s=60&amp;v=4" />
+  </ns0:entry>
+</ns0:feed>

@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <ns0:id>tag:github.com,2008:https://github.com/langchain-ai/langgraph/releases</ns0:id>
+  <ns0:link type="text/html" rel="alternate" href="https://github.com/langchain-ai/langgraph/releases" />
+  <ns0:link type="application/atom+xml" rel="self" href="https://github.com/langchain-ai/langgraph/releases.atom" />
+  <ns0:title>Release notes from langgraph</ns0:title>
+  <ns0:updated>2026-11-06T03:00:30Z</ns0:updated>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/676672661/sdk==0.4.14</ns0:id>
+    <ns0:updated>2026-11-06T03:03:34Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/langchain-ai/langgraph/releases/tag/sdk%3D%3D0.4.14" />
+    <ns0:title>langgraph-sdk==0.4.14</ns0:title>
+    <ns0:content type="html">&lt;p&gt;Changes since sdk==0.4.13&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;release(sdk-py): 0.4.14 (&lt;a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="6235236293" data-permission-text="Title is private" data-url="https://github.com/langchain-ai/langgraph/issues/9610" data-hovercard-type="pull_request" data-hovercard-url="/langchain-ai/langgraph/pull/9610/hovercard" href="https://github.com/langcha</ns0:content>
+    <ns0:author>
+      <ns0:name>github-actions[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/676672661/cli==0.4.42</ns0:id>
+    <ns0:updated>2026-11-06T03:04:13Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/langchain-ai/langgraph/releases/tag/cli%3D%3D0.4.42" />
+    <ns0:title>langgraph-cli==0.4.42</ns0:title>
+    <ns0:content type="html">&lt;p&gt;Changes since cli==0.4.41&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;release(cli): 0.4.42 (&lt;a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="6235236947" data-permission-text="Title is private" data-url="https://github.com/langchain-ai/langgraph/issues/9611" data-hovercard-type="pull_request" data-hovercard-url="/langchain-ai/langgraph/pull/9611/hovercard" href="https://github.com/langchain-</ns0:content>
+    <ns0:author>
+      <ns0:name>github-actions[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/676672661/1.2.20</ns0:id>
+    <ns0:updated>2026-11-05T02:20:53Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/langchain-ai/langgraph/releases/tag/1.2.20" />
+    <ns0:title>langgraph==1.2.20</ns0:title>
+    <ns0:content type="html">&lt;p&gt;Changes since 1.2.19&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;release(langgraph): 1.2.20 (&lt;a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="6215089962" data-permission-text="Title is private" data-url="https://github.com/langchain-ai/langgraph/issues/9595" data-hovercard-type="pull_request" data-hovercard-url="/langchain-ai/langgraph/pull/9595/hovercard" href="https://github.com/langchain</ns0:content>
+    <ns0:author>
+      <ns0:name>github-actions[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/676672661/sdk==0.4.13</ns0:id>
+    <ns0:updated>2026-11-05T02:16:06Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/langchain-ai/langgraph/releases/tag/sdk%3D%3D0.4.13" />
+    <ns0:title>langgraph-sdk==0.4.13</ns0:title>
+    <ns0:content type="html">&lt;p&gt;Changes since sdk==0.4.12&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;release(langgraph): 1.2.20 (&lt;a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="6215089962" data-permission-text="Title is private" data-url="https://github.com/langchain-ai/langgraph/issues/9595" data-hovercard-type="pull_request" data-hovercard-url="/langchain-ai/langgraph/pull/9595/hovercard" href="https://github.com/lang</ns0:content>
+    <ns0:author>
+      <ns0:name>github-actions[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/676672661/cli==0.4.41</ns0:id>
+    <ns0:updated>2026-11-05T02:30:54Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/langchain-ai/langgraph/releases/tag/cli%3D%3D0.4.41" />
+    <ns0:title>langgraph-cli==0.4.41</ns0:title>
+    <ns0:content type="html">&lt;p&gt;Changes since cli==0.4.40&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;release(cli): 0.4.41 (&lt;a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="6215195952" data-permission-text="Title is private" data-url="https://github.com/langchain-ai/langgraph/issues/9596" data-hovercard-type="pull_request" data-hovercard-url="/langchain-ai/langgraph/pull/9596/hovercard" href="https://github.com/langchain-</ns0:content>
+    <ns0:author>
+      <ns0:name>github-actions[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/676672661/sdk==0.4.12</ns0:id>
+    <ns0:updated>2026-11-03T18:10:30Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/langchain-ai/langgraph/releases/tag/sdk%3D%3D0.4.12" />
+    <ns0:title>langgraph-sdk==0.4.12</ns0:title>
+    <ns0:content type="html">&lt;p&gt;Changes since sdk==0.4.11&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;release(sdk-py): 0.4.12 (&lt;a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="6187099067" data-permission-text="Title is private" data-url="https://github.com/langchain-ai/langgraph/issues/9569" data-hovercard-type="pull_request" data-hovercard-url="/langchain-ai/langgraph/pull/9569/hovercard" href="https://github.com/langcha</ns0:content>
+    <ns0:author>
+      <ns0:name>github-actions[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/676672661/1.2.19</ns0:id>
+    <ns0:updated>2026-10-30T22:23:43Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/langchain-ai/langgraph/releases/tag/1.2.19" />
+    <ns0:title>langgraph==1.2.19</ns0:title>
+    <ns0:content type="html">&lt;p&gt;Changes since 1.2.18&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;release(langgraph): 1.2.19 (&lt;a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="6126910037" data-permission-text="Title is private" data-url="https://github.com/langchain-ai/langgraph/issues/9504" data-hovercard-type="pull_request" data-hovercard-url="/langchain-ai/langgraph/pull/9504/hovercard" href="https://github.com/langchain</ns0:content>
+    <ns0:author>
+      <ns0:name>github-actions[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/676672661/sdk==0.4.11</ns0:id>
+    <ns0:updated>2026-10-30T22:17:59Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/langchain-ai/langgraph/releases/tag/sdk%3D%3D0.4.11" />
+    <ns0:title>langgraph-sdk==0.4.11</ns0:title>
+    <ns0:content type="html">&lt;p&gt;Changes since sdk==0.4.10&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;release(langgraph): 1.2.19 (&lt;a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="6126910037" data-permission-text="Title is private" data-url="https://github.com/langchain-ai/langgraph/issues/9504" data-hovercard-type="pull_request" data-hovercard-url="/langchain-ai/langgraph/pull/9504/hovercard" href="https://github.com/lang</ns0:content>
+    <ns0:author>
+      <ns0:name>github-actions[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/676672661/checkpointsqlite==3.1.3</ns0:id>
+    <ns0:updated>2026-10-30T22:18:54Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/langchain-ai/langgraph/releases/tag/checkpointsqlite%3D%3D3.1.3" />
+    <ns0:title>langgraph-checkpoint-sqlite==3.1.3</ns0:title>
+    <ns0:content type="html">&lt;p&gt;Changes since checkpointsqlite==3.1.2&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;release(checkpoint-sqlite): 3.1.3 (&lt;a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="6127079894" data-permission-text="Title is private" data-url="https://github.com/langchain-ai/langgraph/issues/9505" data-hovercard-type="pull_request" data-hovercard-url="/langchain-ai/langgraph/pull/9505/hovercard" href="http</ns0:content>
+    <ns0:author>
+      <ns0:name>github-actions[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/676672661/1.2.18</ns0:id>
+    <ns0:updated>2026-10-26T20:05:16Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/langchain-ai/langgraph/releases/tag/1.2.18" />
+    <ns0:title>langgraph==1.2.18</ns0:title>
+    <ns0:content type="html">&lt;p&gt;Changes since 1.2.17&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;release(checkpoint): 4.3.1 (&lt;a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="6046146171" data-permission-text="Title is private" data-url="https://github.com/langchain-ai/langgraph/issues/9447" data-hovercard-type="pull_request" data-hovercard-url="/langchain-ai/langgraph/pull/9447/hovercard" href="https://github.com/langchain</ns0:content>
+    <ns0:author>
+      <ns0:name>github-actions[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4" />
+  </ns0:entry>
+</ns0:feed>

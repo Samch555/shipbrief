@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <ns0:id>tag:github.com,2008:https://github.com/open-webui/open-webui/releases</ns0:id>
+  <ns0:link type="text/html" rel="alternate" href="https://github.com/open-webui/open-webui/releases" />
+  <ns0:link type="application/atom+xml" rel="self" href="https://github.com/open-webui/open-webui/releases.atom" />
+  <ns0:title>Release notes from open-webui</ns0:title>
+  <ns0:updated>2026-11-08T23:48:12Z</ns0:updated>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/701547123/v0.13.3</ns0:id>
+    <ns0:updated>2026-11-08T23:48:24Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/open-webui/open-webui/releases/tag/v0.13.3" />
+    <ns0:title>v0.13.3</ns0:title>
+    <ns0:content type="html">&lt;h3&gt;Added&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;🦾 &lt;strong&gt;Agents in automations.&lt;/strong&gt; The automation editor now lets you choose a terminal and working folder, then select a coding agent available there. Scheduled runs use that saved terminal and folder, and check that the terminal and agent are still available before starting. Agent automations send their results to a chat; channel destinations remain available for o</ns0:content>
+    <ns0:author>
+      <ns0:name>github-actions[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/701547123/v0.13.2</ns0:id>
+    <ns0:updated>2026-11-08T11:53:42Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/open-webui/open-webui/releases/tag/v0.13.2" />
+    <ns0:title>v0.13.2</ns0:title>
+    <ns0:content type="html">&lt;h3&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;🔓 &lt;strong&gt;Chat over plain HTTP.&lt;/strong&gt; Opening Open WebUI over plain HTTP at a LAN or Docker address now loads new and existing chats instead of staying on a spinner with "crypto.randomUUID is not a function". &lt;a href="https://github.com/open-webui/open-webui/issues/33919" data-hovercard-type="issue" data-hovercard-url="/open-webui/open-webui/issues/33919/hovercard"&gt;#3391</ns0:content>
+    <ns0:author>
+      <ns0:name>github-actions[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/701547123/v0.13.1</ns0:id>
+    <ns0:updated>2026-11-08T11:07:53Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/open-webui/open-webui/releases/tag/v0.13.1" />
+    <ns0:title>v0.13.1</ns0:title>
+    <ns0:content type="html">&lt;h3&gt;Added&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;🦾 &lt;strong&gt;Coding agents as models.&lt;/strong&gt; On an Open Terminal that offers agents, coding agents such as Claude Code, Codex and Pi now appear in the model picker. You can chat with them or call them by voice, choose their reasoning effort and service tier, and approve their tool requests in the chat. Each conversation uses one agent, and agent chats cannot be regenerated, </ns0:content>
+    <ns0:author>
+      <ns0:name>github-actions[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/701547123/v0.13.0</ns0:id>
+    <ns0:updated>2026-11-03T12:23:16Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/open-webui/open-webui/releases/tag/v0.13.0" />
+    <ns0:title>v0.13.0</ns0:title>
+    <ns0:content type="html">&lt;h3&gt;Added&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;📑 &lt;strong&gt;Tabbed workspace.&lt;/strong&gt; The Tabs button at the top of a chat now opens a workspace for files, multiple terminal sessions, artifacts, previews, voice calls and comments. Add tabs from the + menu, drag to reorder them, and create and save new files directly into the selected terminal. Keep the conversation and its working files together while coding, analyzing da</ns0:content>
+    <ns0:author>
+      <ns0:name>github-actions[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/701547123/v0.12.5</ns0:id>
+    <ns0:updated>2026-10-29T09:08:03Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/open-webui/open-webui/releases/tag/v0.12.5" />
+    <ns0:title>v0.12.5</ns0:title>
+    <ns0:content type="html">&lt;h3&gt;Added&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;🧭 &lt;strong&gt;Analytics session explorer.&lt;/strong&gt; Administrators can now open a Sessions tab in Admin Analytics that lists each chat with its tokens, responses, errors and time span, filters them by search, model, token range or sub-agents, and shows a chat's saved replies and tool calls with their timing and outcome, as long as "ENABLE_ADMIN_CHAT_ACCESS" is on. &lt;a href="https</ns0:content>
+    <ns0:author>
+      <ns0:name>github-actions[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/701547123/v0.12.4</ns0:id>
+    <ns0:updated>2026-10-25T08:07:13Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/open-webui/open-webui/releases/tag/v0.12.4" />
+    <ns0:title>v0.12.4</ns0:title>
+    <ns0:content type="html">&lt;h3&gt;Added&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;🎯 &lt;strong&gt;Load selected skills on demand.&lt;/strong&gt; Administrators can turn on "Load selected skills on demand" under Admin Settings &amp;gt; General or set "ENABLE_SKILL_LAZY_LOADING", so skills selected in the chat or attached to a model are only listed for the model to load when it needs them instead of sending their full instructions with every message, while skills mentione</ns0:content>
+    <ns0:author>
+      <ns0:name>github-actions[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/701547123/v0.12.3</ns0:id>
+    <ns0:updated>2026-10-16T11:46:21Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/open-webui/open-webui/releases/tag/v0.12.3" />
+    <ns0:title>v0.12.3</ns0:title>
+    <ns0:content type="html">&lt;h3&gt;Added&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;🔐 &lt;strong&gt;End-to-end encrypted chats.&lt;/strong&gt; Direct messages and private group channels can now hold a temporary end-to-end encrypted chat: a member picks Encrypted Chat in the channel menu, the other members see "Encrypted chat in progress" with a Join link, messages of up to 16 KiB are encrypted in the browser with MLS and only passed through the server without being sa</ns0:content>
+    <ns0:author>
+      <ns0:name>github-actions[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/701547123/v0.12.2</ns0:id>
+    <ns0:updated>2026-10-14T21:07:29Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/open-webui/open-webui/releases/tag/v0.12.2" />
+    <ns0:title>v0.12.2</ns0:title>
+    <ns0:content type="html">&lt;h3&gt;Added&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;📑 &lt;strong&gt;MinerU 4.x servers.&lt;/strong&gt; The MinerU document engine now works with self-hosted MinerU 4.x servers, where every document failed with a 404 because 4.x removed the old parsing interface; 3.x servers work as before, 4.x servers take a tier (flash, basic, standard or advanced) and enable_ocr in the MinerU parameters while language and model_version stay 3.x only, </ns0:content>
+    <ns0:author>
+      <ns0:name>github-actions[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/701547123/v0.12.1</ns0:id>
+    <ns0:updated>2026-10-14T16:18:56Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/open-webui/open-webui/releases/tag/v0.12.1" />
+    <ns0:title>v0.12.1</ns0:title>
+    <ns0:content type="html">&lt;h3&gt;Added&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;🧱 &lt;strong&gt;External apps in channels.&lt;/strong&gt; Administrators can now turn on Apps in Admin Settings &amp;gt; General, or with "ENABLE_APPS", and connect external apps in the new Apps tab of Admin Settings by their HTTPS address, reviewing the permissions each app asks for, such as reading its mentions, reading channel messages or posting messages, and choosing who may use it; c</ns0:content>
+    <ns0:author>
+      <ns0:name>github-actions[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/701547123/v0.12.0</ns0:id>
+    <ns0:updated>2026-10-10T21:17:46Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/open-webui/open-webui/releases/tag/v0.12.0" />
+    <ns0:title>v0.12.0</ns0:title>
+    <ns0:content type="html">&lt;h3&gt;Added&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;☎️ &lt;strong&gt;Realtime voice calls.&lt;/strong&gt; Administrators can now switch Call mode in the Voice calls section of Audio settings from Standard to Realtime, so Voice mode talks through an OpenAI Realtime voice model (gpt-realtime-2.1-mini with the Marin voice by default) that handles small talk itself and hands real questions and tasks to the chat's selected model, with its co</ns0:content>
+    <ns0:author>
+      <ns0:name>github-actions[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4" />
+  </ns0:entry>
+</ns0:feed>

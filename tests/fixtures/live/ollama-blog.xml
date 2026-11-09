@@ -1,0 +1,150 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Ollama</title>
+    <description>Ollama</description>
+    <link>https://ollama.com/blog</link>
+    <lastBuildDate>Mon, 09 Nov 2026 17:27:32 +0000</lastBuildDate>
+    <ns0:link href="https://ollama.com/blog/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Speech models in Ollama</title>
+      <description>Ollama now supports speech models, starting with Phonon from Gradium. Read text aloud in five languages and dozens of voices, streamed as it is generated, over 100 times faster than real time on Apple Silicon.</description>
+      <link>https://ollama.com/blog/speech-models</link>
+      <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ollama.com/blog/speech-models</guid>
+    </item>
+    <item>
+      <title>Clef is available on Ollama's cloud</title>
+      <description>Clef, a 27B multimodal decision model from Cloudflare, is now available on Ollama. Run it locally or on Ollama's cloud.</description>
+      <link>https://ollama.com/blog/clef</link>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ollama.com/blog/clef</guid>
+    </item>
+    <item>
+      <title>Reflection's Beam is freely available on Ollama for a limited time</title>
+      <description>Reflection's first open-weight model is now available on Ollama, and free for a limited time only. Beam is designed for software engineering, reasoning, and long-running agentic tasks. Access Beam through Ollama's cloud.</description>
+      <link>https://ollama.com/blog/reflection-beam</link>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ollama.com/blog/reflection-beam</guid>
+    </item>
+    <item>
+      <title>Run AI agents safely with Ollama and Fly.io</title>
+      <description>AI agents can now use Ollama's cloud models safely inside Fly.io's cloud computers.</description>
+      <link>https://ollama.com/blog/fly-io-sprites</link>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ollama.com/blog/fly-io-sprites</guid>
+    </item>
+    <item>
+      <title>Ollama now supports Jev-style decision models</title>
+      <description>Ollama now supports decision models, based on TypeSafe's Jev API for fast, typed decisions. Decision models can now be run at no cost with low latency. Based on text, decision models answer yes-or-no questions, choices and scores about it, with a probability for every option.</description>
+      <link>https://ollama.com/blog/ollama-now-supports-jev-style-decision-models</link>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ollama.com/blog/ollama-now-supports-jev-style-decision-models</guid>
+    </item>
+    <item>
+      <title>Ollama's transparent pricing</title>
+      <description>Ollama's Pro, Max, and Team plans now use industry-standard per-token pricing with usage included on every plan.</description>
+      <link>https://ollama.com/blog/transparent-pricing</link>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ollama.com/blog/transparent-pricing</guid>
+    </item>
+    <item>
+      <title>Claude Desktop support with Ollama</title>
+      <description>Claude Desktop can now be configured to work with Ollama as a third-party gateway provider, making it possible to use open models in Claude.</description>
+      <link>https://ollama.com/blog/claude-desktop</link>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ollama.com/blog/claude-desktop</guid>
+    </item>
+    <item>
+      <title>NVIDIA Nemotron 3.5 Lightning</title>
+      <description>NVIDIA Nemotron 3.5 Lightning is now available on Ollama. It's a 30 billion parameter (3B active) open model built for agents that stay running, gathering context, calling tools, and working through multi-step tasks on your own hardware.</description>
+      <link>https://ollama.com/blog/nemotron-3-5-lightning</link>
+      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ollama.com/blog/nemotron-3-5-lightning</guid>
+    </item>
+    <item>
+      <title>Muse Glimmer from Meta Superintelligence Labs is now available</title>
+      <description>Meta's Muse Glimmer, the first open model released by Meta Superintelligence Labs, is now available. Muse Glimmer is a 30B multimodal model released under the Apache 2.0 license, designed for local coding agents, and accelerated by Ollama's MLX engine with new native DFlash and image input support.</description>
+      <link>https://ollama.com/blog/muse-glimmer</link>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ollama.com/blog/muse-glimmer</guid>
+    </item>
+    <item>
+      <title>Ollama: all aboard open models</title>
+      <description>Serving 8.9 million developers, Ollama has raised $88M from Benchmark, Theory Ventures, 8VC, Y Combinator, and many incredible angel investors.</description>
+      <link>https://ollama.com/blog/all-aboard-open-models</link>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ollama.com/blog/all-aboard-open-models</guid>
+    </item>
+    <item>
+      <title>Faster Gemma 4 on MLX with multi-token prediction</title>
+      <description>Gemma 4 is now significantly faster in Ollama 0.31 on Apple Silicon via multi-token prediction (MTP), powered by MLX. Performance is now up to 90% faster when used with coding agents, as measured using the Aider polyglot benchmark.</description>
+      <link>https://ollama.com/blog/faster-gemma-4-mlx-mtp</link>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ollama.com/blog/faster-gemma-4-mlx-mtp</guid>
+    </item>
+    <item>
+      <title>Ollama's highest performance on Apple Silicon yet with MLX</title>
+      <description>Ollama's MLX engine has been updated to deliver its highest performance on Apple Silicon yet. Models output higher quality responses, respond faster, and use less memory.</description>
+      <link>https://ollama.com/blog/mlx-performance</link>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ollama.com/blog/mlx-performance</guid>
+    </item>
+    <item>
+      <title>Improved performance and model support with GGUF</title>
+      <description>Ollama 0.30 is now available with improved performance and GGUF model compatibility through llama.cpp. This augments Ollama's MLX engine on Apple silicon, bringing support to more models on a wider range of hardware.</description>
+      <link>https://ollama.com/blog/improved-performance-and-model-support-with-gguf</link>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ollama.com/blog/improved-performance-and-model-support-with-gguf</guid>
+    </item>
+    <item>
+      <title>NVIDIA Nemotron 3 Ultra</title>
+      <description>NVIDIA Nemotron 3 Ultra is built for high-throughput reasoning and long-running agent workflows.</description>
+      <link>https://ollama.com/blog/nemotron-3-ultra</link>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ollama.com/blog/nemotron-3-ultra</guid>
+    </item>
+    <item>
+      <title>OpenJarvis: a local-first personal AI is now available to run with Ollama</title>
+      <description>OpenJarvis v1.0 is now available: an open-source framework for building personal AI agents that run on your own hardware, with Ollama support built-in.</description>
+      <link>https://ollama.com/blog/openjarvis</link>
+      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ollama.com/blog/openjarvis</guid>
+    </item>
+    <item>
+      <title>Ollama is now powered by MLX on Apple Silicon in preview</title>
+      <description>Today, we're previewing the fastest way to run Ollama on Apple silicon, powered by MLX, Apple's machine learning framework.</description>
+      <link>https://ollama.com/blog/mlx</link>
+      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ollama.com/blog/mlx</guid>
+    </item>
+    <item>
+      <title>The simplest and fastest way to setup OpenClaw</title>
+      <description>Setup OpenClaw in under two minutes with a single Ollama command.</description>
+      <link>https://ollama.com/blog/openclaw-tutorial</link>
+      <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ollama.com/blog/openclaw-tutorial</guid>
+    </item>
+    <item>
+      <title>Subagents and web search in Claude Code</title>
+      <description>Ollama now supports subagents and web search in Claude Code.</description>
+      <link>https://ollama.com/blog/web-search-subagents-claude-code</link>
+      <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ollama.com/blog/web-search-subagents-claude-code</guid>
+    </item>
+    <item>
+      <title>OpenClaw</title>
+      <description>OpenClaw is a personal AI assistant that connects your messaging apps to local AI coding agents, all running on your own device.</description>
+      <link>https://ollama.com/blog/openclaw</link>
+      <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ollama.com/blog/openclaw</guid>
+    </item>
+    <item>
+      <title>ollama launch</title>
+      <description>ollama launch is a new command which sets up and runs coding tools like Claude Code, OpenCode, and Codex with local or cloud models. No environment variables or config files needed.</description>
+      <link>https://ollama.com/blog/launch</link>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://ollama.com/blog/launch</guid>
+    </item>
+    </channel>
+</rss>

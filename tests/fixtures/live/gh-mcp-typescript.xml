@@ -1,0 +1,191 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <ns0:id>tag:github.com,2008:https://github.com/modelcontextprotocol/typescript-sdk/releases</ns0:id>
+  <ns0:link type="text/html" rel="alternate" href="https://github.com/modelcontextprotocol/typescript-sdk/releases" />
+  <ns0:link type="application/atom+xml" rel="self" href="https://github.com/modelcontextprotocol/typescript-sdk/releases.atom" />
+  <ns0:title>Release notes from typescript-sdk</ns0:title>
+  <ns0:updated>2026-10-23T16:39:43Z</ns0:updated>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/862578138/1.32.2</ns0:id>
+    <ns0:updated>2026-10-23T18:06:24Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/modelcontextprotocol/typescript-sdk/releases/tag/1.32.2" />
+    <ns0:title>1.32.2</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;fix: add explicit | undefined to Transport optional properties (v1.x backport of &lt;a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4145330962" data-permission-text="Title is private" data-url="https://github.com/modelcontextprotocol/typescript-sdk/issues/1766" data-hovercard-type="pull_request" data-hovercard-url="/modelcontextprot</ns0:content>
+    <ns0:author>
+      <ns0:name>felixweinberger</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/3823880?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/862578138/v2.4.0</ns0:id>
+    <ns0:updated>2026-10-23T18:32:25Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/modelcontextprotocol/typescript-sdk/releases/tag/v2.4.0" />
+    <ns0:title>2.4.0</ns0:title>
+    <ns0:content type="html">&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Package&lt;/th&gt;
+&lt;th&gt;Version&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;@modelcontextprotocol/client&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;2.4.0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;@modelcontextprotocol/server&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;2.4.0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;@modelcontextprotocol/core&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;2.4.0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;@modelcontextprotocol/server-legacy&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;2.4.0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;</ns0:content>
+    <ns0:author>
+      <ns0:name>felixweinberger</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/3823880?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/862578138/@modelcontextprotocol/server-legacy@2.4.0</ns0:id>
+    <ns0:updated>2026-10-23T18:19:17Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/modelcontextprotocol/typescript-sdk/releases/tag/%40modelcontextprotocol%2Fserver-legacy%402.4.0" />
+    <ns0:title>@modelcontextprotocol/server-legacy@2.4.0</ns0:title>
+    <ns0:content type="html">&lt;h3&gt;Patch Changes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Updated dependencies [&lt;a href="https://github.com/modelcontextprotocol/typescript-sdk/commit/46d9c9921b6542e813c1ecc5f9fc964085e8e3bb"&gt;&lt;code&gt;46d9c99&lt;/code&gt;&lt;/a&gt;]:
+&lt;ul&gt;
+&lt;li&gt;@modelcontextprotocol/core@2.4.0&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</ns0:content>
+    <ns0:author>
+      <ns0:name>github-actions[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/862578138/@modelcontextprotocol/server@2.4.0</ns0:id>
+    <ns0:updated>2026-10-23T18:19:14Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/modelcontextprotocol/typescript-sdk/releases/tag/%40modelcontextprotocol%2Fserver%402.4.0" />
+    <ns0:title>@modelcontextprotocol/server@2.4.0</ns0:title>
+    <ns0:content type="html">&lt;h3&gt;Minor Changes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://github.com/modelcontextprotocol/typescript-sdk/pull/3057" data-hovercard-type="pull_request" data-hovercard-url="/modelcontextprotocol/typescript-sdk/pull/3057/hovercard"&gt;#3057&lt;/a&gt; &lt;a href="https://github.com/modelcontextprotocol/typescript-sdk/commit/c05225a636c679870b65f8ca4fe83a76ea1cf113"&gt;&lt;code&gt;c05225a&lt;/code&gt;&lt;/a&gt; Thanks &lt;a href="https://gith</ns0:content>
+    <ns0:author>
+      <ns0:name>github-actions[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/862578138/@modelcontextprotocol/node@2.1.2</ns0:id>
+    <ns0:updated>2026-10-23T18:19:11Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/modelcontextprotocol/typescript-sdk/releases/tag/%40modelcontextprotocol%2Fnode%402.1.2" />
+    <ns0:title>@modelcontextprotocol/node@2.1.2</ns0:title>
+    <ns0:content type="html">&lt;h3&gt;Patch Changes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://github.com/modelcontextprotocol/typescript-sdk/pull/3084" data-hovercard-type="pull_request" data-hovercard-url="/modelcontextprotocol/typescript-sdk/pull/3084/hovercard"&gt;#3084&lt;/a&gt; &lt;a href="https://github.com/modelcontextprotocol/typescript-sdk/commit/10c26b00cb9c6d12332a92ea02f75530452450e4"&gt;&lt;code&gt;10c26b0&lt;/code&gt;&lt;/a&gt; Thanks &lt;a href="https://gith</ns0:content>
+    <ns0:author>
+      <ns0:name>github-actions[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/862578138/@modelcontextprotocol/core@2.4.0</ns0:id>
+    <ns0:updated>2026-10-23T18:19:02Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/modelcontextprotocol/typescript-sdk/releases/tag/%40modelcontextprotocol%2Fcore%402.4.0" />
+    <ns0:title>@modelcontextprotocol/core@2.4.0</ns0:title>
+    <ns0:content type="html">&lt;h3&gt;Minor Changes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://github.com/modelcontextprotocol/typescript-sdk/pull/3047" data-hovercard-type="pull_request" data-hovercard-url="/modelcontextprotocol/typescript-sdk/pull/3047/hovercard"&gt;#3047&lt;/a&gt; &lt;a href="https://github.com/modelcontextprotocol/typescript-sdk/commit/46d9c9921b6542e813c1ecc5f9fc964085e8e3bb"&gt;&lt;code&gt;46d9c99&lt;/code&gt;&lt;/a&gt; Thanks &lt;a href="https://gith</ns0:content>
+    <ns0:author>
+      <ns0:name>github-actions[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/862578138/@modelcontextprotocol/codemod@2.4.0</ns0:id>
+    <ns0:updated>2026-10-23T18:19:08Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/modelcontextprotocol/typescript-sdk/releases/tag/%40modelcontextprotocol%2Fcodemod%402.4.0" />
+    <ns0:title>@modelcontextprotocol/codemod@2.4.0</ns0:title>
+    <ns0:content>No content.</ns0:content>
+    <ns0:author>
+      <ns0:name>github-actions[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/862578138/@modelcontextprotocol/client@2.4.0</ns0:id>
+    <ns0:updated>2026-10-23T18:19:05Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/modelcontextprotocol/typescript-sdk/releases/tag/%40modelcontextprotocol%2Fclient%402.4.0" />
+    <ns0:title>@modelcontextprotocol/client@2.4.0</ns0:title>
+    <ns0:content type="html">&lt;h3&gt;Minor Changes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href="https://github.com/modelcontextprotocol/typescript-sdk/pull/3085" data-hovercard-type="pull_request" data-hovercard-url="/modelcontextprotocol/typescript-sdk/pull/3085/hovercard"&gt;#3085&lt;/a&gt; &lt;a href="https://github.com/modelcontextprotocol/typescript-sdk/commit/a63375661399956a744ff8b34d03d36e3d09e98a"&gt;&lt;code&gt;a633756&lt;/code&gt;&lt;/a&gt; Thanks &lt;a href="https://gith</ns0:content>
+    <ns0:author>
+      <ns0:name>github-actions[bot]</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/862578138/1.32.1</ns0:id>
+    <ns0:updated>2026-10-05T11:42:59Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/modelcontextprotocol/typescript-sdk/releases/tag/1.32.1" />
+    <ns0:title>1.32.1</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;[v1.x] docs: state the principles in CLAUDE.md by &lt;a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/claude/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/claude"&gt;@claude&lt;/a&gt;[bot] in &lt;a class="issue-link js-issue-link" data-error-text="Failed to load title" data</ns0:content>
+    <ns0:author>
+      <ns0:name>felixweinberger</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/3823880?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/862578138/v2.3.1</ns0:id>
+    <ns0:updated>2026-10-05T11:54:56Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/modelcontextprotocol/typescript-sdk/releases/tag/v2.3.1" />
+    <ns0:title>2.3.1</ns0:title>
+    <ns0:content type="html">&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Package&lt;/th&gt;
+&lt;th&gt;Version&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;@modelcontextprotocol/client&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;2.3.1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;@modelcontextprotocol/server&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;2.3.1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;@modelcontextprotocol/core&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;2.3.1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;@modelcontextprotocol/server-legacy&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;2.3.1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;</ns0:content>
+    <ns0:author>
+      <ns0:name>felixweinberger</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/3823880?s=60&amp;v=4" />
+  </ns0:entry>
+</ns0:feed>

@@ -1,0 +1,143 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <ns0:id>tag:github.com,2008:https://github.com/stanfordnlp/dspy/releases</ns0:id>
+  <ns0:link type="text/html" rel="alternate" href="https://github.com/stanfordnlp/dspy/releases" />
+  <ns0:link type="application/atom+xml" rel="self" href="https://github.com/stanfordnlp/dspy/releases.atom" />
+  <ns0:title>Release notes from dspy</ns0:title>
+  <ns0:updated>2026-10-12T22:37:05Z</ns0:updated>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/587050620/3.4.1</ns0:id>
+    <ns0:updated>2026-10-12T23:12:32Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/stanfordnlp/dspy/releases/tag/3.4.1" />
+    <ns0:title>3.4.1</ns0:title>
+    <ns0:content type="html">&lt;h1&gt;DSPy 3.4.1&lt;/h1&gt;
+&lt;p&gt;DSPy 3.4.1 makes GEPA's structured &lt;code&gt;InstructionProposer&lt;/code&gt; the default instruction proposer and lets &lt;code&gt;dspy.RLM&lt;/code&gt; build DSPy sub-agents from inside its REPL. It also adds Python 3.15 support, fixes a 3.4.0 import crash, and includes streaming, adapter, and interpreter fixes.&lt;/p&gt;
+&lt;div class="highlight highlight-source-shell notranslate position-relative over</ns0:content>
+    <ns0:author>
+      <ns0:name>isaacbmiller</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/17116851?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/587050620/3.4.0</ns0:id>
+    <ns0:updated>2026-09-25T04:06:22Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/stanfordnlp/dspy/releases/tag/3.4.0" />
+    <ns0:title>3.4.0</ns0:title>
+    <ns0:content type="html">&lt;h1&gt;DSPy 3.4.0&lt;/h1&gt;
+&lt;p&gt;DSPy 3.4 introduces &lt;strong&gt;Jev integration through TypeSafe&lt;/strong&gt;, with three experimental decision types—&lt;code&gt;Noul&lt;/code&gt;, &lt;code&gt;Choice&lt;/code&gt;, and &lt;code&gt;Score&lt;/code&gt;—that bring probability evidence into ordinary DSPy signatures. ReAnchor calibrates those decisions against your program's metric. This release also introduces native LM engines, a local CPython interprete</ns0:content>
+    <ns0:author>
+      <ns0:name>isaacbmiller</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/17116851?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/587050620/3.4.0b1</ns0:id>
+    <ns0:updated>2026-09-11T22:24:51Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/stanfordnlp/dspy/releases/tag/3.4.0b1" />
+    <ns0:title>3.4.0b1</ns0:title>
+    <ns0:content type="html">&lt;h1&gt;DSPy 3.4.0 Beta 1&lt;/h1&gt;
+&lt;p&gt;DSPy 3.4.0b1 is the first beta of 3.4. It moves language-model execution to a shared engine interface, adds a local CPython interpreter for trusted code, and brings async execution to ReActV2. It also adds custom Flex code proposals in GEPA and fixes evaluation, streaming, and demonstration-sampling bugs.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;This is a prerelease, not the stable 3.4.0 relea</ns0:content>
+    <ns0:author>
+      <ns0:name>isaacbmiller</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/17116851?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/587050620/3.3.1</ns0:id>
+    <ns0:updated>2026-08-21T23:07:09Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/stanfordnlp/dspy/releases/tag/3.3.1" />
+    <ns0:title>3.3.1</ns0:title>
+    <ns0:content type="html">&lt;h1&gt;DSPy 3.3.1&lt;/h1&gt;
+&lt;p&gt;DSPy 3.3.1 contains many interpreter fixes and improvements. It makes &lt;code&gt;PythonInterpreter&lt;/code&gt;&lt;br&gt;
+easier to install, substantially strengthens sandbox isolation and request&lt;br&gt;
+handling, and adds end-to-end visibility into interpreter execution. The release&lt;br&gt;
+also improves optimizer throughput, adapter correctness, and MCP compatibility.&lt;/p&gt;
+&lt;h2&gt;Highlights&lt;/h2&gt;
+&lt;h3&gt;</ns0:content>
+    <ns0:author>
+      <ns0:name>isaacbmiller</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/17116851?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/587050620/3.3.0</ns0:id>
+    <ns0:updated>2026-08-03T20:06:03Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/stanfordnlp/dspy/releases/tag/3.3.0" />
+    <ns0:title>3.3.0</ns0:title>
+    <ns0:content type="html">&lt;h1&gt;DSPy 3.3.0&lt;/h1&gt;
+&lt;p&gt;DSPy 3.3.0 is a feature release with a new experimental way to optimize programs as code, a native-tool-aware ReAct implementation, and the next stage of DSPy's move toward a typed, provider-neutral language-model system.&lt;/p&gt;
+&lt;p&gt;Most existing DSPy programs should keep working without changes. Review the API changes if you construct &lt;code&gt;Image&lt;/code&gt;, &lt;code&gt;Audio&lt;/code&gt;, or </ns0:content>
+    <ns0:author>
+      <ns0:name>isaacbmiller</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/17116851?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/587050620/3.3.0b1</ns0:id>
+    <ns0:updated>2026-05-28T01:11:39Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/stanfordnlp/dspy/releases/tag/3.3.0b1" />
+    <ns0:title>3.3.0b1</ns0:title>
+    <ns0:content type="html">&lt;h1&gt;DSPy 3.3.0b1 Release Notes&lt;/h1&gt;
+&lt;p&gt;DSPy 3.3.0b1 is a beta release including a new ReActV2 module, a new BaseLM System, updating to GEPA 0.1.1, and fewer dependencies framework wide.&lt;/p&gt;
+&lt;p&gt;Most existing DSPy programs should keep working without changes. Review the breaking changes if you depend on NumPy from the base &lt;code&gt;dspy&lt;/code&gt; install, inspect GEPA result internals, or catch provider-s</ns0:content>
+    <ns0:author>
+      <ns0:name>isaacbmiller</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/17116851?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/587050620/3.2.1</ns0:id>
+    <ns0:updated>2026-05-05T19:37:48Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/stanfordnlp/dspy/releases/tag/3.2.1" />
+    <ns0:title>3.2.1</ns0:title>
+    <ns0:content type="html">&lt;h1&gt;DSPy 3.2.1 Changelog&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Removed the upper bound on &lt;code&gt;litellm&lt;/code&gt;. (&lt;a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4343581293" data-permission-text="Title is private" data-url="https://github.com/stanfordnlp/dspy/issues/9687" data-hovercard-type="pull_request" data-hovercard-url="/stanfordnlp/dspy/pull/9687/hovercard" href="https://github.c</ns0:content>
+    <ns0:author>
+      <ns0:name>isaacbmiller</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/17116851?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/587050620/3.2.0</ns0:id>
+    <ns0:updated>2026-04-21T17:17:12Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/stanfordnlp/dspy/releases/tag/3.2.0" />
+    <ns0:title>3.2.0</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;Highlights&lt;/h2&gt;
+&lt;h3&gt;BetterTogether Allows Chaining Optimizers — &lt;a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/dilarasoylu/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/dilarasoylu"&gt;@dilarasoylu&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;BetterTogether&lt;/code&gt; now accepts arbitrary optimizers as keyword argumen</ns0:content>
+    <ns0:author>
+      <ns0:name>isaacbmiller</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/17116851?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/587050620/3.1.3</ns0:id>
+    <ns0:updated>2026-02-05T16:18:52Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/stanfordnlp/dspy/releases/tag/3.1.3" />
+    <ns0:title>3.1.3</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;p&gt;RLMs&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;fix(interpreter): Fix enable_read_paths with multiple files by &lt;a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/missing-piece/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/missing-piece"&gt;@missing-piece&lt;/a&gt; in &lt;a class="issue-link js-issue-link" da</ns0:content>
+    <ns0:author>
+      <ns0:name>okhat</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/963532?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/587050620/3.1.2</ns0:id>
+    <ns0:updated>2026-01-19T14:16:35Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/stanfordnlp/dspy/releases/tag/3.1.2" />
+    <ns0:title>3.1.2</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;p&gt;Maintenance&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ci: install Deno in release workflow by &lt;a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/okhat/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/okhat"&gt;@okhat&lt;/a&gt; in &lt;a class="issue-link js-issue-link" data-error-text="Failed to load title" dat</ns0:content>
+    <ns0:author>
+      <ns0:name>okhat</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/963532?s=60&amp;v=4" />
+  </ns0:entry>
+</ns0:feed>

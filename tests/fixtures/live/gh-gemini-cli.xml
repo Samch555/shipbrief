@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <ns0:id>tag:github.com,2008:https://github.com/google-gemini/gemini-cli/releases</ns0:id>
+  <ns0:link type="text/html" rel="alternate" href="https://github.com/google-gemini/gemini-cli/releases" />
+  <ns0:link type="application/atom+xml" rel="self" href="https://github.com/google-gemini/gemini-cli/releases.atom" />
+  <ns0:title>Release notes from gemini-cli</ns0:title>
+  <ns0:updated>2026-11-04T19:41:07Z</ns0:updated>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/968197216/v0.68.0-preview.0</ns0:id>
+    <ns0:updated>2026-11-04T19:49:22Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/google-gemini/gemini-cli/releases/tag/v0.68.0-preview.0" />
+    <ns0:title>Release v0.68.0-preview.0</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Changelog for v0.67.0-preview.0 by &lt;a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/gemini-cli-robot/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/gemini-cli-robot"&gt;@gemini-cli-robot&lt;/a&gt; in &lt;a class="issue-link js-issue-link" data-error-text="Failed to load t</ns0:content>
+    <ns0:author>
+      <ns0:name>gemini-cli-robot</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/224641728?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/968197216/v0.67.0</ns0:id>
+    <ns0:updated>2026-11-04T20:27:11Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/google-gemini/gemini-cli/releases/tag/v0.67.0" />
+    <ns0:title>Release v0.67.0</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Changelog for v0.65.0 by &lt;a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/gemini-cli-robot/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/gemini-cli-robot"&gt;@gemini-cli-robot&lt;/a&gt; in &lt;a class="issue-link js-issue-link" data-error-text="Failed to load title" data</ns0:content>
+    <ns0:author>
+      <ns0:name>gemini-cli-robot</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/224641728?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/968197216/v0.67.0-nightly.20261104.g89e9d25d6</ns0:id>
+    <ns0:updated>2026-11-04T01:20:49Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/google-gemini/gemini-cli/releases/tag/v0.67.0-nightly.20261104.g89e9d25d6" />
+    <ns0:title>Release v0.67.0-nightly.20261104.g89e9d25d6</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;fix(cli): handle stream failures during extension release downloads by &lt;a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/duvanka-prasad/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/duvanka-prasad"&gt;@duvanka-prasad&lt;/a&gt; in &lt;a class="issue-link js-issue-link" dat</ns0:content>
+    <ns0:author>
+      <ns0:name>gemini-cli-robot</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/224641728?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/968197216/v0.67.0-nightly.20261103.g0ac57c029</ns0:id>
+    <ns0:updated>2026-11-03T01:18:35Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/google-gemini/gemini-cli/releases/tag/v0.67.0-nightly.20261103.g0ac57c029" />
+    <ns0:title>Release v0.67.0-nightly.20261103.g0ac57c029</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;fix(core): prevent interrupted Whisper model downloads from being treated as installed by &lt;a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/tadipavan/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/tadipavan"&gt;@tadipavan&lt;/a&gt; in &lt;a class="issue-link js-issue-link"</ns0:content>
+    <ns0:author>
+      <ns0:name>gemini-cli-robot</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/224641728?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/968197216/v0.67.0-nightly.20261102.g6814e00d6</ns0:id>
+    <ns0:updated>2026-11-02T01:22:38Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/google-gemini/gemini-cli/releases/tag/v0.67.0-nightly.20261102.g6814e00d6" />
+    <ns0:title>Release v0.67.0-nightly.20261102.g6814e00d6</ns0:title>
+    <ns0:content type="html">&lt;p&gt;&lt;strong&gt;Full Changelog&lt;/strong&gt;: &lt;a class="commit-link" href="https://github.com/google-gemini/gemini-cli/compare/v0.67.0-nightly.20261101.g6814e00d6...v0.67.0-nightly.20261102.g6814e00d6"&gt;&lt;tt&gt;v0.67.0-nightly.20261101.g6814e00d6...v0.67.0-nightly.20261102.g6814e00d6&lt;/tt&gt;&lt;/a&gt;&lt;/p&gt;</ns0:content>
+    <ns0:author>
+      <ns0:name>gemini-cli-robot</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/224641728?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/968197216/v0.67.0-nightly.20261101.g6814e00d6</ns0:id>
+    <ns0:updated>2026-11-01T01:14:56Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/google-gemini/gemini-cli/releases/tag/v0.67.0-nightly.20261101.g6814e00d6" />
+    <ns0:title>Release v0.67.0-nightly.20261101.g6814e00d6</ns0:title>
+    <ns0:content type="html">&lt;p&gt;&lt;strong&gt;Full Changelog&lt;/strong&gt;: &lt;a class="commit-link" href="https://github.com/google-gemini/gemini-cli/compare/v0.67.0-nightly.20261031.g6814e00d6...v0.67.0-nightly.20261101.g6814e00d6"&gt;&lt;tt&gt;v0.67.0-nightly.20261031.g6814e00d6...v0.67.0-nightly.20261101.g6814e00d6&lt;/tt&gt;&lt;/a&gt;&lt;/p&gt;</ns0:content>
+    <ns0:author>
+      <ns0:name>gemini-cli-robot</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/224641728?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/968197216/v0.67.0-nightly.20261031.g6814e00d6</ns0:id>
+    <ns0:updated>2026-10-31T01:19:32Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/google-gemini/gemini-cli/releases/tag/v0.67.0-nightly.20261031.g6814e00d6" />
+    <ns0:title>Release v0.67.0-nightly.20261031.g6814e00d6</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;fix(core): honor .git/info/exclude and core.excludesFile in shadow repo by &lt;a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/urielefrenvirtusa/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/urielefrenvirtusa"&gt;@urielefrenvirtusa&lt;/a&gt; in &lt;a class="issue-link js-is</ns0:content>
+    <ns0:author>
+      <ns0:name>gemini-cli-robot</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/224641728?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/968197216/v0.67.0-nightly.20261030.gb633c0703</ns0:id>
+    <ns0:updated>2026-10-30T01:22:17Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/google-gemini/gemini-cli/releases/tag/v0.67.0-nightly.20261030.gb633c0703" />
+    <ns0:title>Release v0.67.0-nightly.20261030.gb633c0703</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;docs(readme): clarify Gemini CLI scope, limitations, and tool landscape by &lt;a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/LyalinDotCom/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/LyalinDotCom"&gt;@LyalinDotCom&lt;/a&gt; in &lt;a class="issue-link js-issue-link" data-</ns0:content>
+    <ns0:author>
+      <ns0:name>gemini-cli-robot</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/224641728?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/968197216/v0.67.0-nightly.20261028.gfa5c17365</ns0:id>
+    <ns0:updated>2026-10-28T01:22:20Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/google-gemini/gemini-cli/releases/tag/v0.67.0-nightly.20261028.gfa5c17365" />
+    <ns0:title>Release v0.67.0-nightly.20261028.gfa5c17365</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;fix(core): allow trusted system paths on Android (Termux) for ripgrep resolution (&lt;a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="4049776710" data-permission-text="Title is private" data-url="https://github.com/google-gemini/gemini-cli/issues/21836" data-hovercard-type="issue" data-hovercard-url="/google-gemini/gemini-cli/issues/</ns0:content>
+    <ns0:author>
+      <ns0:name>gemini-cli-robot</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/224641728?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/968197216/v0.67.0-preview.0</ns0:id>
+    <ns0:updated>2026-10-27T20:07:49Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/google-gemini/gemini-cli/releases/tag/v0.67.0-preview.0" />
+    <ns0:title>Release v0.67.0-preview.0</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;What's Changed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Changelog for v0.65.0 by &lt;a class="user-mention notranslate" data-hovercard-type="user" data-hovercard-url="/users/gemini-cli-robot/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/gemini-cli-robot"&gt;@gemini-cli-robot&lt;/a&gt; in &lt;a class="issue-link js-issue-link" data-error-text="Failed to load title" data</ns0:content>
+    <ns0:author>
+      <ns0:name>gemini-cli-robot</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/224641728?s=60&amp;v=4" />
+  </ns0:entry>
+</ns0:feed>

@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <ns0:id>tag:github.com,2008:https://github.com/exo-explore/exo/releases</ns0:id>
+  <ns0:link type="text/html" rel="alternate" href="https://github.com/exo-explore/exo/releases" />
+  <ns0:link type="application/atom+xml" rel="self" href="https://github.com/exo-explore/exo/releases.atom" />
+  <ns0:title>Release notes from exo</ns0:title>
+  <ns0:updated>2026-04-23T14:28:40Z</ns0:updated>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/819554665/v1.0.71</ns0:id>
+    <ns0:updated>2026-04-23T15:04:26Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/exo-explore/exo/releases/tag/v1.0.71" />
+    <ns0:title>v1.0.71</ns0:title>
+    <ns0:content type="html">&lt;h1&gt;EXO v1.0.71 Release Notes&lt;/h1&gt;
+&lt;p&gt;This is a small patch release, with better defaults for sampling and bug fixes for M5 series Macs and RDMA, along with support for the new Kimi K2.6.&lt;/p&gt;
+&lt;h2&gt;Models&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Add Kimi K2.6, including support for multimodality (&lt;a href="https://github.com/exo-explore/exo/pull/1952" data-hovercard-type="pull_request" data-hovercard-url="/exo-explore/exo/pull</ns0:content>
+    <ns0:author>
+      <ns0:name>rltakashige</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/233642160?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/819554665/v1.0.70</ns0:id>
+    <ns0:updated>2026-04-17T21:31:19Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/exo-explore/exo/releases/tag/v1.0.70" />
+    <ns0:title>v1.0.70</ns0:title>
+    <ns0:content type="html">&lt;h1&gt;EXO v1.0.70 Release Notes&lt;/h1&gt;
+&lt;p&gt;This release ships with multimodality and major enhancements for memory usage in long context use cases (e.g. OpenClaw and OpenCode), as well as updated model support and QOL features.&lt;/p&gt;
+&lt;h2&gt;Models&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Add support for Gemma 4 (&lt;a href="https://github.com/exo-explore/exo/pull/1851" data-hovercard-type="pull_request" data-hovercard-url="/exo-explore/</ns0:content>
+    <ns0:author>
+      <ns0:name>rltakashige</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/233642160?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/819554665/v1.0.69</ns0:id>
+    <ns0:updated>2026-03-27T01:17:51Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/exo-explore/exo/releases/tag/v1.0.69" />
+    <ns0:title>v1.0.69</ns0:title>
+    <ns0:content type="html">&lt;h1&gt;EXO v1.0.69 Release Notes&lt;/h1&gt;
+&lt;p&gt;This release ships with continuous batching, Qwen3.5 support and support for M5 Pro/Max chips, as well as a host of quality of life improvements and bug fixes.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Continuous batching&lt;/strong&gt; is on by default, enabling you to run multiple requests in parallel for significantly higher throughput. EXO will automatically batch together inference reque</ns0:content>
+    <ns0:author>
+      <ns0:name>AlexCheema</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/41707476?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/819554665/v1.0.68</ns0:id>
+    <ns0:updated>2026-02-25T20:39:03Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/exo-explore/exo/releases/tag/v1.0.68" />
+    <ns0:title>v1.0.68</ns0:title>
+    <ns0:content type="html">&lt;h1&gt;EXO v1.0.68 Release Notes&lt;/h1&gt;
+&lt;p&gt;This is the biggest EXO release to date. We wanted to make sure we address the stability issues users were running into on previous versions and we think we've achieved that with this release. This release also comes with a whole load of new features and UX improvements, full list below. Thank you to everyone who submitted bug reports over the past few weeks -</ns0:content>
+    <ns0:author>
+      <ns0:name>AlexCheema</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/41707476?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/819554665/test-screenshots-tmp</ns0:id>
+    <ns0:updated>2026-02-19T15:42:02Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/exo-explore/exo/releases/tag/test-screenshots-tmp" />
+    <ns0:title>test-screenshots-tmp: bench: restore --danger-delete-downloads planning phase (#1542)</ns0:title>
+    <ns0:content type="html">&lt;p&gt;&lt;a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/exo-explore/exo/commit/c2f2111b887e9ff521d81746a9b93bff20ab2322/hovercard" href="https://github.com/exo-explore/exo/commit/c2f2111b887e9ff521d81746a9b93bff20ab2322"&gt;&lt;tt&gt;c2f2111&lt;/tt&gt;&lt;/a&gt; extracted shared utilities from exo_bench.py into harness.py&lt;br&gt;
+but accidentally dropped the run_planning_phase functio</ns0:content>
+    <ns0:author>
+      <ns0:name>JakeHillion</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/5712856?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/819554665/gh-screenshot-assets</ns0:id>
+    <ns0:updated>2026-02-18T22:34:11Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/exo-explore/exo/releases/tag/gh-screenshot-assets" />
+    <ns0:title>gh-screenshot-assets: Add status=downloaded filter for model endpoint (#1539)</ns0:title>
+    <ns0:content type="html">&lt;h2&gt;Motivation&lt;/h2&gt;
+&lt;p&gt;&lt;a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="3878278247" data-permission-text="Title is private" data-url="https://github.com/exo-explore/exo/issues/1346" data-hovercard-type="issue" data-hovercard-url="/exo-explore/exo/issues/1346/hovercard?comment_id=3831427905&amp;amp;comment_type=issue_comment" href="https://github.com/exo-explore/exo/i</ns0:content>
+    <ns0:author>
+      <ns0:name>rltakashige</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/233642160?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/819554665/pr-1465-screenshots</ns0:id>
+    <ns0:updated>2026-02-17T11:48:28Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/exo-explore/exo/releases/tag/pr-1465-screenshots" />
+    <ns0:title>pr-1465-screenshots: don't time out node identities (#1493)</ns0:title>
+    <ns0:content type="html">&lt;p&gt;currently nodes leaving and rejoining the cluster can lose their identity. We have no need to delete this data on node timing out, so let's just persist it.&lt;/p&gt;</ns0:content>
+    <ns0:author>
+      <ns0:name>Evanev7</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/13599445?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/819554665/v1.0.67</ns0:id>
+    <ns0:updated>2026-01-28T07:09:50Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/exo-explore/exo/releases/tag/v1.0.67" />
+    <ns0:title>v1.0.67</ns0:title>
+    <ns0:content type="html">&lt;h1&gt;EXO v1.0.67 Release Notes&lt;/h1&gt;
+&lt;p&gt;This release adds support for Kimi-K2.5 and tensor sharding support for MiniMax M2.1.&lt;/p&gt;
+&lt;h2&gt;Models&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Add support for Kimi K2.5 (&lt;a href="https://github.com/exo-explore/exo/pull/1302" data-hovercard-type="pull_request" data-hovercard-url="/exo-explore/exo/pull/1302/hovercard"&gt;#1302&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Add tensor sharding support for MiniMax M2.1 (&lt;a hre</ns0:content>
+    <ns0:author>
+      <ns0:name>AlexCheema</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/41707476?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/819554665/v1.0.66</ns0:id>
+    <ns0:updated>2026-01-26T22:41:44Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/exo-explore/exo/releases/tag/v1.0.66" />
+    <ns0:title>v1.0.66</ns0:title>
+    <ns0:content type="html">&lt;h1&gt;EXO v1.0.66 Release Notes&lt;/h1&gt;
+&lt;p&gt;This is a stability release that fixes a regression with RDMA / Tensor Parallelism where models were getting stuck in &lt;code&gt;LOADING&lt;/code&gt; state. It also fixes a download edge case with GLM 4.7 Flash and nodes getting stuck in &lt;code&gt;UNKNOWN&lt;/code&gt; state / zombie states after periods of inactivity.&lt;/p&gt;
+&lt;p&gt;All models have been confirmed working with RDMA / Tenso</ns0:content>
+    <ns0:author>
+      <ns0:name>AlexCheema</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/41707476?s=60&amp;v=4" />
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>tag:github.com,2008:Repository/819554665/v1.0.65</ns0:id>
+    <ns0:updated>2026-01-24T15:17:20Z</ns0:updated>
+    <ns0:link rel="alternate" type="text/html" href="https://github.com/exo-explore/exo/releases/tag/v1.0.65" />
+    <ns0:title>v1.0.65</ns0:title>
+    <ns0:content type="html">&lt;h1&gt;EXO v1.0.65 Release Notes&lt;/h1&gt;
+&lt;p&gt;This release ships with stability fixes for RDMA and long running clusters (fixing the &lt;em&gt;FAILED&lt;/em&gt; -&amp;gt; &lt;em&gt;PREPARING&lt;/em&gt; loops for some clusters), as well as QoL features for managing downloads and a fix for GPT-OSS tool calling.&lt;/p&gt;
+&lt;h2&gt;UX&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Add download and delete buttons to downloads UI (&lt;a href="https://github.com/exo-explore/exo/pull/12</ns0:content>
+    <ns0:author>
+      <ns0:name>AlexCheema</ns0:name>
+    </ns0:author>
+    <ns1:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/41707476?s=60&amp;v=4" />
+  </ns0:entry>
+</ns0:feed>

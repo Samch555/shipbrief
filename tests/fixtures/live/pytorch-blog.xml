@@ -1,0 +1,199 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://purl.org/rss/1.0/modules/syndication/" xmlns:ns3="http://purl.org/rss/1.0/modules/content/" version="2.0">
+
+<channel>
+	<title>Blog - PyTorch</title>
+	<ns0:link href="https://pytorch.org/blog/feed/" rel="self" type="application/rss+xml" />
+	<link>https://pytorch.org/blog/</link>
+	<description />
+	<lastBuildDate>Thu, 05 Nov 2026 02:58:01 +0000</lastBuildDate>
+	<language>en-US</language>
+	<ns1:updatePeriod>
+	hourly	</ns1:updatePeriod>
+	<ns1:updateFrequency>
+	1	</ns1:updateFrequency>
+	<generator>https://wordpress.org/?v=7.1.4</generator>
+
+<image>
+	<url>https://pytorch.org/wp-content/uploads/2024/10/cropped-favicon-32x32.webp</url>
+	<title>Blog - PyTorch</title>
+	<link>https://pytorch.org/blog/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Call for Proposals: PyTorch Day China 2026</title>
+		<link>https://pytorch.org/blog/call-for-proposals-pytorch-day-china-2026/</link>
+		
+		<dc:creator>PyTorch Foundation</dc:creator>
+		<pubDate>Wed, 04 Nov 2026 20:29:55 +0000</pubDate>
+				<category>Announcements</category>
+		<category>Blog</category>
+		<guid isPermaLink="false">https://pytorch.org/?p=209539</guid>
+
+					<description>&lt;p&gt;The Call for Proposals for PyTorch Day China 2026 closes November 10 at 23:59 China Standard Time. The event takes place in Beijing on December 12, bringing together PyTorch developers,...&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://pytorch.org/blog/call-for-proposals-pytorch-day-china-2026/"&gt;Call for Proposals: PyTorch Day China 2026&lt;/a&gt; appeared first on &lt;a href="https://pytorch.org"&gt;PyTorch&lt;/a&gt;.&lt;/p&gt;
+</description>
+										<ns3:encoded>&lt;p&gt;&lt;img fetchpriority="high" decoding="async" class="alignnone size-large wp-image-209574" src="https://pytorch.org/wp-content/uploads/2026/11/PyTorch-Day-China-2026-CFP-email-header-1024x536.png" alt="CFP PyTorch Day China 2026" width="1024" height="536" srcset="https://pytorch.org/wp-content/uploads/2026/11/PyTorch-Day-China-2026-CFP-email-header-1024x536.png 1024w, https://pytorch.org/wp-conten</ns3:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>KVCache Meetup Korea 2026: Event Recap</title>
+		<link>https://pytorch.org/blog/kvcache-meetup-korea-2026-event-recap/</link>
+		
+		<dc:creator>Junghwan Park (PyTorch Foundation Ambassador, Lead maintainer of PyTorchKR)</dc:creator>
+		<pubDate>Tue, 03 Nov 2026 09:22:03 +0000</pubDate>
+				<category>Ambassador Post</category>
+		<category>Blog</category>
+		<guid isPermaLink="false">https://pytorch.org/?p=209226</guid>
+
+					<description>&lt;p&gt;On the evening of Sep 30, 2026, PyTorchKR and XCENA co-hosted KVCache Meetup Korea. PyTorchKR is a major AI/ML community in Korea, and XCENA is a startup that focuses on...&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://pytorch.org/blog/kvcache-meetup-korea-2026-event-recap/"&gt;KVCache Meetup Korea 2026: Event Recap&lt;/a&gt; appeared first on &lt;a href="https://pytorch.org"&gt;PyTorch&lt;/a&gt;.&lt;/p&gt;
+</description>
+										<ns3:encoded>&lt;p&gt;On the evening of Sep 30, 2026, &lt;a href="https://pytorch.kr"&gt;PyTorchKR&lt;/a&gt; and &lt;a href="https://xcena.com"&gt;XCENA&lt;/a&gt; co-hosted KVCache Meetup Korea. PyTorchKR is a major AI/ML community in Korea, and XCENA is a startup that focuses on CXL (Compute Express Link). Tensormesh, the company behind LMCache, also sponsored the event. Speakers from XCENA, SK hynix, FuriosaAI, and LMCache shared their w</ns3:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Announcing the Special Interest Group (SIG) for Ray on Accelerators</title>
+		<link>https://pytorch.org/blog/announcing-the-special-interest-group-sig-for-ray-on-accelerators/</link>
+		
+		<dc:creator>Zhe Zhang, Mengjin Yan, Ryan O’Leary, Richard Liaw</dc:creator>
+		<pubDate>Mon, 02 Nov 2026 17:45:32 +0000</pubDate>
+				<category>Blog</category>
+		<guid isPermaLink="false">https://pytorch.org/?p=208672</guid>
+
+					<description>&lt;p&gt;Today, we are announcing the Special Interest Group (SIG) for Ray on hardware accelerators. When Ray was created in UC Berkeley over 10 years ago, the computing landscape looked very...&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://pytorch.org/blog/announcing-the-special-interest-group-sig-for-ray-on-accelerators/"&gt;Announcing the Special Interest Group (SIG) for Ray on Accelerators&lt;/a&gt; appeared first on &lt;a </description>
+										<ns3:encoded>&lt;p&gt;Today, we are announcing the Special Interest Group (SIG) for Ray on hardware accelerators.&lt;/p&gt;
+&lt;p&gt;When Ray was created in UC Berkeley over 10 years ago, the computing landscape looked very different. At the time, “distributed computing” referred to CPU clusters running frameworks like Apache Hadoop and Apache Spark. GPUs were only just moving from graphics and scientific computing into machine</ns3:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>PyTorch 2.15 Release Blog</title>
+		<link>https://pytorch.org/blog/pytorch-2-15-release-blog/</link>
+		
+		<dc:creator>PyTorch Foundation</dc:creator>
+		<pubDate>Wed, 28 Oct 2026 17:44:20 +0000</pubDate>
+				<category>Announcements</category>
+		<category>Blog</category>
+		<guid isPermaLink="false">https://pytorch.org/?p=208458</guid>
+
+					<description>&lt;p&gt;We are excited to announce the release of PyTorch® 2.15 (release notes)! The PyTorch 2.15 release features the following changes: Rewritten NCCL backend becomes the default, with a flight recorder...&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://pytorch.org/blog/pytorch-2-15-release-blog/"&gt;PyTorch 2.15 Release Blog&lt;/a&gt; appeared first on &lt;a href="https://pytorch.org"&gt;PyTorch&lt;/a&gt;.&lt;/p&gt;
+</description>
+										<ns3:encoded>&lt;p&gt;&lt;span style="font-weight: 400;"&gt;We are excited to announce the release of PyTorch® 2.15 (&lt;/span&gt;&lt;a href="https://github.com/pytorch/pytorch/releases/tag/v2.15.0"&gt;&lt;span style="font-weight: 400;"&gt;release notes&lt;/span&gt;&lt;/a&gt;&lt;span style="font-weight: 400;"&gt;)!&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-weight: 400;"&gt;The PyTorch 2.15 release features the following changes:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style="font-weight: 4</ns3:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Optimizing Streaming Speech Recognition on Arm® Edge Devices with ExecuTorch</title>
+		<link>https://pytorch.org/blog/optimizing-streaming-speech-recognition-on-arm-edge-devices-with-executorch/</link>
+		
+		<dc:creator>Josiah Davis, Principal AI Engineer, Arm and Kshitij Sisodia, Principal Software Engineer, Arm</dc:creator>
+		<pubDate>Mon, 26 Oct 2026 18:27:27 +0000</pubDate>
+				<category>Blog</category>
+		<guid isPermaLink="false">https://pytorch.org/?p=208000</guid>
+
+					<description>&lt;p&gt;When you’re speaking to a device, you expect text to appear as you talk. That makes streaming automatic speech recognition (ASR) a different challenge from batch transcription, where the model...&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://pytorch.org/blog/optimizing-streaming-speech-recognition-on-arm-edge-devices-with-executorch/"&gt;Optimizing Streaming Speech Recognition on Arm® Edge Devices with ExecuTo</description>
+										<ns3:encoded>&lt;p&gt;&lt;span style="font-weight: 400;"&gt;When you’re speaking to a device, you expect text to appear as you talk. That makes streaming automatic speech recognition (ASR) a different challenge from batch transcription, where the model has the complete recording before it starts. Strong batch accuracy does not necessarily carry over into streaming. One &lt;/span&gt;&lt;a href="https://arxiv.org/html/2604.14493v2"&gt;</ns3:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>PyTorch Conference North America 2026: Accelerating Open Intelligence Together</title>
+		<link>https://pytorch.org/blog/pytorch-conference-north-america-2026-accelerating-open-intelligence-together/</link>
+		
+		<dc:creator>PyTorch Foundation</dc:creator>
+		<pubDate>Thu, 22 Oct 2026 23:52:11 +0000</pubDate>
+				<category>Announcements</category>
+		<category>Blog</category>
+		<guid isPermaLink="false">https://pytorch.org/?p=190100</guid>
+
+					<description>&lt;p&gt;PyTorch Conference North America 2026 brought 3,500+ attendees to San Jose on October 20–21 for two days focused on accelerating open intelligence and exploring the impact of PyTorch Foundation projects...&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://pytorch.org/blog/pytorch-conference-north-america-2026-accelerating-open-intelligence-together/"&gt;PyTorch Conference North America 2026: Accelerating Open Inte</description>
+										<ns3:encoded>&lt;p&gt;&lt;img decoding="async" class="aligncenter wp-image-190104 size-full" src="https://pytorch.org/wp-content/uploads/2026/10/55602921274_9ae4ea448d_o.jpg" alt="" width="2400" height="1600" srcset="https://pytorch.org/wp-content/uploads/2026/10/55602921274_9ae4ea448d_o.jpg 2400w, https://pytorch.org/wp-content/uploads/2026/10/55602921274_9ae4ea448d_o-300x200.jpg 300w, https://pytorch.org/wp-content/u</ns3:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Meet the 2026 PyTorch Foundation Ambassadors</title>
+		<link>https://pytorch.org/blog/meet-the-2026-pytorch-foundation-ambassadors/</link>
+		
+		<dc:creator>PyTorch Foundation</dc:creator>
+		<pubDate>Thu, 22 Oct 2026 17:44:52 +0000</pubDate>
+				<category>Announcements</category>
+		<category>Blog</category>
+		<guid isPermaLink="false">https://pytorch.org/?p=189607</guid>
+
+					<description>&lt;p&gt;The post &lt;a href="https://pytorch.org/blog/meet-the-2026-pytorch-foundation-ambassadors/"&gt;Meet the 2026 PyTorch Foundation Ambassadors&lt;/a&gt; appeared first on &lt;a href="https://pytorch.org"&gt;PyTorch&lt;/a&gt;.&lt;/p&gt;
+</description>
+										<ns3:encoded>
+		&lt;div id="fws_6af20271c0e38"  data-column-margin="default" data-midnight="dark"  class="wpb_row vc_row-fluid vc_row top-level"  style="padding-top: 0px; padding-bottom: 0px; "&gt;&lt;div class="row-bg-wrap" data-bg-animation="none" data-bg-animation-delay="" data-bg-overlay="false"&gt;&lt;div class="inner-wrap row-bg-layer" &gt;&lt;div class="row-bg viewport-desktop"  style=""&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="row_co</ns3:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>TorchTitan Update: New SOTA Models, Performance at Scale, TitanRL</title>
+		<link>https://pytorch.org/blog/torchtitan-update-new-sota-models-performance-at-scale-titanrl/</link>
+		
+		<dc:creator>The PyTorch Team at Meta</dc:creator>
+		<pubDate>Wed, 21 Oct 2026 19:45:44 +0000</pubDate>
+				<category>Blog</category>
+		<guid isPermaLink="false">https://pytorch.org/?p=189602</guid>
+
+					<description>&lt;p&gt;TorchTitan is a PyTorch-native platform for rapid experimentation and large-scale pre- and post-training of generative AI models. It is designed as a minimal, clean-room implementation of PyTorch-native techniques, with flexible...&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://pytorch.org/blog/torchtitan-update-new-sota-models-performance-at-scale-titanrl/"&gt;TorchTitan Update: New SOTA Models, Performance at</description>
+										<ns3:encoded>&lt;p&gt;&lt;a href="https://github.com/pytorch/torchtitan"&gt;TorchTitan&lt;/a&gt; is a PyTorch-native platform for rapid experimentation and large-scale pre- and post-training of generative AI models. It is designed as a minimal, clean-room implementation of PyTorch-native techniques, with flexible extension points for users’ needs. This has enabled TorchTitan to find widespread adoption across research and produ</ns3:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Accelerating PyTorch on AMD GPUs with FlyDSL</title>
+		<link>https://pytorch.org/blog/accelerating-pytorch-on-amd-gpus-with-flydsl/</link>
+		
+		<dc:creator>AMD: Xiaobing Zhang, Yutao Xu, Rui Li, Heng Yi, Xinya Zhang, Shijie Feng, Felix Li, Jeff Daily, Jiong Gong, Hattie Wu, Peng Sun, Emad Barsoum; META: Jason Ansel and Simon Layton</dc:creator>
+		<pubDate>Wed, 21 Oct 2026 17:45:40 +0000</pubDate>
+				<category>Blog</category>
+		<guid isPermaLink="false">https://pytorch.org/?p=189489</guid>
+
+					<description>&lt;p&gt;PyTorch users on AMD MI350-series GPUs can now use FlyDSL through existing operator APIs for dense and grouped GEMM, fused multi-head attention (FMHA/Attention), MXFP8/MXFP4 scaled GEMM, RMSNorm, and TopK, without...&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://pytorch.org/blog/accelerating-pytorch-on-amd-gpus-with-flydsl/"&gt;Accelerating PyTorch on AMD GPUs with FlyDSL&lt;/a&gt; appeared first on &lt;a href="https:/</description>
+										<ns3:encoded>&lt;p&gt;PyTorch users on AMD MI350-series GPUs can now use &lt;a href="https://github.com/ROCm/FlyDSL"&gt;FlyDSL&lt;/a&gt; through existing operator APIs for dense and grouped GEMM, fused multi-head attention (FMHA/Attention), MXFP8/MXFP4 scaled GEMM, RMSNorm, and TopK, without requiring applications to call custom kernels. The optional backend supports GEMMs through &lt;code&gt;torch.compile&lt;/code&gt;, while eligible RMSN</ns3:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Introducing TorchTPU</title>
+		<link>https://pytorch.org/blog/introducing-torchtpu/</link>
+		
+		<dc:creator>The TorchTPU Team†</dc:creator>
+		<pubDate>Tue, 20 Oct 2026 16:02:30 +0000</pubDate>
+				<category>Blog</category>
+		<guid isPermaLink="false">https://pytorch.org/?p=188414</guid>
+
+					<description>&lt;p&gt;TL;DR TorchTPU is an open source collaboration between Google and Meta that introduces a native and principled PyTorch backend for Google TPUs. It enables seamless out-of-the-box model execution and TPU...&lt;/p&gt;
+&lt;p&gt;The post &lt;a href="https://pytorch.org/blog/introducing-torchtpu/"&gt;Introducing TorchTPU&lt;/a&gt; appeared first on &lt;a href="https://pytorch.org"&gt;PyTorch&lt;/a&gt;.&lt;/p&gt;
+</description>
+										<ns3:encoded>&lt;h2&gt;&lt;img decoding="async" class="alignnone wp-image-188419 size-full" src="https://pytorch.org/wp-content/uploads/2026/10/image-with-text-scaled.jpg" alt="" width="2560" height="846" srcset="https://pytorch.org/wp-content/uploads/2026/10/image-with-text-scaled.jpg 2560w, https://pytorch.org/wp-content/uploads/2026/10/image-with-text-300x99.jpg 300w, https://pytorch.org/wp-content/uploads/2026/10/i</ns3:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
