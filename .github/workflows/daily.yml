@@ -91,7 +91,7 @@ jobs:
       - uses: actions/configure-pages@v5
         if: steps.pipeline.outputs.code == '0'
 
-      - uses: actions/upload-pages-artifact@v3
+      - uses: actions/upload-pages-artifact@v5
         if: steps.pipeline.outputs.code == '0'
         with:
           path: _site
