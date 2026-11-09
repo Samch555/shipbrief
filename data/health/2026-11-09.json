@@ -1651,5 +1651,557 @@
       "summariesRejected": 0,
       "summaryRejections": []
     }
+  },
+  {
+    "schemaVersion": "1.0.0",
+    "runId": "20261109T180127Z-04ff0e",
+    "date": "2026-11-09",
+    "startedAt": "2026-11-09T18:01:27.416762Z",
+    "durationSeconds": 50.38,
+    "status": "published",
+    "trigger": "workflow_dispatch",
+    "failureReason": null,
+    "summaryMode": "extractive",
+    "sources": [
+      {
+        "id": "openai-news",
+        "ok": true,
+        "items": 1368,
+        "error": null,
+        "seconds": 0.181
+      },
+      {
+        "id": "google-deepmind",
+        "ok": true,
+        "items": 100,
+        "error": null,
+        "seconds": 0.541
+      },
+      {
+        "id": "google-ai",
+        "ok": true,
+        "items": 20,
+        "error": null,
+        "seconds": 0.352
+      },
+      {
+        "id": "google-research",
+        "ok": true,
+        "items": 100,
+        "error": null,
+        "seconds": 0.538
+      },
+      {
+        "id": "microsoft-research",
+        "ok": false,
+        "items": 0,
+        "error": "FetchError: TimeoutError: The read operation timed out",
+        "seconds": 49.925
+      },
+      {
+        "id": "mistral-news",
+        "ok": true,
+        "items": 94,
+        "error": null,
+        "seconds": 0.18
+      },
+      {
+        "id": "nvidia-blog",
+        "ok": true,
+        "items": 18,
+        "error": null,
+        "seconds": 0.236
+      },
+      {
+        "id": "nvidia-developer",
+        "ok": true,
+        "items": 100,
+        "error": null,
+        "seconds": 0.988
+      },
+      {
+        "id": "aws-ml",
+        "ok": true,
+        "items": 20,
+        "error": null,
+        "seconds": 0.171
+      },
+      {
+        "id": "apple-ml",
+        "ok": true,
+        "items": 10,
+        "error": null,
+        "seconds": 0.11
+      },
+      {
+        "id": "huggingface-blog",
+        "ok": true,
+        "items": 900,
+        "error": null,
+        "seconds": 0.318
+      },
+      {
+        "id": "github-blog-ai",
+        "ok": true,
+        "items": 10,
+        "error": null,
+        "seconds": 0.455
+      },
+      {
+        "id": "cloudflare-ai",
+        "ok": true,
+        "items": 20,
+        "error": null,
+        "seconds": 0.228
+      },
+      {
+        "id": "pytorch-blog",
+        "ok": true,
+        "items": 10,
+        "error": null,
+        "seconds": 0.369
+      },
+      {
+        "id": "langchain-blog",
+        "ok": true,
+        "items": 100,
+        "error": null,
+        "seconds": 0.225
+      },
+      {
+        "id": "bair-blog",
+        "ok": true,
+        "items": 10,
+        "error": null,
+        "seconds": 0.314
+      },
+      {
+        "id": "mit-news-ai",
+        "ok": true,
+        "items": 50,
+        "error": null,
+        "seconds": 0.134
+      },
+      {
+        "id": "ollama-blog",
+        "ok": true,
+        "items": 63,
+        "error": null,
+        "seconds": 0.385
+      },
+      {
+        "id": "hn",
+        "ok": true,
+        "items": 46,
+        "error": null,
+        "seconds": 12.836
+      },
+      {
+        "id": "arxiv-cs-ai",
+        "ok": true,
+        "items": 94,
+        "error": null,
+        "seconds": 0.231
+      },
+      {
+        "id": "arxiv-cs-cl",
+        "ok": true,
+        "items": 41,
+        "error": null,
+        "seconds": 0.195
+      },
+      {
+        "id": "arxiv-cs-lg",
+        "ok": true,
+        "items": 121,
+        "error": null,
+        "seconds": 0.199
+      },
+      {
+        "id": "gh-langchain",
+        "ok": true,
+        "items": 10,
+        "error": null,
+        "seconds": 0.748
+      },
+      {
+        "id": "gh-langgraph",
+        "ok": true,
+        "items": 10,
+        "error": null,
+        "seconds": 0.527
+      },
+      {
+        "id": "gh-llamaindex",
+        "ok": true,
+        "items": 10,
+        "error": null,
+        "seconds": 1.047
+      },
+      {
+        "id": "gh-ms-agent-framework",
+        "ok": true,
+        "items": 10,
+        "error": null,
+        "seconds": 1.193
+      },
+      {
+        "id": "gh-crewai",
+        "ok": true,
+        "items": 10,
+        "error": null,
+        "seconds": 0.298
+      },
+      {
+        "id": "gh-openai-agents",
+        "ok": true,
+        "items": 10,
+        "error": null,
+        "seconds": 1.013
+      },
+      {
+        "id": "gh-anthropic-sdk",
+        "ok": true,
+        "items": 10,
+        "error": null,
+        "seconds": 0.467
+      },
+      {
+        "id": "gh-claude-code",
+        "ok": true,
+        "items": 10,
+        "error": null,
+        "seconds": 0.264
+      },
+      {
+        "id": "gh-google-adk",
+        "ok": true,
+        "items": 10,
+        "error": null,
+        "seconds": 1.06
+      },
+      {
+        "id": "gh-pydantic-ai",
+        "ok": true,
+        "items": 10,
+        "error": null,
+        "seconds": 0.972
+      },
+      {
+        "id": "gh-smolagents",
+        "ok": true,
+        "items": 10,
+        "error": null,
+        "seconds": 0.651
+      },
+      {
+        "id": "gh-agno",
+        "ok": true,
+        "items": 10,
+        "error": null,
+        "seconds": 1.038
+      },
+      {
+        "id": "gh-letta",
+        "ok": true,
+        "items": 10,
+        "error": null,
+        "seconds": 0.46
+      },
+      {
+        "id": "gh-semantic-kernel",
+        "ok": true,
+        "items": 10,
+        "error": null,
+        "seconds": 1.145
+      },
+      {
+        "id": "gh-openhands",
+        "ok": true,
+        "items": 10,
+        "error": null,
+        "seconds": 0.742
+      },
+      {
+        "id": "gh-aider",
+        "ok": true,
+        "items": 10,
+        "error": null,
+        "seconds": 0.428
+      },
+      {
+        "id": "gh-mcp-python",
+        "ok": true,
+        "items": 10,
+        "error": null,
+        "seconds": 0.628
+      },
+      {
+        "id": "gh-mcp-typescript",
+        "ok": true,
+        "items": 10,
+        "error": null,
+        "seconds": 0.513
+      },
+      {
+        "id": "gh-browser-use",
+        "ok": true,
+        "items": 10,
+        "error": null,
+        "seconds": 0.84
+      },
+      {
+        "id": "gh-mastra",
+        "ok": true,
+        "items": 10,
+        "error": null,
+        "seconds": 0.684
+      },
+      {
+        "id": "gh-vercel-ai",
+        "ok": true,
+        "items": 10,
+        "error": null,
+        "seconds": 4.408
+      },
+      {
+        "id": "gh-dspy",
+        "ok": true,
+        "items": 10,
+        "error": null,
+        "seconds": 1.126
+      },
+      {
+        "id": "gh-codex",
+        "ok": true,
+        "items": 10,
+        "error": null,
+        "seconds": 0.369
+      },
+      {
+        "id": "gh-gemini-cli",
+        "ok": true,
+        "items": 10,
+        "error": null,
+        "seconds": 0.539
+      },
+      {
+        "id": "gh-cline",
+        "ok": true,
+        "items": 10,
+        "error": null,
+        "seconds": 0.46
+      },
+      {
+        "id": "gh-continue",
+        "ok": true,
+        "items": 10,
+        "error": null,
+        "seconds": 0.639
+      },
+      {
+        "id": "gh-ollama",
+        "ok": true,
+        "items": 10,
+        "error": null,
+        "seconds": 0.355
+      },
+      {
+        "id": "gh-vllm",
+        "ok": true,
+        "items": 10,
+        "error": null,
+        "seconds": 1.391
+      },
+      {
+        "id": "gh-sglang",
+        "ok": true,
+        "items": 10,
+        "error": null,
+        "seconds": 3.278
+      },
+      {
+        "id": "gh-transformers",
+        "ok": true,
+        "items": 10,
+        "error": null,
+        "seconds": 1.236
+      },
+      {
+        "id": "gh-diffusers",
+        "ok": true,
+        "items": 10,
+        "error": null,
+        "seconds": 1.477
+      },
+      {
+        "id": "gh-trl",
+        "ok": true,
+        "items": 10,
+        "error": null,
+        "seconds": 1.173
+      },
+      {
+        "id": "gh-mlx",
+        "ok": true,
+        "items": 10,
+        "error": null,
+        "seconds": 1.165
+      },
+      {
+        "id": "gh-mlx-lm",
+        "ok": true,
+        "items": 10,
+        "error": null,
+        "seconds": 0.799
+      },
+      {
+        "id": "gh-tensorrt-llm",
+        "ok": true,
+        "items": 10,
+        "error": null,
+        "seconds": 2.663
+      },
+      {
+        "id": "gh-pytorch",
+        "ok": true,
+        "items": 10,
+        "error": null,
+        "seconds": 2.142
+      },
+      {
+        "id": "gh-unsloth",
+        "ok": true,
+        "items": 10,
+        "error": null,
+        "seconds": 3.491
+      },
+      {
+        "id": "gh-llama-factory",
+        "ok": true,
+        "items": 10,
+        "error": null,
+        "seconds": 1.172
+      },
+      {
+        "id": "gh-whisper-cpp",
+        "ok": true,
+        "items": 10,
+        "error": null,
+        "seconds": 0.654
+      },
+      {
+        "id": "gh-exo",
+        "ok": true,
+        "items": 10,
+        "error": null,
+        "seconds": 0.583
+      },
+      {
+        "id": "gh-litellm",
+        "ok": true,
+        "items": 10,
+        "error": null,
+        "seconds": 2.231
+      },
+      {
+        "id": "gh-open-webui",
+        "ok": true,
+        "items": 10,
+        "error": null,
+        "seconds": 1.179
+      },
+      {
+        "id": "gh-comfyui",
+        "ok": true,
+        "items": 10,
+        "error": null,
+        "seconds": 0.762
+      },
+      {
+        "id": "gh-localai",
+        "ok": true,
+        "items": 10,
+        "error": null,
+        "seconds": 1.241
+      },
+      {
+        "id": "gh-langfuse",
+        "ok": true,
+        "items": 10,
+        "error": null,
+        "seconds": 1.019
+      },
+      {
+        "id": "gh-promptfoo",
+        "ok": true,
+        "items": 10,
+        "error": null,
+        "seconds": 0.92
+      },
+      {
+        "id": "gh-chroma",
+        "ok": true,
+        "items": 10,
+        "error": null,
+        "seconds": 0.681
+      },
+      {
+        "id": "gh-qdrant",
+        "ok": true,
+        "items": 10,
+        "error": null,
+        "seconds": 0.764
+      },
+      {
+        "id": "gh-ragflow",
+        "ok": true,
+        "items": 10,
+        "error": null,
+        "seconds": 0.718
+      },
+      {
+        "id": "gh-dify",
+        "ok": true,
+        "items": 10,
+        "error": null,
+        "seconds": 2.91
+      },
+      {
+        "id": "gh-markitdown",
+        "ok": true,
+        "items": 10,
+        "error": null,
+        "seconds": 1.783
+      }
+    ],
+    "counts": {
+      "itemsFetched": 3805,
+      "itemsNormalized": 214,
+      "dropped": {
+        "too-old": 3390,
+        "source-cap": 142,
+        "no-title": 1,
+        "prerelease-or-build": 36,
+        "not-ai": 33
+      },
+      "duplicatesRemoved": 0,
+      "clustered": 2,
+      "itemsAfterDedupe": 212,
+      "itemsRelevant": 179,
+      "alreadyPublishedRecently": 0,
+      "candidates": 179,
+      "itemsPublished": 29,
+      "publish": {
+        "pruned": [],
+        "archiveDays": 1
+      }
+    },
+    "llm": null,
+    "factCheck": {
+      "provenanceRejected": 0,
+      "summariesRejected": 0,
+      "summaryRejections": []
+    }
   }
 ]

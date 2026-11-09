@@ -1,20 +1,20 @@
 {
   "schemaVersion": "1.0.0",
   "date": "2026-11-09",
-  "generatedAt": "2026-11-09T17:47:35.721484Z",
+  "generatedAt": "2026-11-09T18:01:27.416762Z",
   "product": {
     "name": "ShipBrief",
-    "siteUrl": "https://samch555.github.io/shipbrief/",
-    "feedUrl": "https://samch555.github.io/shipbrief/feed.xml"
+    "siteUrl": "https://Samch555.github.io/shipbrief/",
+    "feedUrl": "https://Samch555.github.io/shipbrief/feed.xml"
   },
   "summaryMode": "extractive",
   "headline": "ChatGPT Desktop forwards your SSH agent to remote machines",
   "stats": {
-    "itemsFetched": 3815,
+    "itemsFetched": 3805,
     "itemsAfterDedupe": 212,
     "itemsPublished": 29,
-    "sourcesOk": 73,
-    "sourcesFailed": 0
+    "sourcesOk": 72,
+    "sourcesFailed": 1
   },
   "sections": {
     "topStories": [
@@ -35,8 +35,8 @@
         ],
         "summary": "The agent running on a remote machine can authenticate using your local SSH credentials. That means it can push to your private repos on GitHub, for example.",
         "generatedBy": "extractive",
-        "score": 8.397,
-        "hnScore": 168
+        "score": 8.402,
+        "hnScore": 180
       },
       {
         "id": "dab987be36e106a4",
@@ -50,10 +50,10 @@
         "roles": [
           "developer"
         ],
-        "summary": "Trending on Hacker News with 505 points and 858 comments. Open the link for the original source and the thread for discussion.",
+        "summary": "Trending on Hacker News with 508 points and 871 comments. Open the link for the original source and the thread for discussion.",
         "generatedBy": "template",
-        "score": 7.962,
-        "hnScore": 505,
+        "score": 7.948,
+        "hnScore": 508,
         "discussionUrl": "https://news.ycombinator.com/item?id=50418975"
       },
       {
@@ -73,8 +73,8 @@
         ],
         "summary": "Decision models need their own inference engine. So we developed Flide, a high-performance and exact inference engine for Jev-like decision models.",
         "generatedBy": "extractive",
-        "score": 7.926,
-        "hnScore": 104,
+        "score": 7.915,
+        "hnScore": 106,
         "discussionUrl": "https://news.ycombinator.com/item?id=50421155",
         "whatItDoes": "Decision models need their own inference engine.",
         "whoItsFor": "Anyone running or comparing AI models."
@@ -99,7 +99,7 @@
         ],
         "summary": "New from Hugging Face Blog. Open the link to read the original post.",
         "generatedBy": "template",
-        "score": 7.901
+        "score": 7.876
       },
       {
         "id": "0d339d251dee8955",
@@ -119,7 +119,7 @@
         ],
         "summary": "Eval-driven development helps you build AI agents against a consistent set of metrics. Define good behavior, write the eval first, then compare experiments.",
         "generatedBy": "extractive",
-        "score": 7.108
+        "score": 7.082
       },
       {
         "id": "5f721228af3682c2",
@@ -141,7 +141,7 @@
         ],
         "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
         "generatedBy": "extractive",
-        "score": 6.699
+        "score": 6.697
       },
       {
         "id": "86c270bf47b54ff7",
@@ -160,7 +160,7 @@
         ],
         "summary": "Korea’s Ministry of Science and ICT and NVIDIA hosted the MSIT-NVIDIA AI Startup Partnership Forum at COEX. Ryu Je-myung, vice minister of science and ICT, joined NVIDIA leaders to meet with over 20 Korean startups across foundation models, physical AI, AI infrastructure and AI semiconductors.",
         "generatedBy": "extractive",
-        "score": 6.683
+        "score": 6.662
       },
       {
         "id": "55d059b88c6c576a",
@@ -181,7 +181,7 @@
         ],
         "summary": "New from Hugging Face Blog. Open the link to read the original post.",
         "generatedBy": "template",
-        "score": 7.64
+        "score": 7.617
       }
     ],
     "modelsAndAgents": [
@@ -201,10 +201,10 @@
           "developer",
           "everyone"
         ],
-        "summary": "Trending on Hacker News with 862 points and 466 comments. Open the link for the original source and the thread for discussion.",
+        "summary": "Trending on Hacker News with 864 points and 467 comments. Open the link for the original source and the thread for discussion.",
         "generatedBy": "template",
-        "score": 7.808,
-        "hnScore": 862,
+        "score": 7.795,
+        "hnScore": 864,
         "discussionUrl": "https://news.ycombinator.com/item?id=50415628"
       },
       {
@@ -227,7 +227,7 @@
         ],
         "summary": "As AI agents take on more work, they need capable open models and security that advances alongside them.",
         "generatedBy": "extractive",
-        "score": 6.332
+        "score": 6.314
       },
       {
         "id": "6fbb9cbc09ce7eb4",
@@ -248,7 +248,7 @@
         ],
         "summary": "By learning how matter moves, the WorldParticle system could assist with developing soft robots, medicines, and more.",
         "generatedBy": "extractive",
-        "score": 5.498
+        "score": 5.479
       },
       {
         "id": "17e756367fad9506",
@@ -269,7 +269,7 @@
         ],
         "summary": "An AI agent that acts for a user raises an identity question that per-app OAuth and service accounts leave open: which agent may act for which user, and how you stop it.",
         "generatedBy": "extractive",
-        "score": 4.658,
+        "score": 4.654,
         "related": [
           {
             "source": "AWS Machine Learning Blog",
@@ -296,7 +296,7 @@
         ],
         "summary": "Writing code got faster. The work around it didn't.",
         "generatedBy": "extractive",
-        "score": 4.369
+        "score": 4.365
       },
       {
         "id": "2b4301ced274c084",
@@ -315,7 +315,7 @@
         ],
         "summary": "Agents waste time and context on clumsy searches, oversized results and stale data. Learn the retrieval techniques LangChain's Deep Agents harness uses to get the right context in.",
         "generatedBy": "extractive",
-        "score": 3.705
+        "score": 3.702
       }
     ],
     "tools": [
@@ -338,7 +338,7 @@
         ],
         "summary": "agent-framework published dotnet-1.28.0. Highlights: Foundry: Add the GA computer tool through FoundryAITool.CreateComputerTool and carry computer calls and…; Foundry hosting: Add FoundryToolboxOptions.TokenScope for cloud-specific toolbox authentication audiences….",
         "generatedBy": "extractive",
-        "score": 6.745,
+        "score": 6.722,
         "version": "dotnet-1.28.0",
         "whatItDoes": "[1.28.0] - 2026-11-06 Added Foundry: Add the GA computer tool through FoundryAITool.CreateComputerTool() and carry computer calls and results through Foundry hosting, including batched actions.",
         "whoItsFor": "Developers building agents or automating multi-step tasks."
@@ -363,7 +363,7 @@
         ],
         "summary": "langfuse v4.77.0 is out. Highlights: ⚠️⚠️⚠️ This release removes automatic tokenization, as we believe no one should be relying on it. Read our…; feat(topics): proper cost tracking for executions.",
         "generatedBy": "extractive",
-        "score": 5.955,
+        "score": 5.93,
         "version": "v4.77.0",
         "whatItDoes": "⚠️⚠️⚠️ This release removes automatic tokenization, as we believe no one should be relying on it.",
         "whoItsFor": "Teams that need to test prompts and models before shipping."
@@ -389,7 +389,7 @@
         ],
         "summary": "ragflow v1.0.0 is out. Highlights: After three release candidates, we are pleased to announce the official release of RAGFlow 1.0, now ready…; Rewritten in Go for lighter deployment: Docker images are approximately 10× smaller, and startup is….",
         "generatedBy": "extractive",
-        "score": 5.822,
+        "score": 5.803,
         "version": "v1.0.0"
       },
       {
@@ -412,7 +412,7 @@
         ],
         "summary": "open-webui v0.13.3 is out. Highlights: 🦾 Agents in automations. The automation editor now lets you choose a terminal and working folder, then…; 📂 Change terminal and folder during a chat. You can now choose a different terminal or working folder after….",
         "generatedBy": "extractive",
-        "score": 4.813,
+        "score": 4.797,
         "version": "v0.13.3"
       },
       {
@@ -432,7 +432,7 @@
         ],
         "summary": "crewAI 1.15.39 is out. Highlights: Document the apps_not_connected error on /kickoff and /status.",
         "generatedBy": "extractive",
-        "score": 4.671,
+        "score": 4.655,
         "version": "1.15.39"
       },
       {
@@ -453,7 +453,7 @@
         ],
         "summary": "ai published @ai-sdk/vue@3.0.326. See the release notes for details.",
         "generatedBy": "template",
-        "score": 4.513,
+        "score": 4.496,
         "version": "@ai-sdk/vue@3.0.326"
       },
       {
@@ -476,7 +476,7 @@
         ],
         "summary": "claude-code v2.1.319 is out. Highlights: Changed auto mode with telemetry or feature flags off, including behind LLM gateways: calls the server can't…; Changed auto mode behind an LLM gateway: CLAUDE_CODE_AUTO_MODE_SERVER=1 turns on the server-side check even….",
         "generatedBy": "extractive",
-        "score": 4.223,
+        "score": 4.22,
         "version": "v2.1.319"
       },
       {
@@ -499,7 +499,7 @@
         ],
         "summary": "adk-python v2.14.0 is out. Highlights: This release graduates execution environments, A2A, evaluation, and core runtime modules from experimental…; Execution environments and sandboxes: BaseEnvironment, LocalEnvironment, EnvironmentToolset….",
         "generatedBy": "extractive",
-        "score": 4.049,
+        "score": 4.044,
         "version": "v2.14.0"
       },
       {
@@ -523,7 +523,7 @@
         ],
         "summary": "ollama v0.40.15 is out. Highlights: Xiaomi MiMo's mimo-v2.6, a 9B model built for code and agent workflows, is now supported in Ollama; AutoTrust decision models read text and return choices, yes or no probabilities, and ratings for the….",
         "generatedBy": "extractive",
-        "score": 3.982,
+        "score": 3.98,
         "version": "v0.40.15"
       },
       {
@@ -545,7 +545,7 @@
         ],
         "summary": "transformers v5.22.2 is out. Highlights: Some in between patch for security and distributed fixes. See the included commits 🤗; [Distributed] Set device_id only for NCCL and.",
         "generatedBy": "extractive",
-        "score": 3.771,
+        "score": 3.768,
         "version": "v5.22.2"
       },
       {
@@ -566,7 +566,7 @@
         ],
         "summary": "OpenHands v1.37.0 is out. Highlights: feat(automations): explain each automation with a Mermaid diagram; fix(chat): place resumed sessions after UTC conversation history.",
         "generatedBy": "extractive",
-        "score": 3.537,
+        "score": 3.534,
         "version": "v1.37.0"
       },
       {
@@ -587,7 +587,7 @@
         ],
         "summary": "anthropic-sdk-python v2.6.0 is out. Highlights: api: add error code for ramp limit errors; api: add error codes for External Key validation failures.",
         "generatedBy": "extractive",
-        "score": 3.392,
+        "score": 3.39,
         "version": "v2.6.0"
       }
     ],
@@ -613,7 +613,7 @@
         ],
         "summary": "Large Reasoning Models (LRMs) are one of the key components of current agentic systems. LRMs augment their output with an explicit chain-of-thought reasoning stage, introducing a new attack surface for thought injection, in which untrusted text resembling the model's own deliberation is fed back to the model.",
         "generatedBy": "extractive",
-        "score": 4.364
+        "score": 4.346
       },
       {
         "id": "14c24f075f10ad2f",
@@ -634,7 +634,7 @@
         ],
         "summary": "Machine learning (ML) and generative AI have recently made impressive progress in understanding physics.",
         "generatedBy": "extractive",
-        "score": 4.364
+        "score": 4.346
       },
       {
         "id": "32eebcfeeacd9a6b",
@@ -657,7 +657,7 @@
         ],
         "summary": "We study the effectiveness and robustness of open-weight large language models (LLMs) for Danish offensive language detection, an underexplored low-resource task.",
         "generatedBy": "extractive",
-        "score": 4.364
+        "score": 4.346
       }
     ]
   },
