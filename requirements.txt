@@ -1,0 +1,3 @@
+# Runtime dependencies (pinned). Everything else is Python standard library.
+PyYAML==6.0.2
+jsonschema==4.23.0
