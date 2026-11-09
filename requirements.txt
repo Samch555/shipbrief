@@ -1,3 +1,5 @@
 # Runtime dependencies (pinned). Everything else is Python standard library.
 PyYAML==6.0.2
 jsonschema==4.23.0
+# Only imported in MODE 2 (when ANTHROPIC_API_KEY is set). MODE 1 never imports it.
+anthropic==2.6.0

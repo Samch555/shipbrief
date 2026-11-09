@@ -38,3 +38,17 @@ Each entry: date, decision, reason. Newest at the bottom.
 - **D15. Fixtures:** `tests/fixtures/live/` holds a real capture from 2026-11-09, **trimmed** to ≤20 entries per feed and ≤400 characters of text per entry so third-party article text isn't redistributed. `tests/fixtures/unit/` holds hand-written edge cases.
 - **D16. Local TLS note:** the python.org macOS build ships without CA certificates. Run locally with `SSL_CERT_FILE=$(python -m certifi)` (`certifi` is a dev-only dependency). GitHub Actions runners don't need this.
 - **D17. XML safety:** `xml.etree` on Python ≥3.7.1 with expat ≥2.4.1 doesn't resolve external entities and mitigates entity-expansion bombs. Responses are also capped at 5 MB.
+
+## 2026-11-09 — Phase 3 (summarization)
+
+- **D18. MODE 2 uses the official `anthropic` Python SDK (pinned 2.6.0)** instead of raw HTTP, as Anthropic's API guidance recommends for Python projects. It is imported lazily, so MODE 1 never needs it. The SDK reads `ANTHROPIC_API_KEY` from the environment, and our code never touches the value.
+- **D19. Models:** `claude-haiku-5-5` for per-item summaries ($0.10/$0.50 per MTok), batched 10 items per request. `claude-sonnet-5-5` for one compose call per run ($2/$10 per MTok). Both use `output_config.effort: "low"` and **structured outputs** (`output_config.format: json_schema`), so the response is valid JSON matching our schema.
+- **D20. Budget guard defaults** (all env-overridable): 40 items, 80k input tokens, 20k output tokens, **$0.10 per run**. Expected real cost is about $0.01–0.02/run (≈$0.50/month). Every call is pre-estimated (chars/3 + max_tokens) and refused if it could cross any limit. After that the run continues in MODE 1 and `summaryMode` becomes `llm-partial`.
+- **D21. No server-side refusal fallback to another model.** Anthropic's guidance suggests enabling `fallbacks` on Sonnet 5.5. We don't, because a fallback could route to a pricier model outside the budget guard's price table. On `stop_reason: refusal` (or `max_tokens`, invalid JSON, or any API error) that batch falls back to the $0 MODE 1 output instead.
+- **D22. Deterministic guards on model output** (`factcheck.py`):
+  - A summary is rejected (and MODE 1 text used) if it contains a number, version, or percentage not present in that item's fetched text, any URL, instruction-like text, a long quote, or is too long.
+  - Prompt and workflow text may not contain URLs, version numbers, or percentages.
+  - **Provenance:** every published item's `(url, publishedAt)` must exactly match a fetched record.
+- **D23. Injection hygiene.** Fetched text goes into the prompt inside `<item>` tags with `<`/`>` replaced by `‹›`. The system prompt states the data is untrusted and must never be obeyed. Extractive summaries drop instruction-like sentences.
+  - Trade-off: news that *quotes* phrases like "system prompt" or "jailbreak" loses those sentences, or falls back to MODE 1 text.
+- **D24. MODE 1 prompt and workflow are original templates** (`summarize/templates.py`), chosen by the tags of a real top item and rotated by date. The untrusted item title only appears in the `useCase` line, never inside the prompt body readers paste.
