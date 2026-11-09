@@ -22,7 +22,7 @@ Each entry: date, decision, reason. Newest at the bottom.
 
 ## 2026-11-09 — Phase 2 (sources & pipeline core)
 
-- **D10. Source verification (2026-11-09):** `scripts/verify_sources.py` fetched every candidate with our User-Agent and honoured robots.txt. Final result: 74/74 configured sources OK; llama.cpp is configured but disabled.
+- **D10. Source verification (2026-11-09):** `scripts/verify_sources.py` fetched every candidate with our User-Agent and honoured robots.txt. Final result: all 74 configured sources fetched OK (73 enabled; llama.cpp is configured but disabled). Breakdown: 18 blogs, 1 HN, 3 arXiv, 52 GitHub repos.
   - **Dropped:**
     - `microsoft-ai` (blogs.microsoft.com/ai/feed): HTTP 410 Gone.
     - `google-developers` (developers.googleblog.com/feeds/posts/default): items have **no dates**, so it can't satisfy the provenance rule.

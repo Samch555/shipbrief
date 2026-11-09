@@ -11,7 +11,7 @@ Left: pipeline (Phase 2+).
 Risks: The schema is strict for our own output. Clients must be lenient (this is documented).
 
 ## Phase 2 — Pipeline core ✅
-Done: `sources.yaml` (74 verified sources: 21 blogs, 1 HN, 3 arXiv, 49 GitHub repos), polite HTTP client (timeouts, retries, backoff, size cap, robots.txt), parsers (RSS 2.0, Atom, RDF, arXiv, GitHub releases, HN Algolia), normalization, classification (AI relevance, tags, kind, roles), dedupe and title clustering, a transparent ranking formula (`shipbrief/ranking.py`), history-based repeat suppression, `scripts/verify_sources.py`, trimmed live fixtures, 38 tests passing.
+Done: `sources.yaml` (74 configured, 73 enabled: 18 blogs, 1 HN, 3 arXiv, 52 GitHub repos with llama.cpp disabled), polite HTTP client (timeouts, retries, backoff, size cap, robots.txt), parsers (RSS 2.0, Atom, RDF, arXiv, GitHub releases, HN Algolia), normalization, classification (AI relevance, tags, kind, roles), dedupe and title clustering, a transparent ranking formula (`shipbrief/ranking.py`), history-based repeat suppression, `scripts/verify_sources.py`, trimmed live fixtures, 38 tests passing.
 Left: summarization, composer, publishing, workflow, site, measurement, docs.
 Risks: feeds change URLs over time, so re-run `verify_sources.py` and watch `health.json`. Blog volume is low on weekends.
 
@@ -30,6 +30,14 @@ Done: `site/` (index.html, style.css, app.js, no frameworks or trackers, strict 
 Risks: no automated axe or Lighthouse run yet (do one after the first deploy).
 
 ## Phase 6 — Measurement ✅
-Done: `scripts/quality_report.py` produces `REVIEW_REPORT.md` (success rate, items per day, flaky and silent sources, schedule delay, LLM cost, fact-check rejections, per-day table; the window starts at the first recorded run). `REVIEW_LOG.md` is the daily hand-filled template. Health records the trigger (schedule or manual). **First real run on 2026-11-09: 74/74 sources OK, 3,815 entries fetched → 29 items published, MODE 1, 11–14 s, $0.** Release highlights are now extracted from GitHub release HTML. 71 tests passing.
+Done: `scripts/quality_report.py` produces `REVIEW_REPORT.md` (success rate, items per day, flaky and silent sources, schedule delay, LLM cost, fact-check rejections, per-day table; the window starts at the first recorded run). `REVIEW_LOG.md` is the daily hand-filled template. Health records the trigger (schedule or manual). **First real run on 2026-11-09: 73/73 enabled sources OK, 3,815 entries fetched → 29 items published, MODE 1, 11–14 s, $0.** Release highlights are now extracted from GitHub release HTML. 71 tests passing.
 Left: docs (Phase 7). The user needs to create the GitHub repo and enable Pages.
 Risks: the Hugging Face blog feed has no descriptions, so its cards use the template text in MODE 1.
+
+## Phase 7 — Documentation ✅
+Done: README (architecture, local run, deploy steps, MODE 2 setup, adding and removing sources, troubleshooting), `docs/SCHEMA.md` (fields and versioning policy), `HANDOFF.md` (what exists, how it works, 10 known weaknesses, next steps including an iOS app plan), `docs/ACCESSIBILITY.md`.
+
+## Status: ready to deploy
+All phases done. 71 tests pass, the offline dry run passes, and the real run on 2026-11-09 published 29 items.
+**Owner action needed:** create a public GitHub repo, push, enable Pages (Source: GitHub Actions), and set workflow permissions to read/write (README → Deploying). Optionally add the `ANTHROPIC_API_KEY` secret.
+**First thing to verify after deploy:** the first scheduled run (about 11:07 UTC). With a key set, run once manually and inspect `data/health.json → llm`.
