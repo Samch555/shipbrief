@@ -1,0 +1,234 @@
+{
+  "schemaVersion": "1.0.0",
+  "date": "2026-11-09",
+  "generatedAt": "2026-11-09T11:05:00Z",
+  "product": {
+    "name": "ShipBrief",
+    "siteUrl": "https://example.github.io/shipbrief/",
+    "feedUrl": "https://example.github.io/shipbrief/feed.xml"
+  },
+  "summaryMode": "extractive",
+  "headline": "Example Lab releases Example-Model 2",
+  "stats": {
+    "itemsFetched": 412,
+    "itemsAfterDedupe": 188,
+    "itemsPublished": 5,
+    "sourcesOk": 58,
+    "sourcesFailed": 2
+  },
+  "sections": {
+    "topStories": [
+      {
+        "id": "d92a5474c004f2ea",
+        "title": "Example Lab releases Example-Model 2",
+        "url": "https://example.com/blog/example-model-2",
+        "source": "Example Lab Blog",
+        "publishedAt": "2026-11-09T08:00:00Z",
+        "kind": "news",
+        "tags": [
+          "models",
+          "multimodal"
+        ],
+        "roles": [
+          "developer",
+          "everyone"
+        ],
+        "summary": "Example Lab announced a second-generation model with a longer context window. The post covers availability and pricing.",
+        "generatedBy": "extractive",
+        "score": 9.1,
+        "related": [
+          {
+            "source": "Hacker News",
+            "url": "https://news.ycombinator.com/item?id=1",
+            "title": "Example-Model 2 discussion"
+          }
+        ]
+      },
+      {
+        "id": "b43a82d1e8151fe8",
+        "title": "Ask HN: How do you evaluate agents?",
+        "url": "https://news.ycombinator.com/item?id=2",
+        "source": "Hacker News",
+        "publishedAt": "2026-11-09T08:00:00Z",
+        "kind": "discussion",
+        "tags": [
+          "agents",
+          "evals"
+        ],
+        "roles": [
+          "developer",
+          "product"
+        ],
+        "summary": "A discussion thread where practitioners compare approaches to evaluating agent workflows.",
+        "generatedBy": "extractive",
+        "score": 6.5,
+        "hnScore": 210,
+        "discussionUrl": "https://news.ycombinator.com/item?id=2"
+      },
+      {
+        "id": "0938a757d663eb72",
+        "title": "ExampleTool: local evals for prompts",
+        "url": "https://example.com/exampletool",
+        "source": "Example Dev Blog",
+        "publishedAt": "2026-11-09T08:00:00Z",
+        "kind": "tool",
+        "tags": [
+          "tools",
+          "evals"
+        ],
+        "roles": [
+          "developer",
+          "product"
+        ],
+        "summary": "A command-line tool that runs prompt test suites locally.",
+        "generatedBy": "extractive",
+        "score": 6.0,
+        "whatItDoes": "Runs a folder of prompt test cases against a model and diffs results.",
+        "whoItsFor": "Developers and PMs who ship prompts and want regression checks."
+      },
+      {
+        "id": "ef6740b50ea4b23b",
+        "title": "example-agents v0.5.0",
+        "url": "https://github.com/example/example-agents/releases/tag/v0.5.0",
+        "source": "GitHub: example/example-agents",
+        "publishedAt": "2026-11-09T08:00:00Z",
+        "kind": "release",
+        "tags": [
+          "agents",
+          "open-source"
+        ],
+        "roles": [
+          "developer"
+        ],
+        "summary": "Release v0.5.0 of example-agents adds tool-call retries and a new tracing hook.",
+        "generatedBy": "extractive",
+        "score": 7.4,
+        "version": "v0.5.0"
+      }
+    ],
+    "modelsAndAgents": [
+      {
+        "id": "d92a5474c004f2ea",
+        "title": "Example Lab releases Example-Model 2",
+        "url": "https://example.com/blog/example-model-2",
+        "source": "Example Lab Blog",
+        "publishedAt": "2026-11-09T08:00:00Z",
+        "kind": "news",
+        "tags": [
+          "models",
+          "multimodal"
+        ],
+        "roles": [
+          "developer",
+          "everyone"
+        ],
+        "summary": "Example Lab announced a second-generation model with a longer context window. The post covers availability and pricing.",
+        "generatedBy": "extractive",
+        "score": 9.1,
+        "related": [
+          {
+            "source": "Hacker News",
+            "url": "https://news.ycombinator.com/item?id=1",
+            "title": "Example-Model 2 discussion"
+          }
+        ]
+      }
+    ],
+    "tools": [
+      {
+        "id": "0938a757d663eb72",
+        "title": "ExampleTool: local evals for prompts",
+        "url": "https://example.com/exampletool",
+        "source": "Example Dev Blog",
+        "publishedAt": "2026-11-09T08:00:00Z",
+        "kind": "tool",
+        "tags": [
+          "tools",
+          "evals"
+        ],
+        "roles": [
+          "developer",
+          "product"
+        ],
+        "summary": "A command-line tool that runs prompt test suites locally.",
+        "generatedBy": "extractive",
+        "score": 6.0,
+        "whatItDoes": "Runs a folder of prompt test cases against a model and diffs results.",
+        "whoItsFor": "Developers and PMs who ship prompts and want regression checks."
+      }
+    ],
+    "openSource": [
+      {
+        "id": "ef6740b50ea4b23b",
+        "title": "example-agents v0.5.0",
+        "url": "https://github.com/example/example-agents/releases/tag/v0.5.0",
+        "source": "GitHub: example/example-agents",
+        "publishedAt": "2026-11-09T08:00:00Z",
+        "kind": "release",
+        "tags": [
+          "agents",
+          "open-source"
+        ],
+        "roles": [
+          "developer"
+        ],
+        "summary": "Release v0.5.0 of example-agents adds tool-call retries and a new tracing hook.",
+        "generatedBy": "extractive",
+        "score": 7.4,
+        "version": "v0.5.0"
+      }
+    ],
+    "research": [
+      {
+        "id": "7774b0bf69864287",
+        "title": "A plain-English look at sparse attention",
+        "url": "https://arxiv.org/abs/0000.00000",
+        "source": "arXiv cs.CL",
+        "publishedAt": "2026-11-09T08:00:00Z",
+        "kind": "paper",
+        "tags": [
+          "research"
+        ],
+        "roles": [
+          "researcher"
+        ],
+        "summary": "The authors propose a sparse attention variant and report lower memory use on long inputs.",
+        "generatedBy": "extractive",
+        "score": 5.2
+      }
+    ]
+  },
+  "promptOfTheDay": {
+    "title": "Write a regression test for a prompt",
+    "prompt": "You are helping me test a prompt before I ship it. Here is the prompt: <PROMPT>. List 5 realistic user inputs that could make it fail, including one edge case and one adversarial input. For each, state the expected good behaviour in one sentence.",
+    "useCase": "Turn a prompt into a small test suite before shipping, as tools like ExampleTool encourage.",
+    "roles": [
+      "developer",
+      "product"
+    ],
+    "basedOn": {
+      "itemId": "0938a757d663eb72",
+      "title": "ExampleTool: local evals for prompts",
+      "url": "https://example.com/exampletool"
+    },
+    "generatedBy": "template"
+  },
+  "tryThisToday": {
+    "title": "Run a 15-minute agent eval",
+    "steps": [
+      "Pick one agent task you run often.",
+      "Write 5 inputs with the expected outcome.",
+      "Run them and note failures in a table.",
+      "Re-run after each change."
+    ],
+    "roles": [
+      "developer"
+    ],
+    "basedOn": {
+      "itemId": "b43a82d1e8151fe8",
+      "title": "Ask HN: How do you evaluate agents?",
+      "url": "https://news.ycombinator.com/item?id=2"
+    },
+    "generatedBy": "template"
+  }
+}

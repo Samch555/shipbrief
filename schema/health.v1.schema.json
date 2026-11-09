@@ -1,0 +1,33 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "ShipBrief run health",
+  "type": "object",
+  "required": ["schemaVersion", "runId", "date", "startedAt", "durationSeconds", "status", "summaryMode", "sources", "counts"],
+  "properties": {
+    "schemaVersion": { "type": "string" },
+    "runId": { "type": "string" },
+    "date": { "type": "string" },
+    "startedAt": { "type": "string" },
+    "durationSeconds": { "type": "number", "minimum": 0 },
+    "status": { "enum": ["published", "failed-validation", "too-few-items", "error", "dry-run"] },
+    "failureReason": { "type": ["string", "null"] },
+    "summaryMode": { "type": "string" },
+    "sources": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "ok", "items"],
+        "properties": {
+          "id": { "type": "string" },
+          "ok": { "type": "boolean" },
+          "items": { "type": "integer" },
+          "error": { "type": ["string", "null"] },
+          "seconds": { "type": "number" }
+        }
+      }
+    },
+    "counts": { "type": "object" },
+    "llm": { "type": ["object", "null"] },
+    "factCheck": { "type": ["object", "null"] }
+  }
+}

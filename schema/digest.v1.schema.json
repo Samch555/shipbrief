@@ -1,0 +1,421 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://shipbrief.example/schema/digest.v1.schema.json",
+  "title": "ShipBrief daily digest",
+  "description": "One day's digest. See docs/SCHEMA.md. Major version 1; minor versions only add optional fields.",
+  "type": "object",
+  "required": [
+    "schemaVersion",
+    "date",
+    "generatedAt",
+    "summaryMode",
+    "stats",
+    "sections",
+    "promptOfTheDay",
+    "tryThisToday"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "schemaVersion": {
+      "type": "string",
+      "pattern": "^1\\.[0-9]+\\.[0-9]+$"
+    },
+    "date": {
+      "type": "string",
+      "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$"
+    },
+    "generatedAt": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "product": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "name"
+      ],
+      "properties": {
+        "name": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 60
+        },
+        "siteUrl": {
+          "type": "string"
+        },
+        "feedUrl": {
+          "type": "string"
+        }
+      }
+    },
+    "summaryMode": {
+      "enum": [
+        "extractive",
+        "llm",
+        "llm-partial"
+      ]
+    },
+    "headline": {
+      "type": "string",
+      "maxLength": 200
+    },
+    "stats": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "itemsFetched",
+        "itemsPublished",
+        "sourcesOk",
+        "sourcesFailed"
+      ],
+      "properties": {
+        "itemsFetched": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "itemsAfterDedupe": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "itemsPublished": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "sourcesOk": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "sourcesFailed": {
+          "type": "integer",
+          "minimum": 0
+        }
+      }
+    },
+    "sections": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "topStories",
+        "modelsAndAgents",
+        "tools",
+        "openSource",
+        "research"
+      ],
+      "properties": {
+        "topStories": {
+          "type": "array",
+          "minItems": 1,
+          "maxItems": 8,
+          "items": {
+            "$ref": "#/$defs/item"
+          }
+        },
+        "modelsAndAgents": {
+          "type": "array",
+          "maxItems": 8,
+          "items": {
+            "$ref": "#/$defs/item"
+          }
+        },
+        "tools": {
+          "type": "array",
+          "maxItems": 8,
+          "items": {
+            "$ref": "#/$defs/toolItem"
+          }
+        },
+        "openSource": {
+          "type": "array",
+          "maxItems": 12,
+          "items": {
+            "$ref": "#/$defs/item"
+          }
+        },
+        "research": {
+          "type": "array",
+          "maxItems": 3,
+          "items": {
+            "$ref": "#/$defs/item"
+          }
+        }
+      }
+    },
+    "promptOfTheDay": {
+      "$ref": "#/$defs/prompt"
+    },
+    "tryThisToday": {
+      "$ref": "#/$defs/workflow"
+    }
+  },
+  "$defs": {
+    "httpUrl": {
+      "type": "string",
+      "pattern": "^https?://[^\\s]+$",
+      "maxLength": 2000
+    },
+    "generatedBy": {
+      "description": "Who wrote the text: 'extractive' (cleaned source text), 'template' (deterministic template), or a model id like 'claude-haiku-5-5'.",
+      "type": "string",
+      "pattern": "^(extractive|template|claude-[a-z0-9-]+)$"
+    },
+    "role": {
+      "enum": [
+        "developer",
+        "researcher",
+        "product",
+        "founder",
+        "designer",
+        "everyone"
+      ]
+    },
+    "kind": {
+      "enum": [
+        "news",
+        "release",
+        "paper",
+        "tool",
+        "discussion"
+      ]
+    },
+    "related": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "source",
+        "url"
+      ],
+      "properties": {
+        "source": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 120
+        },
+        "url": {
+          "$ref": "#/$defs/httpUrl"
+        },
+        "title": {
+          "type": "string",
+          "maxLength": 300
+        }
+      }
+    },
+    "toolItem": {
+      "$ref": "#/$defs/itemBase",
+      "unevaluatedProperties": false,
+      "required": [
+        "whatItDoes",
+        "whoItsFor"
+      ]
+    },
+    "basedOn": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "itemId",
+        "title",
+        "url"
+      ],
+      "properties": {
+        "itemId": {
+          "type": "string",
+          "pattern": "^[a-f0-9]{16}$"
+        },
+        "title": {
+          "type": "string",
+          "maxLength": 300
+        },
+        "url": {
+          "$ref": "#/$defs/httpUrl"
+        }
+      }
+    },
+    "prompt": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "title",
+        "prompt",
+        "useCase",
+        "roles",
+        "basedOn",
+        "generatedBy"
+      ],
+      "properties": {
+        "title": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 120
+        },
+        "prompt": {
+          "type": "string",
+          "minLength": 20,
+          "maxLength": 1200
+        },
+        "useCase": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 300
+        },
+        "roles": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "$ref": "#/$defs/role"
+          }
+        },
+        "basedOn": {
+          "$ref": "#/$defs/basedOn"
+        },
+        "generatedBy": {
+          "$ref": "#/$defs/generatedBy"
+        }
+      }
+    },
+    "workflow": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "title",
+        "steps",
+        "roles",
+        "basedOn",
+        "generatedBy"
+      ],
+      "properties": {
+        "title": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 120
+        },
+        "steps": {
+          "type": "array",
+          "minItems": 2,
+          "maxItems": 6,
+          "items": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 300
+          }
+        },
+        "roles": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "$ref": "#/$defs/role"
+          }
+        },
+        "basedOn": {
+          "$ref": "#/$defs/basedOn"
+        },
+        "generatedBy": {
+          "$ref": "#/$defs/generatedBy"
+        }
+      }
+    },
+    "itemBase": {
+      "type": "object",
+      "required": [
+        "id",
+        "title",
+        "url",
+        "source",
+        "publishedAt",
+        "kind",
+        "tags",
+        "roles",
+        "summary",
+        "generatedBy",
+        "score"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^[a-f0-9]{16}$"
+        },
+        "title": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 300
+        },
+        "url": {
+          "$ref": "#/$defs/httpUrl"
+        },
+        "source": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 120
+        },
+        "sourceId": {
+          "type": "string",
+          "maxLength": 120
+        },
+        "publishedAt": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "kind": {
+          "$ref": "#/$defs/kind"
+        },
+        "tags": {
+          "type": "array",
+          "maxItems": 8,
+          "items": {
+            "type": "string",
+            "pattern": "^[a-z0-9-]{1,32}$"
+          }
+        },
+        "roles": {
+          "type": "array",
+          "minItems": 1,
+          "maxItems": 6,
+          "items": {
+            "$ref": "#/$defs/role"
+          }
+        },
+        "summary": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 400
+        },
+        "generatedBy": {
+          "$ref": "#/$defs/generatedBy"
+        },
+        "score": {
+          "type": "number"
+        },
+        "version": {
+          "type": "string",
+          "maxLength": 80
+        },
+        "discussionUrl": {
+          "$ref": "#/$defs/httpUrl"
+        },
+        "hnScore": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "related": {
+          "type": "array",
+          "maxItems": 6,
+          "items": {
+            "$ref": "#/$defs/related"
+          }
+        },
+        "whatItDoes": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 300
+        },
+        "whoItsFor": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 200
+        }
+      }
+    },
+    "item": {
+      "$ref": "#/$defs/itemBase",
+      "unevaluatedProperties": false
+    }
+  }
+}
