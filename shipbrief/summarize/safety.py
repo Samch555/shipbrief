@@ -49,7 +49,7 @@ class SecretRedactor(logging.Filter):
     def filter(self, record: logging.LogRecord) -> bool:
         record.msg = self.redact(str(record.msg))
         if record.args:
-            record.args = tuple(self.redact(str(a)) for a in record.args)
+            record.args = tuple(self.redact(a) if isinstance(a, str) else a for a in record.args)
         return True
 
 

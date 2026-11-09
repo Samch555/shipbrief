@@ -40,9 +40,15 @@ def _release_summary(it: Item) -> tuple[str, str]:
     # Release notes are usually bullet lists; take the first two meaningful lines as highlights.
     bullets = [b.strip(" -*•:") for b in re.split(r"(?:\s[-*•]\s|\n|(?<=[a-z0-9)])\s{2,})", notes)]
     bullets = [b for b in bullets if 12 <= len(b) <= 140 and not BOILERPLATE.search(b)
-               and not re.match(r"^(features?|bug ?fixes|changes|improvements|fixes|new|added|highlights)\b\W*$", b, re.I)]
+               and not re.match(r"^((major|minor|patch) changes|features?|bug ?fixes|changes|improvements|fixes|new|added|highlights)\b\W*$", b, re.I)
+               and not re.fullmatch(r"[\w.@/=\- ]*\d+\.\d+[\w.]*", b)]
     bullets = drop_injection_sentences(bullets)
-    head = f"{project} {version} is out." if version else f"New {project} release."
+    if not version:
+        head = f"New {project} release."
+    elif re.match(r"^v?\d", version):
+        head = f"{project} {version} is out."
+    else:  # monorepo package tag such as "@ai-sdk/vue@3.0.326" or "langchain-core==1.7.6"
+        head = f"{project} published {version}."
     if bullets:
         hl = "; ".join(truncate(b.rstrip("."), 110) for b in bullets[:2])
         return truncate(f"{head} Highlights: {hl}.", config.SUMMARY_MAX_CHARS), "extractive"

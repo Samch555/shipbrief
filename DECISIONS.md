@@ -52,3 +52,17 @@ Each entry: date, decision, reason. Newest at the bottom.
 - **D23. Injection hygiene.** Fetched text goes into the prompt inside `<item>` tags with `<`/`>` replaced by `‹›`. The system prompt states the data is untrusted and must never be obeyed. Extractive summaries drop instruction-like sentences.
   - Trade-off: news that *quotes* phrases like "system prompt" or "jailbreak" loses those sentences, or falls back to MODE 1 text.
 - **D24. MODE 1 prompt and workflow are original templates** (`summarize/templates.py`), chosen by the tags of a real top item and rotated by date. The untrusted item title only appears in the `useCase` line, never inside the prompt body readers paste.
+
+## 2026-11-09 — Phase 4 (composer, publishing, workflow)
+
+- **D25. Schedule `7 11 * * *` (11:07 UTC).** The spec's default is 11:00. GitHub's docs say scheduled runs can be delayed during high load, with the start of every hour the busiest time, and that queued jobs may be dropped. Offsetting by 7 minutes lowers that risk. Expect start delays anyway.
+- **D26. The 60-day rule** (verified on docs.github.com, "Events that trigger workflows", 2026-11-09): *"In a public repository, scheduled workflows are automatically disabled when no repository activity has occurred in 60 days."* The docs don't define "activity". Our defences:
+  1. Each run commits `data/` (health is committed even on failure), so there is a commit every day.
+  2. Each run calls `PUT /repos/{repo}/actions/workflows/daily.yml/enable`. Community keepalive tools report this resets the timer; this is not officially documented, so it's best effort and never fails the run.
+  3. The web page shows a "stale" banner when `latest.json` is older than 48h, so you'll notice quickly. If it ever happens, re-enable the workflow under Actions → daily-digest → "Enable workflow", or push any commit.
+- **D27. Failure semantics.** Pipeline exit codes: 0 ok, 1 error, 2 validation failed, 3 too few items (< 8 candidates). On any non-zero exit nothing in `data/*.json` (except health) or `feed.xml` changes, Pages is not redeployed, and the job ends red with an `::error::` annotation. GitHub emails the repo owner about failed scheduled runs by default.
+- **D28. Each item appears in one section only.** Top stories admit releases only for major versions (x.0.0) and never papers. On quiet days, minor or major releases may fill "Tools worth trying".
+- **D29. Diversity.** At most 2 items per source per section. Hacker News items are diversified by linked domain, but at most 3 HN items per section.
+- **D30. Health history.** Each run is appended to `data/health/YYYY-MM-DD.json` (up to 10 runs per day), and `data/health.json` holds the last run. `quality_report.py` reads the history.
+- **D31. Atom feed.** One entry per day (last 30), with HTML content linking every item to its source. Entry links point to `?date=YYYY-MM-DD` on the site.
+- **D32. Action versions are pinned to major tags** (checkout@v4, setup-python@v5, configure-pages@v5, upload-pages-artifact@v3, deploy-pages@v4). Dependabot (monthly) proposes updates.

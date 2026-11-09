@@ -56,7 +56,7 @@ A full valid example is at `docs/samples/sample-digest.json`.
 | `openSource` | 10 | Item | GitHub releases (`kind: release`, with `version`) |
 | `research` | 3 | Item | Papers (`kind: paper`) |
 
-An item can appear in `topStories` **and** in one topical section. The `id` stays the same in both, so clients can dedupe it if they want.
+Each item appears in **at most one** section. Sections are filled in order: topStories → modelsAndAgents → tools → openSource → research. On quiet days, `tools` may include notable minor or major releases (`kind: release`), so clients must not assume `tools` items have `kind: tool`.
 
 ### Item
 

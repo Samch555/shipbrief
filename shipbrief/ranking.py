@@ -10,7 +10,9 @@
 
 Source diversity is applied at *selection* time (`select_diverse`): each extra item from a
 source already picked for a section pays DIVERSITY_PENALTY, and a source may not exceed
-MAX_PER_SOURCE items in one section.
+MAX_PER_SOURCE items in one section. Hacker News items are keyed by the linked site
+(`diversity_key`), since HN aggregates many publishers, but at most MAX_HN_PER_SECTION
+HN items may appear in one section.
 
 Each item keeps its `score_parts` so you can see why it ranked where it did
 (`python -m shipbrief explain` prints them).
@@ -20,6 +22,7 @@ from __future__ import annotations
 import math
 import re
 from datetime import datetime
+from urllib.parse import urlsplit
 
 from .models import Item
 
@@ -33,6 +36,7 @@ RECENCY_HALF_LIFE_H = 24.0
 KIND_ADJ = {"news": 0.0, "tool": 0.0, "discussion": -0.3, "release": -0.8, "paper": -1.2}
 DIVERSITY_PENALTY = 1.5
 MAX_PER_SOURCE = 2
+MAX_HN_PER_SECTION = 3     # HN is one aggregator even though it links many sites
 
 _SEMVER = re.compile(r"(\d+)\.(\d+)(?:\.(\d+))?")
 _PRE = re.compile(r"(?<![a-z])(rc|alpha|beta|dev|nightly|preview|pre|canary|bleeding|snapshot)(?![a-z])|\d(a|b)\d+$", re.I)
@@ -83,18 +87,32 @@ def rank(items: list[Item], now: datetime) -> list[Item]:
     return sorted(items, key=lambda i: (-i.score, -i.published_at.timestamp(), i.id))
 
 
+def diversity_key(it: Item) -> str:
+    """Aggregators (Hacker News) are diversified by the linked site, not by 'hn'."""
+    if it.source_id == "hn":
+        host = urlsplit(it.url).netloc.lower().removeprefix("www.")
+        return f"hn:{host}"
+    return it.source_id
+
+
 def select_diverse(ranked: list[Item], n: int, exclude: set[str] | None = None,
                    max_per_source: int = MAX_PER_SOURCE) -> list[Item]:
     """Greedy pick of n items with a per-source penalty and cap."""
     exclude = exclude or set()
     pool = [i for i in ranked if i.id not in exclude]
+    order = {i.id: n for n, i in enumerate(ranked)}
     picked: list[Item] = []
     counts: dict[str, int] = {}
     while pool and len(picked) < n:
-        best = max(pool, key=lambda i: (i.score - DIVERSITY_PENALTY * counts.get(i.source_id, 0), -ranked.index(i)))
+        best = max(pool, key=lambda i: (i.score - DIVERSITY_PENALTY * counts.get(diversity_key(i), 0), -order[i.id]))
         pool.remove(best)
-        if counts.get(best.source_id, 0) >= max_per_source:
+        k = diversity_key(best)
+        if counts.get(k, 0) >= max_per_source:
             continue
-        counts[best.source_id] = counts.get(best.source_id, 0) + 1
+        if best.source_id == "hn" and counts.get("hn:*", 0) >= MAX_HN_PER_SECTION:
+            continue
+        counts[k] = counts.get(k, 0) + 1
+        if best.source_id == "hn":
+            counts["hn:*"] = counts.get("hn:*", 0) + 1
         picked.append(best)
     return picked

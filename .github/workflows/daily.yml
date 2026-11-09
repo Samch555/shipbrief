@@ -1,0 +1,114 @@
+# Daily ShipBrief run: fetch -> compose -> validate -> publish (data/ + feed.xml) -> deploy Pages.
+# Fails visibly (red run + no new digest) when validation fails or too few items are found.
+name: daily-digest
+
+on:
+  schedule:
+    # 11:07 UTC daily. Not exactly :00 because GitHub documents that schedules are most
+    # often delayed (or dropped) at the start of the hour. Expect delays of minutes to ~1h.
+    - cron: "7 11 * * *"
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "Summary mode (auto = MODE 2 if ANTHROPIC_API_KEY secret exists, else MODE 1)"
+        type: choice
+        options: [auto, extractive]
+        default: auto
+
+permissions:
+  contents: write   # commit data/ and feed.xml
+  pages: write      # deploy GitHub Pages
+  id-token: write   # required by deploy-pages
+  actions: write    # keepalive: re-enable this workflow via the API
+
+concurrency:
+  group: daily-digest
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    outputs:
+      code: ${{ steps.pipeline.outputs.code }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: requirements-dev.txt
+
+      - name: Install
+        run: pip install -r requirements-dev.txt
+
+      - name: Unit tests
+        run: python -m pytest -q
+
+      - name: Run pipeline
+        id: pipeline
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          SHIPBRIEF_MODE: ${{ inputs.mode == 'extractive' && 'extractive' || '' }}
+          SHIPBRIEF_SITE_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/
+          SHIPBRIEF_LLM_MAX_COST_USD: "0.10"
+        run: |
+          set +e
+          python -m shipbrief run
+          code=$?
+          echo "code=$code" >> "$GITHUB_OUTPUT"
+          echo "pipeline exit code: $code"
+          exit 0
+
+      - name: Commit data (health is committed even when the digest is not)
+        run: |
+          git config user.name "shipbrief-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data feed.xml 2>/dev/null || git add data
+          if git diff --cached --quiet; then
+            echo "nothing to commit"
+          else
+            git commit -m "digest: $(date -u +%F) (exit ${{ steps.pipeline.outputs.code }})"
+            for i in 1 2 3; do
+              git pull --rebase --autostash && git push && break
+              sleep 5
+            done
+          fi
+
+      - name: Keepalive (prevent the 60-day schedule auto-disable)
+        # Re-enabling an enabled workflow is harmless; community tools report it resets the
+        # inactivity timer. The daily commit above is a second layer. Never fails the run.
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api -X PUT "repos/${{ github.repository }}/actions/workflows/daily.yml/enable"
+
+      - name: Build site
+        if: steps.pipeline.outputs.code == '0'
+        run: python -m shipbrief build-site _site
+
+      - uses: actions/configure-pages@v5
+        if: steps.pipeline.outputs.code == '0'
+
+      - uses: actions/upload-pages-artifact@v3
+        if: steps.pipeline.outputs.code == '0'
+        with:
+          path: _site
+
+      - name: Fail visibly if nothing was published
+        if: steps.pipeline.outputs.code != '0'
+        run: |
+          echo "::error::Digest NOT published (exit ${{ steps.pipeline.outputs.code }}: 1=error, 2=validation failed, 3=too few items). Previous digest kept. See data/health.json."
+          exit 1
+
+  deploy:
+    needs: build
+    if: needs.build.outputs.code == '0'
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

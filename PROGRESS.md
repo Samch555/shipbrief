@@ -19,3 +19,8 @@ Risks: feeds change URLs over time, so re-run `verify_sources.py` and watch `hea
 Done: MODE 1 extractive summarizer (sentence cleanup, boilerplate and injection removal, release-note highlights, templates), MODE 2 Claude client (Haiku batches + Sonnet compose, structured outputs, effort low), budget guard with cost accounting, deterministic fact checks (provenance, ungrounded numbers, URLs, injection), log redaction, original prompt and workflow templates, 57 tests passing (MODE 2 is tested with a fake client).
 Left: composer, publishing, workflow, site, measurement, docs.
 Risks: MODE 2 hasn't been exercised against the live API in this session (no key available). The fallbacks are tested.
+
+## Phase 4 — Composer & publishing ✅
+Done: section composer (diversity, one section per item), prompt and workflow (MODE 2 Sonnet with validation, otherwise templates), atomic publishing (dated file, latest, index, Atom feed, 90-day pruning), health.json plus per-day health history, CLI (`run`, `dry-run`, `validate`, `explain`, `build-site`), `.github/workflows/daily.yml` (cron 11:07 UTC + manual, tests → run → commit → keepalive → Pages deploy, red on failure), `ci.yml`, Dependabot, 70 tests passing.
+Left: web page, measurement tooling, docs.
+Risks: the cron may run late. The 60-day keepalive via the enable API isn't officially documented (it's a backup to the daily commits).
